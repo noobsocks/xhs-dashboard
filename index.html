@@ -50,6 +50,9 @@
   .chev{display:inline-block;width:16px;color:var(--muted);transition:transform .15s}
   .crow.open .chev{transform:rotate(90deg);color:var(--red)}
   .cname{font-weight:700}
+  a.cnamelink{color:var(--ink);text-decoration:none;border-bottom:1px solid transparent;transition:color .12s,border-color .12s}
+  a.cnamelink:hover{color:var(--red);border-bottom-color:var(--red)}
+  a.cnamelink::after{content:'↗';font-size:9px;color:var(--muted);margin-left:4px;vertical-align:2px;opacity:.6}
   .cnum{font-weight:700;font-variant-numeric:tabular-nums}
   .up{color:var(--good);font-size:11px;font-weight:600;margin-left:6px}
   .flat{color:var(--muted);font-size:11px;margin-left:6px}
@@ -69,6 +72,9 @@
   .mini-title{font-size:12px;font-weight:700;color:var(--muted);margin-bottom:10px}
   .ntable{border:1px solid var(--line);border-radius:10px}
   .ntable th,.ntable td{padding:8px 12px;font-size:12px}
+  .nlink{color:var(--ink);text-decoration:none;border-bottom:1px solid transparent;transition:color .12s,border-color .12s}
+  .nlink:hover{color:var(--red);border-bottom-color:var(--red)}
+  .nlink::after{content:'↗';font-size:9px;color:var(--muted);margin-left:4px;vertical-align:2px;opacity:.6}
   .empty{text-align:center;color:var(--muted);padding:40px;font-size:14px}
   @media(max-width:820px){.kpis{grid-template-columns:repeat(2,1fr)}.detail-inner{grid-template-columns:1fr}}
 </style>
@@ -188,9 +194,13 @@ function sortInd(key){
 
 function rowHtml(vm){
   const {idx,p,g,rec}=vm; const pf=p.partner?1:0;
+  const nm = p.name||'(이름 없음)';
+  const nameHtml = p.url
+    ? `<a class="cname cnamelink" href="${p.url}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${nm}</a>`
+    : `<span class="cname">${nm}</span>`;
   return `<tr class="crow" data-idx="${idx}" data-partner="${pf}">
       <td><span class="chev">▶</span></td>
-      <td><span class="cname">${p.name||'(이름 없음)'}</span>${p.partner?'<span class="pbadge">계약</span>':'<span class="npbadge">미계약</span>'}${fansDelta(p)}</td>
+      <td>${nameHtml}${p.partner?'<span class="pbadge">계약</span>':'<span class="npbadge">미계약</span>'}${fansDelta(p)}</td>
       <td class="num cnum">${fmt(p.fans)}</td>
       <td class="num cnum">${fmt(p.likes_collects)}</td>
       <td class="num cnum">${g.length||p.notes_count||0}</td>
@@ -295,7 +305,9 @@ function notesTable(g){
     <th class="num">좋아요</th><th class="num">저장</th><th class="num">댓글</th><th class="num">공유</th></tr></thead><tbody>`;
   sorted.forEach(n=>{
     const tag = (n===rec)? '<span class="badge">최근</span>' : (n.pinned? '<span class="badge">고정</span>':'');
-    r+=`<tr><td>${tag}${n.title||'-'}</td><td style="color:var(--muted)">${n.publish_time||'-'}</td>
+    const t = n.title||'-';
+    const titleCell = n.url ? `<a class="nlink" href="${n.url}" target="_blank" rel="noopener">${t}</a>` : t;
+    r+=`<tr><td>${tag}${titleCell}</td><td style="color:var(--muted)">${n.publish_time||'-'}</td>
       <td class="num cnum">${fmt(n.likes)}</td><td class="num cnum">${fmt(n.collects)}</td>
       <td class="num cnum">${fmt(n.comments)}</td><td class="num cnum">${fmt(n.shares)}</td></tr>`;
   });
