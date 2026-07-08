@@ -53,6 +53,10 @@
   a.cnamelink{color:var(--ink);text-decoration:none;border-bottom:1px solid transparent;transition:color .12s,border-color .12s}
   a.cnamelink:hover{color:var(--red);border-bottom-color:var(--red)}
   a.cnamelink::after{content:'↗';font-size:9px;color:var(--muted);margin-left:4px;vertical-align:2px;opacity:.6}
+  .socs{display:inline-flex;gap:5px;margin-left:9px;vertical-align:middle}
+  a.soc{display:inline-grid;place-items:center;line-height:0;opacity:.92;transition:transform .12s,opacity .12s}
+  a.soc:hover{opacity:1;transform:translateY(-1px)}
+  a.soc svg{display:block;width:17px;height:17px}
   .cnum{font-weight:700;font-variant-numeric:tabular-nums}
   .up{color:var(--good);font-size:11px;font-weight:600;margin-left:6px}
   .flat{color:var(--muted);font-size:11px;margin-left:6px}
@@ -81,6 +85,7 @@
 </head>
 <body>
 <script src="data.js"></script>
+<script src="socials.js"></script>
 <div class="wrap">
   <header class="top">
     <div class="brand">
@@ -132,6 +137,26 @@ btn.addEventListener('click', async ()=>{
 /* ===== 데이터 ===== */
 const D = window.XHS_DATA || {notes:[],profiles:[]};
 const notes = D.notes||[], profiles = D.profiles||[];
+const SOCIALS = window.XHS_SOCIALS || {};
+
+/* 플랫폼 아이콘 (샤오홍슈는 항상, 나머지는 시트 링크가 있을 때만) */
+const PLAT_ICON = {
+  xiaohongshu: `<svg viewBox="0 0 24 24"><rect width="24" height="24" rx="6" fill="#ff2442"/><text x="12" y="17" font-size="13" text-anchor="middle" fill="#fff" font-weight="700" font-family="-apple-system,'Malgun Gothic',sans-serif">书</text></svg>`,
+  instagram: `<svg viewBox="0 0 24 24"><rect x="2" y="2" width="20" height="20" rx="6" fill="#E1306C"/><rect x="5.6" y="5.6" width="12.8" height="12.8" rx="4" fill="none" stroke="#fff" stroke-width="1.7"/><circle cx="12" cy="12" r="3.1" fill="none" stroke="#fff" stroke-width="1.7"/><circle cx="16.5" cy="7.5" r="1.15" fill="#fff"/></svg>`,
+  youtube: `<svg viewBox="0 0 24 24"><rect x="2" y="5" width="20" height="14" rx="4.2" fill="#FF0000"/><path d="M10 8.7l5.2 3.3L10 15.3z" fill="#fff"/></svg>`,
+  tiktok: `<svg viewBox="0 0 24 24"><rect width="24" height="24" rx="6" fill="#111"/><path d="M14.2 5.5c.25 1.7 1.35 2.95 3.05 3.15v2.1c-1.05.02-2.0-.3-3.05-.86v4.35c0 2.35-1.8 4.16-4.05 4.16-2.24 0-4.05-1.86-4.05-4.16 0-2.3 1.81-4.16 4.05-4.16.22 0 .43.02.64.06v2.16a2.02 2.02 0 1 0 1.41 1.94V5.5z" fill="#fff"/></svg>`,
+};
+const PLAT_NAME = {xiaohongshu:'샤오홍슈', instagram:'인스타그램', youtube:'유튜브', tiktok:'틱톡'};
+function socLink(url, plat){
+  return `<a class="soc" href="${url}" target="_blank" rel="noopener" title="${PLAT_NAME[plat]}" onclick="event.stopPropagation()">${PLAT_ICON[plat]}</a>`;
+}
+function socialIcons(p){
+  let s = '';
+  if(p.url) s += socLink(p.url, 'xiaohongshu');          // 샤오홍슈: 필수
+  const ex = SOCIALS[p.uid];
+  if(ex && ex.url) s += socLink(ex.url, ex.platform);    // 시트에 있는 플랫폼
+  return s ? `<span class="socs">${s}</span>` : '';
+}
 const fmt = n => (n>=10000)? (n/10000).toFixed(1).replace(/\.0$/,'')+'만' : (n||0).toLocaleString('ko-KR');
 const first = h => (h&&h.length)? h[0] : null;
 const last  = h => (h&&h.length)? h[h.length-1] : null;
@@ -200,7 +225,7 @@ function rowHtml(vm){
     : `<span class="cname">${nm}</span>`;
   return `<tr class="crow" data-idx="${idx}" data-partner="${pf}">
       <td><span class="chev">▶</span></td>
-      <td>${nameHtml}${p.partner?'<span class="pbadge">계약</span>':'<span class="npbadge">미계약</span>'}${fansDelta(p)}</td>
+      <td>${nameHtml}${socialIcons(p)}${p.partner?'<span class="pbadge">계약</span>':'<span class="npbadge">미계약</span>'}${fansDelta(p)}</td>
       <td class="num cnum">${fmt(p.fans)}</td>
       <td class="num cnum">${fmt(p.likes_collects)}</td>
       <td class="num cnum">${g.length||p.notes_count||0}</td>
