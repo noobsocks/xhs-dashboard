@@ -1,5 +1,5 @@
 window.XHS_DATA = {
-  "updated_at": "2026-07-08 12:07:35",
+  "updated_at": "2026-07-09 13:51:24",
   "ok_count": 142,
   "fail_count": 0,
   "notes": [
@@ -30,6 +30,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 14,
+          "collects": 5,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -38,7 +45,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "带文福姬吃了三天重庆 我胃投降了😭",
       "author": "DOI 都意",
-      "likes": 62,
+      "likes": 63,
       "collects": 2,
       "comments": 1,
       "shares": 2,
@@ -57,6 +64,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 62,
+          "collects": 2,
+          "comments": 1,
+          "shares": 2
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 63,
           "collects": 2,
           "comments": 1,
           "shares": 2
@@ -86,6 +100,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 27,
+          "collects": 6,
+          "comments": 6,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 27,
           "collects": 6,
           "comments": 6,
@@ -120,6 +141,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 4,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 20,
+          "collects": 3,
+          "comments": 4,
+          "shares": 1
         }
       ]
     },
@@ -150,6 +178,59 @@ window.XHS_DATA = {
           "collects": 21,
           "comments": 9,
           "shares": 2
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 30,
+          "collects": 21,
+          "comments": 9,
+          "shares": 2
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a4e63fe000000000e021801",
+      "type": "note",
+      "title": "韩国男人都这样吗…？",
+      "author": "Jang Eunbi 恩妃",
+      "likes": 32,
+      "collects": 3,
+      "comments": 1,
+      "shares": 1,
+      "publish_time": "2026-07-08",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-07-09",
+          "likes": 32,
+          "collects": 3,
+          "comments": 1,
+          "shares": 1
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a4e6369000000000e021802",
+      "type": "note",
+      "title": "我爱他 但有时…",
+      "author": "Jang Eunbi 恩妃",
+      "likes": 28,
+      "collects": 1,
+      "comments": 0,
+      "shares": 0,
+      "publish_time": "2026-07-08",
+      "pinned": false,
+      "grid_order": 1,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-07-09",
+          "likes": 28,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -158,13 +239,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "不要和男友一起去棒球场",
       "author": "Jang Eunbi 恩妃",
-      "likes": 15,
+      "likes": 17,
       "collects": 1,
       "comments": 1,
       "shares": 1,
       "publish_time": "2026-07-03",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 2,
       "from_profile": true,
       "history": [
         {
@@ -177,6 +258,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 15,
+          "collects": 1,
+          "comments": 1,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 17,
           "collects": 1,
           "comments": 1,
           "shares": 1
@@ -188,13 +276,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国夫妻周末棒球场约会vlog",
       "author": "Jang Eunbi 恩妃",
-      "likes": 17,
+      "likes": 18,
       "collects": 0,
-      "comments": 6,
+      "comments": 7,
       "shares": 0,
       "publish_time": "2026-07-02",
       "pinned": false,
-      "grid_order": 1,
+      "grid_order": 3,
       "from_profile": true,
       "history": [
         {
@@ -209,6 +297,13 @@ window.XHS_DATA = {
           "likes": 17,
           "collects": 0,
           "comments": 6,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 18,
+          "collects": 0,
+          "comments": 7,
           "shares": 0
         }
       ]
@@ -218,88 +313,35 @@ window.XHS_DATA = {
       "type": "note",
       "title": "这样可以当演员吗？",
       "author": "Jang Eunbi 恩妃",
-      "likes": 39,
+      "likes": 40,
       "collects": 5,
       "comments": 0,
       "shares": 0,
       "publish_time": "2026-06-30",
-      "pinned": false,
-      "grid_order": 2,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 39,
-          "collects": 5,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 39,
-          "collects": 5,
-          "comments": 0,
-          "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a40d7f5000000000d00bc00",
-      "type": "note",
-      "title": "猜对就在一起~",
-      "author": "Jang Eunbi 恩妃",
-      "likes": 52,
-      "collects": 4,
-      "comments": 0,
-      "shares": 1,
-      "publish_time": "2026-06-28",
-      "pinned": false,
-      "grid_order": 3,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 52,
-          "collects": 4,
-          "comments": 0,
-          "shares": 1
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 52,
-          "collects": 4,
-          "comments": 0,
-          "shares": 1
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a3f6b7f000000000e038401",
-      "type": "note",
-      "title": "当老公天亮后才回家…",
-      "author": "Jang Eunbi 恩妃",
-      "likes": 82,
-      "collects": 2,
-      "comments": 2,
-      "shares": 2,
-      "publish_time": "2026-06-27",
       "pinned": false,
       "grid_order": 4,
       "from_profile": true,
       "history": [
         {
           "date": "2026-07-07",
-          "likes": 82,
-          "collects": 2,
-          "comments": 2,
-          "shares": 2
+          "likes": 39,
+          "collects": 5,
+          "comments": 0,
+          "shares": 0
         },
         {
           "date": "2026-07-08",
-          "likes": 82,
-          "collects": 2,
-          "comments": 2,
-          "shares": 2
+          "likes": 39,
+          "collects": 5,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 40,
+          "collects": 5,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -326,6 +368,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 904,
+          "collects": 167,
+          "comments": 11,
+          "shares": 18
+        },
+        {
+          "date": "2026-07-09",
           "likes": 904,
           "collects": 167,
           "comments": 11,
@@ -360,6 +409,13 @@ window.XHS_DATA = {
           "collects": 23,
           "comments": 12,
           "shares": 6
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 168,
+          "collects": 23,
+          "comments": 12,
+          "shares": 6
         }
       ]
     },
@@ -386,6 +442,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 159,
+          "collects": 40,
+          "comments": 4,
+          "shares": 3
+        },
+        {
+          "date": "2026-07-09",
           "likes": 159,
           "collects": 40,
           "comments": 4,
@@ -420,6 +483,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 3,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 29,
+          "collects": 1,
+          "comments": 3,
+          "shares": 0
         }
       ]
     },
@@ -446,6 +516,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 1700,
+          "collects": 269,
+          "comments": 9,
+          "shares": 55
+        },
+        {
+          "date": "2026-07-09",
           "likes": 1700,
           "collects": 269,
           "comments": 9,
@@ -480,6 +557,13 @@ window.XHS_DATA = {
           "collects": 19,
           "comments": 16,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 177,
+          "collects": 19,
+          "comments": 16,
+          "shares": 1
         }
       ]
     },
@@ -506,6 +590,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 329,
+          "collects": 18,
+          "comments": 48,
+          "shares": 6
+        },
+        {
+          "date": "2026-07-09",
           "likes": 329,
           "collects": 18,
           "comments": 48,
@@ -540,6 +631,13 @@ window.XHS_DATA = {
           "collects": 118,
           "comments": 93,
           "shares": 24
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 765,
+          "collects": 118,
+          "comments": 93,
+          "shares": 24
         }
       ]
     },
@@ -566,6 +664,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 84,
+          "collects": 15,
+          "comments": 25,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 84,
           "collects": 15,
           "comments": 25,
@@ -600,6 +705,13 @@ window.XHS_DATA = {
           "collects": 45,
           "comments": 90,
           "shares": 20
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 402,
+          "collects": 45,
+          "comments": 90,
+          "shares": 20
         }
       ]
     },
@@ -626,6 +738,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 22,
+          "collects": 5,
+          "comments": 2,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 22,
           "collects": 5,
           "comments": 2,
@@ -660,6 +779,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 25,
+          "collects": 4,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -686,6 +812,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 23,
+          "collects": 2,
+          "comments": 1,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 23,
           "collects": 2,
           "comments": 1,
@@ -720,6 +853,13 @@ window.XHS_DATA = {
           "collects": 7,
           "comments": 5,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 39,
+          "collects": 7,
+          "comments": 5,
+          "shares": 0
         }
       ]
     },
@@ -746,6 +886,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 42,
+          "collects": 2,
+          "comments": 7,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 42,
           "collects": 2,
           "comments": 7,
@@ -780,6 +927,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 5,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -806,6 +960,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 15,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 15,
           "collects": 2,
           "comments": 0,
@@ -840,6 +1001,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 12,
+          "collects": 4,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -848,7 +1016,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "这个夏天要吃几个冰淇淋呀？🍦☀️🇰🇷",
       "author": "莉安 Rian",
-      "likes": 332,
+      "likes": 348,
       "collects": 42,
       "comments": 1,
       "shares": 15,
@@ -867,6 +1035,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 332,
+          "collects": 42,
+          "comments": 1,
+          "shares": 15
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 348,
           "collects": 42,
           "comments": 1,
           "shares": 15
@@ -896,6 +1071,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 31,
+          "collects": 2,
+          "comments": 1,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 31,
           "collects": 2,
           "comments": 1,
@@ -930,6 +1112,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 6,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -956,6 +1145,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 21,
+          "collects": 3,
+          "comments": 4,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 21,
           "collects": 3,
           "comments": 4,
@@ -990,6 +1186,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 7,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -1016,6 +1219,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 2,
           "collects": 0,
           "comments": 0,
@@ -1050,6 +1260,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 3,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -1076,6 +1293,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 8,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 8,
           "collects": 2,
           "comments": 0,
@@ -1110,6 +1334,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 6,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -1136,6 +1367,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 7,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 7,
           "collects": 0,
           "comments": 0,
@@ -1170,6 +1408,13 @@ window.XHS_DATA = {
           "collects": 7,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 32,
+          "collects": 7,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -1196,6 +1441,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 48,
+          "collects": 21,
+          "comments": 0,
+          "shares": 2
+        },
+        {
+          "date": "2026-07-09",
           "likes": 48,
           "collects": 21,
           "comments": 0,
@@ -1230,6 +1482,13 @@ window.XHS_DATA = {
           "collects": 7,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 36,
+          "collects": 7,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -1256,6 +1515,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 69,
+          "collects": 21,
+          "comments": 2,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 69,
           "collects": 21,
           "comments": 2,
@@ -1290,6 +1556,13 @@ window.XHS_DATA = {
           "collects": 43,
           "comments": 2,
           "shares": 4
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 97,
+          "collects": 43,
+          "comments": 2,
+          "shares": 4
         }
       ]
     },
@@ -1298,8 +1571,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "✨✨<3",
       "author": "Goyoonseo",
-      "likes": 42,
-      "collects": 6,
+      "likes": 46,
+      "collects": 7,
       "comments": 2,
       "shares": 1,
       "publish_time": "2026-07-04",
@@ -1318,6 +1591,13 @@ window.XHS_DATA = {
           "date": "2026-07-08",
           "likes": 42,
           "collects": 6,
+          "comments": 2,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 46,
+          "collects": 7,
           "comments": 2,
           "shares": 1
         }
@@ -1346,6 +1626,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 7,
+          "collects": 3,
+          "comments": 2,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 7,
           "collects": 3,
           "comments": 2,
@@ -1380,6 +1667,13 @@ window.XHS_DATA = {
           "collects": 7,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 13,
+          "collects": 7,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -1406,6 +1700,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 24,
+          "collects": 2,
+          "comments": 0,
+          "shares": 4
+        },
+        {
+          "date": "2026-07-09",
           "likes": 24,
           "collects": 2,
           "comments": 0,
@@ -1440,6 +1741,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -1466,6 +1774,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 4,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 4,
           "collects": 2,
           "comments": 0,
@@ -1500,6 +1815,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 5,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -1526,6 +1848,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 9,
+          "collects": 4,
+          "comments": 0,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 9,
           "collects": 4,
           "comments": 0,
@@ -1560,6 +1889,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 0,
           "shares": 5
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 54,
+          "collects": 5,
+          "comments": 0,
+          "shares": 5
         }
       ]
     },
@@ -1586,6 +1922,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 444,
+          "collects": 136,
+          "comments": 20,
+          "shares": 99
+        },
+        {
+          "date": "2026-07-09",
           "likes": 444,
           "collects": 136,
           "comments": 20,
@@ -1620,6 +1963,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 8,
+          "collects": 1,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -1646,6 +1996,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 12,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 12,
           "collects": 2,
           "comments": 0,
@@ -1680,6 +2037,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 3,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 5,
+          "collects": 1,
+          "comments": 3,
+          "shares": 0
         }
       ]
     },
@@ -1706,6 +2070,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 3,
+          "collects": 1,
+          "comments": 1,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 3,
           "collects": 1,
           "comments": 1,
@@ -1740,6 +2111,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 5,
+          "collects": 0,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -1766,6 +2144,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 12,
+          "collects": 0,
+          "comments": 1,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 12,
           "collects": 0,
           "comments": 1,
@@ -1800,6 +2185,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 80,
+          "collects": 3,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -1826,6 +2218,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 12,
+          "collects": 2,
+          "comments": 0,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 12,
           "collects": 2,
           "comments": 0,
@@ -1860,6 +2259,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 16,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -1886,6 +2292,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 619,
+          "collects": 111,
+          "comments": 9,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 619,
           "collects": 111,
           "comments": 9,
@@ -1920,6 +2333,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 2,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -1946,6 +2366,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 4,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 4,
           "collects": 2,
           "comments": 0,
@@ -1980,6 +2407,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 0,
+          "collects": 0,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -2006,6 +2440,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 2,
           "collects": 0,
           "comments": 0,
@@ -2040,6 +2481,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 3,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -2066,6 +2514,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 5,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 5,
           "collects": 0,
           "comments": 0,
@@ -2100,6 +2555,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -2126,6 +2588,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 5,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 5,
           "collects": 0,
           "comments": 0,
@@ -2160,6 +2629,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 21,
+          "collects": 4,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -2186,6 +2662,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 25,
+          "collects": 3,
+          "comments": 1,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 25,
           "collects": 3,
           "comments": 1,
@@ -2220,6 +2703,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 5,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -2246,6 +2736,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 20,
+          "collects": 2,
+          "comments": 1,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 20,
           "collects": 2,
           "comments": 1,
@@ -2280,6 +2777,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 4,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -2306,6 +2810,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 4,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 4,
           "collects": 0,
           "comments": 0,
@@ -2340,6 +2851,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 0,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -2366,6 +2884,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 18,
+          "collects": 6,
+          "comments": 5,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 18,
           "collects": 6,
           "comments": 5,
@@ -2400,6 +2925,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 3,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 13,
+          "collects": 4,
+          "comments": 3,
+          "shares": 1
         }
       ]
     },
@@ -2426,6 +2958,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 6,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 6,
           "collects": 0,
           "comments": 0,
@@ -2460,6 +2999,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 3,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -2486,6 +3032,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 6,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 6,
           "collects": 2,
           "comments": 0,
@@ -2520,6 +3073,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 0,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -2546,6 +3106,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 1,
           "collects": 0,
           "comments": 0,
@@ -2580,6 +3147,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -2606,6 +3180,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 1,
           "collects": 0,
           "comments": 0,
@@ -2640,6 +3221,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -2666,6 +3254,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 17,
+          "collects": 7,
+          "comments": 2,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 17,
           "collects": 7,
           "comments": 2,
@@ -2700,6 +3295,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -2726,6 +3328,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 74,
+          "collects": 11,
+          "comments": 1,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 74,
           "collects": 11,
           "comments": 1,
@@ -2760,6 +3369,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 23,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -2786,6 +3402,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 133,
+          "collects": 16,
+          "comments": 1,
+          "shares": 3
+        },
+        {
+          "date": "2026-07-09",
           "likes": 133,
           "collects": 16,
           "comments": 1,
@@ -2820,6 +3443,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 16,
+          "collects": 2,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -2846,6 +3476,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 35,
+          "collects": 1,
+          "comments": 2,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 35,
           "collects": 1,
           "comments": 2,
@@ -2880,6 +3517,13 @@ window.XHS_DATA = {
           "collects": 8,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 37,
+          "collects": 8,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -2906,6 +3550,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 23,
+          "collects": 3,
+          "comments": 1,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 23,
           "collects": 3,
           "comments": 1,
@@ -2940,6 +3591,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 22,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -2966,6 +3624,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 0,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 0,
           "collects": 0,
           "comments": 0,
@@ -3000,6 +3665,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 3,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 8,
+          "collects": 1,
+          "comments": 3,
+          "shares": 1
         }
       ]
     },
@@ -3008,7 +3680,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "不知道喜欢什么",
       "author": "n03yh6d_6",
-      "likes": 37,
+      "likes": 38,
       "collects": 5,
       "comments": 3,
       "shares": 0,
@@ -3027,6 +3699,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 37,
+          "collects": 5,
+          "comments": 3,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 38,
           "collects": 5,
           "comments": 3,
           "shares": 0
@@ -3060,6 +3739,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 8,
+          "collects": 1,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -3068,7 +3754,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "这里是韩国的地铁，坐过吗？",
       "author": "n03yh6d_6",
-      "likes": 106,
+      "likes": 109,
       "collects": 8,
       "comments": 8,
       "shares": 0,
@@ -3087,6 +3773,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 106,
+          "collects": 8,
+          "comments": 8,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 109,
           "collects": 8,
           "comments": 8,
           "shares": 0
@@ -3116,6 +3809,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 16,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 16,
           "collects": 2,
           "comments": 0,
@@ -3150,6 +3850,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 8,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 15,
+          "collects": 1,
+          "comments": 8,
+          "shares": 0
         }
       ]
     },
@@ -3176,6 +3883,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 23,
+          "collects": 2,
+          "comments": 0,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 23,
           "collects": 2,
           "comments": 0,
@@ -3210,6 +3924,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 2,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -3236,6 +3957,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 10,
+          "collects": 3,
+          "comments": 0,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 10,
           "collects": 3,
           "comments": 0,
@@ -3270,6 +3998,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 10,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -3278,7 +4013,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国有名爆辣咖喱辣到哭",
       "author": "SungHoon 成勋",
-      "likes": 56,
+      "likes": 57,
       "collects": 13,
       "comments": 20,
       "shares": 0,
@@ -3297,6 +4032,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 56,
+          "collects": 13,
+          "comments": 20,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 57,
           "collects": 13,
           "comments": 20,
           "shares": 0
@@ -3326,6 +4068,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 108,
+          "collects": 24,
+          "comments": 28,
+          "shares": 4
+        },
+        {
+          "date": "2026-07-09",
           "likes": 108,
           "collects": 24,
           "comments": 28,
@@ -3360,6 +4109,13 @@ window.XHS_DATA = {
           "collects": 51,
           "comments": 56,
           "shares": 65
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 419,
+          "collects": 51,
+          "comments": 56,
+          "shares": 65
         }
       ]
     },
@@ -3386,6 +4142,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 190,
+          "collects": 34,
+          "comments": 51,
+          "shares": 23
+        },
+        {
+          "date": "2026-07-09",
           "likes": 190,
           "collects": 34,
           "comments": 51,
@@ -3420,6 +4183,13 @@ window.XHS_DATA = {
           "collects": 26,
           "comments": 58,
           "shares": 9
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 169,
+          "collects": 26,
+          "comments": 58,
+          "shares": 9
         }
       ]
     },
@@ -3446,6 +4216,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 15,
+          "collects": 6,
+          "comments": 0,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 15,
           "collects": 6,
           "comments": 0,
@@ -3480,6 +4257,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 2,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -3506,6 +4290,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 644,
+          "collects": 334,
+          "comments": 12,
+          "shares": 29
+        },
+        {
+          "date": "2026-07-09",
           "likes": 644,
           "collects": 334,
           "comments": 12,
@@ -3540,6 +4331,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 14,
+          "collects": 2,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -3570,6 +4368,36 @@ window.XHS_DATA = {
           "collects": 19,
           "comments": 1,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 27,
+          "collects": 19,
+          "comments": 1,
+          "shares": 1
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a4e405c000000000e021800",
+      "type": "note",
+      "title": "有人喜欢这首歌吗??🫢TITANIUM💎DJ ASTER",
+      "author": "ASTER",
+      "likes": 46,
+      "collects": 8,
+      "comments": 3,
+      "shares": 6,
+      "publish_time": "2026-07-08",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-07-09",
+          "likes": 46,
+          "collects": 8,
+          "comments": 3,
+          "shares": 6
         }
       ]
     },
@@ -3578,13 +4406,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "一听到这首歌，DNA瞬间动了💃🔥",
       "author": "ASTER",
-      "likes": 157,
-      "collects": 27,
-      "comments": 7,
-      "shares": 8,
+      "likes": 204,
+      "collects": 34,
+      "comments": 10,
+      "shares": 11,
       "publish_time": "2026-07-06",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 1,
       "from_profile": true,
       "history": [
         {
@@ -3600,6 +4428,13 @@ window.XHS_DATA = {
           "collects": 27,
           "comments": 7,
           "shares": 8
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 204,
+          "collects": 34,
+          "comments": 10,
+          "shares": 11
         }
       ]
     },
@@ -3608,13 +4443,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "有人知道这首歌吗?(Justin Bieber,ZEDD)",
       "author": "ASTER",
-      "likes": 97,
-      "collects": 21,
+      "likes": 101,
+      "collects": 22,
       "comments": 4,
       "shares": 5,
       "publish_time": "2026-07-01",
       "pinned": false,
-      "grid_order": 1,
+      "grid_order": 2,
       "from_profile": true,
       "history": [
         {
@@ -3630,6 +4465,13 @@ window.XHS_DATA = {
           "collects": 21,
           "comments": 4,
           "shares": 5
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 101,
+          "collects": 22,
+          "comments": 4,
+          "shares": 5
         }
       ]
     },
@@ -3638,13 +4480,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "S2O音乐节上，ASTER的舞台🩵💦",
       "author": "ASTER",
-      "likes": 120,
+      "likes": 123,
       "collects": 21,
       "comments": 2,
       "shares": 4,
       "publish_time": "2026-06-27",
       "pinned": false,
-      "grid_order": 2,
+      "grid_order": 3,
       "from_profile": true,
       "history": [
         {
@@ -3660,6 +4502,13 @@ window.XHS_DATA = {
           "collects": 21,
           "comments": 2,
           "shares": 4
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 123,
+          "collects": 21,
+          "comments": 2,
+          "shares": 4
         }
       ]
     },
@@ -3668,13 +4517,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "TEAM KOREA🇰🇷⚽️韩国足球队的出场曲",
       "author": "ASTER",
-      "likes": 314,
-      "collects": 63,
+      "likes": 319,
+      "collects": 64,
       "comments": 7,
-      "shares": 14,
+      "shares": 16,
       "publish_time": "2026-06-25",
       "pinned": false,
-      "grid_order": 3,
+      "grid_order": 4,
       "from_profile": true,
       "history": [
         {
@@ -3690,36 +4539,13 @@ window.XHS_DATA = {
           "collects": 63,
           "comments": 7,
           "shares": 14
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a3d1284000000000e021800",
-      "type": "note",
-      "title": "韩国夜店的人都在等这段旋律🤔",
-      "author": "ASTER",
-      "likes": 2600,
-      "collects": 361,
-      "comments": 184,
-      "shares": 388,
-      "publish_time": "2026-06-25",
-      "pinned": false,
-      "grid_order": 4,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 2600,
-          "collects": 361,
-          "comments": 183,
-          "shares": 386
         },
         {
-          "date": "2026-07-08",
-          "likes": 2600,
-          "collects": 361,
-          "comments": 184,
-          "shares": 388
+          "date": "2026-07-09",
+          "likes": 319,
+          "collects": 64,
+          "comments": 7,
+          "shares": 16
         }
       ]
     },
@@ -3728,7 +4554,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "和闺蜜的8天7夜｜原来悉尼这么值得来？！🐨🌊",
       "author": "吴英珠Youngjoo Oh",
-      "likes": 113,
+      "likes": 117,
       "collects": 19,
       "comments": 5,
       "shares": 7,
@@ -3747,6 +4573,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 113,
+          "collects": 19,
+          "comments": 5,
+          "shares": 7
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 117,
           "collects": 19,
           "comments": 5,
           "shares": 7
@@ -3780,6 +4613,13 @@ window.XHS_DATA = {
           "collects": 21,
           "comments": 12,
           "shares": 14
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 169,
+          "collects": 21,
+          "comments": 12,
+          "shares": 14
         }
       ]
     },
@@ -3788,8 +4628,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷30+韩女的全天仪式｜我的内服续命清单",
       "author": "吴英珠Youngjoo Oh",
-      "likes": 940,
-      "collects": 609,
+      "likes": 941,
+      "collects": 610,
       "comments": 51,
       "shares": 79,
       "publish_time": "2026-03-18",
@@ -3810,6 +4650,13 @@ window.XHS_DATA = {
           "collects": 609,
           "comments": 51,
           "shares": 79
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 941,
+          "collects": 610,
+          "comments": 51,
+          "shares": 79
         }
       ]
     },
@@ -3818,7 +4665,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Birthday mood 💫🎂",
       "author": "吴英珠Youngjoo Oh",
-      "likes": 228,
+      "likes": 229,
       "collects": 11,
       "comments": 62,
       "shares": 8,
@@ -3840,6 +4687,36 @@ window.XHS_DATA = {
           "collects": 11,
           "comments": 62,
           "shares": 8
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 229,
+          "collects": 11,
+          "comments": 62,
+          "shares": 8
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/69a969fe000000001503b612",
+      "type": "note",
+      "title": "和妹妹的治愈系旅行｜越南芽庄安缦诺怡",
+      "author": "吴英珠Youngjoo Oh",
+      "likes": 351,
+      "collects": 60,
+      "comments": 31,
+      "shares": 55,
+      "publish_time": "2026-03-05",
+      "pinned": false,
+      "grid_order": 4,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-07-09",
+          "likes": 351,
+          "collects": 60,
+          "comments": 31,
+          "shares": 55
         }
       ]
     },
@@ -3848,10 +4725,10 @@ window.XHS_DATA = {
       "type": "note",
       "title": "来重庆谁能拒绝啤酒 + 炸串🍢🍺",
       "author": "文福姬Eat with Boki",
-      "likes": 6000,
-      "collects": 236,
-      "comments": 231,
-      "shares": 187,
+      "likes": 7100,
+      "collects": 268,
+      "comments": 249,
+      "shares": 206,
       "publish_time": "2026-07-06",
       "pinned": false,
       "grid_order": 0,
@@ -3870,6 +4747,13 @@ window.XHS_DATA = {
           "collects": 236,
           "comments": 231,
           "shares": 187
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 7100,
+          "collects": 268,
+          "comments": 249,
+          "shares": 206
         }
       ]
     },
@@ -3879,8 +4763,8 @@ window.XHS_DATA = {
       "title": "重庆第一晚超辣火锅挑战",
       "author": "文福姬Eat with Boki",
       "likes": 16000,
-      "collects": 732,
-      "comments": 536,
+      "collects": 744,
+      "comments": 532,
       "shares": 555,
       "publish_time": "2026-06-26",
       "pinned": false,
@@ -3907,6 +4791,13 @@ window.XHS_DATA = {
           "collects": 732,
           "comments": 536,
           "shares": 555
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 16000,
+          "collects": 744,
+          "comments": 532,
+          "shares": 555
         }
       ]
     },
@@ -3917,8 +4808,8 @@ window.XHS_DATA = {
       "author": "文福姬Eat with Boki",
       "likes": 19000,
       "collects": 1300,
-      "comments": 328,
-      "shares": 214,
+      "comments": 327,
+      "shares": 215,
       "publish_time": "2026-06-19",
       "pinned": false,
       "grid_order": 2,
@@ -3944,6 +4835,13 @@ window.XHS_DATA = {
           "collects": 1300,
           "comments": 328,
           "shares": 214
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 19000,
+          "collects": 1300,
+          "comments": 327,
+          "shares": 215
         }
       ]
     },
@@ -3953,8 +4851,8 @@ window.XHS_DATA = {
       "title": "重庆旅行初体验",
       "author": "文福姬Eat with Boki",
       "likes": 13000,
-      "collects": 535,
-      "comments": 619,
+      "collects": 543,
+      "comments": 620,
       "shares": 387,
       "publish_time": "2026-06-16",
       "pinned": false,
@@ -3981,6 +4879,13 @@ window.XHS_DATA = {
           "collects": 535,
           "comments": 619,
           "shares": 387
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 13000,
+          "collects": 543,
+          "comments": 620,
+          "shares": 387
         }
       ]
     },
@@ -3990,7 +4895,7 @@ window.XHS_DATA = {
       "title": "红酱玉米Ricotta芝士披萨太绝了🍕",
       "author": "文福姬Eat with Boki",
       "likes": 17000,
-      "collects": 1400,
+      "collects": 1500,
       "comments": 492,
       "shares": 1100,
       "publish_time": "2026-06-13",
@@ -4016,6 +4921,13 @@ window.XHS_DATA = {
           "date": "2026-07-08",
           "likes": 17000,
           "collects": 1400,
+          "comments": 492,
+          "shares": 1100
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 17000,
+          "collects": 1500,
           "comments": 492,
           "shares": 1100
         }
@@ -4044,6 +4956,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 284,
+          "collects": 14,
+          "comments": 11,
+          "shares": 6
+        },
+        {
+          "date": "2026-07-09",
           "likes": 284,
           "collects": 14,
           "comments": 11,
@@ -4078,6 +4997,13 @@ window.XHS_DATA = {
           "collects": 14,
           "comments": 13,
           "shares": 7
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 264,
+          "collects": 14,
+          "comments": 13,
+          "shares": 7
         }
       ]
     },
@@ -4108,6 +5034,13 @@ window.XHS_DATA = {
           "collects": 58,
           "comments": 24,
           "shares": 45
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 943,
+          "collects": 58,
+          "comments": 24,
+          "shares": 45
         }
       ]
     },
@@ -4116,7 +5049,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "救命‼️shushutong活动也太好看了吧…在中国",
       "author": "果汁世妍lovely_._v",
-      "likes": 213,
+      "likes": 214,
       "collects": 15,
       "comments": 12,
       "shares": 12,
@@ -4135,6 +5068,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 213,
+          "collects": 15,
+          "comments": 12,
+          "shares": 12
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 214,
           "collects": 15,
           "comments": 12,
           "shares": 12
@@ -4164,6 +5104,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 1500,
+          "collects": 156,
+          "comments": 42,
+          "shares": 61
+        },
+        {
+          "date": "2026-07-09",
           "likes": 1500,
           "collects": 156,
           "comments": 42,
@@ -4198,6 +5145,13 @@ window.XHS_DATA = {
           "collects": 9,
           "comments": 4,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 125,
+          "collects": 9,
+          "comments": 4,
+          "shares": 1
         }
       ]
     },
@@ -4224,6 +5178,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 387,
+          "collects": 33,
+          "comments": 3,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 387,
           "collects": 33,
           "comments": 3,
@@ -4258,6 +5219,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 32,
+          "collects": 3,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -4284,6 +5252,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 28,
+          "collects": 1,
+          "comments": 2,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 28,
           "collects": 1,
           "comments": 2,
@@ -4318,6 +5293,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 39,
+          "collects": 2,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -4344,6 +5326,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 56,
+          "collects": 13,
+          "comments": 1,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 56,
           "collects": 13,
           "comments": 1,
@@ -4378,6 +5367,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 11,
+          "collects": 0,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -4404,6 +5400,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 8,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 8,
           "collects": 0,
           "comments": 1,
@@ -4438,6 +5441,13 @@ window.XHS_DATA = {
           "collects": 10,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 53,
+          "collects": 10,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -4464,6 +5474,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 7,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 7,
           "collects": 1,
           "comments": 0,
@@ -4498,6 +5515,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 50,
+          "collects": 3,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -4524,6 +5548,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 7,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 7,
           "collects": 0,
           "comments": 0,
@@ -4558,6 +5589,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 18,
+          "collects": 1,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -4584,6 +5622,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 29,
+          "collects": 4,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 29,
           "collects": 4,
           "comments": 0,
@@ -4618,6 +5663,13 @@ window.XHS_DATA = {
           "collects": 6,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 43,
+          "collects": 6,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -4644,6 +5696,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 26,
+          "collects": 3,
+          "comments": 1,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 26,
           "collects": 3,
           "comments": 1,
@@ -4678,6 +5737,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 8,
+          "collects": 3,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -4688,7 +5754,7 @@ window.XHS_DATA = {
       "author": "Dlib Factory",
       "likes": 1100,
       "collects": 92,
-      "comments": 30,
+      "comments": 29,
       "shares": 129,
       "publish_time": "2026-06-22",
       "pinned": false,
@@ -4707,6 +5773,13 @@ window.XHS_DATA = {
           "likes": 1100,
           "collects": 92,
           "comments": 30,
+          "shares": 129
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 1100,
+          "collects": 92,
+          "comments": 29,
           "shares": 129
         }
       ]
@@ -4734,6 +5807,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 2500,
+          "collects": 242,
+          "comments": 33,
+          "shares": 313
+        },
+        {
+          "date": "2026-07-09",
           "likes": 2500,
           "collects": 242,
           "comments": 33,
@@ -4768,6 +5848,13 @@ window.XHS_DATA = {
           "collects": 110,
           "comments": 14,
           "shares": 81
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 874,
+          "collects": 110,
+          "comments": 14,
+          "shares": 81
         }
       ]
     },
@@ -4794,6 +5881,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 3900,
+          "collects": 599,
+          "comments": 235,
+          "shares": 3000
+        },
+        {
+          "date": "2026-07-09",
           "likes": 3900,
           "collects": 599,
           "comments": 235,
@@ -4828,156 +5922,13 @@ window.XHS_DATA = {
           "collects": 1400,
           "comments": 439,
           "shares": 3900
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/69919b59000000000a02b138",
-      "type": "note",
-      "title": "Puma speedcat wedge🐆💫💫",
-      "author": "Bellawooyoung",
-      "likes": 86,
-      "collects": 20,
-      "comments": 2,
-      "shares": 12,
-      "publish_time": "2026-02-15",
-      "pinned": false,
-      "grid_order": 0,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 86,
-          "collects": 19,
-          "comments": 2,
-          "shares": 12
         },
         {
-          "date": "2026-07-08",
-          "likes": 86,
-          "collects": 20,
-          "comments": 2,
-          "shares": 12
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/68f2380d000000000700dec3",
-      "type": "note",
-      "title": "adidas Sportswear FUTURE OF STYLE🛸",
-      "author": "Bellawooyoung",
-      "likes": 102,
-      "collects": 8,
-      "comments": 3,
-      "shares": 9,
-      "publish_time": "2025-10-17",
-      "pinned": false,
-      "grid_order": 1,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 102,
-          "collects": 8,
-          "comments": 3,
-          "shares": 9
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 102,
-          "collects": 8,
-          "comments": 3,
-          "shares": 9
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/68b1c5b0000000001d000f1b",
-      "type": "note",
-      "title": "咖啡是我的必需品",
-      "author": "Bellawooyoung",
-      "likes": 187,
-      "collects": 14,
-      "comments": 3,
-      "shares": 11,
-      "publish_time": "2025-08-30",
-      "pinned": false,
-      "grid_order": 2,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 187,
-          "collects": 14,
-          "comments": 3,
-          "shares": 11
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 187,
-          "collects": 14,
-          "comments": 3,
-          "shares": 11
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/68330bc800000000230034b9",
-      "type": "note",
-      "title": "最近的小日子：复古淘店 & 阳光早午餐",
-      "author": "Bellawooyoung",
-      "likes": 127,
-      "collects": 29,
-      "comments": 6,
-      "shares": 14,
-      "publish_time": "2025-05-25",
-      "pinned": false,
-      "grid_order": 3,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 127,
-          "collects": 29,
-          "comments": 6,
-          "shares": 14
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 127,
-          "collects": 29,
-          "comments": 6,
-          "shares": 14
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6818baa6000000002301cff6",
-      "type": "note",
-      "title": "细节控的日常穿搭",
-      "author": "Bellawooyoung",
-      "likes": 299,
-      "collects": 75,
-      "comments": 6,
-      "shares": 29,
-      "publish_time": "2025-05-05",
-      "pinned": false,
-      "grid_order": 4,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 299,
-          "collects": 75,
-          "comments": 6,
-          "shares": 29
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 299,
-          "collects": 75,
-          "comments": 6,
-          "shares": 29
+          "date": "2026-07-09",
+          "likes": 13000,
+          "collects": 1400,
+          "comments": 439,
+          "shares": 3900
         }
       ]
     },
@@ -4986,10 +5937,10 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国夫妻育儿的现实情况",
       "author": "咯咯商会",
-      "likes": 13000,
-      "collects": 497,
-      "comments": 497,
-      "shares": 1600,
+      "likes": 15000,
+      "collects": 536,
+      "comments": 524,
+      "shares": 1700,
       "publish_time": "2026-07-03",
       "pinned": false,
       "grid_order": 0,
@@ -5008,6 +5959,13 @@ window.XHS_DATA = {
           "collects": 497,
           "comments": 497,
           "shares": 1600
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 15000,
+          "collects": 536,
+          "comments": 524,
+          "shares": 1700
         }
       ]
     },
@@ -5038,6 +5996,13 @@ window.XHS_DATA = {
           "collects": 12,
           "comments": 1,
           "shares": 4
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 85,
+          "collects": 12,
+          "comments": 1,
+          "shares": 4
         }
       ]
     },
@@ -5046,7 +6011,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "牧师竟然喜欢KPOP？",
       "author": "咯咯商会",
-      "likes": 82,
+      "likes": 83,
       "collects": 19,
       "comments": 3,
       "shares": 4,
@@ -5065,6 +6030,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 82,
+          "collects": 19,
+          "comments": 3,
+          "shares": 4
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 83,
           "collects": 19,
           "comments": 3,
           "shares": 4
@@ -5094,6 +6066,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 112,
+          "collects": 12,
+          "comments": 1,
+          "shares": 4
+        },
+        {
+          "date": "2026-07-09",
           "likes": 112,
           "collects": 12,
           "comments": 1,
@@ -5128,6 +6107,13 @@ window.XHS_DATA = {
           "collects": 38,
           "comments": 4,
           "shares": 23
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 312,
+          "collects": 38,
+          "comments": 4,
+          "shares": 23
         }
       ]
     },
@@ -5136,7 +6122,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "一套让人忍不住回头看的舞者穿搭",
       "author": "RIYE",
-      "likes": 8,
+      "likes": 9,
       "collects": 0,
       "comments": 0,
       "shares": 0,
@@ -5155,6 +6141,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 8,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 9,
           "collects": 0,
           "comments": 0,
           "shares": 0
@@ -5184,6 +6177,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 30,
+          "collects": 1,
+          "comments": 3,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 30,
           "collects": 1,
           "comments": 3,
@@ -5218,6 +6218,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 4,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 55,
+          "collects": 2,
+          "comments": 4,
+          "shares": 0
         }
       ]
     },
@@ -5244,6 +6251,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 20,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 20,
           "collects": 1,
           "comments": 0,
@@ -5278,6 +6292,36 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 12,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a4f02fc000000000e021800",
+      "type": "note",
+      "title": "保姆级虫子教程 这样可以拿下比赛吗😋",
+      "author": "파동padong",
+      "likes": 7,
+      "collects": 1,
+      "comments": 0,
+      "shares": 0,
+      "publish_time": "2026-07-09",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-07-09",
+          "likes": 7,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -5292,7 +6336,7 @@ window.XHS_DATA = {
       "shares": 0,
       "publish_time": "2026-06-22",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 1,
       "from_profile": true,
       "history": [
         {
@@ -5304,6 +6348,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 9,
+          "collects": 3,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 9,
           "collects": 3,
           "comments": 0,
@@ -5322,7 +6373,7 @@ window.XHS_DATA = {
       "shares": 1,
       "publish_time": "2026-06-15",
       "pinned": false,
-      "grid_order": 1,
+      "grid_order": 2,
       "from_profile": true,
       "history": [
         {
@@ -5334,6 +6385,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 10,
+          "collects": 0,
+          "comments": 0,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 10,
           "collects": 0,
           "comments": 0,
@@ -5352,7 +6410,7 @@ window.XHS_DATA = {
       "shares": 1,
       "publish_time": "2026-06-09",
       "pinned": false,
-      "grid_order": 2,
+      "grid_order": 3,
       "from_profile": true,
       "history": [
         {
@@ -5364,6 +6422,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 11,
+          "collects": 0,
+          "comments": 2,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 11,
           "collects": 0,
           "comments": 2,
@@ -5382,50 +6447,27 @@ window.XHS_DATA = {
       "shares": 0,
       "publish_time": "2026-06-03",
       "pinned": false,
-      "grid_order": 3,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 5,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 5,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a183ffd000000001002d000",
-      "type": "note",
-      "title": "简单上分女枪赌狗",
-      "author": "파동padong",
-      "likes": 6,
-      "collects": 1,
-      "comments": 0,
-      "shares": 0,
-      "publish_time": "2026-05-28",
-      "pinned": false,
       "grid_order": 4,
       "from_profile": true,
       "history": [
         {
           "date": "2026-07-07",
-          "likes": 6,
-          "collects": 1,
+          "likes": 5,
+          "collects": 0,
           "comments": 0,
           "shares": 0
         },
         {
           "date": "2026-07-08",
-          "likes": 6,
-          "collects": 1,
+          "likes": 5,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 5,
+          "collects": 0,
           "comments": 0,
           "shares": 0
         }
@@ -5458,6 +6500,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 28,
+          "collects": 4,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -5469,7 +6518,7 @@ window.XHS_DATA = {
       "likes": 293,
       "collects": 34,
       "comments": 6,
-      "shares": 15,
+      "shares": 16,
       "publish_time": "2026-06-13",
       "pinned": false,
       "grid_order": 1,
@@ -5488,6 +6537,13 @@ window.XHS_DATA = {
           "collects": 34,
           "comments": 6,
           "shares": 15
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 293,
+          "collects": 34,
+          "comments": 6,
+          "shares": 16
         }
       ]
     },
@@ -5514,6 +6570,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 21,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 21,
           "collects": 0,
           "comments": 0,
@@ -5548,6 +6611,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 2,
           "shares": 7
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 14,
+          "collects": 2,
+          "comments": 2,
+          "shares": 7
         }
       ]
     },
@@ -5578,6 +6648,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 9,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -5586,10 +6663,10 @@ window.XHS_DATA = {
       "type": "note",
       "title": "用韩国品牌搭配了一套梅雨季穿搭☔️🇰🇷",
       "author": "裴成妍 Seongyeon Bae",
-      "likes": 166,
-      "collects": 26,
-      "comments": 8,
-      "shares": 4,
+      "likes": 303,
+      "collects": 59,
+      "comments": 16,
+      "shares": 6,
       "publish_time": "2026-07-07",
       "pinned": false,
       "grid_order": 0,
@@ -5601,6 +6678,13 @@ window.XHS_DATA = {
           "collects": 26,
           "comments": 8,
           "shares": 4
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 303,
+          "collects": 59,
+          "comments": 16,
+          "shares": 6
         }
       ]
     },
@@ -5631,6 +6715,13 @@ window.XHS_DATA = {
           "collects": 144,
           "comments": 17,
           "shares": 18
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 2200,
+          "collects": 144,
+          "comments": 17,
+          "shares": 18
         }
       ]
     },
@@ -5639,8 +6730,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国时尚网红的发型教程",
       "author": "裴成妍 Seongyeon Bae",
-      "likes": 684,
-      "collects": 380,
+      "likes": 685,
+      "collects": 379,
       "comments": 19,
       "shares": 40,
       "publish_time": "2026-06-16",
@@ -5661,6 +6752,13 @@ window.XHS_DATA = {
           "collects": 380,
           "comments": 19,
           "shares": 40
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 685,
+          "collects": 379,
+          "comments": 19,
+          "shares": 40
         }
       ]
     },
@@ -5669,8 +6767,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "My iphone5c .. 🩵🤳",
       "author": "裴成妍 Seongyeon Bae",
-      "likes": 601,
-      "collects": 22,
+      "likes": 603,
+      "collects": 23,
       "comments": 13,
       "shares": 9,
       "publish_time": "2026-06-15",
@@ -5689,6 +6787,13 @@ window.XHS_DATA = {
           "date": "2026-07-08",
           "likes": 601,
           "collects": 22,
+          "comments": 13,
+          "shares": 9
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 603,
+          "collects": 23,
           "comments": 13,
           "shares": 9
         }
@@ -5721,6 +6826,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 12,
           "shares": 2
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 73,
+          "collects": 5,
+          "comments": 12,
+          "shares": 2
         }
       ]
     },
@@ -5729,9 +6841,9 @@ window.XHS_DATA = {
       "type": "note",
       "title": "大码韩女试穿ㅣ女爱豆直拍同款",
       "author": "卢恩率Ensol",
-      "likes": 32,
-      "collects": 4,
-      "comments": 0,
+      "likes": 41,
+      "collects": 5,
+      "comments": 1,
       "shares": 0,
       "publish_time": "2026-07-07",
       "pinned": false,
@@ -5743,6 +6855,13 @@ window.XHS_DATA = {
           "likes": 32,
           "collects": 4,
           "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 41,
+          "collects": 5,
+          "comments": 1,
           "shares": 0
         }
       ]
@@ -5770,6 +6889,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 11,
+          "collects": 3,
+          "comments": 1,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 11,
           "collects": 3,
           "comments": 1,
@@ -5804,6 +6930,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 6,
+          "collects": 0,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -5830,6 +6963,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 49,
+          "collects": 15,
+          "comments": 1,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 49,
           "collects": 15,
           "comments": 1,
@@ -5864,6 +7004,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 22,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -5890,6 +7037,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 13,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 13,
           "collects": 2,
           "comments": 0,
@@ -5924,6 +7078,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 1,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 13,
+          "collects": 4,
+          "comments": 1,
+          "shares": 1
         }
       ]
     },
@@ -5950,6 +7111,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 60,
+          "collects": 6,
+          "comments": 2,
+          "shares": 2
+        },
+        {
+          "date": "2026-07-09",
           "likes": 60,
           "collects": 6,
           "comments": 2,
@@ -5984,6 +7152,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 7,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -6010,6 +7185,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 28,
+          "collects": 1,
+          "comments": 0,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 28,
           "collects": 1,
           "comments": 0,
@@ -6044,6 +7226,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 0,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -6070,6 +7259,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 12,
+          "collects": 6,
+          "comments": 2,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 12,
           "collects": 6,
           "comments": 2,
@@ -6104,6 +7300,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 2,
+          "collects": 3,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -6134,6 +7337,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 5,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -6144,7 +7354,7 @@ window.XHS_DATA = {
       "author": "Yoning_kyu",
       "likes": 15,
       "collects": 17,
-      "comments": 1,
+      "comments": 2,
       "shares": 1,
       "publish_time": "2026-06-14",
       "pinned": false,
@@ -6163,6 +7373,13 @@ window.XHS_DATA = {
           "likes": 15,
           "collects": 17,
           "comments": 1,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 15,
+          "collects": 17,
+          "comments": 2,
           "shares": 1
         }
       ]
@@ -6190,6 +7407,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 15,
+          "collects": 1,
+          "comments": 2,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 15,
           "collects": 1,
           "comments": 2,
@@ -6224,6 +7448,13 @@ window.XHS_DATA = {
           "collects": 9,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 24,
+          "collects": 9,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -6250,6 +7481,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 32,
+          "collects": 6,
+          "comments": 1,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 32,
           "collects": 6,
           "comments": 1,
@@ -6284,6 +7522,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 8,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -6314,6 +7559,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 13,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -6322,7 +7574,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "今天被朋友家的小狗萌到了🤍😶‍🌫️",
       "author": "姜抒衍",
-      "likes": 28,
+      "likes": 31,
       "collects": 0,
       "comments": 0,
       "shares": 1,
@@ -6337,6 +7589,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 31,
+          "collects": 0,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -6345,8 +7604,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "今天的妆容很满意，和妈妈吃了好吃的✨",
       "author": "姜抒衍",
-      "likes": 29,
-      "collects": 0,
+      "likes": 31,
+      "collects": 1,
       "comments": 0,
       "shares": 0,
       "publish_time": "2026-07-07",
@@ -6358,6 +7617,13 @@ window.XHS_DATA = {
           "date": "2026-07-08",
           "likes": 29,
           "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 31,
+          "collects": 1,
           "comments": 0,
           "shares": 0
         }
@@ -6390,6 +7656,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 32,
+          "collects": 5,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -6398,7 +7671,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🍽️ 最近相册快变成美食合集了…🙂‍↕️😋",
       "author": "姜抒衍",
-      "likes": 22,
+      "likes": 23,
       "collects": 2,
       "comments": 0,
       "shares": 2,
@@ -6417,6 +7690,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 22,
+          "collects": 2,
+          "comments": 0,
+          "shares": 2
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 23,
           "collects": 2,
           "comments": 0,
           "shares": 2
@@ -6450,6 +7730,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 12,
+          "collects": 4,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -6458,7 +7745,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "备婚日常💕",
       "author": "Haesol",
-      "likes": 25,
+      "likes": 26,
       "collects": 4,
       "comments": 3,
       "shares": 2,
@@ -6484,6 +7771,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 25,
+          "collects": 4,
+          "comments": 3,
+          "shares": 2
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 26,
           "collects": 4,
           "comments": 3,
           "shares": 2
@@ -6520,6 +7814,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 83,
+          "collects": 12,
+          "comments": 6,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 83,
           "collects": 12,
           "comments": 6,
@@ -6561,6 +7862,13 @@ window.XHS_DATA = {
           "collects": 80,
           "comments": 30,
           "shares": 6
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 485,
+          "collects": 80,
+          "comments": 30,
+          "shares": 6
         }
       ]
     },
@@ -6594,6 +7902,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 1000,
+          "collects": 133,
+          "comments": 32,
+          "shares": 10
+        },
+        {
+          "date": "2026-07-09",
           "likes": 1000,
           "collects": 133,
           "comments": 32,
@@ -6635,6 +7950,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 1,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 30,
+          "collects": 5,
+          "comments": 1,
+          "shares": 1
         }
       ]
     },
@@ -6661,6 +7983,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 4,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 4,
           "collects": 0,
           "comments": 0,
@@ -6695,6 +8024,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 6,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -6704,7 +8040,7 @@ window.XHS_DATA = {
       "title": "这个sixseven有点上头！",
       "author": "YeaHoo 雅虎",
       "likes": 2,
-      "collects": 1,
+      "collects": 2,
       "comments": 0,
       "shares": 0,
       "publish_time": "2026-06-19",
@@ -6723,6 +8059,13 @@ window.XHS_DATA = {
           "date": "2026-07-08",
           "likes": 2,
           "collects": 1,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 2,
+          "collects": 2,
           "comments": 0,
           "shares": 0
         }
@@ -6751,6 +8094,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 2,
           "collects": 0,
           "comments": 0,
@@ -6785,6 +8135,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 5,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -6811,6 +8168,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 17,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 17,
           "collects": 0,
           "comments": 0,
@@ -6845,6 +8209,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 4,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -6871,6 +8242,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 8,
+          "collects": 1,
+          "comments": 1,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 8,
           "collects": 1,
           "comments": 1,
@@ -6905,6 +8283,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 10,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -6931,6 +8316,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 11,
+          "collects": 1,
+          "comments": 0,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 11,
           "collects": 1,
           "comments": 0,
@@ -6965,6 +8357,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 10,
+          "collects": 2,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -6995,6 +8394,36 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 1,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 7,
+          "collects": 2,
+          "comments": 1,
+          "shares": 1
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a4df7ac000000000d00bc00",
+      "type": "note",
+      "title": "这就是韩国前爱豆的猫咖约会？🎤❤️🇰🇷",
+      "author": "喵咕情侣",
+      "likes": 21,
+      "collects": 3,
+      "comments": 2,
+      "shares": 6,
+      "publish_time": "2026-07-08",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-07-09",
+          "likes": 21,
+          "collects": 3,
+          "comments": 2,
+          "shares": 6
         }
       ]
     },
@@ -7009,7 +8438,7 @@ window.XHS_DATA = {
       "shares": 5,
       "publish_time": "2026-06-22",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 1,
       "from_profile": true,
       "history": [
         {
@@ -7021,6 +8450,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 10,
+          "collects": 2,
+          "comments": 4,
+          "shares": 5
+        },
+        {
+          "date": "2026-07-09",
           "likes": 10,
           "collects": 2,
           "comments": 4,
@@ -7039,7 +8475,7 @@ window.XHS_DATA = {
       "shares": 5,
       "publish_time": "2026-06-19",
       "pinned": false,
-      "grid_order": 1,
+      "grid_order": 2,
       "from_profile": true,
       "history": [
         {
@@ -7051,6 +8487,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 17,
+          "collects": 2,
+          "comments": 2,
+          "shares": 5
+        },
+        {
+          "date": "2026-07-09",
           "likes": 17,
           "collects": 2,
           "comments": 2,
@@ -7063,13 +8506,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "退役韩国爱豆情侣vlog🎤🇰🇷",
       "author": "喵咕情侣",
-      "likes": 14,
+      "likes": 15,
       "collects": 4,
       "comments": 2,
       "shares": 0,
       "publish_time": "2026-05-28",
       "pinned": false,
-      "grid_order": 2,
+      "grid_order": 3,
       "from_profile": true,
       "history": [
         {
@@ -7082,6 +8525,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 14,
+          "collects": 4,
+          "comments": 2,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 15,
           "collects": 4,
           "comments": 2,
           "shares": 0
@@ -7099,52 +8549,29 @@ window.XHS_DATA = {
       "shares": 5,
       "publish_time": "2026-05-26",
       "pinned": false,
-      "grid_order": 3,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 8,
-          "collects": 2,
-          "comments": 5,
-          "shares": 5
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 8,
-          "collects": 2,
-          "comments": 5,
-          "shares": 5
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a114e970000000013020400",
-      "type": "note",
-      "title": "弘大约会 Vlog｜韩国情侣恋爱日常 🤍🇰🇷",
-      "author": "喵咕情侣",
-      "likes": 5,
-      "collects": 2,
-      "comments": 3,
-      "shares": 8,
-      "publish_time": "2026-05-23",
-      "pinned": false,
       "grid_order": 4,
       "from_profile": true,
       "history": [
         {
           "date": "2026-07-07",
-          "likes": 5,
+          "likes": 8,
           "collects": 2,
-          "comments": 3,
-          "shares": 8
+          "comments": 5,
+          "shares": 5
         },
         {
           "date": "2026-07-08",
-          "likes": 5,
+          "likes": 8,
           "collects": 2,
-          "comments": 3,
-          "shares": 8
+          "comments": 5,
+          "shares": 5
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 8,
+          "collects": 2,
+          "comments": 5,
+          "shares": 5
         }
       ]
     },
@@ -7171,6 +8598,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 25,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 25,
           "collects": 2,
           "comments": 0,
@@ -7205,6 +8639,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 2
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 31,
+          "collects": 1,
+          "comments": 0,
+          "shares": 2
         }
       ]
     },
@@ -7231,6 +8672,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 20,
+          "collects": 1,
+          "comments": 1,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 20,
           "collects": 1,
           "comments": 1,
@@ -7265,6 +8713,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 11,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -7291,6 +8746,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 23,
+          "collects": 0,
+          "comments": 2,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 23,
           "collects": 0,
           "comments": 2,
@@ -7325,6 +8787,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -7333,10 +8802,10 @@ window.XHS_DATA = {
       "type": "note",
       "title": "2026 弘大 KPOP 蹦迪推荐",
       "author": "Holy Cow 🐮",
-      "likes": 6,
+      "likes": 7,
       "collects": 2,
       "comments": 2,
-      "shares": 2,
+      "shares": 3,
       "publish_time": "2026-06-11",
       "pinned": false,
       "grid_order": 1,
@@ -7355,6 +8824,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 2,
           "shares": 2
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 7,
+          "collects": 2,
+          "comments": 2,
+          "shares": 3
         }
       ]
     },
@@ -7381,6 +8857,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 301,
+          "collects": 207,
+          "comments": 9,
+          "shares": 150
+        },
+        {
+          "date": "2026-07-09",
           "likes": 301,
           "collects": 207,
           "comments": 9,
@@ -7415,6 +8898,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 4,
           "shares": 17
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 10,
+          "collects": 4,
+          "comments": 4,
+          "shares": 17
         }
       ]
     },
@@ -7441,6 +8931,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 56,
+          "collects": 26,
+          "comments": 2,
+          "shares": 38
+        },
+        {
+          "date": "2026-07-09",
           "likes": 56,
           "collects": 26,
           "comments": 2,
@@ -7475,6 +8972,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -7501,6 +9005,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 3,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 3,
           "collects": 0,
           "comments": 0,
@@ -7535,6 +9046,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 5,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -7561,6 +9079,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 14,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 14,
           "collects": 0,
           "comments": 0,
@@ -7595,6 +9120,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 5,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -7621,6 +9153,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 16,
+          "collects": 1,
+          "comments": 0,
+          "shares": 2
+        },
+        {
+          "date": "2026-07-09",
           "likes": 16,
           "collects": 1,
           "comments": 0,
@@ -7655,6 +9194,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 11,
+          "collects": 3,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -7678,6 +9224,36 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 28,
+          "collects": 5,
+          "comments": 1,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a467b34000000000e031401",
+      "type": "note",
+      "title": "今天心情特别好💃♥️",
+      "author": "__me__ne",
+      "likes": 5,
+      "collects": 0,
+      "comments": 0,
+      "shares": 1,
+      "publish_time": "2026-07-02",
+      "pinned": false,
+      "grid_order": 3,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-07-09",
+          "likes": 5,
+          "collects": 0,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -7708,6 +9284,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 38,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -7716,9 +9299,9 @@ window.XHS_DATA = {
       "type": "note",
       "title": "旅行的时候，也会认真打扮一下自己 🪞✨",
       "author": "楊眞 8_jjini",
-      "likes": 38,
-      "collects": 7,
-      "comments": 6,
+      "likes": 47,
+      "collects": 10,
+      "comments": 8,
       "shares": 0,
       "publish_time": "2026-07-07",
       "pinned": false,
@@ -7738,6 +9321,13 @@ window.XHS_DATA = {
           "collects": 7,
           "comments": 6,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 47,
+          "collects": 10,
+          "comments": 8,
+          "shares": 0
         }
       ]
     },
@@ -7746,8 +9336,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "这周 Pick 到了一个超有意思的小东西💋",
       "author": "楊眞 8_jjini",
-      "likes": 295,
-      "collects": 53,
+      "likes": 306,
+      "collects": 57,
       "comments": 9,
       "shares": 8,
       "publish_time": "2026-07-04",
@@ -7768,66 +9358,13 @@ window.XHS_DATA = {
           "collects": 53,
           "comments": 9,
           "shares": 8
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a47d459000000000d00bc00",
-      "type": "note",
-      "title": "越南富国岛旅行｜韩国女生的度假穿搭☀️🤍",
-      "author": "楊眞 8_jjini",
-      "likes": 473,
-      "collects": 111,
-      "comments": 20,
-      "shares": 8,
-      "publish_time": "2026-07-04",
-      "pinned": false,
-      "grid_order": 2,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 472,
-          "collects": 110,
-          "comments": 20,
-          "shares": 8
         },
         {
-          "date": "2026-07-08",
-          "likes": 473,
-          "collects": 111,
-          "comments": 20,
+          "date": "2026-07-09",
+          "likes": 306,
+          "collects": 57,
+          "comments": 9,
           "shares": 8
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a2c5e5c000000000d00bc00",
-      "type": "note",
-      "title": "隔了好久才来和大家见面🙈",
-      "author": "楊眞 8_jjini",
-      "likes": 60,
-      "collects": 11,
-      "comments": 22,
-      "shares": 1,
-      "publish_time": "2026-06-13",
-      "pinned": false,
-      "grid_order": 3,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 60,
-          "collects": 11,
-          "comments": 22,
-          "shares": 1
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 60,
-          "collects": 11,
-          "comments": 22,
-          "shares": 1
         }
       ]
     },
@@ -7836,13 +9373,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "帮我选一张头像吧📸✨",
       "author": "楊眞 8_jjini",
-      "likes": 101,
+      "likes": 102,
       "collects": 22,
       "comments": 24,
       "shares": 0,
       "publish_time": "2026-06-06",
       "pinned": false,
-      "grid_order": 4,
+      "grid_order": 3,
       "from_profile": true,
       "history": [
         {
@@ -7858,6 +9395,36 @@ window.XHS_DATA = {
           "collects": 22,
           "comments": 24,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 102,
+          "collects": 22,
+          "comments": 24,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a219267000000001002d002",
+      "type": "note",
+      "title": "把喜欢的照片整理在一起啦 🤍",
+      "author": "楊眞 8_jjini",
+      "likes": 576,
+      "collects": 135,
+      "comments": 25,
+      "shares": 17,
+      "publish_time": "2026-06-04",
+      "pinned": false,
+      "grid_order": 4,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-07-09",
+          "likes": 576,
+          "collects": 135,
+          "comments": 25,
+          "shares": 17
         }
       ]
     },
@@ -7884,6 +9451,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 8,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 8,
           "collects": 2,
           "comments": 0,
@@ -7918,6 +9492,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -7944,6 +9525,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 1,
           "collects": 0,
           "comments": 0,
@@ -7978,6 +9566,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -8008,6 +9603,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 5,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -8016,8 +9618,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国健美选手与中国健美选手的区别",
       "author": "Seungchul Lee",
-      "likes": 133,
-      "collects": 55,
+      "likes": 136,
+      "collects": 56,
       "comments": 6,
       "shares": 13,
       "publish_time": "2026-06-26",
@@ -8036,6 +9638,13 @@ window.XHS_DATA = {
           "date": "2026-07-08",
           "likes": 133,
           "collects": 55,
+          "comments": 6,
+          "shares": 13
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 136,
+          "collects": 56,
           "comments": 6,
           "shares": 13
         }
@@ -8064,6 +9673,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 56,
+          "collects": 4,
+          "comments": 6,
+          "shares": 3
+        },
+        {
+          "date": "2026-07-09",
           "likes": 56,
           "collects": 4,
           "comments": 6,
@@ -8098,6 +9714,13 @@ window.XHS_DATA = {
           "collects": 8,
           "comments": 2,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 64,
+          "collects": 8,
+          "comments": 2,
+          "shares": 1
         }
       ]
     },
@@ -8124,6 +9747,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 50,
+          "collects": 4,
+          "comments": 7,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 50,
           "collects": 4,
           "comments": 7,
@@ -8158,6 +9788,13 @@ window.XHS_DATA = {
           "collects": 16,
           "comments": 8,
           "shares": 4
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 129,
+          "collects": 16,
+          "comments": 8,
+          "shares": 4
         }
       ]
     },
@@ -8188,6 +9825,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 3,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 14,
+          "collects": 3,
+          "comments": 3,
+          "shares": 1
         }
       ]
     },
@@ -8196,7 +9840,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "嘻嘻 第一次在韩国做指甲💅好可爱 好ins哇!",
       "author": "格子赚大钱",
-      "likes": 148,
+      "likes": 149,
       "collects": 101,
       "comments": 8,
       "shares": 14,
@@ -8215,6 +9859,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 148,
+          "collects": 101,
+          "comments": 8,
+          "shares": 14
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 149,
           "collects": 101,
           "comments": 8,
           "shares": 14
@@ -8244,6 +9895,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 365,
+          "collects": 64,
+          "comments": 9,
+          "shares": 12
+        },
+        {
+          "date": "2026-07-09",
           "likes": 365,
           "collects": 64,
           "comments": 9,
@@ -8278,6 +9936,36 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 5,
           "shares": 2
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 28,
+          "collects": 4,
+          "comments": 5,
+          "shares": 2
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a4e2ef6000000000e031400",
+      "type": "note",
+      "title": "•ｏ-๑",
+      "author": "金枝香 Kim jihyang",
+      "likes": 68,
+      "collects": 8,
+      "comments": 2,
+      "shares": 1,
+      "publish_time": "2026-07-08",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-07-09",
+          "likes": 68,
+          "collects": 8,
+          "comments": 2,
+          "shares": 1
         }
       ]
     },
@@ -8286,13 +9974,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "💿⋆⌖˖ 🎧꙳ 🗯️₊˚📷",
       "author": "金枝香 Kim jihyang",
-      "likes": 21,
+      "likes": 22,
       "collects": 4,
       "comments": 5,
       "shares": 0,
       "publish_time": "2026-07-04",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 1,
       "from_profile": true,
       "history": [
         {
@@ -8305,6 +9993,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 21,
+          "collects": 4,
+          "comments": 5,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 22,
           "collects": 4,
           "comments": 5,
           "shares": 0
@@ -8322,7 +10017,7 @@ window.XHS_DATA = {
       "shares": 1,
       "publish_time": "2026-07-03",
       "pinned": false,
-      "grid_order": 1,
+      "grid_order": 2,
       "from_profile": true,
       "history": [
         {
@@ -8334,6 +10029,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 42,
+          "collects": 4,
+          "comments": 2,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 42,
           "collects": 4,
           "comments": 2,
@@ -8346,13 +10048,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Change My World！",
       "author": "金枝香 Kim jihyang",
-      "likes": 162,
+      "likes": 166,
       "collects": 7,
       "comments": 3,
       "shares": 3,
       "publish_time": "2026-07-02",
       "pinned": false,
-      "grid_order": 2,
+      "grid_order": 3,
       "from_profile": true,
       "history": [
         {
@@ -8365,6 +10067,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 162,
+          "collects": 7,
+          "comments": 3,
+          "shares": 3
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 166,
           "collects": 7,
           "comments": 3,
           "shares": 3
@@ -8382,7 +10091,7 @@ window.XHS_DATA = {
       "shares": 1,
       "publish_time": "2026-06-30",
       "pinned": false,
-      "grid_order": 3,
+      "grid_order": 4,
       "from_profile": true,
       "history": [
         {
@@ -8394,6 +10103,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 45,
+          "collects": 2,
+          "comments": 3,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 45,
           "collects": 2,
           "comments": 3,
@@ -8402,31 +10118,24 @@ window.XHS_DATA = {
       ]
     },
     {
-      "url": "https://www.rednote.com/explore/6a3dfa49000000000d00bc00",
+      "url": "https://www.rednote.com/explore/6a4e10d1000000000e031400",
       "type": "note",
-      "title": "韩国啦啦队已就位！舞蹈应援世界杯⚽",
-      "author": "金枝香 Kim jihyang",
-      "likes": 76,
-      "collects": 21,
-      "comments": 7,
+      "title": "The K-World Dream Awards 💜",
+      "author": "林秀香 Im SooHyang",
+      "likes": 400,
+      "collects": 16,
+      "comments": 25,
       "shares": 1,
-      "publish_time": "2026-06-26",
+      "publish_time": "2026-07-08",
       "pinned": false,
-      "grid_order": 4,
+      "grid_order": 0,
       "from_profile": true,
       "history": [
         {
-          "date": "2026-07-07",
-          "likes": 75,
-          "collects": 21,
-          "comments": 7,
-          "shares": 1
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 76,
-          "collects": 21,
-          "comments": 7,
+          "date": "2026-07-09",
+          "likes": 400,
+          "collects": 16,
+          "comments": 25,
           "shares": 1
         }
       ]
@@ -8436,13 +10145,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "不是因为夏天来了才跑步🏃‍♀️",
       "author": "林秀香 Im SooHyang",
-      "likes": 142,
-      "collects": 2,
-      "comments": 7,
-      "shares": 1,
+      "likes": 172,
+      "collects": 3,
+      "comments": 8,
+      "shares": 2,
       "publish_time": "2026-07-07",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 1,
       "from_profile": true,
       "history": [
         {
@@ -8451,6 +10160,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 7,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 172,
+          "collects": 3,
+          "comments": 8,
+          "shares": 2
         }
       ]
     },
@@ -8459,13 +10175,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Seoul Citywalk",
       "author": "林秀香 Im SooHyang",
-      "likes": 216,
+      "likes": 239,
       "collects": 8,
-      "comments": 24,
+      "comments": 25,
       "shares": 2,
       "publish_time": "2026-07-06",
       "pinned": false,
-      "grid_order": 1,
+      "grid_order": 2,
       "from_profile": true,
       "history": [
         {
@@ -8481,6 +10197,13 @@ window.XHS_DATA = {
           "collects": 8,
           "comments": 24,
           "shares": 2
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 239,
+          "collects": 8,
+          "comments": 25,
+          "shares": 2
         }
       ]
     },
@@ -8489,13 +10212,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "我最近的爱用物❤️",
       "author": "林秀香 Im SooHyang",
-      "likes": 157,
-      "collects": 7,
+      "likes": 164,
+      "collects": 8,
       "comments": 13,
-      "shares": 0,
+      "shares": 1,
       "publish_time": "2026-07-05",
       "pinned": false,
-      "grid_order": 2,
+      "grid_order": 3,
       "from_profile": true,
       "history": [
         {
@@ -8511,6 +10234,13 @@ window.XHS_DATA = {
           "collects": 7,
           "comments": 13,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 164,
+          "collects": 8,
+          "comments": 13,
+          "shares": 1
         }
       ]
     },
@@ -8519,13 +10249,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "喜欢在汉江边慢跑🏃‍♀️",
       "author": "林秀香 Im SooHyang",
-      "likes": 108,
+      "likes": 111,
       "collects": 1,
       "comments": 10,
       "shares": 0,
       "publish_time": "2026-07-05",
       "pinned": false,
-      "grid_order": 3,
+      "grid_order": 4,
       "from_profile": true,
       "history": [
         {
@@ -8541,36 +10271,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 10,
           "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a472938000000000d00bc00",
-      "type": "note",
-      "title": "在圣水逛吃的一天～😋",
-      "author": "林秀香 Im SooHyang",
-      "likes": 549,
-      "collects": 9,
-      "comments": 22,
-      "shares": 2,
-      "publish_time": "2026-07-04",
-      "pinned": false,
-      "grid_order": 4,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 475,
-          "collects": 8,
-          "comments": 21,
-          "shares": 2
         },
         {
-          "date": "2026-07-08",
-          "likes": 549,
-          "collects": 9,
-          "comments": 22,
-          "shares": 2
+          "date": "2026-07-09",
+          "likes": 111,
+          "collects": 1,
+          "comments": 10,
+          "shares": 0
         }
       ]
     },
@@ -8597,6 +10304,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 5,
+          "collects": 0,
+          "comments": 0,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 5,
           "collects": 0,
           "comments": 0,
@@ -8631,6 +10345,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 1,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 9,
+          "collects": 1,
+          "comments": 1,
+          "shares": 1
         }
       ]
     },
@@ -8640,7 +10361,7 @@ window.XHS_DATA = {
       "title": "上班偷吃不会不被发现吧！",
       "author": "leeravely",
       "likes": 19,
-      "collects": 6,
+      "collects": 7,
       "comments": 1,
       "shares": 0,
       "publish_time": "2026-07-06",
@@ -8659,6 +10380,13 @@ window.XHS_DATA = {
           "date": "2026-07-08",
           "likes": 19,
           "collects": 6,
+          "comments": 1,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 19,
+          "collects": 7,
           "comments": 1,
           "shares": 0
         }
@@ -8687,6 +10415,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 9,
+          "collects": 4,
+          "comments": 2,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 9,
           "collects": 4,
           "comments": 2,
@@ -8721,6 +10456,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 5,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -8747,6 +10489,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 8,
+          "collects": 2,
+          "comments": 0,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 8,
           "collects": 2,
           "comments": 0,
@@ -8781,6 +10530,13 @@ window.XHS_DATA = {
           "collects": 27,
           "comments": 8,
           "shares": 5
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 52,
+          "collects": 27,
+          "comments": 8,
+          "shares": 5
         }
       ]
     },
@@ -8807,6 +10563,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 6,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 6,
           "collects": 2,
           "comments": 0,
@@ -8841,6 +10604,13 @@ window.XHS_DATA = {
           "collects": 6,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 28,
+          "collects": 6,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -8867,6 +10637,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 112,
+          "collects": 18,
+          "comments": 1,
+          "shares": 7
+        },
+        {
+          "date": "2026-07-09",
           "likes": 112,
           "collects": 18,
           "comments": 1,
@@ -8901,6 +10678,13 @@ window.XHS_DATA = {
           "collects": 6,
           "comments": 2,
           "shares": 2
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 56,
+          "collects": 6,
+          "comments": 2,
+          "shares": 2
         }
       ]
     },
@@ -8931,6 +10715,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 4,
           "shares": 2
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 54,
+          "collects": 5,
+          "comments": 4,
+          "shares": 2
         }
       ]
     },
@@ -8939,7 +10730,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷｜占便宜等不了明天！圣水我来了！",
       "author": "药药在干嘛",
-      "likes": 110,
+      "likes": 111,
       "collects": 23,
       "comments": 3,
       "shares": 5,
@@ -8961,6 +10752,13 @@ window.XHS_DATA = {
           "collects": 23,
           "comments": 3,
           "shares": 5
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 111,
+          "collects": 23,
+          "comments": 3,
+          "shares": 5
         }
       ]
     },
@@ -8969,7 +10767,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷｜一些现场花絮vlog奉上",
       "author": "药药在干嘛",
-      "likes": 60,
+      "likes": 62,
       "collects": 3,
       "comments": 3,
       "shares": 0,
@@ -8988,6 +10786,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 60,
+          "collects": 3,
+          "comments": 3,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 62,
           "collects": 3,
           "comments": 3,
           "shares": 0
@@ -9021,6 +10826,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 10,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 78,
+          "collects": 4,
+          "comments": 10,
+          "shares": 1
         }
       ]
     },
@@ -9029,7 +10841,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷｜姐妹神图有了！",
       "author": "药药在干嘛",
-      "likes": 58,
+      "likes": 59,
       "collects": 19,
       "comments": 10,
       "shares": 6,
@@ -9048,6 +10860,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 58,
+          "collects": 19,
+          "comments": 10,
+          "shares": 6
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 59,
           "collects": 19,
           "comments": 10,
           "shares": 6
@@ -9081,6 +10900,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 4,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 34,
+          "collects": 1,
+          "comments": 4,
+          "shares": 1
         }
       ]
     },
@@ -9089,9 +10915,9 @@ window.XHS_DATA = {
       "type": "note",
       "title": "好久不见，大家过得好吗？",
       "author": "jongmin02",
-      "likes": 76,
-      "collects": 1,
-      "comments": 19,
+      "likes": 120,
+      "collects": 3,
+      "comments": 26,
       "shares": 1,
       "publish_time": "2026-07-05",
       "pinned": false,
@@ -9110,6 +10936,13 @@ window.XHS_DATA = {
           "likes": 76,
           "collects": 1,
           "comments": 19,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 120,
+          "collects": 3,
+          "comments": 26,
           "shares": 1
         }
       ]
@@ -9141,6 +10974,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 8,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 21,
+          "collects": 0,
+          "comments": 8,
+          "shares": 0
         }
       ]
     },
@@ -9149,7 +10989,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "第一次来中国，跟韩国人变亲近吧！",
       "author": "jongmin02",
-      "likes": 380,
+      "likes": 381,
       "collects": 23,
       "comments": 92,
       "shares": 4,
@@ -9168,6 +11008,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 380,
+          "collects": 23,
+          "comments": 92,
+          "shares": 4
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 381,
           "collects": 23,
           "comments": 92,
           "shares": 4
@@ -9197,6 +11044,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 69,
+          "collects": 6,
+          "comments": 17,
+          "shares": 4
+        },
+        {
+          "date": "2026-07-09",
           "likes": 69,
           "collects": 6,
           "comments": 17,
@@ -9231,6 +11085,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 117,
           "shares": 16
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 180,
+          "collects": 5,
+          "comments": 117,
+          "shares": 16
         }
       ]
     },
@@ -9257,6 +11118,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 151,
+          "collects": 9,
+          "comments": 11,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 151,
           "collects": 9,
           "comments": 11,
@@ -9291,6 +11159,13 @@ window.XHS_DATA = {
           "collects": 9,
           "comments": 19,
           "shares": 5
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 135,
+          "collects": 9,
+          "comments": 19,
+          "shares": 5
         }
       ]
     },
@@ -9317,6 +11192,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 163,
+          "collects": 12,
+          "comments": 28,
+          "shares": 5
+        },
+        {
+          "date": "2026-07-09",
           "likes": 163,
           "collects": 12,
           "comments": 28,
@@ -9351,6 +11233,13 @@ window.XHS_DATA = {
           "collects": 22,
           "comments": 25,
           "shares": 13
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 408,
+          "collects": 22,
+          "comments": 25,
+          "shares": 13
         }
       ]
     },
@@ -9381,6 +11270,13 @@ window.XHS_DATA = {
           "collects": 7,
           "comments": 38,
           "shares": 10
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 137,
+          "collects": 7,
+          "comments": 38,
+          "shares": 10
         }
       ]
     },
@@ -9389,7 +11285,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "顺拐不起来了",
       "author": "任宇辰",
-      "likes": 32,
+      "likes": 33,
       "collects": 2,
       "comments": 4,
       "shares": 0,
@@ -9408,6 +11304,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 32,
+          "collects": 2,
+          "comments": 4,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 33,
           "collects": 2,
           "comments": 4,
           "shares": 0
@@ -9437,6 +11340,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 252,
+          "collects": 88,
+          "comments": 4,
+          "shares": 3
+        },
+        {
+          "date": "2026-07-09",
           "likes": 252,
           "collects": 88,
           "comments": 4,
@@ -9471,6 +11381,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 1,
           "shares": 3
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 48,
+          "collects": 4,
+          "comments": 1,
+          "shares": 3
         }
       ]
     },
@@ -9497,6 +11414,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 43,
+          "collects": 2,
+          "comments": 9,
+          "shares": 3
+        },
+        {
+          "date": "2026-07-09",
           "likes": 43,
           "collects": 2,
           "comments": 9,
@@ -9531,6 +11455,36 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 9,
           "shares": 4
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 36,
+          "collects": 5,
+          "comments": 9,
+          "shares": 4
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a4e4aa9000000000d00bc00",
+      "type": "note",
+      "title": "📸👀",
+      "author": "inho",
+      "likes": 21,
+      "collects": 3,
+      "comments": 2,
+      "shares": 0,
+      "publish_time": "2026-07-08",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-07-09",
+          "likes": 21,
+          "collects": 3,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -9539,13 +11493,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "安全驾驶!",
       "author": "inho",
-      "likes": 32,
+      "likes": 35,
       "collects": 2,
       "comments": 4,
       "shares": 0,
       "publish_time": "2026-07-02",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 1,
       "from_profile": true,
       "history": [
         {
@@ -9561,6 +11515,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 4,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 35,
+          "collects": 2,
+          "comments": 4,
+          "shares": 0
         }
       ]
     },
@@ -9569,13 +11530,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🐈‍",
       "author": "inho",
-      "likes": 54,
+      "likes": 55,
       "collects": 5,
       "comments": 3,
       "shares": 0,
       "publish_time": "2026-06-23",
       "pinned": false,
-      "grid_order": 1,
+      "grid_order": 2,
       "from_profile": true,
       "history": [
         {
@@ -9591,6 +11552,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 3,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 55,
+          "collects": 5,
+          "comments": 3,
+          "shares": 0
         }
       ]
     },
@@ -9599,13 +11567,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🕶️🕶️",
       "author": "inho",
-      "likes": 87,
+      "likes": 88,
       "collects": 8,
       "comments": 3,
       "shares": 3,
       "publish_time": "2026-06-19",
       "pinned": false,
-      "grid_order": 2,
+      "grid_order": 3,
       "from_profile": true,
       "history": [
         {
@@ -9621,6 +11589,13 @@ window.XHS_DATA = {
           "collects": 8,
           "comments": 3,
           "shares": 3
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 88,
+          "collects": 8,
+          "comments": 3,
+          "shares": 3
         }
       ]
     },
@@ -9629,13 +11604,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🌅☕️",
       "author": "inho",
-      "likes": 69,
+      "likes": 71,
       "collects": 3,
       "comments": 9,
       "shares": 0,
       "publish_time": "2026-06-11",
       "pinned": false,
-      "grid_order": 3,
+      "grid_order": 4,
       "from_profile": true,
       "history": [
         {
@@ -9651,36 +11626,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 9,
           "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a2929ac000000000e038400",
-      "type": "note",
-      "title": "🌲🪾☕️",
-      "author": "inho",
-      "likes": 81,
-      "collects": 5,
-      "comments": 4,
-      "shares": 2,
-      "publish_time": "2026-06-10",
-      "pinned": false,
-      "grid_order": 4,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 81,
-          "collects": 5,
-          "comments": 4,
-          "shares": 2
         },
         {
-          "date": "2026-07-08",
-          "likes": 81,
-          "collects": 5,
-          "comments": 4,
-          "shares": 2
+          "date": "2026-07-09",
+          "likes": 71,
+          "collects": 3,
+          "comments": 9,
+          "shares": 0
         }
       ]
     },
@@ -9707,6 +11659,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 2,
           "collects": 0,
           "comments": 0,
@@ -9741,6 +11700,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 4,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -9767,6 +11733,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 3,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 3,
           "collects": 0,
           "comments": 0,
@@ -9801,6 +11774,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 5,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -9827,6 +11807,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 4,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 4,
           "collects": 1,
           "comments": 0,
@@ -9861,6 +11848,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 0,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -9887,6 +11881,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 0,
+          "collects": 0,
+          "comments": 2,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 0,
           "collects": 0,
           "comments": 2,
@@ -9921,6 +11922,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 0,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -9947,6 +11955,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 0,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 0,
           "collects": 0,
           "comments": 0,
@@ -9981,6 +11996,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 0,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -10007,6 +12029,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 14,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 14,
           "collects": 0,
           "comments": 1,
@@ -10041,6 +12070,13 @@ window.XHS_DATA = {
           "collects": 14,
           "comments": 15,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 126,
+          "collects": 14,
+          "comments": 15,
+          "shares": 1
         }
       ]
     },
@@ -10067,6 +12103,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 38,
+          "collects": 3,
+          "comments": 5,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 38,
           "collects": 3,
           "comments": 5,
@@ -10101,6 +12144,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 12,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 60,
+          "collects": 5,
+          "comments": 12,
+          "shares": 0
         }
       ]
     },
@@ -10127,6 +12177,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 20,
+          "collects": 4,
+          "comments": 3,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 20,
           "collects": 4,
           "comments": 3,
@@ -10161,6 +12218,13 @@ window.XHS_DATA = {
           "collects": 92,
           "comments": 8,
           "shares": 11
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 805,
+          "collects": 92,
+          "comments": 8,
+          "shares": 11
         }
       ]
     },
@@ -10191,6 +12255,13 @@ window.XHS_DATA = {
           "collects": 24,
           "comments": 20,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 230,
+          "collects": 24,
+          "comments": 20,
+          "shares": 1
         }
       ]
     },
@@ -10199,7 +12270,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "蓝色和小韩很搭哦",
       "author": "Mini帆",
-      "likes": 37,
+      "likes": 38,
       "collects": 0,
       "comments": 4,
       "shares": 3,
@@ -10218,6 +12289,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 37,
+          "collects": 0,
+          "comments": 4,
+          "shares": 3
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 38,
           "collects": 0,
           "comments": 4,
           "shares": 3
@@ -10247,6 +12325,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 44,
+          "collects": 17,
+          "comments": 3,
+          "shares": 5
+        },
+        {
+          "date": "2026-07-09",
           "likes": 44,
           "collects": 17,
           "comments": 3,
@@ -10281,6 +12366,13 @@ window.XHS_DATA = {
           "collects": 7,
           "comments": 30,
           "shares": 6
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 275,
+          "collects": 7,
+          "comments": 30,
+          "shares": 6
         }
       ]
     },
@@ -10307,6 +12399,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 1800,
+          "collects": 185,
+          "comments": 30,
+          "shares": 29
+        },
+        {
+          "date": "2026-07-09",
           "likes": 1800,
           "collects": 185,
           "comments": 30,
@@ -10341,6 +12440,13 @@ window.XHS_DATA = {
           "collects": 11,
           "comments": 6,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 120,
+          "collects": 11,
+          "comments": 6,
+          "shares": 1
         }
       ]
     },
@@ -10352,7 +12458,7 @@ window.XHS_DATA = {
       "likes": 1500,
       "collects": 183,
       "comments": 136,
-      "shares": 58,
+      "shares": 59,
       "publish_time": "2026-06-19",
       "pinned": false,
       "grid_order": 1,
@@ -10371,6 +12477,36 @@ window.XHS_DATA = {
           "collects": 183,
           "comments": 136,
           "shares": 58
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 1500,
+          "collects": 183,
+          "comments": 136,
+          "shares": 59
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a4e1c7d000000000d00bc00",
+      "type": "note",
+      "title": "✌🏼",
+      "author": "Austin Kang",
+      "likes": 87,
+      "collects": 2,
+      "comments": 5,
+      "shares": 0,
+      "publish_time": "2026-07-08",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-07-09",
+          "likes": 87,
+          "collects": 2,
+          "comments": 5,
+          "shares": 0
         }
       ]
     },
@@ -10379,13 +12515,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "时间过得真快",
       "author": "Austin Kang",
-      "likes": 121,
+      "likes": 125,
       "collects": 1,
       "comments": 9,
       "shares": 1,
       "publish_time": "2026-07-05",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 1,
       "from_profile": true,
       "history": [
         {
@@ -10401,6 +12537,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 9,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 125,
+          "collects": 1,
+          "comments": 9,
+          "shares": 1
         }
       ]
     },
@@ -10409,13 +12552,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🏃🏻",
       "author": "Austin Kang",
-      "likes": 140,
+      "likes": 145,
       "collects": 2,
       "comments": 14,
       "shares": 4,
       "publish_time": "2026-06-30",
       "pinned": false,
-      "grid_order": 1,
+      "grid_order": 2,
       "from_profile": true,
       "history": [
         {
@@ -10431,6 +12574,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 14,
           "shares": 4
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 145,
+          "collects": 2,
+          "comments": 14,
+          "shares": 4
         }
       ]
     },
@@ -10439,13 +12589,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "😉",
       "author": "Austin Kang",
-      "likes": 163,
+      "likes": 165,
       "collects": 8,
       "comments": 34,
       "shares": 10,
       "publish_time": "2026-06-23",
       "pinned": false,
-      "grid_order": 2,
+      "grid_order": 3,
       "from_profile": true,
       "history": [
         {
@@ -10458,6 +12608,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 163,
+          "collects": 8,
+          "comments": 34,
+          "shares": 10
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 165,
           "collects": 8,
           "comments": 34,
           "shares": 10
@@ -10469,13 +12626,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "☺️",
       "author": "Austin Kang",
-      "likes": 118,
+      "likes": 120,
       "collects": 5,
       "comments": 11,
       "shares": 1,
       "publish_time": "2026-06-16",
       "pinned": false,
-      "grid_order": 3,
+      "grid_order": 4,
       "from_profile": true,
       "history": [
         {
@@ -10488,6 +12645,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 118,
+          "collects": 5,
+          "comments": 11,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 120,
           "collects": 5,
           "comments": 11,
           "shares": 1
@@ -10495,32 +12659,25 @@ window.XHS_DATA = {
       ]
     },
     {
-      "url": "https://www.rednote.com/explore/6a2c176a000000000e031401",
+      "url": "https://www.rednote.com/explore/6a4e54d9000000000e038400",
       "type": "note",
-      "title": "😎",
-      "author": "Austin Kang",
-      "likes": 104,
-      "collects": 3,
-      "comments": 16,
-      "shares": 0,
-      "publish_time": "2026-06-12",
+      "title": "去吃饭的路上偶然撞见的凌霄花 ❥𓂃𓏧",
+      "author": "金高恩goxnniee",
+      "likes": 593,
+      "collects": 57,
+      "comments": 53,
+      "shares": 20,
+      "publish_time": "2026-07-08",
       "pinned": false,
-      "grid_order": 4,
+      "grid_order": 0,
       "from_profile": true,
       "history": [
         {
-          "date": "2026-07-07",
-          "likes": 104,
-          "collects": 3,
-          "comments": 16,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 104,
-          "collects": 3,
-          "comments": 16,
-          "shares": 0
+          "date": "2026-07-09",
+          "likes": 593,
+          "collects": 57,
+          "comments": 53,
+          "shares": 20
         }
       ]
     },
@@ -10529,13 +12686,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "howto｜photo in釜山🍃",
       "author": "金高恩goxnniee",
-      "likes": 387,
-      "collects": 34,
-      "comments": 34,
-      "shares": 6,
+      "likes": 439,
+      "collects": 40,
+      "comments": 35,
+      "shares": 7,
       "publish_time": "2026-07-05",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 1,
       "from_profile": true,
       "history": [
         {
@@ -10551,6 +12708,13 @@ window.XHS_DATA = {
           "collects": 34,
           "comments": 34,
           "shares": 6
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 439,
+          "collects": 40,
+          "comments": 35,
+          "shares": 7
         }
       ]
     },
@@ -10559,13 +12723,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "高恩's vlog|🇰🇷仅需3000韩元的游轮",
       "author": "金高恩goxnniee",
-      "likes": 256,
+      "likes": 273,
       "collects": 20,
       "comments": 34,
       "shares": 4,
       "publish_time": "2026-07-03",
       "pinned": false,
-      "grid_order": 1,
+      "grid_order": 2,
       "from_profile": true,
       "history": [
         {
@@ -10581,6 +12745,13 @@ window.XHS_DATA = {
           "collects": 20,
           "comments": 34,
           "shares": 4
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 273,
+          "collects": 20,
+          "comments": 34,
+          "shares": 4
         }
       ]
     },
@@ -10589,13 +12760,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "釜山还是一如既往地美好🌊⛱️",
       "author": "金高恩goxnniee",
-      "likes": 444,
-      "collects": 24,
+      "likes": 473,
+      "collects": 27,
       "comments": 56,
-      "shares": 7,
+      "shares": 9,
       "publish_time": "2026-07-02",
       "pinned": false,
-      "grid_order": 2,
+      "grid_order": 3,
       "from_profile": true,
       "history": [
         {
@@ -10611,6 +12782,13 @@ window.XHS_DATA = {
           "collects": 24,
           "comments": 56,
           "shares": 7
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 473,
+          "collects": 27,
+          "comments": 56,
+          "shares": 9
         }
       ]
     },
@@ -10619,13 +12797,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "来德寿宫拍照啦！！",
       "author": "金高恩goxnniee",
-      "likes": 487,
-      "collects": 19,
-      "comments": 39,
+      "likes": 504,
+      "collects": 20,
+      "comments": 40,
       "shares": 7,
       "publish_time": "2026-07-01",
       "pinned": false,
-      "grid_order": 3,
+      "grid_order": 4,
       "from_profile": true,
       "history": [
         {
@@ -10641,35 +12819,12 @@ window.XHS_DATA = {
           "collects": 19,
           "comments": 39,
           "shares": 7
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a438cf2000000000d00bc00",
-      "type": "note",
-      "title": "高恩’s VLOG|第一次去纽约的高恩⋆˚",
-      "author": "金高恩goxnniee",
-      "likes": 522,
-      "collects": 38,
-      "comments": 23,
-      "shares": 7,
-      "publish_time": "2026-06-30",
-      "pinned": false,
-      "grid_order": 4,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 519,
-          "collects": 38,
-          "comments": 23,
-          "shares": 7
         },
         {
-          "date": "2026-07-08",
-          "likes": 522,
-          "collects": 38,
-          "comments": 23,
+          "date": "2026-07-09",
+          "likes": 504,
+          "collects": 20,
+          "comments": 40,
           "shares": 7
         }
       ]
@@ -10697,6 +12852,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 5,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 5,
           "collects": 1,
           "comments": 0,
@@ -10731,6 +12893,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 4,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 28,
+          "collects": 1,
+          "comments": 4,
+          "shares": 0
         }
       ]
     },
@@ -10757,6 +12926,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 12,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 12,
           "collects": 0,
           "comments": 0,
@@ -10791,6 +12967,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 3,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 11,
+          "collects": 0,
+          "comments": 3,
+          "shares": 0
         }
       ]
     },
@@ -10821,6 +13004,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 5,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -10829,7 +13019,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Sik-K公司艺人居然来我店里买衣服了",
       "author": "DIORBOY",
-      "likes": 229,
+      "likes": 230,
       "collects": 15,
       "comments": 5,
       "shares": 50,
@@ -10848,6 +13038,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 229,
+          "collects": 15,
+          "comments": 5,
+          "shares": 50
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 230,
           "collects": 15,
           "comments": 5,
           "shares": 50
@@ -10877,6 +13074,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 219,
+          "collects": 18,
+          "comments": 16,
+          "shares": 27
+        },
+        {
+          "date": "2026-07-09",
           "likes": 219,
           "collects": 18,
           "comments": 16,
@@ -10911,6 +13115,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 7,
+          "collects": 0,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -10941,6 +13152,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 1,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -10960,6 +13178,13 @@ window.XHS_DATA = {
       "history": [
         {
           "date": "2026-07-08",
+          "likes": 2,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 2,
           "collects": 1,
           "comments": 0,
@@ -10994,6 +13219,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 4,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -11024,6 +13256,36 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 17,
+          "collects": 2,
+          "comments": 2,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a4e5204000000000e021801",
+      "type": "note",
+      "title": "我的季节来啦🍃",
+      "author": "金慧真Hyejin",
+      "likes": 37,
+      "collects": 4,
+      "comments": 5,
+      "shares": 0,
+      "publish_time": "2026-07-08",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-07-09",
+          "likes": 37,
+          "collects": 4,
+          "comments": 5,
+          "shares": 0
         }
       ]
     },
@@ -11032,13 +13294,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "和闺蜜见面❤️能量直接拉满 201%",
       "author": "金慧真Hyejin",
-      "likes": 13,
+      "likes": 14,
       "collects": 6,
       "comments": 3,
       "shares": 0,
       "publish_time": "2026-07-06",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 1,
       "from_profile": true,
       "history": [
         {
@@ -11054,6 +13316,13 @@ window.XHS_DATA = {
           "collects": 6,
           "comments": 3,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 14,
+          "collects": 6,
+          "comments": 3,
+          "shares": 0
         }
       ]
     },
@@ -11062,13 +13331,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "howto夏季日常通勤穿搭",
       "author": "金慧真Hyejin",
-      "likes": 24,
+      "likes": 26,
       "collects": 2,
       "comments": 1,
       "shares": 0,
       "publish_time": "2026-07-03",
       "pinned": false,
-      "grid_order": 1,
+      "grid_order": 2,
       "from_profile": true,
       "history": [
         {
@@ -11084,35 +13353,12 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 1,
           "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a439aee000000000e031400",
-      "type": "note",
-      "title": "夏天真的来了～🌳",
-      "author": "金慧真Hyejin",
-      "likes": 47,
-      "collects": 7,
-      "comments": 3,
-      "shares": 0,
-      "publish_time": "2026-06-30",
-      "pinned": false,
-      "grid_order": 2,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 47,
-          "collects": 7,
-          "comments": 3,
-          "shares": 0
         },
         {
-          "date": "2026-07-08",
-          "likes": 47,
-          "collects": 7,
-          "comments": 3,
+          "date": "2026-07-09",
+          "likes": 26,
+          "collects": 2,
+          "comments": 1,
           "shares": 0
         }
       ]
@@ -11128,52 +13374,29 @@ window.XHS_DATA = {
       "shares": 0,
       "publish_time": "2026-06-24",
       "pinned": false,
-      "grid_order": 3,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 35,
-          "collects": 2,
-          "comments": 1,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 35,
-          "collects": 2,
-          "comments": 1,
-          "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a39f864000000000d00bc00",
-      "type": "note",
-      "title": "体验了全明星赛开球~⚾️🤍",
-      "author": "金慧真Hyejin",
-      "likes": 36,
-      "collects": 2,
-      "comments": 3,
-      "shares": 1,
-      "publish_time": "2026-06-23",
-      "pinned": false,
       "grid_order": 4,
       "from_profile": true,
       "history": [
         {
           "date": "2026-07-07",
-          "likes": 36,
+          "likes": 35,
           "collects": 2,
-          "comments": 3,
-          "shares": 1
+          "comments": 1,
+          "shares": 0
         },
         {
           "date": "2026-07-08",
-          "likes": 36,
+          "likes": 35,
           "collects": 2,
-          "comments": 3,
-          "shares": 1
+          "comments": 1,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 35,
+          "collects": 2,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -11182,7 +13405,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "爱上芭蕾了🩰🎀",
       "author": "Jaeyee 婕依",
-      "likes": 0,
+      "likes": 4,
       "collects": 0,
       "comments": 0,
       "shares": 0,
@@ -11194,6 +13417,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "likes": 0,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 4,
           "collects": 0,
           "comments": 0,
           "shares": 0
@@ -11223,6 +13453,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 1,
           "collects": 0,
           "comments": 0,
@@ -11257,6 +13494,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 1,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -11283,6 +13527,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 5,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 5,
           "collects": 1,
           "comments": 0,
@@ -11317,6 +13568,36 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 4,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 22,
+          "collects": 2,
+          "comments": 4,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a48a350000000000e031400",
+      "type": "note",
+      "title": "这个挑战最费头😂",
+      "author": "Team1llusion",
+      "likes": 2,
+      "collects": 0,
+      "comments": 0,
+      "shares": 0,
+      "publish_time": "2026-07-08",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-07-09",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -11325,13 +13606,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "来自team1llusion的LOVE~",
       "author": "Team1llusion",
-      "likes": 341,
-      "collects": 5,
-      "comments": 0,
-      "shares": 4,
+      "likes": 1500,
+      "collects": 66,
+      "comments": 3,
+      "shares": 21,
       "publish_time": "2026-07-07",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 1,
       "from_profile": true,
       "history": [
         {
@@ -11340,6 +13621,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 0,
           "shares": 4
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 1500,
+          "collects": 66,
+          "comments": 3,
+          "shares": 21
         }
       ]
     },
@@ -11354,7 +13642,7 @@ window.XHS_DATA = {
       "shares": 0,
       "publish_time": "2026-07-06",
       "pinned": false,
-      "grid_order": 1,
+      "grid_order": 2,
       "from_profile": true,
       "history": [
         {
@@ -11366,6 +13654,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 6,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 6,
           "collects": 0,
           "comments": 0,
@@ -11384,7 +13679,7 @@ window.XHS_DATA = {
       "shares": 1,
       "publish_time": "2026-07-04",
       "pinned": false,
-      "grid_order": 2,
+      "grid_order": 3,
       "from_profile": true,
       "history": [
         {
@@ -11396,6 +13691,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 243,
+          "collects": 60,
+          "comments": 0,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 243,
           "collects": 60,
           "comments": 0,
@@ -11414,7 +13716,7 @@ window.XHS_DATA = {
       "shares": 1,
       "publish_time": "2026-07-02",
       "pinned": false,
-      "grid_order": 3,
+      "grid_order": 4,
       "from_profile": true,
       "history": [
         {
@@ -11430,36 +13732,13 @@ window.XHS_DATA = {
           "collects": 47,
           "comments": 1,
           "shares": 1
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a439f64000000000e031400",
-      "type": "note",
-      "title": "挑战坐在移动的足球上？！⚽️😱",
-      "author": "Team1llusion",
-      "likes": 78,
-      "collects": 15,
-      "comments": 0,
-      "shares": 0,
-      "publish_time": "2026-07-01",
-      "pinned": false,
-      "grid_order": 4,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 77,
-          "collects": 15,
-          "comments": 0,
-          "shares": 0
         },
         {
-          "date": "2026-07-08",
-          "likes": 78,
-          "collects": 15,
-          "comments": 0,
-          "shares": 0
+          "date": "2026-07-09",
+          "likes": 123,
+          "collects": 47,
+          "comments": 1,
+          "shares": 1
         }
       ]
     },
@@ -11493,6 +13772,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 0,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 0,
           "collects": 0,
           "comments": 0,
@@ -11534,6 +13820,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 0,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -11571,6 +13864,36 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a4de872000000000702804c",
+      "type": "note",
+      "title": "104天的宝宝终于翻身了",
+      "author": "智秀 SSOLOG",
+      "likes": 2,
+      "collects": 0,
+      "comments": 1,
+      "shares": 0,
+      "publish_time": "2026-07-08",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-07-09",
+          "likes": 2,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -11585,7 +13908,7 @@ window.XHS_DATA = {
       "shares": 0,
       "publish_time": "2026-07-07",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 1,
       "from_profile": true,
       "history": [
         {
@@ -11597,6 +13920,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 10,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 10,
           "collects": 0,
           "comments": 0,
@@ -11615,7 +13945,7 @@ window.XHS_DATA = {
       "shares": 0,
       "publish_time": "2026-07-03",
       "pinned": false,
-      "grid_order": 1,
+      "grid_order": 2,
       "from_profile": true,
       "history": [
         {
@@ -11627,6 +13957,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 13,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 13,
           "collects": 0,
           "comments": 0,
@@ -11645,7 +13982,7 @@ window.XHS_DATA = {
       "shares": 0,
       "publish_time": "2026-07-01",
       "pinned": false,
-      "grid_order": 2,
+      "grid_order": 3,
       "from_profile": true,
       "history": [
         {
@@ -11657,6 +13994,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 98,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 98,
           "collects": 1,
           "comments": 0,
@@ -11669,58 +14013,35 @@ window.XHS_DATA = {
       "type": "note",
       "title": "原来宝宝的精力是无限的…😩",
       "author": "智秀 SSOLOG",
-      "likes": 28,
+      "likes": 30,
       "collects": 2,
       "comments": 2,
       "shares": 1,
       "publish_time": "2026-06-29",
-      "pinned": false,
-      "grid_order": 3,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 28,
-          "collects": 2,
-          "comments": 2,
-          "shares": 1
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 28,
-          "collects": 2,
-          "comments": 2,
-          "shares": 1
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a3f0eb30000000007012a85",
-      "type": "note",
-      "title": "生个香香软软的崽有多爽",
-      "author": "智秀 SSOLOG",
-      "likes": 8,
-      "collects": 0,
-      "comments": 0,
-      "shares": 0,
-      "publish_time": "2026-06-27",
       "pinned": false,
       "grid_order": 4,
       "from_profile": true,
       "history": [
         {
           "date": "2026-07-07",
-          "likes": 8,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
+          "likes": 28,
+          "collects": 2,
+          "comments": 2,
+          "shares": 1
         },
         {
           "date": "2026-07-08",
-          "likes": 8,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
+          "likes": 28,
+          "collects": 2,
+          "comments": 2,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 30,
+          "collects": 2,
+          "comments": 2,
+          "shares": 1
         }
       ]
     },
@@ -11751,6 +14072,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -11759,8 +14087,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "高恩和伊健｜所以两人是什么关系呢？",
       "author": "一之濑美奈实",
-      "likes": 50,
-      "collects": 15,
+      "likes": 54,
+      "collects": 16,
       "comments": 3,
       "shares": 4,
       "publish_time": "2026-06-26",
@@ -11781,6 +14109,13 @@ window.XHS_DATA = {
           "collects": 15,
           "comments": 3,
           "shares": 4
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 54,
+          "collects": 16,
+          "comments": 3,
+          "shares": 4
         }
       ]
     },
@@ -11792,7 +14127,7 @@ window.XHS_DATA = {
       "likes": 1200,
       "collects": 301,
       "comments": 13,
-      "shares": 56,
+      "shares": 57,
       "publish_time": "2026-06-24",
       "pinned": false,
       "grid_order": 1,
@@ -11811,6 +14146,13 @@ window.XHS_DATA = {
           "collects": 301,
           "comments": 13,
           "shares": 56
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 1200,
+          "collects": 301,
+          "comments": 13,
+          "shares": 57
         }
       ]
     },
@@ -11820,9 +14162,9 @@ window.XHS_DATA = {
       "title": "恋综两位空姐首次见面",
       "author": "一之濑美奈实",
       "likes": 3400,
-      "collects": 610,
-      "comments": 130,
-      "shares": 643,
+      "collects": 611,
+      "comments": 131,
+      "shares": 647,
       "publish_time": "2026-06-23",
       "pinned": false,
       "grid_order": 2,
@@ -11841,6 +14183,13 @@ window.XHS_DATA = {
           "collects": 610,
           "comments": 130,
           "shares": 643
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 3400,
+          "collects": 611,
+          "comments": 131,
+          "shares": 647
         }
       ]
     },
@@ -11867,6 +14216,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 11,
+          "collects": 3,
+          "comments": 2,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 11,
           "collects": 3,
           "comments": 2,
@@ -11901,6 +14257,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -11927,6 +14290,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 7,
+          "collects": 1,
+          "comments": 1,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 7,
           "collects": 1,
           "comments": 1,
@@ -11961,6 +14331,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 3,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 10,
+          "collects": 3,
+          "comments": 3,
+          "shares": 1
         }
       ]
     },
@@ -11991,6 +14368,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 31,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -11999,9 +14383,9 @@ window.XHS_DATA = {
       "type": "note",
       "title": "야화첩",
       "author": "dony",
-      "likes": 151,
+      "likes": 153,
       "collects": 15,
-      "comments": 11,
+      "comments": 12,
       "shares": 6,
       "publish_time": "2026-06-22",
       "pinned": false,
@@ -12020,6 +14404,13 @@ window.XHS_DATA = {
           "likes": 151,
           "collects": 15,
           "comments": 11,
+          "shares": 6
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 153,
+          "collects": 15,
+          "comments": 12,
           "shares": 6
         }
       ]
@@ -12047,6 +14438,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 31,
+          "collects": 1,
+          "comments": 1,
+          "shares": 1
+        },
+        {
+          "date": "2026-07-09",
           "likes": 31,
           "collects": 1,
           "comments": 1,
@@ -12081,6 +14479,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 1,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 18,
+          "collects": 1,
+          "comments": 1,
+          "shares": 1
         }
       ]
     },
@@ -12107,6 +14512,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 14,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 14,
           "collects": 0,
           "comments": 1,
@@ -12141,6 +14553,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 3,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -12167,6 +14586,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 28,
+          "collects": 5,
+          "comments": 1,
+          "shares": 5
+        },
+        {
+          "date": "2026-07-09",
           "likes": 28,
           "collects": 5,
           "comments": 1,
@@ -12201,6 +14627,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 8,
+          "collects": 0,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -12227,6 +14660,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 1,
           "collects": 0,
           "comments": 0,
@@ -12261,6 +14701,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 3,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -12287,6 +14734,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 9,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-07-09",
           "likes": 9,
           "collects": 0,
           "comments": 0,
@@ -12321,6 +14775,13 @@ window.XHS_DATA = {
           "collects": 71,
           "comments": 1,
           "shares": 10
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 138,
+          "collects": 71,
+          "comments": 1,
+          "shares": 10
         }
       ]
     },
@@ -12347,6 +14808,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 78,
+          "collects": 28,
+          "comments": 1,
+          "shares": 2
+        },
+        {
+          "date": "2026-07-09",
           "likes": 78,
           "collects": 28,
           "comments": 1,
@@ -12381,6 +14849,13 @@ window.XHS_DATA = {
           "collects": 11,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 17,
+          "collects": 11,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -12407,6 +14882,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "likes": 105,
+          "collects": 56,
+          "comments": 0,
+          "shares": 7
+        },
+        {
+          "date": "2026-07-09",
           "likes": 105,
           "collects": 56,
           "comments": 0,
@@ -12441,6 +14923,13 @@ window.XHS_DATA = {
           "collects": 46,
           "comments": 4,
           "shares": 11
+        },
+        {
+          "date": "2026-07-09",
+          "likes": 95,
+          "collects": 46,
+          "comments": 4,
+          "shares": 11
         }
       ]
     }
@@ -12466,6 +14955,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 2000,
+          "following": 0,
+          "likes_collects": 21000,
+          "notes_count": 30
+        },
+        {
+          "date": "2026-07-09",
           "fans": 2000,
           "following": 0,
           "likes_collects": 21000,
@@ -12497,6 +14993,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 42000,
           "notes_count": 31
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 1800,
+          "following": 0,
+          "likes_collects": 42000,
+          "notes_count": 31
         }
       ]
     },
@@ -12520,6 +15023,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 16000,
+          "following": 0,
+          "likes_collects": 72000,
+          "notes_count": 30
+        },
+        {
+          "date": "2026-07-09",
           "fans": 16000,
           "following": 0,
           "likes_collects": 72000,
@@ -12551,6 +15061,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 13000,
           "notes_count": 5
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 3200,
+          "following": 0,
+          "likes_collects": 13000,
+          "notes_count": 5
         }
       ]
     },
@@ -12574,6 +15091,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 7600,
+          "following": 0,
+          "likes_collects": 19000,
+          "notes_count": 32
+        },
+        {
+          "date": "2026-07-09",
           "fans": 7600,
           "following": 0,
           "likes_collects": 19000,
@@ -12605,6 +15129,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 21000,
           "notes_count": 31
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 6300,
+          "following": 0,
+          "likes_collects": 21000,
+          "notes_count": 31
         }
       ]
     },
@@ -12628,6 +15159,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 26,
+          "following": 0,
+          "likes_collects": 39,
+          "notes_count": 3
+        },
+        {
+          "date": "2026-07-09",
           "fans": 26,
           "following": 0,
           "likes_collects": 39,
@@ -12659,6 +15197,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 330,
           "notes_count": 30
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 112,
+          "following": 0,
+          "likes_collects": 330,
+          "notes_count": 30
         }
       ]
     },
@@ -12686,6 +15231,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 39000,
           "notes_count": 32
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 21000,
+          "following": 0,
+          "likes_collects": 39000,
+          "notes_count": 32
         }
       ]
     },
@@ -12695,8 +15247,8 @@ window.XHS_DATA = {
       "name": "Goyoonseo",
       "uid": "662b5afc0000000003033900",
       "partner": true,
-      "fans": 49,
-      "likes_collects": 229,
+      "fans": 50,
+      "likes_collects": 234,
       "following": 0,
       "notes_count": 13,
       "history": [
@@ -12712,6 +15264,13 @@ window.XHS_DATA = {
           "fans": 49,
           "following": 0,
           "likes_collects": 229,
+          "notes_count": 13
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 50,
+          "following": 0,
+          "likes_collects": 234,
           "notes_count": 13
         }
       ]
@@ -12736,6 +15295,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 4,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
           "fans": 4,
           "following": 0,
           "likes_collects": 0,
@@ -12767,6 +15333,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 1000,
           "notes_count": 11
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 400,
+          "following": 0,
+          "likes_collects": 1000,
+          "notes_count": 11
         }
       ]
     },
@@ -12790,6 +15363,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 40,
+          "following": 0,
+          "likes_collects": 168,
+          "notes_count": 8
+        },
+        {
+          "date": "2026-07-09",
           "fans": 40,
           "following": 0,
           "likes_collects": 168,
@@ -12821,6 +15401,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 1900,
           "notes_count": 30
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 1300,
+          "following": 0,
+          "likes_collects": 1900,
+          "notes_count": 30
         }
       ]
     },
@@ -12848,6 +15435,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 15,
           "notes_count": 5
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 6,
+          "following": 0,
+          "likes_collects": 15,
+          "notes_count": 5
         }
       ]
     },
@@ -12857,7 +15451,7 @@ window.XHS_DATA = {
       "name": "민규珉奎",
       "uid": "68ddf09c000000003702ee47",
       "partner": true,
-      "fans": 842,
+      "fans": 844,
       "likes_collects": 5400,
       "following": 0,
       "notes_count": 17,
@@ -12872,6 +15466,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "fans": 842,
+          "following": 0,
+          "likes_collects": 5400,
+          "notes_count": 17
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 844,
           "following": 0,
           "likes_collects": 5400,
           "notes_count": 17
@@ -12898,6 +15499,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 122,
+          "following": 0,
+          "likes_collects": 306,
+          "notes_count": 11
+        },
+        {
+          "date": "2026-07-09",
           "fans": 122,
           "following": 0,
           "likes_collects": 306,
@@ -12929,6 +15537,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 129,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 16,
+          "following": 0,
+          "likes_collects": 129,
+          "notes_count": 0
         }
       ]
     },
@@ -12952,6 +15567,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 48,
+          "following": 0,
+          "likes_collects": 115,
+          "notes_count": 12
+        },
+        {
+          "date": "2026-07-09",
           "fans": 48,
           "following": 0,
           "likes_collects": 115,
@@ -12983,6 +15605,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 16,
           "notes_count": 13
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 3,
+          "following": 0,
+          "likes_collects": 16,
+          "notes_count": 13
         }
       ]
     },
@@ -13006,6 +15635,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 591,
+          "following": 0,
+          "likes_collects": 4700,
+          "notes_count": 30
+        },
+        {
+          "date": "2026-07-09",
           "fans": 591,
           "following": 0,
           "likes_collects": 4700,
@@ -13037,6 +15673,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 10,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 3,
+          "following": 0,
+          "likes_collects": 10,
+          "notes_count": 0
         }
       ]
     },
@@ -13060,6 +15703,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 50,
+          "following": 0,
+          "likes_collects": 277,
+          "notes_count": 6
+        },
+        {
+          "date": "2026-07-09",
           "fans": 50,
           "following": 0,
           "likes_collects": 277,
@@ -13091,6 +15741,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 1
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 1
         }
       ]
     },
@@ -13114,6 +15771,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 6,
+          "following": 0,
+          "likes_collects": 9,
+          "notes_count": 1
+        },
+        {
+          "date": "2026-07-09",
           "fans": 6,
           "following": 0,
           "likes_collects": 9,
@@ -13152,6 +15816,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -13175,6 +15846,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 1300,
+          "following": 0,
+          "likes_collects": 7200,
+          "notes_count": 30
+        },
+        {
+          "date": "2026-07-09",
           "fans": 1300,
           "following": 0,
           "likes_collects": 7200,
@@ -13206,6 +15884,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 82,
           "notes_count": 4
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 13,
+          "following": 0,
+          "likes_collects": 82,
+          "notes_count": 4
         }
       ]
     },
@@ -13229,6 +15914,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 2000,
+          "following": 0,
+          "likes_collects": 6500,
+          "notes_count": 16
+        },
+        {
+          "date": "2026-07-09",
           "fans": 2000,
           "following": 0,
           "likes_collects": 6500,
@@ -13260,6 +15952,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 2,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -13283,6 +15982,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 2,
+          "following": 0,
+          "likes_collects": 2,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
           "fans": 2,
           "following": 0,
           "likes_collects": 2,
@@ -13314,6 +16020,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 1200,
           "notes_count": 7
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 1200,
+          "following": 0,
+          "likes_collects": 1200,
+          "notes_count": 7
         }
       ]
     },
@@ -13337,6 +16050,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 11000,
+          "following": 0,
+          "likes_collects": 92000,
+          "notes_count": 30
+        },
+        {
+          "date": "2026-07-09",
           "fans": 11000,
           "following": 0,
           "likes_collects": 92000,
@@ -13368,6 +16088,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 5600,
           "notes_count": 13
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 3700,
+          "following": 0,
+          "likes_collects": 5600,
+          "notes_count": 13
         }
       ]
     },
@@ -13377,8 +16104,8 @@ window.XHS_DATA = {
       "name": "文福姬Eat with Boki",
       "uid": "69c5492a0000000026039cae",
       "partner": true,
-      "fans": 576000,
-      "likes_collects": 1504000,
+      "fans": 578000,
+      "likes_collects": 1512000,
       "following": 0,
       "notes_count": 19,
       "history": [
@@ -13401,6 +16128,13 @@ window.XHS_DATA = {
           "fans": 576000,
           "following": 0,
           "likes_collects": 1504000,
+          "notes_count": 19
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 578000,
+          "following": 0,
+          "likes_collects": 1512000,
           "notes_count": 19
         }
       ]
@@ -13425,6 +16159,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 838,
+          "following": 0,
+          "likes_collects": 3000,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
           "fans": 838,
           "following": 0,
           "likes_collects": 3000,
@@ -13456,6 +16197,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 30000,
           "notes_count": 13
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 12000,
+          "following": 0,
+          "likes_collects": 30000,
+          "notes_count": 13
         }
       ]
     },
@@ -13479,6 +16227,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 4,
+          "following": 0,
+          "likes_collects": 3,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
           "fans": 4,
           "following": 0,
           "likes_collects": 3,
@@ -13510,6 +16265,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 2100,
           "notes_count": 2
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 212,
+          "following": 0,
+          "likes_collects": 2100,
+          "notes_count": 2
         }
       ]
     },
@@ -13533,6 +16295,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 2000,
+          "following": 0,
+          "likes_collects": 10000,
+          "notes_count": 23
+        },
+        {
+          "date": "2026-07-09",
           "fans": 2000,
           "following": 0,
           "likes_collects": 10000,
@@ -13564,6 +16333,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 12000,
           "notes_count": 30
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 2600,
+          "following": 0,
+          "likes_collects": 12000,
+          "notes_count": 30
         }
       ]
     },
@@ -13587,6 +16363,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 224,
+          "following": 0,
+          "likes_collects": 553,
+          "notes_count": 9
+        },
+        {
+          "date": "2026-07-09",
           "fans": 224,
           "following": 0,
           "likes_collects": 553,
@@ -13618,6 +16401,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 232000,
           "notes_count": 19
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 24000,
+          "following": 0,
+          "likes_collects": 232000,
+          "notes_count": 19
         }
       ]
     },
@@ -13630,7 +16420,7 @@ window.XHS_DATA = {
       "fans": 5300,
       "likes_collects": 12000,
       "following": 0,
-      "notes_count": 14,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -13645,6 +16435,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 12000,
           "notes_count": 14
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 5300,
+          "following": 0,
+          "likes_collects": 12000,
+          "notes_count": 0
         }
       ]
     },
@@ -13655,7 +16452,7 @@ window.XHS_DATA = {
       "uid": "69cb4e010000000026002eee",
       "partner": true,
       "fans": 10000,
-      "likes_collects": 102000,
+      "likes_collects": 103000,
       "following": 0,
       "notes_count": 27,
       "history": [
@@ -13672,6 +16469,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 102000,
           "notes_count": 27
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 10000,
+          "following": 0,
+          "likes_collects": 103000,
+          "notes_count": 27
         }
       ]
     },
@@ -13681,8 +16485,8 @@ window.XHS_DATA = {
       "name": "RIYE",
       "uid": "69579209000000002603a53c",
       "partner": false,
-      "fans": 88,
-      "likes_collects": 213,
+      "fans": 87,
+      "likes_collects": 214,
       "following": 0,
       "notes_count": 10,
       "history": [
@@ -13699,6 +16503,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 213,
           "notes_count": 10
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 87,
+          "following": 0,
+          "likes_collects": 214,
+          "notes_count": 10
         }
       ]
     },
@@ -13708,10 +16519,10 @@ window.XHS_DATA = {
       "name": "파동padong",
       "uid": "69d70fef00000000260032c7",
       "partner": false,
-      "fans": 26,
-      "likes_collects": 245,
+      "fans": 28,
+      "likes_collects": 252,
       "following": 0,
-      "notes_count": 15,
+      "notes_count": 16,
       "history": [
         {
           "date": "2026-07-07",
@@ -13726,6 +16537,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 245,
           "notes_count": 15
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 28,
+          "following": 0,
+          "likes_collects": 252,
+          "notes_count": 16
         }
       ]
     },
@@ -13749,6 +16567,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 3900,
+          "following": 0,
+          "likes_collects": 13000,
+          "notes_count": 19
+        },
+        {
+          "date": "2026-07-09",
           "fans": 3900,
           "following": 0,
           "likes_collects": 13000,
@@ -13780,6 +16605,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 57000,
           "notes_count": 24
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 4900,
+          "following": 0,
+          "likes_collects": 57000,
+          "notes_count": 24
         }
       ]
     },
@@ -13790,7 +16622,7 @@ window.XHS_DATA = {
       "uid": "69b819e60000000026001c12",
       "partner": true,
       "fans": 469,
-      "likes_collects": 2000,
+      "likes_collects": 2100,
       "following": 0,
       "notes_count": 15,
       "history": [
@@ -13806,6 +16638,13 @@ window.XHS_DATA = {
           "fans": 469,
           "following": 0,
           "likes_collects": 2000,
+          "notes_count": 15
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 469,
+          "following": 0,
+          "likes_collects": 2100,
           "notes_count": 15
         }
       ]
@@ -13830,6 +16669,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 4,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
           "fans": 4,
           "following": 0,
           "likes_collects": 0,
@@ -13861,6 +16707,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -13871,7 +16724,7 @@ window.XHS_DATA = {
       "uid": "69ef341f000000000d035c01",
       "partner": true,
       "fans": 236,
-      "likes_collects": 740,
+      "likes_collects": 741,
       "following": 0,
       "notes_count": 17,
       "history": [
@@ -13887,6 +16740,13 @@ window.XHS_DATA = {
           "fans": 236,
           "following": 0,
           "likes_collects": 740,
+          "notes_count": 17
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 236,
+          "following": 0,
+          "likes_collects": 741,
           "notes_count": 17
         }
       ]
@@ -13911,6 +16771,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 7,
+          "following": 0,
+          "likes_collects": 94,
+          "notes_count": 10
+        },
+        {
+          "date": "2026-07-09",
           "fans": 7,
           "following": 0,
           "likes_collects": 94,
@@ -13942,6 +16809,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 259,
           "notes_count": 14
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 41,
+          "following": 0,
+          "likes_collects": 259,
+          "notes_count": 14
         }
       ]
     },
@@ -13951,8 +16825,8 @@ window.XHS_DATA = {
       "name": "姜抒衍",
       "uid": "69f070d2000000000d035c00",
       "partner": false,
-      "fans": 16,
-      "likes_collects": 248,
+      "fans": 15,
+      "likes_collects": 255,
       "following": 0,
       "notes_count": 17,
       "history": [
@@ -13968,6 +16842,13 @@ window.XHS_DATA = {
           "fans": 16,
           "following": 0,
           "likes_collects": 248,
+          "notes_count": 17
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 15,
+          "following": 0,
+          "likes_collects": 255,
           "notes_count": 17
         }
       ]
@@ -13996,6 +16877,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -14005,7 +16893,7 @@ window.XHS_DATA = {
       "name": "Haesol",
       "uid": "64a7b123000000001c02adff",
       "partner": true,
-      "fans": 797,
+      "fans": 795,
       "likes_collects": 1900,
       "following": 0,
       "notes_count": 5,
@@ -14027,6 +16915,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "fans": 797,
+          "following": 0,
+          "likes_collects": 1900,
+          "notes_count": 5
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 795,
           "following": 0,
           "likes_collects": 1900,
           "notes_count": 5
@@ -14064,6 +16959,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -14074,7 +16976,7 @@ window.XHS_DATA = {
       "uid": "69f344f5000000000d034c01",
       "partner": true,
       "fans": 11,
-      "likes_collects": 103,
+      "likes_collects": 104,
       "following": 0,
       "notes_count": 11,
       "history": [
@@ -14090,6 +16992,13 @@ window.XHS_DATA = {
           "fans": 11,
           "following": 0,
           "likes_collects": 103,
+          "notes_count": 11
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 11,
+          "following": 0,
+          "likes_collects": 104,
           "notes_count": 11
         }
       ]
@@ -14114,6 +17023,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 5,
+          "following": 0,
+          "likes_collects": 41,
+          "notes_count": 4
+        },
+        {
+          "date": "2026-07-09",
           "fans": 5,
           "following": 0,
           "likes_collects": 41,
@@ -14145,6 +17061,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 33,
           "notes_count": 3
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 9,
+          "following": 0,
+          "likes_collects": 33,
+          "notes_count": 3
         }
       ]
     },
@@ -14172,6 +17095,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -14181,10 +17111,10 @@ window.XHS_DATA = {
       "name": "喵咕情侣",
       "uid": "69f2ea7f000000000d035c03",
       "partner": true,
-      "fans": 25,
-      "likes_collects": 158,
+      "fans": 26,
+      "likes_collects": 184,
       "following": 0,
-      "notes_count": 13,
+      "notes_count": 14,
       "history": [
         {
           "date": "2026-07-07",
@@ -14199,6 +17129,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 158,
           "notes_count": 13
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 26,
+          "following": 0,
+          "likes_collects": 184,
+          "notes_count": 14
         }
       ]
     },
@@ -14208,7 +17145,7 @@ window.XHS_DATA = {
       "name": "aquaaa7",
       "uid": "62786bff000000002102b934",
       "partner": false,
-      "fans": 348,
+      "fans": 347,
       "likes_collects": 2600,
       "following": 0,
       "notes_count": 30,
@@ -14223,6 +17160,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "fans": 348,
+          "following": 0,
+          "likes_collects": 2600,
+          "notes_count": 30
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 347,
           "following": 0,
           "likes_collects": 2600,
           "notes_count": 30
@@ -14249,6 +17193,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 268,
+          "following": 0,
+          "likes_collects": 4200,
+          "notes_count": 22
+        },
+        {
+          "date": "2026-07-09",
           "fans": 268,
           "following": 0,
           "likes_collects": 4200,
@@ -14280,6 +17231,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -14307,6 +17265,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 4100,
           "notes_count": 30
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 1600,
+          "following": 0,
+          "likes_collects": 4100,
+          "notes_count": 30
         }
       ]
     },
@@ -14316,7 +17281,7 @@ window.XHS_DATA = {
       "name": "__me__ne",
       "uid": "67f7b5b5000000000e0104a8",
       "partner": true,
-      "fans": 892,
+      "fans": 893,
       "likes_collects": 13000,
       "following": 0,
       "notes_count": 32,
@@ -14334,6 +17299,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 13000,
           "notes_count": 32
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 893,
+          "following": 0,
+          "likes_collects": 13000,
+          "notes_count": 32
         }
       ]
     },
@@ -14346,7 +17318,7 @@ window.XHS_DATA = {
       "fans": 10000,
       "likes_collects": 27000,
       "following": 0,
-      "notes_count": 15,
+      "notes_count": 14,
       "history": [
         {
           "date": "2026-07-07",
@@ -14361,6 +17333,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 27000,
           "notes_count": 15
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 10000,
+          "following": 0,
+          "likes_collects": 27000,
+          "notes_count": 14
         }
       ]
     },
@@ -14388,6 +17367,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 16,
           "notes_count": 4
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 4,
+          "following": 0,
+          "likes_collects": 16,
+          "notes_count": 4
         }
       ]
     },
@@ -14397,8 +17383,8 @@ window.XHS_DATA = {
       "name": "Seungchul Lee",
       "uid": "6a0f92d7000000000d035c02",
       "partner": false,
-      "fans": 117,
-      "likes_collects": 196,
+      "fans": 118,
+      "likes_collects": 199,
       "following": 0,
       "notes_count": 2,
       "history": [
@@ -14414,6 +17400,13 @@ window.XHS_DATA = {
           "fans": 117,
           "following": 0,
           "likes_collects": 196,
+          "notes_count": 2
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 118,
+          "following": 0,
+          "likes_collects": 199,
           "notes_count": 2
         }
       ]
@@ -14442,6 +17435,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 14000,
           "notes_count": 31
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 2100,
+          "following": 0,
+          "likes_collects": 14000,
+          "notes_count": 31
         }
       ]
     },
@@ -14452,7 +17452,7 @@ window.XHS_DATA = {
       "uid": "593d842650c4b4642f0c382a",
       "partner": false,
       "fans": 30,
-      "likes_collects": 253,
+      "likes_collects": 254,
       "following": 0,
       "notes_count": 1,
       "history": [
@@ -14468,6 +17468,13 @@ window.XHS_DATA = {
           "fans": 30,
           "following": 0,
           "likes_collects": 253,
+          "notes_count": 1
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 30,
+          "following": 0,
+          "likes_collects": 254,
           "notes_count": 1
         }
       ]
@@ -14492,6 +17499,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 396,
+          "following": 0,
+          "likes_collects": 461,
+          "notes_count": 2
+        },
+        {
+          "date": "2026-07-09",
           "fans": 396,
           "following": 0,
           "likes_collects": 461,
@@ -14523,6 +17537,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -14532,10 +17553,10 @@ window.XHS_DATA = {
       "name": "金枝香 Kim jihyang",
       "uid": "6814e211000000000d00a01f",
       "partner": false,
-      "fans": 574,
-      "likes_collects": 1900,
+      "fans": 583,
+      "likes_collects": 2000,
       "following": 0,
-      "notes_count": 13,
+      "notes_count": 14,
       "history": [
         {
           "date": "2026-07-07",
@@ -14550,6 +17571,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 1900,
           "notes_count": 13
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 583,
+          "following": 0,
+          "likes_collects": 2000,
+          "notes_count": 14
         }
       ]
     },
@@ -14559,10 +17587,10 @@ window.XHS_DATA = {
       "name": "林秀香 Im SooHyang",
       "uid": "6a153f3e000000000d035c00",
       "partner": false,
-      "fans": 8500,
-      "likes_collects": 16000,
+      "fans": 8600,
+      "likes_collects": 17000,
       "following": 0,
-      "notes_count": 16,
+      "notes_count": 17,
       "history": [
         {
           "date": "2026-07-07",
@@ -14577,6 +17605,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 16000,
           "notes_count": 16
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 8600,
+          "following": 0,
+          "likes_collects": 17000,
+          "notes_count": 17
         }
       ]
     },
@@ -14600,6 +17635,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 4,
+          "following": 0,
+          "likes_collects": 15,
+          "notes_count": 2
+        },
+        {
+          "date": "2026-07-09",
           "fans": 4,
           "following": 0,
           "likes_collects": 15,
@@ -14631,6 +17673,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 4200,
           "notes_count": 19
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 347,
+          "following": 0,
+          "likes_collects": 4200,
+          "notes_count": 19
         }
       ]
     },
@@ -14640,7 +17689,7 @@ window.XHS_DATA = {
       "name": "諝炫 Seohyun",
       "uid": "5fcce992000000000101e48c",
       "partner": false,
-      "fans": 218,
+      "fans": 217,
       "likes_collects": 1100,
       "following": 0,
       "notes_count": 28,
@@ -14655,6 +17704,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "fans": 218,
+          "following": 0,
+          "likes_collects": 1100,
+          "notes_count": 28
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 217,
           "following": 0,
           "likes_collects": 1100,
           "notes_count": 28
@@ -14681,6 +17737,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
           "fans": 0,
           "following": 0,
           "likes_collects": 0,
@@ -14712,6 +17775,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 32000,
           "notes_count": 32
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 3900,
+          "following": 0,
+          "likes_collects": 32000,
+          "notes_count": 32
         }
       ]
     },
@@ -14735,6 +17805,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
           "fans": 1,
           "following": 0,
           "likes_collects": 0,
@@ -14766,6 +17843,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -14789,6 +17873,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
           "fans": 0,
           "following": 0,
           "likes_collects": 0,
@@ -14820,6 +17911,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -14843,6 +17941,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
           "fans": 0,
           "following": 0,
           "likes_collects": 0,
@@ -14874,6 +17979,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 3,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -14883,8 +17995,8 @@ window.XHS_DATA = {
       "name": "jongmin02",
       "uid": "6a196b95000000000d035c00",
       "partner": false,
-      "fans": 151,
-      "likes_collects": 761,
+      "fans": 159,
+      "likes_collects": 808,
       "following": 0,
       "notes_count": 5,
       "history": [
@@ -14900,6 +18012,13 @@ window.XHS_DATA = {
           "fans": 151,
           "following": 0,
           "likes_collects": 761,
+          "notes_count": 5
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 159,
+          "following": 0,
+          "likes_collects": 808,
           "notes_count": 5
         }
       ]
@@ -14924,6 +18043,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
           "fans": 0,
           "following": 0,
           "likes_collects": 0,
@@ -14955,6 +18081,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 20000,
           "notes_count": 16
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 1700,
+          "following": 0,
+          "likes_collects": 20000,
+          "notes_count": 16
         }
       ]
     },
@@ -14978,6 +18111,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
           "fans": 0,
           "following": 0,
           "likes_collects": 0,
@@ -15009,6 +18149,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 6900,
           "notes_count": 30
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 1200,
+          "following": 0,
+          "likes_collects": 6900,
+          "notes_count": 30
         }
       ]
     },
@@ -15021,7 +18168,7 @@ window.XHS_DATA = {
       "fans": 4300,
       "likes_collects": 3300,
       "following": 0,
-      "notes_count": 19,
+      "notes_count": 20,
       "history": [
         {
           "date": "2026-07-07",
@@ -15036,6 +18183,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 3300,
           "notes_count": 19
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 4300,
+          "following": 0,
+          "likes_collects": 3300,
+          "notes_count": 20
         }
       ]
     },
@@ -15063,6 +18217,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 31,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 7,
+          "following": 0,
+          "likes_collects": 31,
+          "notes_count": 0
         }
       ]
     },
@@ -15072,7 +18233,7 @@ window.XHS_DATA = {
       "name": "By金贤进",
       "uid": "6826ab2a000000000d0080b7",
       "partner": false,
-      "fans": 498,
+      "fans": 497,
       "likes_collects": 4100,
       "following": 0,
       "notes_count": 30,
@@ -15087,6 +18248,13 @@ window.XHS_DATA = {
         {
           "date": "2026-07-08",
           "fans": 498,
+          "following": 0,
+          "likes_collects": 4100,
+          "notes_count": 30
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 497,
           "following": 0,
           "likes_collects": 4100,
           "notes_count": 30
@@ -15113,6 +18281,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 45,
+          "following": 0,
+          "likes_collects": 232,
+          "notes_count": 30
+        },
+        {
+          "date": "2026-07-09",
           "fans": 45,
           "following": 0,
           "likes_collects": 232,
@@ -15144,6 +18319,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 25,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 2,
+          "following": 0,
+          "likes_collects": 25,
+          "notes_count": 0
         }
       ]
     },
@@ -15167,6 +18349,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
           "fans": 0,
           "following": 0,
           "likes_collects": 0,
@@ -15198,6 +18387,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 615,
           "notes_count": 10
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 1100,
+          "following": 0,
+          "likes_collects": 615,
+          "notes_count": 10
         }
       ]
     },
@@ -15221,6 +18417,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
           "fans": 0,
           "following": 0,
           "likes_collects": 0,
@@ -15252,6 +18455,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 1200,
           "notes_count": 2
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 380,
+          "following": 0,
+          "likes_collects": 1200,
+          "notes_count": 2
         }
       ]
     },
@@ -15275,6 +18485,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 4400,
+          "following": 0,
+          "likes_collects": 18000,
+          "notes_count": 4
+        },
+        {
+          "date": "2026-07-09",
           "fans": 4400,
           "following": 0,
           "likes_collects": 18000,
@@ -15306,6 +18523,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -15329,6 +18553,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
           "fans": 0,
           "following": 0,
           "likes_collects": 0,
@@ -15360,6 +18591,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -15383,6 +18621,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
           "fans": 0,
           "following": 0,
           "likes_collects": 0,
@@ -15414,6 +18659,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 1900,
           "notes_count": 2
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 1200,
+          "following": 0,
+          "likes_collects": 1900,
+          "notes_count": 2
         }
       ]
     },
@@ -15424,9 +18676,9 @@ window.XHS_DATA = {
       "uid": "627219e2000000002102279c",
       "partner": false,
       "fans": 2200,
-      "likes_collects": 9500,
+      "likes_collects": 9600,
       "following": 0,
-      "notes_count": 19,
+      "notes_count": 20,
       "history": [
         {
           "date": "2026-07-07",
@@ -15441,6 +18693,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 9500,
           "notes_count": 19
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 2200,
+          "following": 0,
+          "likes_collects": 9600,
+          "notes_count": 20
         }
       ]
     },
@@ -15464,6 +18723,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
           "fans": 1,
           "following": 0,
           "likes_collects": 0,
@@ -15495,6 +18761,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -15505,9 +18778,9 @@ window.XHS_DATA = {
       "uid": "672b8011000000001d02cb93",
       "partner": false,
       "fans": 13000,
-      "likes_collects": 16000,
+      "likes_collects": 17000,
       "following": 0,
-      "notes_count": 12,
+      "notes_count": 13,
       "history": [
         {
           "date": "2026-07-07",
@@ -15522,6 +18795,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 16000,
           "notes_count": 12
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 13000,
+          "following": 0,
+          "likes_collects": 17000,
+          "notes_count": 13
         }
       ]
     },
@@ -15545,6 +18825,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
           "fans": 1,
           "following": 0,
           "likes_collects": 0,
@@ -15576,6 +18863,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 227,
           "notes_count": 21
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 20,
+          "following": 0,
+          "likes_collects": 227,
+          "notes_count": 21
         }
       ]
     },
@@ -15586,7 +18880,7 @@ window.XHS_DATA = {
       "uid": "6854f245000000001d009070",
       "partner": false,
       "fans": 11,
-      "likes_collects": 488,
+      "likes_collects": 489,
       "following": 0,
       "notes_count": 3,
       "history": [
@@ -15602,6 +18896,13 @@ window.XHS_DATA = {
           "fans": 11,
           "following": 0,
           "likes_collects": 488,
+          "notes_count": 3
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 11,
+          "following": 0,
+          "likes_collects": 489,
           "notes_count": 3
         }
       ]
@@ -15626,6 +18927,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 2,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
           "fans": 2,
           "following": 0,
           "likes_collects": 0,
@@ -15657,6 +18965,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 30,
           "notes_count": 4
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 4,
+          "following": 0,
+          "likes_collects": 30,
+          "notes_count": 4
         }
       ]
     },
@@ -15667,9 +18982,9 @@ window.XHS_DATA = {
       "uid": "66f78c2f000000001d033ac2",
       "partner": false,
       "fans": 1900,
-      "likes_collects": 4200,
+      "likes_collects": 4300,
       "following": 0,
-      "notes_count": 8,
+      "notes_count": 9,
       "history": [
         {
           "date": "2026-07-07",
@@ -15684,6 +18999,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 4200,
           "notes_count": 8
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 1900,
+          "following": 0,
+          "likes_collects": 4300,
+          "notes_count": 9
         }
       ]
     },
@@ -15693,8 +19015,8 @@ window.XHS_DATA = {
       "name": "Jaeyee 婕依",
       "uid": "69beb6bf000000002603b769",
       "partner": false,
-      "fans": 19,
-      "likes_collects": 52,
+      "fans": 20,
+      "likes_collects": 56,
       "following": 0,
       "notes_count": 10,
       "history": [
@@ -15711,6 +19033,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 52,
           "notes_count": 10
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 20,
+          "following": 0,
+          "likes_collects": 56,
+          "notes_count": 10
         }
       ]
     },
@@ -15720,10 +19049,10 @@ window.XHS_DATA = {
       "name": "Team1llusion",
       "uid": "69bb56fd00000000260015d7",
       "partner": false,
-      "fans": 44,
-      "likes_collects": 976,
+      "fans": 83,
+      "likes_collects": 2200,
       "following": 0,
-      "notes_count": 7,
+      "notes_count": 8,
       "history": [
         {
           "date": "2026-07-07",
@@ -15738,6 +19067,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 976,
           "notes_count": 7
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 83,
+          "following": 0,
+          "likes_collects": 2200,
+          "notes_count": 8
         }
       ]
     },
@@ -15772,6 +19108,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 1,
           "notes_count": 3
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 1,
+          "notes_count": 3
         }
       ]
     },
@@ -15782,9 +19125,9 @@ window.XHS_DATA = {
       "uid": "663465150000000007007c70",
       "partner": false,
       "fans": 2,
-      "likes_collects": 160,
+      "likes_collects": 164,
       "following": 0,
-      "notes_count": 5,
+      "notes_count": 6,
       "history": [
         {
           "date": "2026-07-07",
@@ -15799,6 +19142,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 160,
           "notes_count": 5
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 2,
+          "following": 0,
+          "likes_collects": 164,
+          "notes_count": 6
         }
       ]
     },
@@ -15822,6 +19172,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 1,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
           "fans": 1,
           "following": 0,
           "likes_collects": 1,
@@ -15853,6 +19210,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -15876,6 +19240,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 9,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
           "fans": 1,
           "following": 0,
           "likes_collects": 9,
@@ -15907,6 +19278,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -15930,6 +19308,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 2,
+          "following": 0,
+          "likes_collects": 1,
+          "notes_count": 1
+        },
+        {
+          "date": "2026-07-09",
           "fans": 2,
           "following": 0,
           "likes_collects": 1,
@@ -15961,6 +19346,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -15988,6 +19380,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -15998,7 +19397,7 @@ window.XHS_DATA = {
       "uid": "5d34816d00000000110281a9",
       "partner": false,
       "fans": 88,
-      "likes_collects": 5700,
+      "likes_collects": 5800,
       "following": 0,
       "notes_count": 3,
       "history": [
@@ -16014,6 +19413,13 @@ window.XHS_DATA = {
           "fans": 88,
           "following": 0,
           "likes_collects": 5700,
+          "notes_count": 3
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 88,
+          "following": 0,
+          "likes_collects": 5800,
           "notes_count": 3
         }
       ]
@@ -16038,6 +19444,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 2200,
+          "following": 0,
+          "likes_collects": 40000,
+          "notes_count": 18
+        },
+        {
+          "date": "2026-07-09",
           "fans": 2200,
           "following": 0,
           "likes_collects": 40000,
@@ -16069,6 +19482,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -16092,6 +19512,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
           "fans": 0,
           "following": 0,
           "likes_collects": 0,
@@ -16123,6 +19550,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 2700,
           "notes_count": 32
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 345,
+          "following": 0,
+          "likes_collects": 2700,
+          "notes_count": 32
         }
       ]
     },
@@ -16146,6 +19580,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 815,
+          "notes_count": 5
+        },
+        {
+          "date": "2026-07-09",
           "fans": 1,
           "following": 0,
           "likes_collects": 815,
@@ -16177,6 +19618,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -16200,6 +19648,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
           "fans": 0,
           "following": 0,
           "likes_collects": 0,
@@ -16231,6 +19686,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 3300,
           "notes_count": 30
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 774,
+          "following": 0,
+          "likes_collects": 3300,
+          "notes_count": 30
         }
       ]
     },
@@ -16254,6 +19716,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
           "fans": 1,
           "following": 0,
           "likes_collects": 0,
@@ -16292,6 +19761,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -16315,6 +19791,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-08",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-07-09",
           "fans": 1,
           "following": 0,
           "likes_collects": 0,
