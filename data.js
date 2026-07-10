@@ -1,7 +1,7 @@
 window.XHS_DATA = {
-  "updated_at": "2026-07-10 12:00:11",
-  "ok_count": 142,
-  "fail_count": 0,
+  "updated_at": "2026-07-10 13:40:42",
+  "ok_count": 140,
+  "fail_count": 2,
   "notes": [
     {
       "url": "https://www.rednote.com/explore/6a3bcd31000000000f01c254",
@@ -251,7 +251,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国男人都这样吗…？",
       "author": "Jang Eunbi 恩妃",
-      "likes": 41,
+      "likes": 42,
       "collects": 3,
       "comments": 2,
       "shares": 2,
@@ -269,7 +269,7 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "likes": 41,
+          "likes": 42,
           "collects": 3,
           "comments": 2,
           "shares": 2
@@ -1191,7 +1191,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "这个夏天要吃几个冰淇淋呀？🍦☀️🇰🇷",
       "author": "莉安 Rian",
-      "likes": 371,
+      "likes": 373,
       "collects": 44,
       "comments": 1,
       "shares": 16,
@@ -1223,7 +1223,7 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "likes": 371,
+          "likes": 373,
           "collects": 44,
           "comments": 1,
           "shares": 16
@@ -3162,226 +3162,6 @@ window.XHS_DATA = {
           "likes": 25,
           "collects": 3,
           "comments": 1,
-          "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6947cb9a000000001f00c28c",
-      "type": "note",
-      "title": "小伙伴接力舞~!",
-      "author": "유은비",
-      "likes": 5,
-      "collects": 0,
-      "comments": 1,
-      "shares": 0,
-      "publish_time": "2025-12-21",
-      "pinned": false,
-      "grid_order": 0,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 5,
-          "collects": 0,
-          "comments": 1,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 5,
-          "collects": 0,
-          "comments": 1,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-09",
-          "likes": 5,
-          "collects": 0,
-          "comments": 1,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-10",
-          "likes": 5,
-          "collects": 0,
-          "comments": 1,
-          "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/69451144000000001f007a00",
-      "type": "note",
-      "title": "在月光下拍的照片最好看",
-      "author": "유은비",
-      "likes": 20,
-      "collects": 2,
-      "comments": 1,
-      "shares": 0,
-      "publish_time": "2025-12-19",
-      "pinned": false,
-      "grid_order": 1,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 20,
-          "collects": 2,
-          "comments": 1,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 20,
-          "collects": 2,
-          "comments": 1,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-09",
-          "likes": 20,
-          "collects": 2,
-          "comments": 1,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-10",
-          "likes": 20,
-          "collects": 2,
-          "comments": 1,
-          "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/693f688e000000001e023c13",
-      "type": "note",
-      "title": "跳舞让我开心",
-      "author": "유은비",
-      "likes": 4,
-      "collects": 1,
-      "comments": 0,
-      "shares": 0,
-      "publish_time": "2025-12-15",
-      "pinned": false,
-      "grid_order": 2,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 4,
-          "collects": 1,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 4,
-          "collects": 1,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-09",
-          "likes": 4,
-          "collects": 1,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-10",
-          "likes": 4,
-          "collects": 1,
-          "comments": 0,
-          "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/693d0aff000000001e0332ea",
-      "type": "note",
-      "title": "就要跟闺蜜跳个舞",
-      "author": "유은비",
-      "likes": 4,
-      "collects": 0,
-      "comments": 0,
-      "shares": 0,
-      "publish_time": "2025-12-13",
-      "pinned": false,
-      "grid_order": 3,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 4,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 4,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-09",
-          "likes": 4,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-10",
-          "likes": 4,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/69369b07000000001e03a620",
-      "type": "note",
-      "title": "你好",
-      "author": "유은비",
-      "likes": 0,
-      "collects": 0,
-      "comments": 0,
-      "shares": 0,
-      "publish_time": "2025-12-08",
-      "pinned": false,
-      "grid_order": 4,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 0,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 0,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-09",
-          "likes": 0,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-10",
-          "likes": 0,
-          "collects": 0,
-          "comments": 0,
           "shares": 0
         }
       ]
@@ -5445,7 +5225,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "和闺蜜的8天7夜ㅣ悉尼居然这么好..!",
       "author": "吴英珠Youngjoo Oh",
-      "likes": 169,
+      "likes": 168,
       "collects": 21,
       "comments": 12,
       "shares": 14,
@@ -5477,7 +5257,7 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "likes": 169,
+          "likes": 168,
           "collects": 21,
           "comments": 12,
           "shares": 14
@@ -5610,7 +5390,7 @@ window.XHS_DATA = {
       "likes": 7500,
       "collects": 287,
       "comments": 262,
-      "shares": 214,
+      "shares": 215,
       "publish_time": "2026-07-06",
       "pinned": false,
       "grid_order": 0,
@@ -5642,7 +5422,7 @@ window.XHS_DATA = {
           "likes": 7500,
           "collects": 287,
           "comments": 262,
-          "shares": 214
+          "shares": 215
         }
       ]
     },
@@ -5652,7 +5432,7 @@ window.XHS_DATA = {
       "title": "重庆第一晚超辣火锅挑战",
       "author": "文福姬Eat with Boki",
       "likes": 16000,
-      "collects": 753,
+      "collects": 754,
       "comments": 538,
       "shares": 556,
       "publish_time": "2026-06-26",
@@ -5691,7 +5471,7 @@ window.XHS_DATA = {
         {
           "date": "2026-07-10",
           "likes": 16000,
-          "collects": 753,
+          "collects": 754,
           "comments": 538,
           "shares": 556
         }
@@ -5806,7 +5586,7 @@ window.XHS_DATA = {
       "author": "文福姬Eat with Boki",
       "likes": 18000,
       "collects": 1500,
-      "comments": 479,
+      "comments": 478,
       "shares": 1200,
       "publish_time": "2026-06-13",
       "pinned": false,
@@ -5845,7 +5625,7 @@ window.XHS_DATA = {
           "date": "2026-07-10",
           "likes": 18000,
           "collects": 1500,
-          "comments": 479,
+          "comments": 478,
           "shares": 1200
         }
       ]
@@ -7158,9 +6938,9 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国夫妻育儿的现实情况",
       "author": "咯咯商会",
-      "likes": 15000,
-      "collects": 578,
-      "comments": 543,
+      "likes": 16000,
+      "collects": 577,
+      "comments": 544,
       "shares": 1700,
       "publish_time": "2026-07-03",
       "pinned": false,
@@ -7190,9 +6970,9 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "likes": 15000,
-          "collects": 578,
-          "comments": 543,
+          "likes": 16000,
+          "collects": 577,
+          "comments": 544,
           "shares": 1700
         }
       ]
@@ -8024,7 +7804,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "用韩国品牌搭配了一套梅雨季穿搭☔️🇰🇷",
       "author": "裴成妍 Seongyeon Bae",
-      "likes": 323,
+      "likes": 324,
       "collects": 63,
       "comments": 18,
       "shares": 6,
@@ -8049,7 +7829,7 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "likes": 323,
+          "likes": 324,
           "collects": 63,
           "comments": 18,
           "shares": 6
@@ -8237,7 +8017,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "大码韩女试穿ㅣ女爱豆直拍同款",
       "author": "卢恩率Ensol",
-      "likes": 42,
+      "likes": 43,
       "collects": 6,
       "comments": 1,
       "shares": 0,
@@ -8262,7 +8042,7 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "likes": 42,
+          "likes": 43,
           "collects": 6,
           "comments": 1,
           "shares": 0
@@ -8318,7 +8098,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Zagae开业活动❤",
       "author": "卢恩率Ensol",
-      "likes": 6,
+      "likes": 7,
       "collects": 0,
       "comments": 0,
       "shares": 1,
@@ -8350,7 +8130,7 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "likes": 6,
+          "likes": 7,
           "collects": 0,
           "comments": 0,
           "shares": 1
@@ -8754,50 +8534,6 @@ window.XHS_DATA = {
       ]
     },
     {
-      "url": "https://www.rednote.com/explore/6a4650be000000000e021800",
-      "type": "note",
-      "title": "High Layered Cut",
-      "author": "Yoning_kyu",
-      "likes": 2,
-      "collects": 3,
-      "comments": 0,
-      "shares": 1,
-      "publish_time": "2026-07-02",
-      "pinned": false,
-      "grid_order": 2,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 2,
-          "collects": 3,
-          "comments": 0,
-          "shares": 1
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 2,
-          "collects": 3,
-          "comments": 0,
-          "shares": 1
-        },
-        {
-          "date": "2026-07-09",
-          "likes": 2,
-          "collects": 3,
-          "comments": 0,
-          "shares": 1
-        },
-        {
-          "date": "2026-07-10",
-          "likes": 2,
-          "collects": 3,
-          "comments": 0,
-          "shares": 1
-        }
-      ]
-    },
-    {
       "url": "https://www.rednote.com/explore/6a40c7f0000000000e038400",
       "type": "note",
       "title": "🇰🇷 韩国女生发型｜显白又高级",
@@ -9147,7 +8883,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "今天的妆容很满意，和妈妈吃了好吃的✨",
       "author": "姜抒衍",
-      "likes": 32,
+      "likes": 33,
       "collects": 2,
       "comments": 0,
       "shares": 0,
@@ -9172,7 +8908,7 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "likes": 32,
+          "likes": 33,
           "collects": 2,
           "comments": 0,
           "shares": 0
@@ -9184,7 +8920,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🤍 生活碎片",
       "author": "姜抒衍",
-      "likes": 33,
+      "likes": 34,
       "collects": 5,
       "comments": 0,
       "shares": 0,
@@ -9216,7 +8952,7 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "likes": 33,
+          "likes": 34,
           "collects": 5,
           "comments": 0,
           "shares": 0
@@ -10099,7 +9835,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "这就是韩国前爱豆的猫咖约会？🎤❤️🇰🇷",
       "author": "喵咕情侣",
-      "likes": 23,
+      "likes": 22,
       "collects": 3,
       "comments": 2,
       "shares": 7,
@@ -10117,7 +9853,7 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "likes": 23,
+          "likes": 22,
           "collects": 3,
           "comments": 2,
           "shares": 7
@@ -10965,7 +10701,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "又来越南啦！",
       "author": "__me__ne",
-      "likes": 16,
+      "likes": 17,
       "collects": 1,
       "comments": 0,
       "shares": 2,
@@ -10997,7 +10733,7 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "likes": 16,
+          "likes": 17,
           "collects": 1,
           "comments": 0,
           "shares": 2
@@ -11252,8 +10988,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "越南富国岛旅行｜韩国女生的度假穿搭☀️🤍",
       "author": "楊眞 8_jjini",
-      "likes": 482,
-      "collects": 115,
+      "likes": 484,
+      "collects": 116,
       "comments": 20,
       "shares": 8,
       "publish_time": "2026-07-04",
@@ -11263,8 +10999,8 @@ window.XHS_DATA = {
       "history": [
         {
           "date": "2026-07-10",
-          "likes": 482,
-          "collects": 115,
+          "likes": 484,
+          "collects": 116,
           "comments": 20,
           "shares": 8
         }
@@ -11995,7 +11731,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "💿⋆⌖˖ 🎧꙳ 🗯️₊˚📷",
       "author": "金枝香 Kim jihyang",
-      "likes": 23,
+      "likes": 24,
       "collects": 4,
       "comments": 5,
       "shares": 0,
@@ -12027,7 +11763,7 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "likes": 23,
+          "likes": 24,
           "collects": 4,
           "comments": 5,
           "shares": 0
@@ -12171,7 +11907,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "The K-World Dream Awards 💜",
       "author": "林秀香 Im SooHyang",
-      "likes": 633,
+      "likes": 651,
       "collects": 23,
       "comments": 33,
       "shares": 2,
@@ -12189,7 +11925,7 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "likes": 633,
+          "likes": 651,
           "collects": 23,
           "comments": 33,
           "shares": 2
@@ -12856,7 +12592,7 @@ window.XHS_DATA = {
       "author": "諝炫 Seohyun",
       "likes": 54,
       "collects": 5,
-      "comments": 4,
+      "comments": 3,
       "shares": 2,
       "publish_time": "2025-09-18",
       "pinned": false,
@@ -12888,7 +12624,7 @@ window.XHS_DATA = {
           "date": "2026-07-10",
           "likes": 54,
           "collects": 5,
-          "comments": 4,
+          "comments": 3,
           "shares": 2
         }
       ]
@@ -13114,17 +12850,40 @@ window.XHS_DATA = {
       ]
     },
     {
+      "url": "https://www.rednote.com/explore/6a505cde000000000e021800",
+      "type": "note",
+      "title": "中国推荐的旅游景点在哪里？",
+      "author": "jongmin02",
+      "likes": 12,
+      "collects": 0,
+      "comments": 4,
+      "shares": 0,
+      "publish_time": "2026-07-10",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-07-10",
+          "likes": 12,
+          "collects": 0,
+          "comments": 4,
+          "shares": 0
+        }
+      ]
+    },
+    {
       "url": "https://www.rednote.com/explore/6a49c4cd000000000d00bc00",
       "type": "note",
       "title": "好久不见，大家过得好吗？",
       "author": "jongmin02",
-      "likes": 158,
+      "likes": 161,
       "collects": 5,
-      "comments": 31,
+      "comments": 32,
       "shares": 1,
       "publish_time": "2026-07-05",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 1,
       "from_profile": true,
       "history": [
         {
@@ -13150,9 +12909,9 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "likes": 158,
+          "likes": 161,
           "collects": 5,
-          "comments": 31,
+          "comments": 32,
           "shares": 1
         }
       ]
@@ -13168,7 +12927,7 @@ window.XHS_DATA = {
       "shares": 0,
       "publish_time": "2026-06-07",
       "pinned": false,
-      "grid_order": 1,
+      "grid_order": 2,
       "from_profile": true,
       "history": [
         {
@@ -13206,13 +12965,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "第一次来中国，跟韩国人变亲近吧！",
       "author": "jongmin02",
-      "likes": 382,
+      "likes": 383,
       "collects": 23,
       "comments": 92,
       "shares": 4,
       "publish_time": "2026-06-05",
       "pinned": false,
-      "grid_order": 2,
+      "grid_order": 3,
       "from_profile": true,
       "history": [
         {
@@ -13238,7 +12997,7 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "likes": 382,
+          "likes": 383,
           "collects": 23,
           "comments": 92,
           "shares": 4
@@ -13256,7 +13015,7 @@ window.XHS_DATA = {
       "shares": 4,
       "publish_time": "2026-06-04",
       "pinned": false,
-      "grid_order": 3,
+      "grid_order": 4,
       "from_profile": true,
       "history": [
         {
@@ -13286,50 +13045,6 @@ window.XHS_DATA = {
           "collects": 6,
           "comments": 17,
           "shares": 4
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a197034000000000f03ac02",
-      "type": "note",
-      "title": "你好 我是2002年出生的",
-      "author": "jongmin02",
-      "likes": 180,
-      "collects": 5,
-      "comments": 117,
-      "shares": 16,
-      "publish_time": "2026-05-29",
-      "pinned": false,
-      "grid_order": 4,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 179,
-          "collects": 5,
-          "comments": 117,
-          "shares": 16
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 180,
-          "collects": 5,
-          "comments": 117,
-          "shares": 16
-        },
-        {
-          "date": "2026-07-09",
-          "likes": 180,
-          "collects": 5,
-          "comments": 117,
-          "shares": 16
-        },
-        {
-          "date": "2026-07-10",
-          "likes": 180,
-          "collects": 5,
-          "comments": 117,
-          "shares": 16
         }
       ]
     },
@@ -13778,7 +13493,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "📸👀",
       "author": "inho",
-      "likes": 25,
+      "likes": 26,
       "collects": 3,
       "comments": 2,
       "shares": 0,
@@ -13796,7 +13511,7 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "likes": 25,
+          "likes": 26,
           "collects": 3,
           "comments": 2,
           "shares": 0
@@ -13975,226 +13690,6 @@ window.XHS_DATA = {
           "likes": 71,
           "collects": 3,
           "comments": 9,
-          "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a21895c000000000f03ac00",
-      "type": "note",
-      "title": "我被偷拍了！！😳📸",
-      "author": "By金贤进",
-      "likes": 2,
-      "collects": 0,
-      "comments": 0,
-      "shares": 0,
-      "publish_time": "2026-06-04",
-      "pinned": false,
-      "grid_order": 0,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 2,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 2,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-09",
-          "likes": 2,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-10",
-          "likes": 2,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a218907000000000f03ac00",
-      "type": "note",
-      "title": "在韩国偶遇明星啦！！！✨🇰🇷",
-      "author": "By金贤进",
-      "likes": 4,
-      "collects": 0,
-      "comments": 0,
-      "shares": 0,
-      "publish_time": "2026-06-04",
-      "pinned": false,
-      "grid_order": 1,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 4,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 4,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-09",
-          "likes": 4,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-10",
-          "likes": 4,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a1ac9b7000000001002d000",
-      "type": "note",
-      "title": "医生推荐的 韩国美食店",
-      "author": "By金贤进",
-      "likes": 3,
-      "collects": 0,
-      "comments": 0,
-      "shares": 0,
-      "publish_time": "2026-05-30",
-      "pinned": false,
-      "grid_order": 2,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 3,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 3,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-09",
-          "likes": 3,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-10",
-          "likes": 3,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a02d764000000000f03ac00",
-      "type": "note",
-      "title": "欢迎大家来韩国玩呀😆🇰🇷✨",
-      "author": "By金贤进",
-      "likes": 5,
-      "collects": 2,
-      "comments": 0,
-      "shares": 0,
-      "publish_time": "2026-05-12",
-      "pinned": false,
-      "grid_order": 3,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 5,
-          "collects": 2,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 5,
-          "collects": 2,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-09",
-          "likes": 5,
-          "collects": 2,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-10",
-          "likes": 5,
-          "collects": 2,
-          "comments": 0,
-          "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a02d72c0000000010001c01",
-      "type": "note",
-      "title": "要不要我给大家推荐韩国美食店呢？😆🇰🇷🍜",
-      "author": "By金贤进",
-      "likes": 4,
-      "collects": 1,
-      "comments": 0,
-      "shares": 0,
-      "publish_time": "2026-05-12",
-      "pinned": false,
-      "grid_order": 4,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 4,
-          "collects": 1,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-08",
-          "likes": 4,
-          "collects": 1,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-09",
-          "likes": 4,
-          "collects": 1,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-10",
-          "likes": 4,
-          "collects": 1,
-          "comments": 0,
           "shares": 0
         }
       ]
@@ -14996,9 +14491,9 @@ window.XHS_DATA = {
       "type": "note",
       "title": "😉",
       "author": "Austin Kang",
-      "likes": 72,
+      "likes": 75,
       "collects": 1,
-      "comments": 6,
+      "comments": 7,
       "shares": 0,
       "publish_time": "2026-07-09",
       "pinned": false,
@@ -15007,9 +14502,9 @@ window.XHS_DATA = {
       "history": [
         {
           "date": "2026-07-10",
-          "likes": 72,
+          "likes": 75,
           "collects": 1,
-          "comments": 6,
+          "comments": 7,
           "shares": 0
         }
       ]
@@ -15181,10 +14676,10 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🩵like mint🩵",
       "author": "金高恩goxnniee",
-      "likes": 212,
-      "collects": 9,
-      "comments": 36,
-      "shares": 4,
+      "likes": 241,
+      "collects": 10,
+      "comments": 44,
+      "shares": 5,
       "publish_time": "2026-07-09",
       "pinned": false,
       "grid_order": 0,
@@ -15192,10 +14687,10 @@ window.XHS_DATA = {
       "history": [
         {
           "date": "2026-07-10",
-          "likes": 212,
-          "collects": 9,
-          "comments": 36,
-          "shares": 4
+          "likes": 241,
+          "collects": 10,
+          "comments": 44,
+          "shares": 5
         }
       ]
     },
@@ -15205,9 +14700,9 @@ window.XHS_DATA = {
       "title": "去吃饭的路上偶然撞见的凌霄花 ❥𓂃𓏧",
       "author": "金高恩goxnniee",
       "likes": 1400,
-      "collects": 167,
+      "collects": 168,
       "comments": 76,
-      "shares": 47,
+      "shares": 49,
       "publish_time": "2026-07-08",
       "pinned": false,
       "grid_order": 1,
@@ -15223,9 +14718,9 @@ window.XHS_DATA = {
         {
           "date": "2026-07-10",
           "likes": 1400,
-          "collects": 167,
+          "collects": 168,
           "comments": 76,
-          "shares": 47
+          "shares": 49
         }
       ]
     },
@@ -15234,8 +14729,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "howto｜photo in釜山🍃",
       "author": "金高恩goxnniee",
-      "likes": 488,
-      "collects": 46,
+      "likes": 490,
+      "collects": 48,
       "comments": 38,
       "shares": 8,
       "publish_time": "2026-07-05",
@@ -15266,8 +14761,8 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "likes": 488,
-          "collects": 46,
+          "likes": 490,
+          "collects": 48,
           "comments": 38,
           "shares": 8
         }
@@ -15278,7 +14773,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "高恩's vlog|🇰🇷仅需3000韩元的游轮",
       "author": "金高恩goxnniee",
-      "likes": 285,
+      "likes": 288,
       "collects": 20,
       "comments": 35,
       "shares": 6,
@@ -15310,7 +14805,7 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "likes": 285,
+          "likes": 288,
           "collects": 20,
           "comments": 35,
           "shares": 6
@@ -15322,7 +14817,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "釜山还是一如既往地美好🌊⛱️",
       "author": "金高恩goxnniee",
-      "likes": 523,
+      "likes": 531,
       "collects": 29,
       "comments": 56,
       "shares": 11,
@@ -15354,7 +14849,7 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "likes": 523,
+          "likes": 531,
           "collects": 29,
           "comments": 56,
           "shares": 11
@@ -15758,6 +15253,29 @@ window.XHS_DATA = {
       ]
     },
     {
+      "url": "https://www.rednote.com/explore/6a3f0dc2000000000e038400",
+      "type": "note",
+      "title": "重拍证件照｜五年后的自己，比想象中好看✨",
+      "author": "YURA裕娜",
+      "likes": 2,
+      "collects": 1,
+      "comments": 0,
+      "shares": 0,
+      "publish_time": "2026-06-27",
+      "pinned": false,
+      "grid_order": 1,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-07-10",
+          "likes": 2,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
+        }
+      ]
+    },
+    {
       "url": "https://www.rednote.com/explore/6a3ced64000000000e021800",
       "type": "note",
       "title": "换乘恋爱贤智同款穿搭|约会拍照神裙",
@@ -15850,8 +15368,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "和时安去日本的旅行记录✈️",
       "author": "金慧真Hyejin",
-      "likes": 65,
-      "collects": 3,
+      "likes": 72,
+      "collects": 4,
       "comments": 7,
       "shares": 1,
       "publish_time": "2026-07-09",
@@ -15861,8 +15379,8 @@ window.XHS_DATA = {
       "history": [
         {
           "date": "2026-07-10",
-          "likes": 65,
-          "collects": 3,
+          "likes": 72,
+          "collects": 4,
           "comments": 7,
           "shares": 1
         }
@@ -16558,7 +16076,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "是哪位宝宝那么早就开始自恋爱看镜子了？",
       "author": "智秀 SSOLOG",
-      "likes": 22,
+      "likes": 23,
       "collects": 0,
       "comments": 1,
       "shares": 0,
@@ -16569,7 +16087,7 @@ window.XHS_DATA = {
       "history": [
         {
           "date": "2026-07-10",
-          "likes": 22,
+          "likes": 23,
           "collects": 0,
           "comments": 1,
           "shares": 0
@@ -16787,7 +16305,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "高恩和伊健｜所以两人是什么关系呢？",
       "author": "一之濑美奈实",
-      "likes": 57,
+      "likes": 58,
       "collects": 16,
       "comments": 3,
       "shares": 4,
@@ -16819,7 +16337,7 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "likes": 57,
+          "likes": 58,
           "collects": 16,
           "comments": 3,
           "shares": 4
@@ -17623,7 +17141,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩女 常用的粉底液🔥",
       "author": "Yeomin",
-      "likes": 79,
+      "likes": 80,
       "collects": 29,
       "comments": 1,
       "shares": 2,
@@ -17655,7 +17173,7 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "likes": 79,
+          "likes": 80,
           "collects": 29,
           "comments": 1,
           "shares": 2
@@ -18449,47 +17967,6 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 5400,
           "notes_count": 17
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/user/profile/68497b42000000001b01a912",
-      "type": "profile",
-      "name": "유은비",
-      "uid": "68497b42000000001b01a912",
-      "partner": true,
-      "fans": 122,
-      "likes_collects": 306,
-      "following": 0,
-      "notes_count": 11,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "fans": 122,
-          "following": 0,
-          "likes_collects": 306,
-          "notes_count": 11
-        },
-        {
-          "date": "2026-07-08",
-          "fans": 122,
-          "following": 0,
-          "likes_collects": 306,
-          "notes_count": 11
-        },
-        {
-          "date": "2026-07-09",
-          "fans": 122,
-          "following": 0,
-          "likes_collects": 306,
-          "notes_count": 11
-        },
-        {
-          "date": "2026-07-10",
-          "fans": 122,
-          "following": 0,
-          "likes_collects": 306,
-          "notes_count": 11
         }
       ]
     },
@@ -20071,8 +19548,8 @@ window.XHS_DATA = {
       "name": "姜抒衍",
       "uid": "69f070d2000000000d035c00",
       "partner": false,
-      "fans": 15,
-      "likes_collects": 258,
+      "fans": 16,
+      "likes_collects": 260,
       "following": 0,
       "notes_count": 17,
       "history": [
@@ -20099,9 +19576,9 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "fans": 15,
+          "fans": 16,
           "following": 0,
-          "likes_collects": 258,
+          "likes_collects": 260,
           "notes_count": 17
         }
       ]
@@ -20414,7 +19891,7 @@ window.XHS_DATA = {
       "uid": "69f2ea7f000000000d035c03",
       "partner": true,
       "fans": 26,
-      "likes_collects": 186,
+      "likes_collects": 185,
       "following": 0,
       "notes_count": 14,
       "history": [
@@ -20443,7 +19920,7 @@ window.XHS_DATA = {
           "date": "2026-07-10",
           "fans": 26,
           "following": 0,
-          "likes_collects": 186,
+          "likes_collects": 185,
           "notes_count": 14
         }
       ]
@@ -20864,7 +20341,7 @@ window.XHS_DATA = {
       "name": "五字女",
       "uid": "66bb3184000000001d021af0",
       "partner": false,
-      "fans": 396,
+      "fans": 397,
       "likes_collects": 461,
       "following": 0,
       "notes_count": 2,
@@ -20892,7 +20369,7 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "fans": 396,
+          "fans": 397,
           "following": 0,
           "likes_collects": 461,
           "notes_count": 2
@@ -21479,10 +20956,10 @@ window.XHS_DATA = {
       "name": "jongmin02",
       "uid": "6a196b95000000000d035c00",
       "partner": false,
-      "fans": 172,
-      "likes_collects": 849,
+      "fans": 173,
+      "likes_collects": 865,
       "following": 0,
-      "notes_count": 5,
+      "notes_count": 6,
       "history": [
         {
           "date": "2026-07-07",
@@ -21507,10 +20984,10 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "fans": 172,
+          "fans": 173,
           "following": 0,
-          "likes_collects": 849,
-          "notes_count": 5
+          "likes_collects": 865,
+          "notes_count": 6
         }
       ]
     },
@@ -21757,47 +21234,6 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 31,
           "notes_count": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/user/profile/6826ab2a000000000d0080b7",
-      "type": "profile",
-      "name": "By金贤进",
-      "uid": "6826ab2a000000000d0080b7",
-      "partner": false,
-      "fans": 497,
-      "likes_collects": 4100,
-      "following": 0,
-      "notes_count": 30,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "fans": 498,
-          "following": 0,
-          "likes_collects": 4100,
-          "notes_count": 30
-        },
-        {
-          "date": "2026-07-08",
-          "fans": 498,
-          "following": 0,
-          "likes_collects": 4100,
-          "notes_count": 30
-        },
-        {
-          "date": "2026-07-09",
-          "fans": 497,
-          "following": 0,
-          "likes_collects": 4100,
-          "notes_count": 30
-        },
-        {
-          "date": "2026-07-10",
-          "fans": 497,
-          "following": 0,
-          "likes_collects": 4100,
-          "notes_count": 30
         }
       ]
     },
@@ -22750,7 +22186,7 @@ window.XHS_DATA = {
       "name": "Team1llusion",
       "uid": "69bb56fd00000000260015d7",
       "partner": false,
-      "fans": 91,
+      "fans": 93,
       "likes_collects": 2300,
       "following": 0,
       "notes_count": 9,
@@ -22778,7 +22214,7 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-07-10",
-          "fans": 91,
+          "fans": 93,
           "following": 0,
           "likes_collects": 2300,
           "notes_count": 9
@@ -22840,7 +22276,7 @@ window.XHS_DATA = {
       "uid": "663465150000000007007c70",
       "partner": false,
       "fans": 2,
-      "likes_collects": 186,
+      "likes_collects": 187,
       "following": 0,
       "notes_count": 7,
       "history": [
@@ -22869,7 +22305,7 @@ window.XHS_DATA = {
           "date": "2026-07-10",
           "fans": 2,
           "following": 0,
-          "likes_collects": 186,
+          "likes_collects": 187,
           "notes_count": 7
         }
       ]
