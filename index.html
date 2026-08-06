@@ -24,6 +24,15 @@ body{font-family:'IBM Plex Sans','Malgun Gothic',sans-serif;background:var(--bg)
 .toolbar .count{margin-left:auto;padding:0 16px;font-size:12px;color:var(--helper)}
 /* table */
 table{width:100%;border-collapse:collapse;background:var(--layer);border:1px solid var(--border)}
+/* 메인 표: 정렬해도 컬럼폭이 흔들리지 않도록 고정 */
+#tbl table{table-layout:fixed}
+#tbl thead th:nth-child(1){width:29%}
+#tbl thead th:nth-child(2){width:12%}
+#tbl thead th:nth-child(3){width:14%}
+#tbl thead th:nth-child(4){width:8%}
+#tbl thead th:nth-child(5){width:37%}
+#tbl tbody td:first-child{overflow:hidden;text-overflow:ellipsis}
+.sind{display:inline-block;width:12px;text-align:center}
 thead th{font-size:12px;font-weight:600;color:var(--text);text-align:left;padding:0 16px;height:44px;border-bottom:1px solid var(--border);white-space:nowrap;user-select:none}
 th.sortable{cursor:pointer}th.sortable:hover{background:var(--hover)}
 th.num,td.num{text-align:right}
@@ -42,7 +51,7 @@ tbody tr.crow.open{background:var(--sel);box-shadow:inset 3px 0 0 var(--blue)}
 .recent{max-width:240px}.rt{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:var(--text)}
 .rd{font-size:11px;color:var(--helper)}
 /* detail */
-tr.detail td{background:#f7f7f7;padding:0;border-bottom:1px solid var(--border)}
+tr.detail>td{background:#f7f7f7;padding:0;border-bottom:1px solid var(--border)}
 .dinner{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.15fr);gap:24px;padding:20px}
 .mini{font-size:12px;color:var(--text2);font-weight:600;margin-bottom:10px;letter-spacing:.16px}
 .chartbox{height:200px}
@@ -118,12 +127,16 @@ function render(){const list=curList();const total=list.length;const pages=Math.
  document.getElementById('tbl').innerHTML=`<table><thead>${thead}</thead><tbody>${slice.map(rowHtml).join('')}</tbody></table>`;
  const from=total?start+1:0,to=Math.min(start+PER,total);
  document.getElementById('pager').innerHTML=`<div class="info">${from}–${to} / ${total}명</div><div class="spacer"></div><div class="pg">페이지 ${page+1} / ${pages}</div>
-  <button id="prev" ${page===0?'disabled':''}>‹</button><button id="next" ${page>=pages-1?'disabled':''}>›</button>`;
+  <button id="first" ${page===0?'disabled':''} title="첫 페이지">«</button><button id="prev" ${page===0?'disabled':''} title="이전">‹</button><button id="next" ${page>=pages-1?'disabled':''} title="다음">›</button><button id="last" ${page>=pages-1?'disabled':''} title="끝 페이지">»</button>`;
  bind();}
 function bind(){
  document.querySelectorAll('#tbl .crow').forEach(row=>row.addEventListener('click',()=>{const i=row.dataset.idx;const d=document.getElementById('d-'+i);const open=d.style.display!=='none';d.style.display=open?'none':'';row.classList.toggle('open',!open);if(!open&&!drawn[i]){drawn[i]=true;drawChart(i)}}));
  document.querySelectorAll('#tbl th.sortable').forEach(th=>th.addEventListener('click',()=>{const k=th.dataset.s;if(sortKey===k)sortDir=-sortDir;else{sortKey=k;sortDir=DEF[k]||-1}page=0;render()}));
- const pv=document.getElementById('prev'),nx=document.getElementById('next');if(pv)pv.onclick=()=>{if(page>0){page--;render()}};if(nx)nx.onclick=()=>{page++;render()};}
+ const fs=document.getElementById('first'),pv=document.getElementById('prev'),nx=document.getElementById('next'),ls=document.getElementById('last');
+ if(fs)fs.onclick=()=>{if(page>0){page=0;render()}};
+ if(pv)pv.onclick=()=>{if(page>0){page--;render()}};
+ if(nx)nx.onclick=()=>{page++;render()};
+ if(ls)ls.onclick=()=>{page=1e9;render()};}
 function drawChart(idx){const p=profiles[idx];const h=p.history||[];const ctx=document.getElementById('c-'+idx);if(!ctx||h.length<1)return;
  Chart.defaults.font.family="'IBM Plex Sans','Malgun Gothic',sans-serif";
  new Chart(ctx,{type:'line',data:{labels:h.map(x=>x.date),datasets:[
