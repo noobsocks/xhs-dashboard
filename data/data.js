@@ -24428,7 +24428,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "小红薯69B26531",
       "uid": "69b1a63200000000260016ea",
-      "partner": false,
+      "partner": true,
       "fans": 0,
       "likes_collects": 0,
       "following": 0,
@@ -24511,14 +24511,16 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6a1976d1000000000d034c02",
       "type": "profile",
       "name": "小红薯6A1A79B7",
       "uid": "6a1976d1000000000d034c02",
-      "partner": false,
+      "partner": true,
       "fans": 0,
       "likes_collects": 0,
       "following": 0,
@@ -24601,7 +24603,9 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6a197737000000000d034c03",
@@ -24698,7 +24702,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "首尔冻龄姐姐",
       "uid": "6a19117f000000000d034c00",
-      "partner": false,
+      "partner": true,
       "fans": 23,
       "likes_collects": 0,
       "following": 0,
@@ -24781,7 +24785,9 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "기업",
+      "cname": "S&A"
     },
     {
       "url": "https://www.rednote.com/user/profile/6a196b95000000000d035c00",
@@ -27775,7 +27781,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "杰明",
       "uid": "69314eb5000000003702b81d",
-      "partner": false,
+      "partner": true,
       "fans": 1,
       "likes_collects": 1,
       "following": 0,
@@ -27858,7 +27864,9 @@ window.XHS_DATA = {
           "likes_collects": 1,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/693c356e000000003700b8c5",
@@ -29532,7 +29540,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "YENI",
       "uid": "6a3232ed000000000e03bc00",
-      "partner": false,
+      "partner": true,
       "fans": 1,
       "likes_collects": 0,
       "following": 0,
@@ -29545,7 +29553,9 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "기업",
+      "cname": "S&A"
     },
     {
       "url": "https://www.rednote.com/user/profile/6a50a5ec000000000d035c01",
@@ -29612,7 +29622,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "小红薯6A4D2DD3",
       "uid": "6a4c643c000000000e03bc00",
-      "partner": false,
+      "partner": true,
       "fans": 0,
       "likes_collects": 0,
       "following": 0,
@@ -29625,7 +29635,9 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "기업",
+      "cname": "S&A"
     },
     {
       "url": "https://www.rednote.com/user/profile/6a4df217000000000d035c02",
@@ -29916,7 +29928,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "u_seri",
       "uid": "683784d9000000001d00a35e",
-      "partner": false,
+      "partner": true,
       "fans": 16,
       "likes_collects": 84,
       "following": 0,
@@ -29929,14 +29941,16 @@ window.XHS_DATA = {
           "likes_collects": 84,
           "notes_count": 9
         }
-      ]
+      ],
+      "ctype": "기업",
+      "cname": "S&A"
     },
     {
       "url": "https://www.rednote.com/user/profile/6a56f052000000000d034c00",
       "type": "profile",
       "name": "小红薯6A570582",
       "uid": "6a56f052000000000d034c00",
-      "partner": false,
+      "partner": true,
       "fans": 0,
       "likes_collects": 0,
       "following": 0,
@@ -29949,7 +29963,9 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "기업",
+      "cname": "S&A"
     },
     {
       "url": "https://www.rednote.com/user/profile/68556711000000001b019220",
