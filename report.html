@@ -49,10 +49,11 @@ select:focus{outline:2px solid var(--blue);outline-offset:-2px}
 .pstat{background:var(--layer);padding:10px 16px;width:156px}
 .pstat .l{font-size:11px;color:var(--text2)}.pstat .v{font-family:'IBM Plex Mono',monospace;font-size:20px;margin-top:4px}
 .pstat .d{font-size:11px;margin-top:3px;white-space:nowrap}.pstat .d.up{color:var(--success)}.pstat .d.dn{color:var(--error)}
-.g2{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:16px}
+.g2{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:16px;align-items:stretch}
+.g2>.panel{display:flex;flex-direction:column}
 .panel{background:var(--layer);border:1px solid var(--border)}
 .panel .ph{padding:14px 16px;border-bottom:1px solid var(--border)}.panel .ph h3{font-size:16px;font-weight:600}.panel .ph .sub{font-size:12px;color:var(--helper);margin-top:2px}
-.chart{height:220px;padding:16px}
+.chart{flex:1;min-height:220px;padding:16px}
 .sumgrid{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;background:var(--border)}
 .sumc{background:var(--layer);padding:14px 16px}.sumc .l{font-size:11px;color:var(--text2)}.sumc .v{font-family:'IBM Plex Mono',monospace;font-size:22px;margin-top:5px}.sumc .s{font-size:11px;color:var(--helper);margin-top:4px}
 .best{padding:14px 16px;border-top:1px solid var(--border)}.best .l{font-size:11px;color:var(--text2)}.best .t{font-size:13px;margin-top:5px}.best a{color:var(--link);text-decoration:none}.best a:hover{text-decoration:underline}
