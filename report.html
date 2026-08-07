@@ -14,6 +14,24 @@ body{font-family:'IBM Plex Sans','Malgun Gothic',sans-serif;background:var(--bg)
 /* selector */
 .selbar{background:var(--layer);border:1px solid var(--border);padding:16px;margin-bottom:16px}
 .selbar label{display:block;font-size:12px;color:var(--text2);margin-bottom:6px;letter-spacing:.32px}
+.periodtg{display:flex;border:1px solid var(--border);flex:none}
+.periodtg .tgb{padding:0 14px;height:40px;font-size:13px;background:var(--layer);border:none;border-right:1px solid var(--border);cursor:pointer;color:var(--text2);font-family:inherit}
+.periodtg .tgb:last-child{border-right:none}
+.periodtg .tgb.active{background:var(--blue);color:#fff;font-weight:600}
+.benchrow{display:grid;grid-template-columns:1.3fr 2fr auto;gap:12px;align-items:center;padding:12px 16px;border-bottom:1px solid var(--border)}
+.benchrow:last-child{border-bottom:none}
+.benchrow .bl{font-size:13px;color:var(--text2)}
+.benchrow .bvals{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.benchrow .mine{font-size:15px;font-weight:600;color:var(--text);font-family:'IBM Plex Mono',monospace}
+.benchrow .avg{font-size:12px;color:var(--helper)}
+.benchrow .bdiff{font-size:13px;font-weight:600;text-align:right;white-space:nowrap}
+.benchrow .bdiff.up{color:var(--success)}
+.benchrow .bdiff.dn{color:#8d8d8d}
+.benchnote{padding:16px;color:#6f6f6f;font-size:13px}
+.topics{margin-top:14px;border-top:1px solid var(--border);padding-top:12px}
+.topics .tl{font-size:12px;color:var(--text2);margin-bottom:8px;letter-spacing:.32px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.topchip{display:inline-block;background:#edf5ff;color:#0043ce;font-size:12px;padding:3px 10px;font-weight:600;white-space:nowrap}
 .selrow{display:flex;gap:12px;align-items:center}
 select{font-family:inherit;font-size:14px;height:40px;padding:0 12px;border:none;border-bottom:1px solid var(--border-strong,#8d8d8d);background:#f4f4f4;color:var(--text);min-width:340px;border-radius:0;cursor:pointer}
 select:focus{outline:2px solid var(--blue);outline-offset:-2px}
@@ -60,7 +78,7 @@ tbody tr:hover{background:var(--hover)}tbody tr:last-child td{border-bottom:none
 <div class="tabs"><a class="tab" href="dashboard.html">현황판</a><a class="tab" href="analysis.html">분석</a><a class="tab active" href="report.html">리포트</a></div>
 <div class="wrap">
  <div class="sect">인플루언서 리포트</div>
- <div class="selbar"><label>인플루언서 선택</label><div class="selrow"><select id="sel"></select></div></div>
+ <div class="selbar"><label>인플루언서 선택</label><div class="selrow"><select id="sel"></select><div style="flex:1"></div><div class="periodtg" id="periodtg"><button class="tgb active" data-p="7">최근 7일</button><button class="tgb" data-p="30">최근 30일</button><button class="tgb" data-p="all">전체</button></div></div></div>
  <div id="report"></div>
 </div>
 <script>
@@ -83,19 +101,59 @@ function formatAI(t){return (t||'').split('\n').map(function(line){line=line.tri
  if(line.slice(0,2)==='- '||line.slice(0,2)==='* ')return '<div class="aibul">'+line.slice(2)+'</div>';
  return '<div class="ailine">'+line+'</div>';}).join('');}
 function cleanHist(h,key){let last=null;return h.map(x=>{let v=x[key]||0;if(v&&(last===null||v>=last*0.5))last=v;return last||0})}
-function delta7(h,key){var c=cleanHist(h,key);if(!c.length)return 0;var last=h[h.length-1].date;var cut=new Date(+new Date(last)-7*864e5).toISOString().slice(0,10);var idx=h.findIndex(x=>x.date>=cut);if(idx<0)idx=0;return c[c.length-1]-c[idx];}
+function delta7(h,key){return deltaN(h,key,7);}
+function deltaN(h,key,days){var c=cleanHist(h,key);if(!c.length)return 0;if(days==null)return c[c.length-1]-(c.find(x=>x)||0);var last=h[h.length-1].date;var cut=new Date(+new Date(last)-days*864e5).toISOString().slice(0,10);var idx=h.findIndex(x=>x.date>=cut);if(idx<0)idx=0;return c[c.length-1]-c[idx];}
+var curP='7';
+function pLabel(){return curP==='all'?'전체 기간':('최근 '+curP+'일');}
+function pDays(){return curP==='all'?null:(+curP);}
+function histStart(h){if(curP==='all'||!h.length)return 0;var last=h[h.length-1].date;var cut=new Date(+new Date(last)-(+curP)*864e5).toISOString().slice(0,10);var i=h.findIndex(x=>x.date>=cut);return i<0?0:i;}
 function notesOf(p){return notes.filter(n=>n.author&&p.name&&n.author===p.name)}
 // selector: sort by fans desc
 const order=profiles.map((p,i)=>({p,i})).sort((a,b)=>(b.p.fans||0)-(a.p.fans||0));
 const sel=document.getElementById('sel');
 sel.innerHTML=order.map(o=>`<option value="${o.i}">${o.p.name||'(이름없음)'} · 팔로워 ${fmt(o.p.fans)} ${o.p.partner?'· 계약':''}</option>`).join('');
+// ── 카테고리 벤치마크 (전체 1회 계산) ─────────────────────────
+function noteStatsFor(name){const g=notes.filter(n=>n.author===name);if(!g.length)return {rate:null,likes:null,n:0};
+ const rate=Math.round(g.reduce((a,b)=>a+(b.likes?b.collects/b.likes*100:0),0)/g.length);
+ const likes=Math.round(g.reduce((a,b)=>a+(b.likes||0),0)/g.length);return {rate,likes,n:g.length};}
+const CATBUCK={};
+profiles.forEach(p=>{const c=catKR((META[p.uid]||{}).category||'');if(!c||c==='-')return;
+ const ns=noteStatsFor(p.name);(CATBUCK[c]=CATBUCK[c]||[]).push({fans:p.fans||0,lc:p.likes_collects||0,rate:ns.rate,likes:ns.likes});});
+function catAvg(c){const arr=CATBUCK[c]||[];const avg=k=>{const v=arr.map(x=>x[k]).filter(x=>x!=null&&!isNaN(x));return v.length?v.reduce((a,b)=>a+b,0)/v.length:null};
+ return {n:arr.length,fans:avg('fans'),lc:avg('lc'),rate:avg('rate'),likes:avg('likes')};}
+function topPct(c,key,val){const arr=(CATBUCK[c]||[]).map(x=>x[key]).filter(x=>x!=null);if(arr.length<2||val==null)return null;const rank=arr.filter(x=>x>val).length+1;return Math.max(1,Math.round(rank/arr.length*100));}
+function benchHtml(p){const c=catKR((META[p.uid]||{}).category||'');const arr=CATBUCK[c]||[];
+ if(!c||c==='-'||arr.length<2){const nm=(!c||c==='-')?'미분류':c;
+  return `<div class="panel" style="margin-top:16px"><div class="ph"><h3>카테고리 벤치마크</h3><div class="sub">같은 카테고리 평균 대비</div></div><div class="benchnote">같은 카테고리(${nm}) 인플루언서가 ${arr.length}명뿐이라 평균 비교를 생략합니다. (표본 부족 · 최소 2명 필요)</div></div>`;}
+ const A=catAvg(c);const ns=noteStatsFor(p.name);const my={fans:p.fans||0,lc:p.likes_collects||0,rate:ns.rate,likes:ns.likes};
+ const defs=[{k:'fans',label:'팔로워',f:fmt},{k:'lc',label:'좋아요+저장 (누적)',f:fmt},{k:'rate',label:'평균 저장률',f:v=>v==null?'-':v+'%',pp:true},{k:'likes',label:'게시물 평균 좋아요',f:fmt}];
+ const rows=defs.map(r=>{const mv=my[r.k],av=A[r.k];if(mv==null||av==null)return '';
+  const better=mv>=av;const diff=r.pp?Math.round(mv-av):(av?Math.round((mv-av)/av*100):0);
+  const dt=r.pp?((diff>=0?'+':'−')+Math.abs(diff)+'%p'):((diff>=0?'+':'−')+Math.abs(diff)+'%');
+  return `<div class="benchrow"><div class="bl">${r.label}</div><div class="bvals"><span class="mine">${r.f(mv)}</span><span class="avg">${c} 평균 ${r.f(Math.round(av))}</span></div><div class="bdiff ${better?'up':'dn'}">${better?'▲':'▼'} ${dt}</div></div>`;}).join('');
+ const tp=topPct(c,'fans',my.fans);const head=`'${c}' 카테고리 ${arr.length}명 평균 대비`+(tp!=null?` · 팔로워 상위 ${tp}%`:'');
+ return `<div class="panel" style="margin-top:16px"><div class="ph"><h3>카테고리 벤치마크</h3><div class="sub">${head}</div></div><div>${rows}</div></div>`;}
+
+// ── 소재/키워드 추출 (게시물 제목 기반) ─────────────────────────
+var NOTITLE=['제목 없음','제목없음','(제목 없음)','(제목없음)'];
+var EMORE=/[\u{1F000}-\u{1FAFF}☀-➿️❤]/gu;
+function cleanTok(s){s=(s||'').replace(EMORE,'');return s.replace(/^[\s　·.、,，!！?？~\-—–|｜/\\"'“”‘’\[\]()]+|[\s　·.、,，!！?？~\-—–|｜/\\"'“”‘’\[\]()]+$/g,'').trim();}
+function extractTopics(title){var t=title||'',out=[],m;
+ var r1=/#([^\s#，,、]{1,16})/g;while(m=r1.exec(t)){var c=cleanTok(m[1]);if(c)out.push('#'+c);}
+ var r2=/[【\[（(]([^】\]）)#]{1,14})[】\]）)]/g;while(m=r2.exec(t)){var c=cleanTok(m[1]);if(c.length>=2)out.push(c);}
+ var head=t.split(/[｜|·:：\-–—]/)[0].replace(/[【\[（(][^】\]）)]*[】\]）)]/g,'');var c=cleanTok(head);if(c.length>=2&&c.length<=14)out.push(c);
+ var seen={},res=[];out.forEach(function(x){if(NOTITLE.indexOf(x)<0&&!seen[x.toLowerCase()]){seen[x.toLowerCase()]=1;res.push(x);}});return res;}
+function topTopicsFor(g,k){var map={};g.forEach(function(n){var ttl=(n.title||'').trim();if(!ttl||NOTITLE.indexOf(ttl)>=0)return;extractTopics(ttl).forEach(function(tk){(map[tk]=map[tk]||[]).push(n);});});
+ var arr=Object.keys(map).map(function(tk){var ns=map[tk];return {tk:tk,n:ns.length,eng:ns.reduce(function(a,b){return a+(b.likes||0)+(b.collects||0)},0)/ns.length};});
+ arr.sort(function(a,b){return b.eng-a.eng});return arr.slice(0,k||6);}
+
 let sortKey='publish_time',sortDir=-1;
 function render(idx){
  const p=profiles[idx];const g=notesOf(p);const h=p.history||[];
  const ai=(window.XHS_AI||{})[p.uid];
  const cf=cleanHist(h,'fans'),cl=cleanHist(h,'likes_collects');
  const gf=cf.length?cf[cf.length-1]-cf.find(x=>x)||0:0;
- const gfd=delta7(h,'fans');const gld=delta7(h,'likes_collects');
+ const gfd=deltaN(h,'fans',pDays());const gld=deltaN(h,'likes_collects',pDays());
  const ex=SOC[p.uid];const cat=(META[p.uid]||{}).category||'-';
  let socs='';if(p.url)socs+=`<a class="soc" href="${p.url}" target="_blank" rel="noopener">${PLAT_ICON.xiaohongshu}</a>`;if(ex&&ex.url)socs+=`<a class="soc" href="${ex.url}" target="_blank" rel="noopener">${PLAT_ICON[ex.platform]}</a>`;
  // stats
@@ -104,6 +162,8 @@ function render(idx){
  const avgC=cnt?Math.round(g.reduce((a,b)=>a+(b.collects||0),0)/cnt):0;
  const avgR=cnt?Math.round(g.reduce((a,b)=>a+rate(b),0)/cnt):0;
  const best=[...g].sort((a,b)=>(b.likes+b.collects)-(a.likes+a.collects))[0];
+ const tps=topTopicsFor(g,6);
+ const chipHtml=tps.length?`<div class="topics"><div class="tl">주요 소재</div><div class="chips">${tps.map(x=>`<span class="topchip">${x.tk}${x.n>1?' ·'+x.n:''}</span>`).join('')}</div></div>`:'';
  const dates=g.filter(n=>n.publish_time).map(n=>n.publish_time).sort();
  // post table
  const sorted=[...g].sort((a,b)=>{let c;if(sortKey==='publish_time'||sortKey==='title')c=String(a[sortKey]||'').localeCompare(String(b[sortKey]||''),'ko');else if(sortKey==='rate')c=rate(a)-rate(b);else c=(a[sortKey]||0)-(b[sortKey]||0);return c*sortDir});
@@ -116,32 +176,37 @@ function render(idx){
    <div class="pmeta"><span>카테고리 <span class="catchip">${catKR(cat)}</span></span>${dates.length?`<span>최근 게시 ${dates[dates.length-1]}</span>`:''}</div>
    <div class="socs">${socs}</div></div>
   <div class="pstats">
-   <div class="pstat"><div class="l">팔로워</div><div class="v">${fmt(p.fans)}</div><div class="d up">▲ ${up(gfd)} <span style="color:#8d8d8d;font-weight:400">(최근 7일)</span></div></div>
-   <div class="pstat"><div class="l">좋아요+저장</div><div class="v">${fmt(p.likes_collects)}</div><div class="d up">▲ ${up(gld)} <span style="color:#8d8d8d;font-weight:400">(최근 7일)</span></div></div>
+   <div class="pstat"><div class="l">팔로워</div><div class="v">${fmt(p.fans)}</div><div class="d up">▲ ${up(gfd)} <span style="color:#8d8d8d;font-weight:400">(${pLabel()})</span></div></div>
+   <div class="pstat"><div class="l">좋아요+저장</div><div class="v">${fmt(p.likes_collects)}</div><div class="d up">▲ ${up(gld)} <span style="color:#8d8d8d;font-weight:400">(${pLabel()})</span></div></div>
   </div></div>
  <div class="g2">
-  <div class="panel"><div class="ph"><h3>계정 추이</h3><div class="sub">팔로워 · 좋아요+저장수</div></div><div class="chart"><canvas id="rc"></canvas></div></div>
+  <div class="panel"><div class="ph"><h3>계정 추이</h3><div class="sub">팔로워 · 좋아요+저장수 (${pLabel()})</div></div><div class="chart"><canvas id="rc"></canvas></div></div>
   <div class="panel"><div class="ph"><h3>게시물 성과 요약</h3><div class="sub">수집된 최근 게시물 ${g.length}개 기준</div></div>
    <div class="sumgrid"><div class="sumc"><div class="l">평균 좋아요</div><div class="v">${fmt(avgL)}</div></div>
     <div class="sumc"><div class="l">평균 저장</div><div class="v">${fmt(avgC)}</div></div>
     <div class="sumc"><div class="l">평균 저장률</div><div class="v">${avgR}%</div><div class="s">저장 ÷ 좋아요</div></div>
     <div class="sumc"><div class="l">게시물 수</div><div class="v">${g.length}</div></div></div>
    ${best?`<div class="best"><div class="l">최고 성과 게시물</div><div class="t">${best.url?`<a href="${best.url}" target="_blank" rel="noopener">${best.title||'(제목없음)'}</a>`:(best.title||'-')} · ♥${fmt(best.likes)} 저장${fmt(best.collects)}</div></div>`:''}
+   ${chipHtml}
   </div>
  </div>
+ ${benchHtml(p)}
  <div class="panel" style="margin-top:16px"><div class="ph"><h3>인플루언서 평가</h3><div class="sub">${ai?('생성일 '+ai.generated+' · 종합·데이터 분석·콘텐츠 반응·특정 콘텐츠 분석'):(p.partner?'미생성 · ai.bat 실행 필요':'미계약 인플루언서로 평가 불가')}</div></div><div class="aibox">${ai?formatAI(ai.text):'<span style="color:#6f6f6f">'+(p.partner?'이 인플루언서의 AI 총평이 아직 생성되지 않았습니다. (ai.bat 으로 생성)':'이 인플루언서는 계약을 하지 않아 생성되지 않았습니다.')+'</span>'}</div></div>
  <table style="margin-top:16px"><thead><tr><th data-s="title">게시물 ${sind('title')}</th><th data-s="publish_time">업로드 ${sind('publish_time')}</th><th class="num" data-s="likes">좋아요 ${sind('likes')}</th><th class="num" data-s="collects">저장 ${sind('collects')}</th><th class="num" data-s="comments">댓글 ${sind('comments')}</th><th class="num" data-s="shares">공유 ${sind('shares')}</th><th class="num" data-s="rate">저장률 ${sind('rate')}</th></tr></thead><tbody>${rows||'<tr><td colspan=7 style="padding:16px;color:#6f6f6f">수집된 게시물이 없습니다.</td></tr>'}</tbody></table>`;
  // chart
  const ctx=document.getElementById('rc');
- if(ctx&&h.length){Chart.defaults.font.family="'IBM Plex Sans','Malgun Gothic',sans-serif";
-  new Chart(ctx,{type:'line',data:{labels:h.map(x=>x.date),datasets:[
-   {label:'팔로워',data:cf,borderColor:'#0f62fe',backgroundColor:'rgba(15,98,254,.06)',fill:true,tension:0,borderWidth:1.75,pointRadius:2,yAxisID:'y'},
-   {label:'좋아요+저장',data:cl,borderColor:'#007d79',backgroundColor:'rgba(0,125,121,.05)',fill:true,tension:0,borderWidth:1.75,pointRadius:2,yAxisID:'y2'}]},
+ const _hs=histStart(h);const _lbl=h.slice(_hs).map(x=>x.date);const _cf=cf.slice(_hs);const _cl=cl.slice(_hs);
+ if(ctx&&_lbl.length){Chart.defaults.font.family="'IBM Plex Sans','Malgun Gothic',sans-serif";
+  new Chart(ctx,{type:'line',data:{labels:_lbl,datasets:[
+   {label:'팔로워',data:_cf,borderColor:'#0f62fe',backgroundColor:'rgba(15,98,254,.06)',fill:true,tension:0,borderWidth:1.75,pointRadius:2,yAxisID:'y'},
+   {label:'좋아요+저장',data:_cl,borderColor:'#007d79',backgroundColor:'rgba(0,125,121,.05)',fill:true,tension:0,borderWidth:1.75,pointRadius:2,yAxisID:'y2'}]},
    options:{responsive:true,maintainAspectRatio:false,interaction:{mode:'index',intersect:false},plugins:{legend:{labels:{boxWidth:10,font:{size:11}}},tooltip:{backgroundColor:'#161616',cornerRadius:0,padding:10,callbacks:{label:c=>c.dataset.label+': '+fmt(c.parsed.y)}}},
     scales:{x:{grid:{display:false},ticks:{font:{size:10}}},y:{grid:{color:'#e0e0e0'},ticks:{font:{size:10},callback:v=>fmt(v)}},y2:{position:'right',grid:{display:false},ticks:{font:{size:10},callback:v=>fmt(v)}}}}});}
  // header sort binding
  document.querySelectorAll('thead th[data-s]').forEach(th=>th.addEventListener('click',()=>{const k=th.dataset.s;if(sortKey===k)sortDir=-sortDir;else{sortKey=k;sortDir=(k==='title'||k==='publish_time')?-1:-1}render(idx)}));
 }
-sel.addEventListener('change',()=>render(+sel.value));
-render(order[0].i);
+let curIdx=order[0].i;
+sel.addEventListener('change',()=>{curIdx=+sel.value;render(curIdx)});
+document.querySelectorAll('#periodtg .tgb').forEach(b=>b.addEventListener('click',function(){document.querySelectorAll('#periodtg .tgb').forEach(x=>x.classList.remove('active'));this.classList.add('active');curP=this.dataset.p;render(curIdx)}));
+render(curIdx);
 </script></body></html>
