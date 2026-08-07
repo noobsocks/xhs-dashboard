@@ -100,7 +100,7 @@ a.lk:hover{text-decoration:underline}
    <div data-view="pt-t"><table><thead><tr><th class="rk">#</th><th>게시물</th><th>작성자</th><th class="num">♥ 좋아요</th><th class="num">저장</th></tr></thead><tbody id="pt-body"></tbody></table></div>
    <div data-view="pt-c" style="display:none;padding:16px"><div style="height:300px"><canvas id="ch-pt"></canvas></div></div></div>
  </div>
- <div class="panel" style="margin-top:16px"><div class="ph phtog"><div><h3>카테고리 분포</h3><div class="sub">계약 인플루언서의 垂类 구성 (기간 무관)</div></div>
+ <div class="panel" style="margin-top:16px"><div class="ph phtog"><div><h3>카테고리 분포</h3><div class="sub">인플루언서 카테고리</div></div>
     <div class="tg"><button class="tgb active" data-t="cat-c">차트</button><button class="tgb" data-t="cat-t">표</button></div></div>
    <div data-view="cat-c" style="padding:8px 0 12px"><div class="barrow"><div class="barlab">패션</div><div class="bartrack"><div class="barfill" style="width:100.0%"></div></div><div class="barval">37</div></div><div class="barrow"><div class="barlab">일상</div><div class="bartrack"><div class="barfill" style="width:51.4%"></div></div><div class="barval">19</div></div><div class="barrow"><div class="barlab">뷰티</div><div class="bartrack"><div class="barfill" style="width:35.1%"></div></div><div class="barval">13</div></div><div class="barrow"><div class="barlab">라이프</div><div class="bartrack"><div class="barfill" style="width:24.3%"></div></div><div class="barval">9</div></div><div class="barrow"><div class="barlab">댄스</div><div class="bartrack"><div class="barfill" style="width:13.5%"></div></div><div class="barval">5</div></div><div class="barrow"><div class="barlab">먹방</div><div class="bartrack"><div class="barfill" style="width:5.4%"></div></div><div class="barval">2</div></div></div>
    <div data-view="cat-t" style="display:none"><table><thead><tr><th>카테고리</th><th class="num">인원</th></tr></thead><tbody><tr><td>패션</td><td class="num mono">37</td></tr><tr><td>일상</td><td class="num mono">19</td></tr><tr><td>뷰티</td><td class="num mono">13</td></tr><tr><td>라이프</td><td class="num mono">9</td></tr><tr><td>댄스</td><td class="num mono">5</td></tr><tr><td>먹방</td><td class="num mono">2</td></tr></tbody></table></div></div>
@@ -130,7 +130,7 @@ function prow(i,p){const t=p.url?`<a class="lk ptitle" href="${p.url}" target="_
 function renderTables(){const w=D.win[cur];
  document.getElementById('mup-body').innerHTML=w.movers_up.map((m,i)=>mrow(i,m)).join('')||'<tr><td colspan="4" style="padding:16px;color:#6f6f6f">이 기간 동안 팔로워가 늘어난 인플루언서가 없습니다.</td></tr>';
  document.getElementById('pt-body').innerHTML=w.posts_top.map((p,i)=>prow(i,p)).join('')||'<tr><td colspan="5" style="padding:16px;color:#6f6f6f">이 기간에 올라온 게시물이 없습니다.</td></tr>';
- document.getElementById('mup-sub').textContent=`${winLabel()} · 팔로워 증가폭 순`;
+ document.getElementById('mup-sub').textContent=cur==='all'?`전체 기간 · 팔로워 증가폭 순`:`${winLabel()} (${w.cut_date} ~ ${D.dates[D.dates.length-1]}) · 팔로워 증가폭 순`;
  document.getElementById('pt-sub').textContent=cur==='all'?`전체 기간 · 좋아요+저장 순`:`${winLabel()} (${w.post_cut} ~ ${D.post_mx}) · 좋아요+저장 순`;
  document.getElementById('trend-label').textContent=`팔로워 · 좋아요+저장수 추이 (${winLabel()})`;
 }

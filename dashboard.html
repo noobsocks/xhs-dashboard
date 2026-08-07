@@ -24,7 +24,6 @@ body{font-family:'IBM Plex Sans','Malgun Gothic',sans-serif;background:var(--bg)
 .sw.active{background:var(--black);color:#fff}
 .swt.active{background:#6929c4;color:#fff}
 .tdiv{width:1px;align-self:stretch;background:var(--border)}
-.tlab{display:flex;align-items:center;padding:0 8px 0 14px;font-size:12px;color:var(--helper);border-right:1px solid var(--border);height:40px}
 .toolbar .count{margin-left:auto;padding:0 16px;font-size:12px;color:var(--helper)}
 .searchwrap{display:flex;align-items:center;gap:6px;padding:0 12px;border-left:1px solid var(--border);height:40px}
 .searchwrap .sicon{flex:none;opacity:.8}
@@ -90,7 +89,7 @@ tr.detail>td{background:#f7f7f7;padding:0;border-bottom:1px solid var(--border)}
  <div class="tiles" id="kpis"></div>
  <div class="toolbar"><div class="switcher">
    <button class="sw active" data-f="all">전체</button><button class="sw" data-f="1">계약</button><button class="sw" data-f="0">미계약</button>
- </div><div class="tdiv"></div><div class="switcher"><span class="tlab">유형</span><button class="swt active" data-ft="all">전체</button><button class="swt" data-ft="개인">개인</button><button class="swt" data-ft="기업">기업</button><button class="swt" data-ft="에이전트">에이전트</button></div><div class="searchwrap"><svg class="sicon" viewBox="0 0 16 16" width="15" height="15"><circle cx="7" cy="7" r="5" fill="none" stroke="#8d8d8d" stroke-width="1.4"/><line x1="10.6" y1="10.6" x2="14" y2="14" stroke="#8d8d8d" stroke-width="1.4"/></svg><input id="search" type="text" placeholder="이름 · uid 검색" autocomplete="off"><button id="searchclr" title="지우기" style="display:none">✕</button></div><div class="count" id="count">인플루언서 카드를 클릭하면 세부 정보를 확인할 수 있습니다</div></div>
+ </div><div class="tdiv"></div><div class="switcher"><button class="swt active" data-ft="all">전체</button><button class="swt" data-ft="개인">개인</button><button class="swt" data-ft="기업">기업</button><button class="swt" data-ft="에이전트">에이전트</button></div><div class="searchwrap"><svg class="sicon" viewBox="0 0 16 16" width="15" height="15"><circle cx="7" cy="7" r="5" fill="none" stroke="#8d8d8d" stroke-width="1.4"/><line x1="10.6" y1="10.6" x2="14" y2="14" stroke="#8d8d8d" stroke-width="1.4"/></svg><input id="search" type="text" placeholder="이름 · uid 검색" autocomplete="off"><button id="searchclr" title="지우기" style="display:none">✕</button></div><div class="count" id="count">인플루언서 카드를 클릭하면 세부 정보를 확인할 수 있습니다</div></div>
  <div id="tbl"></div><div class="pager" id="pager"></div>
 </div>
 <script>
