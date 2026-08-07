@@ -16907,7 +16907,9 @@ window.XHS_DATA = {
           "likes_collects": 22000,
           "notes_count": 30
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/68b5003e000000001901df25",
@@ -16997,7 +16999,9 @@ window.XHS_DATA = {
           "likes_collects": 42000,
           "notes_count": 31
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/5dd0e27d0000000001002a82",
@@ -17177,7 +17181,9 @@ window.XHS_DATA = {
           "likes_collects": 13000,
           "notes_count": 5
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/67f63ee2000000000d0083c3",
@@ -17267,7 +17273,9 @@ window.XHS_DATA = {
           "likes_collects": 19000,
           "notes_count": 32
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6927eb00000000003702c94d",
@@ -17357,7 +17365,9 @@ window.XHS_DATA = {
           "likes_collects": 22000,
           "notes_count": 32
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/66377c41000000000700648e",
@@ -17447,7 +17457,9 @@ window.XHS_DATA = {
           "likes_collects": 40,
           "notes_count": 3
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/68c8f1bc00000000190101cd",
@@ -17537,7 +17549,9 @@ window.XHS_DATA = {
           "likes_collects": 330,
           "notes_count": 30
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/68c8df9f0000000019016ada",
@@ -17717,14 +17731,16 @@ window.XHS_DATA = {
           "likes_collects": 359,
           "notes_count": 15
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6687f1b6000000000303050a",
       "type": "profile",
       "name": "forever",
       "uid": "6687f1b6000000000303050a",
-      "partner": false,
+      "partner": true,
       "fans": 4,
       "likes_collects": 0,
       "following": 0,
@@ -17807,7 +17823,9 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69099b5f00000000370076e3",
@@ -17897,14 +17915,16 @@ window.XHS_DATA = {
           "likes_collects": 1000,
           "notes_count": 11
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6825aa11000000000e01c968",
       "type": "profile",
       "name": "朱元大",
       "uid": "6825aa11000000000e01c968",
-      "partner": false,
+      "partner": true,
       "fans": 40,
       "likes_collects": 168,
       "following": 0,
@@ -17987,7 +18007,9 @@ window.XHS_DATA = {
           "likes_collects": 168,
           "notes_count": 8
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/68a527a40000000019013060",
@@ -18077,7 +18099,9 @@ window.XHS_DATA = {
           "likes_collects": 1900,
           "notes_count": 30
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/68a4017f000000001900d24f",
@@ -18167,7 +18191,9 @@ window.XHS_DATA = {
           "likes_collects": 15,
           "notes_count": 5
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/68ddf09c000000003702ee47",
@@ -18257,7 +18283,9 @@ window.XHS_DATA = {
           "likes_collects": 5500,
           "notes_count": 18
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/68497b42000000001b01a912",
@@ -18319,14 +18347,16 @@ window.XHS_DATA = {
           "likes_collects": 306,
           "notes_count": 11
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/63ef8fc8000000001001feb6",
       "type": "profile",
       "name": "用户已注销",
       "uid": "63ef8fc8000000001001feb6",
-      "partner": false,
+      "partner": true,
       "fans": 16,
       "likes_collects": 129,
       "following": 0,
@@ -18409,7 +18439,9 @@ window.XHS_DATA = {
           "likes_collects": 129,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/68937f150000000028018792",
@@ -18499,7 +18531,9 @@ window.XHS_DATA = {
           "likes_collects": 115,
           "notes_count": 12
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6946242b000000000300e5f0",
@@ -18589,7 +18623,9 @@ window.XHS_DATA = {
           "likes_collects": 16,
           "notes_count": 13
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/68e094250000000037030228",
@@ -18679,14 +18715,16 @@ window.XHS_DATA = {
           "likes_collects": 4700,
           "notes_count": 30
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/68c9589b000000002101fb59",
       "type": "profile",
       "name": "Ryan Joo",
       "uid": "68c9589b000000002101fb59",
-      "partner": false,
+      "partner": true,
       "fans": 3,
       "likes_collects": 10,
       "following": 0,
@@ -18769,7 +18807,9 @@ window.XHS_DATA = {
           "likes_collects": 10,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6902faa20000000037005081",
@@ -18859,7 +18899,9 @@ window.XHS_DATA = {
           "likes_collects": 278,
           "notes_count": 6
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/688247b9000000001d00bf72",
@@ -18949,7 +18991,9 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 1
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6900661a0000000037001ff6",
@@ -19039,7 +19083,9 @@ window.XHS_DATA = {
           "likes_collects": 9,
           "notes_count": 1
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6839ee53000000001d00a933",
@@ -19226,7 +19272,9 @@ window.XHS_DATA = {
           "likes_collects": 7700,
           "notes_count": 30
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/5c7dfdef000000001603fc84",
@@ -19316,7 +19364,9 @@ window.XHS_DATA = {
           "likes_collects": 82,
           "notes_count": 4
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/694d0f240000000026039804",
@@ -19406,7 +19456,9 @@ window.XHS_DATA = {
           "likes_collects": 7400,
           "notes_count": 18
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/68235163000000000e01ef19",
@@ -19496,7 +19548,9 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/61c5acde00000000100088be",
@@ -19676,7 +19730,9 @@ window.XHS_DATA = {
           "likes_collects": 1200,
           "notes_count": 7
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6953b5620000000026039d68",
@@ -19766,7 +19822,9 @@ window.XHS_DATA = {
           "likes_collects": 96000,
           "notes_count": 30
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/695faa24000000003700bed1",
@@ -19856,7 +19914,9 @@ window.XHS_DATA = {
           "likes_collects": 7800,
           "notes_count": 17
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69c5492a0000000026039cae",
@@ -19953,14 +20013,16 @@ window.XHS_DATA = {
           "likes_collects": 1957000,
           "notes_count": 31
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69771014000000002603b758",
       "type": "profile",
       "name": "朴秋天",
       "uid": "69771014000000002603b758",
-      "partner": false,
+      "partner": true,
       "fans": 836,
       "likes_collects": 3000,
       "following": 0,
@@ -20043,7 +20105,9 @@ window.XHS_DATA = {
           "likes_collects": 3000,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/686ce2ec000000001d008ef3",
@@ -20133,14 +20197,16 @@ window.XHS_DATA = {
           "likes_collects": 31000,
           "notes_count": 15
         }
-      ]
+      ],
+      "ctype": "기업",
+      "cname": "BREAKERS"
     },
     {
       "url": "https://www.rednote.com/user/profile/68d6eac900000000210278b1",
       "type": "profile",
       "name": "mimin美珉",
       "uid": "68d6eac900000000210278b1",
-      "partner": false,
+      "partner": true,
       "fans": 4,
       "likes_collects": 3,
       "following": 0,
@@ -20223,14 +20289,16 @@ window.XHS_DATA = {
           "likes_collects": 3,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/691c74cc000000003702d38a",
       "type": "profile",
       "name": "娧悧",
       "uid": "691c74cc000000003702d38a",
-      "partner": false,
+      "partner": true,
       "fans": 210,
       "likes_collects": 2100,
       "following": 0,
@@ -20313,7 +20381,9 @@ window.XHS_DATA = {
           "likes_collects": 2100,
           "notes_count": 2
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6934e4a300000000370016d6",
@@ -20403,7 +20473,9 @@ window.XHS_DATA = {
           "likes_collects": 10000,
           "notes_count": 23
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6234b0a9000000001000e009",
@@ -20493,14 +20565,16 @@ window.XHS_DATA = {
           "likes_collects": 12000,
           "notes_count": 30
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/695d1aa40000000037008c5a",
       "type": "profile",
       "name": "彩英 chaeyeong",
       "uid": "695d1aa40000000037008c5a",
-      "partner": false,
+      "partner": true,
       "fans": 224,
       "likes_collects": 553,
       "following": 0,
@@ -20583,7 +20657,9 @@ window.XHS_DATA = {
           "likes_collects": 553,
           "notes_count": 9
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69bb83400000000026038ed5",
@@ -20673,7 +20749,9 @@ window.XHS_DATA = {
           "likes_collects": 233000,
           "notes_count": 20
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/673d8e72000000001d02e298",
@@ -20763,7 +20841,9 @@ window.XHS_DATA = {
           "likes_collects": 13000,
           "notes_count": 15
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69cb4e010000000026002eee",
@@ -20853,14 +20933,16 @@ window.XHS_DATA = {
           "likes_collects": 113000,
           "notes_count": 30
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69579209000000002603a53c",
       "type": "profile",
       "name": "RIYE",
       "uid": "69579209000000002603a53c",
-      "partner": false,
+      "partner": true,
       "fans": 90,
       "likes_collects": 219,
       "following": 0,
@@ -20943,14 +21025,16 @@ window.XHS_DATA = {
           "likes_collects": 219,
           "notes_count": 10
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69d70fef00000000260032c7",
       "type": "profile",
       "name": "파동padong",
       "uid": "69d70fef00000000260032c7",
-      "partner": false,
+      "partner": true,
       "fans": 29,
       "likes_collects": 266,
       "following": 0,
@@ -21033,7 +21117,9 @@ window.XHS_DATA = {
           "likes_collects": 266,
           "notes_count": 16
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6732b6cb000000001c0184ae",
@@ -21123,7 +21209,9 @@ window.XHS_DATA = {
           "likes_collects": 13000,
           "notes_count": 19
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/692ae52c0000000003013e5a",
@@ -21213,7 +21301,9 @@ window.XHS_DATA = {
           "likes_collects": 60000,
           "notes_count": 30
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69b819e60000000026001c12",
@@ -21303,7 +21393,9 @@ window.XHS_DATA = {
           "likes_collects": 2300,
           "notes_count": 16
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69d492a40000000026002b3f",
@@ -21393,7 +21485,9 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69ef2c70000000000d034c01",
@@ -21483,7 +21577,9 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69ef341f000000000d035c01",
@@ -21573,7 +21669,9 @@ window.XHS_DATA = {
           "likes_collects": 761,
           "notes_count": 17
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69f067a4000000000d035c02",
@@ -21663,7 +21761,9 @@ window.XHS_DATA = {
           "likes_collects": 124,
           "notes_count": 11
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6774e370000000001801fdde",
@@ -21753,14 +21853,16 @@ window.XHS_DATA = {
           "likes_collects": 278,
           "notes_count": 14
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69f070d2000000000d035c00",
       "type": "profile",
       "name": "姜抒衍",
       "uid": "69f070d2000000000d035c00",
-      "partner": false,
+      "partner": true,
       "fans": 284,
       "likes_collects": 1300,
       "following": 0,
@@ -21843,7 +21945,9 @@ window.XHS_DATA = {
           "likes_collects": 1300,
           "notes_count": 30
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69ef2ac0000000000d035c00",
@@ -21933,7 +22037,9 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/64a7b123000000001c02adff",
@@ -22030,7 +22136,9 @@ window.XHS_DATA = {
           "likes_collects": 2000,
           "notes_count": 7
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69f301bd000000000d034c01",
@@ -22127,7 +22235,9 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69f344f5000000000d034c01",
@@ -22217,7 +22327,9 @@ window.XHS_DATA = {
           "likes_collects": 113,
           "notes_count": 12
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69f3405c000000000d035c01",
@@ -22307,7 +22419,9 @@ window.XHS_DATA = {
           "likes_collects": 41,
           "notes_count": 4
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69f341cc000000000d035c01",
@@ -22397,7 +22511,9 @@ window.XHS_DATA = {
           "likes_collects": 33,
           "notes_count": 3
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69f3423d000000000d035c01",
@@ -22417,7 +22533,9 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69f2ea7f000000000d035c03",
@@ -22507,7 +22625,9 @@ window.XHS_DATA = {
           "likes_collects": 872,
           "notes_count": 25
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/62786bff000000002102b934",
@@ -22604,7 +22724,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "Holy Cow 🐮",
       "uid": "681444b2000000000e01d94d",
-      "partner": false,
+      "partner": true,
       "fans": 270,
       "likes_collects": 4300,
       "following": 0,
@@ -22687,14 +22807,16 @@ window.XHS_DATA = {
           "likes_collects": 4300,
           "notes_count": 22
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6a041b38000000000d034c02",
       "type": "profile",
       "name": "小红薯6A0495E2",
       "uid": "6a041b38000000000d034c02",
-      "partner": false,
+      "partner": true,
       "fans": 0,
       "likes_collects": 0,
       "following": 0,
@@ -22777,14 +22899,16 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/67f8cbd7000000000e01d436",
       "type": "profile",
       "name": "Juyeol Choi",
       "uid": "67f8cbd7000000000e01d436",
-      "partner": false,
+      "partner": true,
       "fans": 1600,
       "likes_collects": 4200,
       "following": 0,
@@ -22867,7 +22991,9 @@ window.XHS_DATA = {
           "likes_collects": 4200,
           "notes_count": 30
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/67f7b5b5000000000e0104a8",
@@ -22957,7 +23083,9 @@ window.XHS_DATA = {
           "likes_collects": 14000,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69708797000000002603a6cd",
@@ -23137,14 +23265,16 @@ window.XHS_DATA = {
           "likes_collects": 17,
           "notes_count": 4
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6a0f92d7000000000d035c02",
       "type": "profile",
       "name": "Seungchul Lee",
       "uid": "6a0f92d7000000000d035c02",
-      "partner": false,
+      "partner": true,
       "fans": 435,
       "likes_collects": 853,
       "following": 0,
@@ -23227,7 +23357,9 @@ window.XHS_DATA = {
           "likes_collects": 853,
           "notes_count": 10
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/653239f0000000002a01b285",
@@ -23594,7 +23726,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "金枝香 Kim jihyang",
       "uid": "6814e211000000000d00a01f",
-      "partner": false,
+      "partner": true,
       "fans": 692,
       "likes_collects": 3500,
       "following": 0,
@@ -23677,14 +23809,16 @@ window.XHS_DATA = {
           "likes_collects": 3500,
           "notes_count": 21
         }
-      ]
+      ],
+      "ctype": "기업",
+      "cname": "SUBLIME"
     },
     {
       "url": "https://www.rednote.com/user/profile/6a153f3e000000000d035c00",
       "type": "profile",
       "name": "林秀香 Im SooHyang",
       "uid": "6a153f3e000000000d035c00",
-      "partner": false,
+      "partner": true,
       "fans": 15000,
       "likes_collects": 46000,
       "following": 0,
@@ -23767,14 +23901,16 @@ window.XHS_DATA = {
           "likes_collects": 46000,
           "notes_count": 32
         }
-      ]
+      ],
+      "ctype": "기업",
+      "cname": "SUBLIME"
     },
     {
       "url": "https://www.rednote.com/user/profile/6a165520000000000d034c00",
       "type": "profile",
       "name": "HighFiction",
       "uid": "6a165520000000000d034c00",
-      "partner": false,
+      "partner": true,
       "fans": 2100,
       "likes_collects": 6200,
       "following": 0,
@@ -23829,14 +23965,16 @@ window.XHS_DATA = {
           "likes_collects": 6200,
           "notes_count": 8
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6859418d000000001b019118",
       "type": "profile",
       "name": "leeravely",
       "uid": "6859418d000000001b019118",
-      "partner": false,
+      "partner": true,
       "fans": 393,
       "likes_collects": 4600,
       "following": 0,
@@ -23919,14 +24057,16 @@ window.XHS_DATA = {
           "likes_collects": 4600,
           "notes_count": 20
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/5fcce992000000000101e48c",
       "type": "profile",
       "name": "諝炫 Seohyun",
       "uid": "5fcce992000000000101e48c",
-      "partner": false,
+      "partner": true,
       "fans": 217,
       "likes_collects": 1100,
       "following": 0,
@@ -24009,7 +24149,9 @@ window.XHS_DATA = {
           "likes_collects": 1100,
           "notes_count": 29
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/68b0afe400000000190122d9",
@@ -24736,7 +24878,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "小红薯6A1A123D",
       "uid": "6a197f48000000000d035c02",
-      "partner": false,
+      "partner": true,
       "fans": 0,
       "likes_collects": 0,
       "following": 0,
@@ -24819,7 +24961,9 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/60c4adc5000000000100032f",
@@ -24916,7 +25060,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "小红薯6A19A323",
       "uid": "6a19825e000000000d034c00",
-      "partner": false,
+      "partner": true,
       "fans": 0,
       "likes_collects": 0,
       "following": 0,
@@ -24999,7 +25143,9 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/645cebc100000000290131c8",
@@ -25781,7 +25927,9 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/61aff64e000000001000f9ba",
@@ -26328,7 +26476,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "Serriday",
       "uid": "68526a75000000001d0089f2",
-      "partner": false,
+      "partner": true,
       "fans": 1400,
       "likes_collects": 2400,
       "following": 0,
@@ -26411,14 +26559,16 @@ window.XHS_DATA = {
           "likes_collects": 2400,
           "notes_count": 2
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/627219e2000000002102279c",
       "type": "profile",
       "name": "Austin Kang",
       "uid": "627219e2000000002102279c",
-      "partner": false,
+      "partner": true,
       "fans": 3100,
       "likes_collects": 14000,
       "following": 0,
@@ -26501,14 +26651,16 @@ window.XHS_DATA = {
           "likes_collects": 14000,
           "notes_count": 29
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/698aefc60000000026003ba2",
       "type": "profile",
       "name": "JAYKEEOUT",
       "uid": "698aefc60000000026003ba2",
-      "partner": false,
+      "partner": true,
       "fans": 1,
       "likes_collects": 0,
       "following": 0,
@@ -26591,14 +26743,16 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6a22649c000000000d034c00",
       "type": "profile",
       "name": "Jee Young",
       "uid": "6a22649c000000000d034c00",
-      "partner": false,
+      "partner": true,
       "fans": 1,
       "likes_collects": 0,
       "following": 0,
@@ -26646,14 +26800,16 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/672b8011000000001d02cb93",
       "type": "profile",
       "name": "金高恩goxnniee",
       "uid": "672b8011000000001d02cb93",
-      "partner": false,
+      "partner": true,
       "fans": 23000,
       "likes_collects": 58000,
       "following": 0,
@@ -26736,7 +26892,9 @@ window.XHS_DATA = {
           "likes_collects": 58000,
           "notes_count": 31
         }
-      ]
+      ],
+      "ctype": "기업",
+      "cname": "SUBLIME"
     },
     {
       "url": "https://www.rednote.com/user/profile/6a1fd544000000000d034c03",
@@ -26833,7 +26991,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "SOJINHO",
       "uid": "62cfe283000000000200089c",
-      "partner": false,
+      "partner": true,
       "fans": 20,
       "likes_collects": 227,
       "following": 0,
@@ -26916,7 +27074,9 @@ window.XHS_DATA = {
           "likes_collects": 227,
           "notes_count": 21
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6854f245000000001d009070",
@@ -27013,7 +27173,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "刘诗蘟 yu sieun",
       "uid": "6a2faba5000000000e03bc00",
-      "partner": false,
+      "partner": true,
       "fans": 1300,
       "likes_collects": 5600,
       "following": 0,
@@ -27047,14 +27207,16 @@ window.XHS_DATA = {
           "likes_collects": 5600,
           "notes_count": 11
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6a2a62c7000000000e03bc01",
       "type": "profile",
       "name": "YURA裕娜",
       "uid": "6a2a62c7000000000e03bc01",
-      "partner": false,
+      "partner": true,
       "fans": 5,
       "likes_collects": 33,
       "following": 0,
@@ -27137,14 +27299,16 @@ window.XHS_DATA = {
           "likes_collects": 33,
           "notes_count": 5
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/66f78c2f000000001d033ac2",
       "type": "profile",
       "name": "金慧真Hyejin",
       "uid": "66f78c2f000000001d033ac2",
-      "partner": false,
+      "partner": true,
       "fans": 2200,
       "likes_collects": 5800,
       "following": 0,
@@ -27227,14 +27391,16 @@ window.XHS_DATA = {
           "likes_collects": 5800,
           "notes_count": 15
         }
-      ]
+      ],
+      "ctype": "기업",
+      "cname": "SUBLIME"
     },
     {
       "url": "https://www.rednote.com/user/profile/69beb6bf000000002603b769",
       "type": "profile",
       "name": "Jaeyee 婕依",
       "uid": "69beb6bf000000002603b769",
-      "partner": false,
+      "partner": true,
       "fans": 41,
       "likes_collects": 104,
       "following": 0,
@@ -27317,14 +27483,16 @@ window.XHS_DATA = {
           "likes_collects": 104,
           "notes_count": 15
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69bb56fd00000000260015d7",
       "type": "profile",
       "name": "Team1llusion",
       "uid": "69bb56fd00000000260015d7",
-      "partner": false,
+      "partner": true,
       "fans": 5400,
       "likes_collects": 398000,
       "following": 0,
@@ -27407,7 +27575,9 @@ window.XHS_DATA = {
           "likes_collects": 398000,
           "notes_count": 26
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6a0b9603000000000d034c00",
@@ -27504,14 +27674,16 @@ window.XHS_DATA = {
           "likes_collects": 3,
           "notes_count": 3
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/663465150000000007007c70",
       "type": "profile",
       "name": "智秀 SSOLOG",
       "uid": "663465150000000007007c70",
-      "partner": false,
+      "partner": true,
       "fans": 7,
       "likes_collects": 377,
       "following": 0,
@@ -27594,7 +27766,9 @@ window.XHS_DATA = {
           "likes_collects": 377,
           "notes_count": 18
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69314eb5000000003702b81d",
@@ -27691,7 +27865,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "昭昭sojung",
       "uid": "693c356e000000003700b8c5",
-      "partner": false,
+      "partner": true,
       "fans": 271,
       "likes_collects": 3400,
       "following": 0,
@@ -27774,7 +27948,9 @@ window.XHS_DATA = {
           "likes_collects": 3400,
           "notes_count": 10
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6a1ce3f7000000000d035c00",
@@ -28051,7 +28227,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "shin ara",
       "uid": "641737050000000012012fdc",
-      "partner": false,
+      "partner": true,
       "fans": 8,
       "likes_collects": 14,
       "following": 0,
@@ -28134,7 +28310,9 @@ window.XHS_DATA = {
           "likes_collects": 14,
           "notes_count": 1
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6a210f64000000000d035c00",
@@ -28411,7 +28589,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "娟柑姐",
       "uid": "6a2a5be6000000000d034c01",
-      "partner": false,
+      "partner": true,
       "fans": 9,
       "likes_collects": 41,
       "following": 0,
@@ -28452,7 +28630,9 @@ window.XHS_DATA = {
           "likes_collects": 41,
           "notes_count": 7
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6a210f3c000000000d034c01",
@@ -28729,7 +28909,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "Geekble",
       "uid": "6a3cc471000000000d034c01",
-      "partner": false,
+      "partner": true,
       "fans": 0,
       "likes_collects": 0,
       "following": 0,
@@ -28812,14 +28992,16 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/696074f400000000370330ee",
       "type": "profile",
       "name": "apricotyeon",
       "uid": "696074f400000000370330ee",
-      "partner": false,
+      "partner": true,
       "fans": 26,
       "likes_collects": 24,
       "following": 0,
@@ -28902,14 +29084,16 @@ window.XHS_DATA = {
           "likes_collects": 24,
           "notes_count": 2
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/66ded190000000001d031339",
       "type": "profile",
       "name": "Yeomin",
       "uid": "66ded190000000001d031339",
-      "partner": false,
+      "partner": true,
       "fans": 781,
       "likes_collects": 3300,
       "following": 0,
@@ -28992,14 +29176,16 @@ window.XHS_DATA = {
           "likes_collects": 3300,
           "notes_count": 30
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69b581e8000000002603a711",
       "type": "profile",
       "name": "柳花yuhwa",
       "uid": "69b581e8000000002603a711",
-      "partner": false,
+      "partner": true,
       "fans": 44,
       "likes_collects": 57,
       "following": 0,
@@ -29082,7 +29268,9 @@ window.XHS_DATA = {
           "likes_collects": 57,
           "notes_count": 1
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6a449657000000000d035c02",
@@ -29186,7 +29374,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "魔术师 田范锡",
       "uid": "6a45d840000000000d034c00",
-      "partner": false,
+      "partner": true,
       "fans": 1,
       "likes_collects": 0,
       "following": 0,
@@ -29269,14 +29457,16 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6a4cadc4000000000d035c01",
       "type": "profile",
       "name": "小红薯6A4E30B6",
       "uid": "6a4cadc4000000000d035c01",
-      "partner": false,
+      "partner": true,
       "fans": 0,
       "likes_collects": 0,
       "following": 0,
@@ -29289,14 +29479,16 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6a4c4f37000000000e03bc00",
       "type": "profile",
       "name": "milkcat",
       "uid": "6a4c4f37000000000e03bc00",
-      "partner": false,
+      "partner": true,
       "fans": 0,
       "likes_collects": 10,
       "following": 0,
@@ -29309,14 +29501,16 @@ window.XHS_DATA = {
           "likes_collects": 10,
           "notes_count": 4
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6793a960000000000e01e23c",
       "type": "profile",
       "name": "charmingchoi",
       "uid": "6793a960000000000e01e23c",
-      "partner": false,
+      "partner": true,
       "fans": 3,
       "likes_collects": 23,
       "following": 0,
@@ -29329,7 +29523,9 @@ window.XHS_DATA = {
           "likes_collects": 23,
           "notes_count": 1
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6a3232ed000000000e03bc00",
@@ -29436,7 +29632,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "Minyoung",
       "uid": "6a4df217000000000d035c02",
-      "partner": false,
+      "partner": true,
       "fans": 0,
       "likes_collects": 0,
       "following": 0,
@@ -29449,14 +29645,16 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6a15574a000000000d035c00",
       "type": "profile",
       "name": "孙达 SonDal",
       "uid": "6a15574a000000000d035c00",
-      "partner": false,
+      "partner": true,
       "fans": 5,
       "likes_collects": 22,
       "following": 0,
@@ -29469,14 +29667,16 @@ window.XHS_DATA = {
           "likes_collects": 22,
           "notes_count": 4
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6954b26a0000000037006fc6",
       "type": "profile",
       "name": "yeng",
       "uid": "6954b26a0000000037006fc6",
-      "partner": false,
+      "partner": true,
       "fans": 38,
       "likes_collects": 72,
       "following": 0,
@@ -29489,14 +29689,16 @@ window.XHS_DATA = {
           "likes_collects": 72,
           "notes_count": 8
         }
-      ]
+      ],
+      "ctype": "기업",
+      "cname": "S&A"
     },
     {
       "url": "https://www.rednote.com/user/profile/598188cf6a6a692d9c2a549c",
       "type": "profile",
       "name": "salt_papa",
       "uid": "598188cf6a6a692d9c2a549c",
-      "partner": false,
+      "partner": true,
       "fans": 1,
       "likes_collects": 3,
       "following": 0,
@@ -29509,14 +29711,16 @@ window.XHS_DATA = {
           "likes_collects": 3,
           "notes_count": 1
         }
-      ]
+      ],
+      "ctype": "기업",
+      "cname": "S&A"
     },
     {
       "url": "https://www.rednote.com/user/profile/67b1fafb000000000e01d1b4",
       "type": "profile",
       "name": "爱美妆的Reina",
       "uid": "67b1fafb000000000e01d1b4",
-      "partner": false,
+      "partner": true,
       "fans": 1,
       "likes_collects": 7,
       "following": 0,
@@ -29529,14 +29733,16 @@ window.XHS_DATA = {
           "likes_collects": 7,
           "notes_count": 2
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/69796c760000000026002d55",
       "type": "profile",
       "name": "Chaerione",
       "uid": "69796c760000000026002d55",
-      "partner": false,
+      "partner": true,
       "fans": 2,
       "likes_collects": 7,
       "following": 0,
@@ -29549,14 +29755,16 @@ window.XHS_DATA = {
           "likes_collects": 7,
           "notes_count": 1
         }
-      ]
+      ],
+      "ctype": "기업",
+      "cname": "S&A"
     },
     {
       "url": "https://www.rednote.com/user/profile/69cba72000000000260007cd",
       "type": "profile",
       "name": "Whiteyesso",
       "uid": "69cba72000000000260007cd",
-      "partner": false,
+      "partner": true,
       "fans": 1,
       "likes_collects": 7,
       "following": 0,
@@ -29569,14 +29777,16 @@ window.XHS_DATA = {
           "likes_collects": 7,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "기업",
+      "cname": "no.ubgroup"
     },
     {
       "url": "https://www.rednote.com/user/profile/685bf456000000001b021251",
       "type": "profile",
       "name": "bychangm_",
       "uid": "685bf456000000001b021251",
-      "partner": false,
+      "partner": true,
       "fans": 1,
       "likes_collects": 49,
       "following": 0,
@@ -29589,14 +29799,16 @@ window.XHS_DATA = {
           "likes_collects": 49,
           "notes_count": 2
         }
-      ]
+      ],
+      "ctype": "기업",
+      "cname": "no.ubgroup"
     },
     {
       "url": "https://www.rednote.com/user/profile/684698ec000000001d00bc0b",
       "type": "profile",
       "name": "hyrook",
       "uid": "684698ec000000001d00bc0b",
-      "partner": false,
+      "partner": true,
       "fans": 4,
       "likes_collects": 26,
       "following": 0,
@@ -29609,14 +29821,16 @@ window.XHS_DATA = {
           "likes_collects": 26,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "기업",
+      "cname": "no.ubgroup"
     },
     {
       "url": "https://www.rednote.com/user/profile/69bbe1bc0000000026003521",
       "type": "profile",
       "name": "Akkiri",
       "uid": "69bbe1bc0000000026003521",
-      "partner": false,
+      "partner": true,
       "fans": 0,
       "likes_collects": 0,
       "following": 0,
@@ -29629,14 +29843,16 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "기업",
+      "cname": "S&A"
     },
     {
       "url": "https://www.rednote.com/user/profile/5bfe2ab6c9f8f10001b642aa",
       "type": "profile",
       "name": "yuha在家",
       "uid": "5bfe2ab6c9f8f10001b642aa",
-      "partner": false,
+      "partner": true,
       "fans": 423,
       "likes_collects": 1300,
       "following": 0,
@@ -29649,14 +29865,16 @@ window.XHS_DATA = {
           "likes_collects": 1300,
           "notes_count": 12
         }
-      ]
+      ],
+      "ctype": "기업",
+      "cname": "S&A"
     },
     {
       "url": "https://www.rednote.com/user/profile/67903c0e000000000d00a057",
       "type": "profile",
       "name": "BRI",
       "uid": "67903c0e000000000d00a057",
-      "partner": false,
+      "partner": true,
       "fans": 531,
       "likes_collects": 2200,
       "following": 0,
@@ -29669,7 +29887,9 @@ window.XHS_DATA = {
           "likes_collects": 2200,
           "notes_count": 10
         }
-      ]
+      ],
+      "ctype": "기업",
+      "cname": "S&A"
     },
     {
       "url": "https://www.rednote.com/user/profile/67152b16000000001d020fd8",
@@ -29736,7 +29956,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "hae",
       "uid": "68556711000000001b019220",
-      "partner": false,
+      "partner": true,
       "fans": 1,
       "likes_collects": 0,
       "following": 0,
@@ -29749,14 +29969,16 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6a0a780a000000000d034c01",
       "type": "profile",
       "name": "MZuni",
       "uid": "6a0a780a000000000d034c01",
-      "partner": false,
+      "partner": true,
       "fans": 5,
       "likes_collects": 148,
       "following": 0,
@@ -29769,14 +29991,16 @@ window.XHS_DATA = {
           "likes_collects": 148,
           "notes_count": 3
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6940abc30000000037007377",
       "type": "profile",
       "name": "Kyejin",
       "uid": "6940abc30000000037007377",
-      "partner": false,
+      "partner": true,
       "fans": 7,
       "likes_collects": 135,
       "following": 0,
@@ -29789,14 +30013,16 @@ window.XHS_DATA = {
           "likes_collects": 135,
           "notes_count": 2
         }
-      ]
+      ],
+      "ctype": "기업",
+      "cname": "S&A"
     },
     {
       "url": "https://www.rednote.com/user/profile/68676a5b000000000d03ca1f",
       "type": "profile",
       "name": "Blair",
       "uid": "68676a5b000000000d03ca1f",
-      "partner": false,
+      "partner": true,
       "fans": 205,
       "likes_collects": 467,
       "following": 0,
@@ -29809,7 +30035,9 @@ window.XHS_DATA = {
           "likes_collects": 467,
           "notes_count": 16
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6a647d21000000000d035c00",
@@ -29916,7 +30144,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "美妆COBA",
       "uid": "6a5f01a3000000000e03bc00",
-      "partner": false,
+      "partner": true,
       "fans": 2,
       "likes_collects": 11,
       "following": 0,
@@ -29929,14 +30157,16 @@ window.XHS_DATA = {
           "likes_collects": 11,
           "notes_count": 2
         }
-      ]
+      ],
+      "ctype": "기업",
+      "cname": "S&A"
     },
     {
       "url": "https://www.rednote.com/user/profile/6a6803c2000000000d035c03",
       "type": "profile",
       "name": "Mingseo",
       "uid": "6a6803c2000000000d035c03",
-      "partner": false,
+      "partner": true,
       "fans": 0,
       "likes_collects": 0,
       "following": 0,
@@ -29949,14 +30179,16 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6a695aab000000000e03b800",
       "type": "profile",
       "name": "小红薯6A6A745D",
       "uid": "6a695aab000000000e03b800",
-      "partner": false,
+      "partner": true,
       "fans": 0,
       "likes_collects": 0,
       "following": 0,
@@ -29969,7 +30201,9 @@ window.XHS_DATA = {
           "likes_collects": 0,
           "notes_count": 0
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6a69e77a000000000e03b803",
@@ -30136,7 +30370,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "Yeong",
       "uid": "6940958c0000000037032899",
-      "partner": false,
+      "partner": true,
       "fans": 10,
       "likes_collects": 43,
       "following": 0,
@@ -30149,7 +30383,9 @@ window.XHS_DATA = {
           "likes_collects": 43,
           "notes_count": 8
         }
-      ]
+      ],
+      "ctype": "기업",
+      "cname": "S&A"
     },
     {
       "url": "https://www.rednote.com/user/profile/69ba71b10000000026039500",
@@ -30196,7 +30432,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "恩妃eunbi",
       "uid": "6a3e1a8a000000000e03b801",
-      "partner": false,
+      "partner": true,
       "fans": 13,
       "likes_collects": 26,
       "following": 0,
@@ -30209,7 +30445,9 @@ window.XHS_DATA = {
           "likes_collects": 26,
           "notes_count": 3
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/5bcf258d51783a255d13914e",

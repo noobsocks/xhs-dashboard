@@ -28,7 +28,7 @@ body{font-family:'IBM Plex Sans','Malgun Gothic',sans-serif;background:var(--bg)
 .benchrow .bdiff.up{color:var(--success)}
 .benchrow .bdiff.dn{color:#8d8d8d}
 .benchnote{padding:16px;color:#6f6f6f;font-size:13px}
-.topics{margin-top:14px;border-top:1px solid var(--border);padding-top:12px}
+.topics{border-top:1px solid var(--border);padding:14px 16px}
 .topics .tl{font-size:12px;color:var(--text2);margin-bottom:8px;letter-spacing:.32px}
 .chips{display:flex;flex-wrap:wrap;gap:6px}
 .topchip{display:inline-block;background:#edf5ff;color:#0043ce;font-size:12px;padding:3px 10px;font-weight:600;white-space:nowrap}
@@ -42,6 +42,7 @@ select:focus{outline:2px solid var(--blue);outline-offset:-2px}
 .pcard .pn{font-size:20px;font-weight:600;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
 .tag{display:inline-block;font-size:11px;padding:1px 8px;line-height:18px;height:20px}
 .tag.p{background:#d0e2ff;color:#0043ce}.tag.n{background:#e0e0e0;color:#525252}
+.tag.ty{background:#e8daff;color:#6929c4}
 .pmeta{font-size:13px;color:var(--text2);margin-top:6px;display:flex;gap:14px;flex-wrap:wrap}
 .socs{display:inline-flex;gap:6px;margin-top:10px}.soc svg{width:18px;height:18px}
 .pstats{display:flex;gap:1px;background:var(--border);flex:none}
@@ -151,6 +152,15 @@ let sortKey='publish_time',sortDir=-1;
 function render(idx){
  const p=profiles[idx];const g=notesOf(p);const h=p.history||[];
  const ai=(window.XHS_AI||{})[p.uid];
+ // [조건] 팔로워 1,000 이상 AND 최근 30일 이내 게시물 → AI 총평 대상
+ const _lastPost=g.reduce((mx,n)=>(n.publish_time&&n.publish_time>mx)?n.publish_time:mx,'');
+ const _active=!!_lastPost&&((Date.now()-new Date(_lastPost).getTime())/864e5<=30);
+ const _eligible=(p.fans||0)>=1000&&_active;
+ let aiSub,aiBody;
+ if(!p.partner){aiSub='미계약 인플루언서로 평가 불가';aiBody='<span style="color:#6f6f6f">이 인플루언서는 계약을 하지 않아 생성되지 않았습니다.</span>';}
+ else if(!_eligible){aiSub='분석 조건 미달';aiBody='<span style="color:#6f6f6f">최근 1달 이내 활동 이력이 부족하거나 팔로워 1,000명을 달성하지 않아 원활한 분석이 이루어지지 않았습니다.</span>';}
+ else if(ai&&ai.text){aiSub='생성일 '+ai.generated+' · 종합·데이터 분석·콘텐츠 반응·특정 콘텐츠 분석';aiBody=formatAI(ai.text);}
+ else{aiSub='미생성 · ai.bat 실행 필요';aiBody='<span style="color:#6f6f6f">이 인플루언서의 AI 총평이 아직 생성되지 않았습니다. (ai.bat 으로 생성)</span>';}
  const cf=cleanHist(h,'fans'),cl=cleanHist(h,'likes_collects');
  const gf=cf.length?cf[cf.length-1]-cf.find(x=>x)||0:0;
  const gfd=deltaN(h,'fans',pDays());const gld=deltaN(h,'likes_collects',pDays());
@@ -172,7 +182,7 @@ function render(idx){
   return `<tr><td>${t}</td><td style="color:#6f6f6f">${n.publish_time||'-'}</td><td class="num mono">${fmt(n.likes)}</td><td class="num mono">${fmt(n.collects)}</td><td class="num mono">${fmt(n.comments)}</td><td class="num mono">${fmt(n.shares)}</td><td class="num mono">${rate(n)}%</td></tr>`}).join('');
  document.getElementById('report').innerHTML=`
  <div class="pcard">
-  <div class="pi"><div class="pn">${p.name||'(이름없음)'} ${p.partner?'<span class="tag p">계약</span>':'<span class="tag n">미계약</span>'}</div>
+  <div class="pi"><div class="pn">${p.name||'(이름없음)'} ${p.partner?'<span class="tag p">계약</span>':'<span class="tag n">미계약</span>'}${(p.partner&&p.ctype)?'<span class="tag ty">'+p.ctype+((p.ctype==='기업'&&p.cname)?' · '+p.cname:'')+'</span>':''}</div>
    <div class="pmeta"><span>카테고리 <span class="catchip">${catKR(cat)}</span></span>${dates.length?`<span>최근 게시 ${dates[dates.length-1]}</span>`:''}</div>
    <div class="socs">${socs}</div></div>
   <div class="pstats">
@@ -191,7 +201,7 @@ function render(idx){
   </div>
  </div>
  ${benchHtml(p)}
- <div class="panel" style="margin-top:16px"><div class="ph"><h3>인플루언서 평가</h3><div class="sub">${ai?('생성일 '+ai.generated+' · 종합·데이터 분석·콘텐츠 반응·특정 콘텐츠 분석'):(p.partner?'미생성 · ai.bat 실행 필요':'미계약 인플루언서로 평가 불가')}</div></div><div class="aibox">${ai?formatAI(ai.text):'<span style="color:#6f6f6f">'+(p.partner?'이 인플루언서의 AI 총평이 아직 생성되지 않았습니다. (ai.bat 으로 생성)':'이 인플루언서는 계약을 하지 않아 생성되지 않았습니다.')+'</span>'}</div></div>
+ <div class="panel" style="margin-top:16px"><div class="ph"><h3>인플루언서 평가</h3><div class="sub">${aiSub}</div></div><div class="aibox">${aiBody}</div></div>
  <table style="margin-top:16px"><thead><tr><th data-s="title">게시물 ${sind('title')}</th><th data-s="publish_time">업로드 ${sind('publish_time')}</th><th class="num" data-s="likes">좋아요 ${sind('likes')}</th><th class="num" data-s="collects">저장 ${sind('collects')}</th><th class="num" data-s="comments">댓글 ${sind('comments')}</th><th class="num" data-s="shares">공유 ${sind('shares')}</th><th class="num" data-s="rate">저장률 ${sind('rate')}</th></tr></thead><tbody>${rows||'<tr><td colspan=7 style="padding:16px;color:#6f6f6f">수집된 게시물이 없습니다.</td></tr>'}</tbody></table>`;
  // chart
  const ctx=document.getElementById('rc');
