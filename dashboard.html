@@ -35,11 +35,10 @@ body{font-family:'IBM Plex Sans','Malgun Gothic',sans-serif;background:var(--bg)
 table{width:100%;border-collapse:collapse;background:var(--layer);border:1px solid var(--border)}
 /* 메인 표: 정렬해도 컬럼폭이 흔들리지 않도록 고정 */
 #tbl table{table-layout:fixed}
-#tbl thead th:nth-child(1){width:37%}
-#tbl thead th:nth-child(2){width:12%}
-#tbl thead th:nth-child(3){width:14%}
-#tbl thead th:nth-child(4){width:8%}
-#tbl thead th:nth-child(5){width:29%}
+#tbl thead th:nth-child(1){width:38%}
+#tbl thead th:nth-child(2){width:14%}
+#tbl thead th:nth-child(3){width:16%}
+#tbl thead th:nth-child(4){width:32%}
 #tbl tbody td:first-child{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 #tbl tbody td:first-child .cname{max-width:180px;overflow:hidden;text-overflow:ellipsis;display:inline-block;vertical-align:middle}
 .sind{display:inline-block;width:12px;text-align:center}
@@ -126,9 +125,9 @@ function typeChip(p){if(!p.partner||!p.ctype)return '';const c=p.ctype+((p.ctype
 function rowHtml(vm){const {idx,p,g,rec}=vm;const nm=p.name||'(이름 없음)';
  const nameHtml=p.url?`<a class="cname" href="${p.url}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${nm}</a>`:`<span class="cname">${nm}</span>`;
  return `<tr class="crow" data-idx="${idx}"><td><span class="chev">▶</span> ${nameHtml}${socialIcons(p)}${p.partner?'<span class="tag p">계약</span>':'<span class="tag n">미계약</span>'}${typeChip(p)}${fansDelta(p)}</td>
- <td class="num mono">${fmt(p.fans)}</td><td class="num mono">${fmt(p.likes_collects)}</td><td class="num mono">${g.length||p.notes_count||0}</td>
+ <td class="num mono">${fmt(p.fans)}</td><td class="num mono">${fmt(p.likes_collects)}</td>
  <td class="recent"><div class="rt">${rec?(rec.title||'-'):'-'}</div>${rec&&rec.publish_time?`<div class="rd">${rec.publish_time}</div>`:''}</td></tr>
- <tr class="detail" id="d-${idx}" style="display:none"><td colspan="5"><div class="dinner">
+ <tr class="detail" id="d-${idx}" style="display:none"><td colspan="4"><div class="dinner">
   <div><div class="mini">평일 데이터 그래프 (팔로워·좋아요+저장수 기준)</div><div class="chartbox"><canvas id="c-${idx}"></canvas></div></div>
   <div><div class="mini">최신 게시물</div>${g.length?notesTable(g):'<div style="padding:16px;color:#6f6f6f">수집된 게시물이 없습니다.</div>'}</div>
  </div></td></tr>`}
@@ -138,8 +137,8 @@ function notesTable(g){const rec=recentOf(g);const s=[...g].sort((a,b)=>{const d
   r+=`<tr><td>${tag}${tc}</td><td style="color:#6f6f6f">${n.publish_time||'-'}</td><td class="num mono">${fmt(n.likes)}</td><td class="num mono">${fmt(n.collects)}</td><td class="num mono">${fmt(n.comments)}</td></tr>`});
  return r+'</tbody></table>'}
 function render(){const list=curList();const total=list.length;const pages=Math.max(1,Math.ceil(total/PER));if(page>=pages)page=pages-1;const start=page*PER;const slice=list.slice(start,start+PER);
- const thead=`<tr><th class="sortable" data-s="name">인플루언서 ${sind('name')}</th><th class="num sortable" data-s="fans">팔로워 ${sind('fans')}</th><th class="num sortable" data-s="lc">좋아요+저장 ${sind('lc')}</th><th class="num sortable" data-s="ncount">노트 ${sind('ncount')}</th><th class="sortable" data-s="recent">최근 게시물 ${sind('recent')}</th></tr>`;
- const body=slice.length?slice.map(rowHtml).join(''):`<tr><td colspan="5" style="padding:24px 16px;color:#6f6f6f;text-align:center">${searchTerm?`'${searchTerm}' 검색 결과가 없습니다.`:'표시할 인플루언서가 없습니다.'}</td></tr>`;
+ const thead=`<tr><th class="sortable" data-s="name">인플루언서 ${sind('name')}</th><th class="num sortable" data-s="fans">팔로워 ${sind('fans')}</th><th class="num sortable" data-s="lc">좋아요+저장 ${sind('lc')}</th><th class="sortable" data-s="recent">최근 게시물 ${sind('recent')}</th></tr>`;
+ const body=slice.length?slice.map(rowHtml).join(''):`<tr><td colspan="4" style="padding:24px 16px;color:#6f6f6f;text-align:center">${searchTerm?`'${searchTerm}' 검색 결과가 없습니다.`:'표시할 인플루언서가 없습니다.'}</td></tr>`;
  document.getElementById('tbl').innerHTML=`<table><thead>${thead}</thead><tbody>${body}</tbody></table>`;
  const cd=document.getElementById('count');if(cd)cd.textContent=searchTerm?`검색 결과 ${total}명`:'인플루언서 카드를 클릭하면 세부 정보를 확인할 수 있습니다';
  const from=total?start+1:0,to=Math.min(start+PER,total);
