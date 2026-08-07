@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ko"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>OFF-AIR 샤오홍슈 트래커 · 분석</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet"><script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script><style>
+<!DOCTYPE html><html lang="ko"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>OFF-AIR 인플루언서 모니터링 · 대시보드</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet"><script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script><style>
 :root{--bg:#f4f4f4;--layer:#ffffff;--layer2:#f4f4f4;--text:#161616;--text2:#525252;--helper:#6f6f6f;
 --border:#e0e0e0;--border-strong:#8d8d8d;--link:#0f62fe;--blue:#0f62fe;--teal:#007d79;--purple:#8a3ffc;
 --success:#24a148;--error:#da1e28;--hover:#e8e8e8;--black:#161616;}
@@ -39,7 +39,7 @@ body{font-family:'IBM Plex Sans','Malgun Gothic','맑은 고딕',sans-serif;back
 .legend{display:flex;gap:18px;font-size:12px;color:var(--text2);margin-top:6px}
 .legend b{display:inline-block;width:12px;height:3px;margin-right:6px;vertical-align:3px}
 .chart{height:220px;margin-top:12px}
-.g2{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.g2{display:grid;grid-template-columns:1fr 1fr;gap:16px;align-items:start}
 .panel{background:var(--layer);border:1px solid var(--border);padding:0}
 .panel .ph{padding:14px 16px;border-bottom:1px solid var(--border)}
 .panel .ph h3{font-size:16px;font-weight:600}
@@ -72,9 +72,9 @@ a.lk:hover{text-decoration:underline}
 @media(max-width:820px){.tiles{grid-template-columns:repeat(2,1fr)}.g2{grid-template-columns:1fr}}
 </style></head><body>
 <div class="hdr"><span style="color:#f4f4f4;font-weight:600;font-size:15px;letter-spacing:.3px">OFF-AIR</span><div class="divide"></div>
- <div class="prod">샤오홍슈 트래커</div><div class="spacer"></div>
+ <div class="prod">인플루언서 모니터링</div><div class="spacer"></div>
  <div class="stamp">업데이트 2026-08-06 16:42:56</div></div>
-<div class="tabs"><a class="tab" href="dashboard.html">현황판</a><a class="tab active" href="analysis.html">분석</a><a class="tab" href="report.html">리포트</a></div>
+<div class="tabs"><a class="tab active" href="analysis.html">대시보드</a><a class="tab" href="dashboard.html">인플루언서 현황</a><a class="tab" href="report.html">인플루언서 리포트</a></div>
 <div class="wrap">
  <div class="secthead">
   <div class="sect">대시보드</div>
