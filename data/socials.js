@@ -430,7 +430,7 @@ window.XHS_SOCIALS = {
   "url": "https://www.tiktok.com/@youki_1223?_r=1&_t=ZS-96lQavImfab"
  },
  "69e61bb1000000002603b9a8": {
-  "name": "69e61bb1000000002603b9a8",
+  "name": "navi_yw\nKim Yeonwoo",
   "platform": "instagram",
   "url": "https://www.instagram.com/navi_yw?igsh=OTN6dTltNWQybmky"
  },

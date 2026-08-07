@@ -22,6 +22,12 @@ body{font-family:'IBM Plex Sans','Malgun Gothic',sans-serif;background:var(--bg)
 .sw{padding:0 16px;height:40px;display:flex;align-items:center;font-size:13px;color:var(--text2);background:var(--layer);border:none;border-right:1px solid var(--border);cursor:pointer}
 .sw.active{background:var(--black);color:#fff}
 .toolbar .count{margin-left:auto;padding:0 16px;font-size:12px;color:var(--helper)}
+.searchwrap{display:flex;align-items:center;gap:6px;padding:0 12px;border-left:1px solid var(--border);height:40px}
+.searchwrap .sicon{flex:none;opacity:.8}
+.searchwrap input{border:none;outline:none;background:transparent;font-family:inherit;font-size:13px;width:190px;height:100%;color:var(--text)}
+.searchwrap input::placeholder{color:#a8a8a8}
+.searchwrap #searchclr{border:none;background:#e0e0e0;color:#525252;width:18px;height:18px;line-height:1;font-size:11px;cursor:pointer;border-radius:0;flex:none}
+@media(max-width:640px){.searchwrap input{width:120px}}
 /* table */
 table{width:100%;border-collapse:collapse;background:var(--layer);border:1px solid var(--border)}
 /* 메인 표: 정렬해도 컬럼폭이 흔들리지 않도록 고정 */
@@ -78,7 +84,7 @@ tr.detail>td{background:#f7f7f7;padding:0;border-bottom:1px solid var(--border)}
  <div class="tiles" id="kpis"></div>
  <div class="toolbar"><div class="switcher">
    <button class="sw active" data-f="all">전체</button><button class="sw" data-f="1">계약</button><button class="sw" data-f="0">미계약</button>
- </div><div class="count">인플루언서 카드를 클릭하면 세부 정보를 확인할 수 있습니다</div></div>
+ </div><div class="searchwrap"><svg class="sicon" viewBox="0 0 16 16" width="15" height="15"><circle cx="7" cy="7" r="5" fill="none" stroke="#8d8d8d" stroke-width="1.4"/><line x1="10.6" y1="10.6" x2="14" y2="14" stroke="#8d8d8d" stroke-width="1.4"/></svg><input id="search" type="text" placeholder="이름 · uid 검색" autocomplete="off"><button id="searchclr" title="지우기" style="display:none">✕</button></div><div class="count" id="count">인플루언서 카드를 클릭하면 세부 정보를 확인할 수 있습니다</div></div>
  <div id="tbl"></div><div class="pager" id="pager"></div>
 </div>
 <script>
@@ -103,10 +109,11 @@ document.getElementById('kpis').innerHTML=[
  {l:'총 좋아요+저장수',v:fmt(sum(profiles,'likes_collects'))},{l:'계약 인플루언서',v:profiles.filter(p=>p.partner).length}
 ].map(k=>`<div class="tile"><div class="l">${k.l}</div><div class="v">${k.v}</div></div>`).join('');
 const VM=profiles.map((p,idx)=>{const g=notesOf(p);const rec=recentOf(g);return {idx,p,g,rec,name:p.name||'',fans:p.fans||0,lc:p.likes_collects||0,ncount:g.length||p.notes_count||0,recent:(rec&&rec.publish_time)||''}});
-const drawn={};let sortKey=null,sortDir=-1,curFilter='all',page=0;const PER=20;
+const drawn={};let sortKey=null,sortDir=-1,curFilter='all',page=0,searchTerm='';const PER=20;
 const DEF={name:1,recent:-1,fans:-1,lc:-1,ncount:-1};
 function sind(k){if(sortKey!==k)return '<span class="sind">↕</span>';return sortDir>0?'<span class="sind on">▲</span>':'<span class="sind on">▼</span>'}
 function curList(){let l=VM.filter(v=>curFilter==='all'?true:(v.p.partner?1:0)===Number(curFilter));
+ if(searchTerm){const q=searchTerm.trim().toLowerCase();l=l.filter(v=>(v.name||'').toLowerCase().includes(q)||String(v.p.uid||'').toLowerCase().includes(q));}
  if(sortKey){l=[...l].sort((a,b)=>{let c;if(sortKey==='name'||sortKey==='recent')c=String(a[sortKey]).localeCompare(String(b[sortKey]),'ko');else c=(a[sortKey]||0)-(b[sortKey]||0);return c*sortDir});}return l}
 function rowHtml(vm){const {idx,p,g,rec}=vm;const nm=p.name||'(이름 없음)';
  const nameHtml=p.url?`<a class="cname" href="${p.url}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${nm}</a>`:`<span class="cname">${nm}</span>`;
@@ -124,7 +131,9 @@ function notesTable(g){const rec=recentOf(g);const s=[...g].sort((a,b)=>{const d
  return r+'</tbody></table>'}
 function render(){const list=curList();const total=list.length;const pages=Math.max(1,Math.ceil(total/PER));if(page>=pages)page=pages-1;const start=page*PER;const slice=list.slice(start,start+PER);
  const thead=`<tr><th class="sortable" data-s="name">인플루언서 ${sind('name')}</th><th class="num sortable" data-s="fans">팔로워 ${sind('fans')}</th><th class="num sortable" data-s="lc">좋아요+저장 ${sind('lc')}</th><th class="num sortable" data-s="ncount">노트 ${sind('ncount')}</th><th class="sortable" data-s="recent">최근 게시물 ${sind('recent')}</th></tr>`;
- document.getElementById('tbl').innerHTML=`<table><thead>${thead}</thead><tbody>${slice.map(rowHtml).join('')}</tbody></table>`;
+ const body=slice.length?slice.map(rowHtml).join(''):`<tr><td colspan="5" style="padding:24px 16px;color:#6f6f6f;text-align:center">${searchTerm?`'${searchTerm}' 검색 결과가 없습니다.`:'표시할 인플루언서가 없습니다.'}</td></tr>`;
+ document.getElementById('tbl').innerHTML=`<table><thead>${thead}</thead><tbody>${body}</tbody></table>`;
+ const cd=document.getElementById('count');if(cd)cd.textContent=searchTerm?`검색 결과 ${total}명`:'인플루언서 카드를 클릭하면 세부 정보를 확인할 수 있습니다';
  const from=total?start+1:0,to=Math.min(start+PER,total);
  document.getElementById('pager').innerHTML=`<div class="info">${from}–${to} / ${total}명</div><div class="spacer"></div><div class="pg">페이지 ${page+1} / ${pages}</div>
   <button id="first" ${page===0?'disabled':''} title="첫 페이지">«</button><button id="prev" ${page===0?'disabled':''} title="이전">‹</button><button id="next" ${page>=pages-1?'disabled':''} title="다음">›</button><button id="last" ${page>=pages-1?'disabled':''} title="끝 페이지">»</button>`;
@@ -145,5 +154,8 @@ function drawChart(idx){const p=profiles[idx];const h=p.history||[];const ctx=do
   options:{responsive:true,maintainAspectRatio:false,interaction:{mode:'index',intersect:false},plugins:{legend:{labels:{boxWidth:10,font:{size:11}}},tooltip:{backgroundColor:'#161616',cornerRadius:0,padding:10,callbacks:{label:c=>c.dataset.label+': '+fmt(c.parsed.y)}}},
    scales:{x:{grid:{display:false},ticks:{font:{size:10}}},y:{grid:{color:'#e0e0e0'},ticks:{font:{size:10},callback:v=>fmt(v)}}}}})}
 document.querySelectorAll('.sw').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('.sw').forEach(x=>x.classList.remove('active'));b.classList.add('active');curFilter=b.dataset.f;page=0;render()}));
+(function(){const si=document.getElementById('search'),cl=document.getElementById('searchclr');
+ if(si)si.addEventListener('input',()=>{searchTerm=si.value;cl.style.display=si.value?'':'none';page=0;render()});
+ if(cl)cl.addEventListener('click',()=>{si.value='';searchTerm='';cl.style.display='none';page=0;render();si.focus()});})();
 render();
 </script></body></html>
