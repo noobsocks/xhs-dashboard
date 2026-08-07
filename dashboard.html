@@ -34,13 +34,13 @@ body{font-family:'IBM Plex Sans','Malgun Gothic',sans-serif;background:var(--bg)
 /* table */
 table{width:100%;border-collapse:collapse;background:var(--layer);border:1px solid var(--border)}
 /* 메인 표: 정렬해도 컬럼폭이 흔들리지 않도록 고정 */
-#tbl table{table-layout:fixed}
-#tbl thead th:nth-child(1){width:38%}
-#tbl thead th:nth-child(2){width:14%}
-#tbl thead th:nth-child(3){width:16%}
-#tbl thead th:nth-child(4){width:32%}
-#tbl tbody td:first-child{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-#tbl tbody td:first-child .cname{max-width:180px;overflow:hidden;text-overflow:ellipsis;display:inline-block;vertical-align:middle}
+#tbl>table{table-layout:fixed}
+#tbl>table>thead th:nth-child(1){width:38%}
+#tbl>table>thead th:nth-child(2){width:14%}
+#tbl>table>thead th:nth-child(3){width:16%}
+#tbl>table>thead th:nth-child(4){width:32%}
+#tbl>table>tbody>tr.crow>td:first-child{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+#tbl>table>tbody>tr.crow>td:first-child .cname{max-width:180px;overflow:hidden;text-overflow:ellipsis;display:inline-block;vertical-align:middle}
 .sind{display:inline-block;width:12px;text-align:center}
 thead th{font-size:12px;font-weight:600;color:var(--text);text-align:left;padding:0 16px;height:44px;border-bottom:1px solid var(--border);white-space:nowrap;user-select:none}
 th.sortable{cursor:pointer}th.sortable:hover{background:var(--hover)}
@@ -65,11 +65,14 @@ tr.detail>td{background:#f7f7f7;padding:0;border-bottom:1px solid var(--border)}
 .dinner{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.15fr);gap:24px;padding:20px}
 .mini{font-size:12px;color:var(--text2);font-weight:600;margin-bottom:10px;letter-spacing:.16px}
 .chartbox{height:200px}
-.ntable{border:1px solid var(--border);background:#fff}
-.ntable th,.ntable td{padding:8px 16px}
+.ntable{border:1px solid var(--border);background:#fff;width:100%;table-layout:fixed}
+.ntable th,.ntable td{padding:8px 14px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .ntable th{height:38px;font-size:11px}.ntable td{height:40px;font-size:12px}
-.ntable td:first-child{max-width:220px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.ntable th:last-child,.ntable td:last-child{padding-right:18px}
+.ntable th:nth-child(2),.ntable td:nth-child(2){width:104px;padding-left:10px;padding-right:8px}
+.ntable th:nth-child(3),.ntable td:nth-child(3){width:66px;padding-left:8px}
+.ntable th:nth-child(4),.ntable td:nth-child(4){width:60px;padding-left:8px}
+.ntable th:nth-child(5),.ntable td:nth-child(5){width:64px;padding-left:8px}
+.ntable th:last-child,.ntable td:last-child{padding-right:16px}
 .nlink{color:var(--link);text-decoration:none}.nlink:hover{text-decoration:underline}
 .badge{display:inline-block;background:#d0e2ff;color:#0043ce;font-size:10px;padding:0 6px;line-height:16px;margin-right:6px}
 /* pagination */
@@ -114,7 +117,7 @@ document.getElementById('kpis').innerHTML=[
  {l:'총 좋아요+저장수',v:fmt(sum(profiles,'likes_collects'))},{l:'계약 인플루언서',v:profiles.filter(p=>p.partner).length}
 ].map(k=>`<div class="tile"><div class="l">${k.l}</div><div class="v">${k.v}</div></div>`).join('');
 const VM=profiles.map((p,idx)=>{const g=notesOf(p);const rec=recentOf(g);return {idx,p,g,rec,name:p.name||'',fans:p.fans||0,lc:p.likes_collects||0,ncount:g.length||p.notes_count||0,recent:(rec&&rec.publish_time)||''}});
-const drawn={};let sortKey=null,sortDir=-1,curFilter='all',curType='all',page=0,searchTerm='';const PER=20;
+let drawn={};let sortKey=null,sortDir=-1,curFilter='all',curType='all',page=0,searchTerm='';const PER=20;
 const DEF={name:1,recent:-1,fans:-1,lc:-1,ncount:-1};
 function sind(k){if(sortKey!==k)return '<span class="sind">↕</span>';return sortDir>0?'<span class="sind on">▲</span>':'<span class="sind on">▼</span>'}
 function curList(){let l=VM.filter(v=>curFilter==='all'?true:(v.p.partner?1:0)===Number(curFilter));
@@ -136,7 +139,7 @@ function notesTable(g){const rec=recentOf(g);const s=[...g].sort((a,b)=>{const d
  s.forEach(n=>{const tag=(n===rec)?'<span class="badge">최근</span>':'';const t=n.title||'-';const tc=n.url?`<a class="nlink" href="${n.url}" target="_blank" rel="noopener">${t}</a>`:t;
   r+=`<tr><td>${tag}${tc}</td><td style="color:#6f6f6f">${n.publish_time||'-'}</td><td class="num mono">${fmt(n.likes)}</td><td class="num mono">${fmt(n.collects)}</td><td class="num mono">${fmt(n.comments)}</td></tr>`});
  return r+'</tbody></table>'}
-function render(){const list=curList();const total=list.length;const pages=Math.max(1,Math.ceil(total/PER));if(page>=pages)page=pages-1;const start=page*PER;const slice=list.slice(start,start+PER);
+function render(){drawn={};const list=curList();const total=list.length;const pages=Math.max(1,Math.ceil(total/PER));if(page>=pages)page=pages-1;const start=page*PER;const slice=list.slice(start,start+PER);
  const thead=`<tr><th class="sortable" data-s="name">인플루언서 ${sind('name')}</th><th class="num sortable" data-s="fans">팔로워 ${sind('fans')}</th><th class="num sortable" data-s="lc">좋아요+저장 ${sind('lc')}</th><th class="sortable" data-s="recent">최근 게시물 ${sind('recent')}</th></tr>`;
  const body=slice.length?slice.map(rowHtml).join(''):`<tr><td colspan="4" style="padding:24px 16px;color:#6f6f6f;text-align:center">${searchTerm?`'${searchTerm}' 검색 결과가 없습니다.`:'표시할 인플루언서가 없습니다.'}</td></tr>`;
  document.getElementById('tbl').innerHTML=`<table><thead>${thead}</thead><tbody>${body}</tbody></table>`;
