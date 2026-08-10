@@ -963,5 +963,10 @@ window.XHS_KPI = {
   "category": "美妆",
   "xhs_fans_sheet": null,
   "intro": "是"
+ },
+ "68245b00000000000a03ca02": {
+  "category": "时尚, 美妆",
+  "xhs_fans_sheet": null,
+  "intro": "是"
  }
 };
