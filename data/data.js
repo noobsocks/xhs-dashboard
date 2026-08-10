@@ -41517,7 +41517,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "Darcie달씨",
       "uid": "68245b00000000000a03ca02",
-      "partner": false,
+      "partner": true,
       "fans": 44000,
       "likes_collects": 128000,
       "following": 0,
@@ -41530,7 +41530,9 @@ window.XHS_DATA = {
           "likes_collects": 128000,
           "notes_count": 30
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": ""
     }
   ]
 };
