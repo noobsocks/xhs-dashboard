@@ -109,25 +109,25 @@ var curP='7';
 function pLabel(){return curP==='all'?'전체 기간':('최근 '+curP+'일');}
 function pDays(){return curP==='all'?null:(+curP);}
 function histStart(h){if(curP==='all'||!h.length)return 0;var last=h[h.length-1].date;var cut=new Date(+new Date(last)-(+curP)*864e5).toISOString().slice(0,10);var i=h.findIndex(x=>x.date>=cut);return i<0?0:i;}
-function notesOf(p){return notes.filter(n=>n.author&&p.name&&n.author===p.name)}
+function notesOf(p){return notes.filter(n=>(n.uid&&p.uid)?n.uid===p.uid:(n.author&&p.name&&n.author===p.name))}
 // selector: sort by fans desc
 const order=profiles.map((p,i)=>({p,i})).sort((a,b)=>(b.p.fans||0)-(a.p.fans||0));
 const sel=document.getElementById('sel');
 sel.innerHTML=order.map(o=>`<option value="${o.i}">${o.p.name||'(이름없음)'} · 팔로워 ${fmt(o.p.fans)} ${o.p.partner?'· 계약':''}</option>`).join('');
 // ── 카테고리 벤치마크 (전체 1회 계산) ─────────────────────────
-function noteStatsFor(name){const g=notes.filter(n=>n.author===name);if(!g.length)return {rate:null,likes:null,n:0};
+function noteStatsFor(p){const g=notesOf(p);if(!g.length)return {rate:null,likes:null,n:0};
  const rate=Math.round(g.reduce((a,b)=>a+(b.likes?b.collects/b.likes*100:0),0)/g.length);
  const likes=Math.round(g.reduce((a,b)=>a+(b.likes||0),0)/g.length);return {rate,likes,n:g.length};}
 const CATBUCK={};
 profiles.forEach(p=>{const c=catKR((META[p.uid]||{}).category||'');if(!c||c==='-')return;
- const ns=noteStatsFor(p.name);(CATBUCK[c]=CATBUCK[c]||[]).push({fans:p.fans||0,lc:p.likes_collects||0,rate:ns.rate,likes:ns.likes});});
+ const ns=noteStatsFor(p);(CATBUCK[c]=CATBUCK[c]||[]).push({fans:p.fans||0,lc:p.likes_collects||0,rate:ns.rate,likes:ns.likes});});
 function catAvg(c){const arr=CATBUCK[c]||[];const avg=k=>{const v=arr.map(x=>x[k]).filter(x=>x!=null&&!isNaN(x));return v.length?v.reduce((a,b)=>a+b,0)/v.length:null};
  return {n:arr.length,fans:avg('fans'),lc:avg('lc'),rate:avg('rate'),likes:avg('likes')};}
 function topPct(c,key,val){const arr=(CATBUCK[c]||[]).map(x=>x[key]).filter(x=>x!=null);if(arr.length<2||val==null)return null;const rank=arr.filter(x=>x>val).length+1;return Math.max(1,Math.round(rank/arr.length*100));}
 function benchHtml(p){const c=catKR((META[p.uid]||{}).category||'');const arr=CATBUCK[c]||[];
  if(!c||c==='-'||arr.length<2){const nm=(!c||c==='-')?'미분류':c;
   return `<div class="panel" style="margin-top:16px"><div class="ph"><h3>카테고리 벤치마크</h3><div class="sub">같은 카테고리 평균 대비</div></div><div class="benchnote">같은 카테고리(${nm}) 인플루언서가 ${arr.length}명뿐이라 평균 비교를 생략합니다. (표본 부족 · 최소 2명 필요)</div></div>`;}
- const A=catAvg(c);const ns=noteStatsFor(p.name);const my={fans:p.fans||0,lc:p.likes_collects||0,rate:ns.rate,likes:ns.likes};
+ const A=catAvg(c);const ns=noteStatsFor(p);const my={fans:p.fans||0,lc:p.likes_collects||0,rate:ns.rate,likes:ns.likes};
  const defs=[{k:'fans',label:'팔로워',f:fmt},{k:'lc',label:'좋아요+저장 (누적)',f:fmt},{k:'rate',label:'평균 저장률',f:v=>v==null?'-':v+'%',pp:true},{k:'likes',label:'게시물 평균 좋아요',f:fmt}];
  const rows=defs.map(r=>{const mv=my[r.k],av=A[r.k];if(mv==null||av==null)return '';
   const better=mv>=av;const diff=r.pp?Math.round(mv-av):(av?Math.round((mv-av)/av*100):0);

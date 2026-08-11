@@ -24,6 +24,9 @@ body{font-family:'IBM Plex Sans','Malgun Gothic',sans-serif;background:var(--bg)
 .sw.active{background:var(--black);color:#fff}
 .swt.active{background:#6929c4;color:#fff}
 .tdiv{width:1px;align-self:stretch;background:var(--border)}
+.fsel{height:40px;border:none;border-right:1px solid var(--border);background:var(--layer);font-family:inherit;font-size:13px;color:var(--text);padding:0 14px;cursor:pointer;max-width:200px}
+.fsel:hover{background:var(--hover)}
+.fsel:focus{outline:2px solid var(--blue);outline-offset:-2px}
 .toolbar .count{margin-left:auto;padding:0 16px;font-size:12px;color:var(--helper)}
 .searchwrap{display:flex;align-items:center;gap:6px;padding:0 12px;border-left:1px solid var(--border);height:40px}
 .searchwrap .sicon{flex:none;opacity:.8}
@@ -83,20 +86,24 @@ tr.detail>td{background:#f7f7f7;padding:0;border-bottom:1px solid var(--border)}
 .pager button{width:48px;height:48px;border:none;border-left:1px solid var(--border);background:var(--layer);cursor:pointer;color:var(--text);font-size:16px}
 .pager button:hover:not(:disabled){background:var(--hover)}.pager button:disabled{color:#c6c6c6;cursor:not-allowed}
 @media(max-width:820px){.tiles{grid-template-columns:repeat(2,1fr)}.dinner{grid-template-columns:1fr}}
-</style><script src="data/data.js"></script><script src="data/socials.js"></script></head><body>
+</style><script src="data/data.js"></script><script src="data/socials.js"></script><script src="data/kpi_meta.js"></script></head><body>
 <div class="hdr"><span style="color:#f4f4f4;font-weight:600;font-size:15px;letter-spacing:.3px">OFF-AIR</span><div class="divide"></div><div class="prod">인플루언서 모니터링</div><div class="spacer"></div><a id="adminlink" href="admin.html" style="display:none;color:#c6c6c6;font-size:13px;text-decoration:none;margin-right:14px">관리자 ▸</a><div class="stamp" id="stamp"></div></div>
 <div class="tabs"><a class="tab" href="analysis.html">대시보드</a><a class="tab active" href="dashboard.html">인플루언서 현황</a><a class="tab" href="report.html">인플루언서 리포트</a></div>
 <div class="wrap">
  <div class="sect">인플루언서 현황</div>
  <div class="tiles" id="kpis"></div>
- <div class="toolbar"><div class="switcher">
-   <button class="sw active" data-f="all">전체</button><button class="sw" data-f="1">계약</button><button class="sw" data-f="0">미계약</button>
- </div><div class="tdiv"></div><div class="switcher"><button class="swt active" data-ft="all">전체</button><button class="swt" data-ft="개인">개인</button><button class="swt" data-ft="기업">기업</button><button class="swt" data-ft="에이전트">에이전트</button></div><div class="searchwrap"><svg class="sicon" viewBox="0 0 16 16" width="15" height="15"><circle cx="7" cy="7" r="5" fill="none" stroke="#8d8d8d" stroke-width="1.4"/><line x1="10.6" y1="10.6" x2="14" y2="14" stroke="#8d8d8d" stroke-width="1.4"/></svg><input id="search" type="text" placeholder="이름 · uid 검색" autocomplete="off"><button id="searchclr" title="지우기" style="display:none">✕</button></div><div class="count" id="count">인플루언서 카드를 클릭하면 세부 정보를 확인할 수 있습니다</div></div>
+ <div class="toolbar">
+   <select class="fsel" id="cf_contract" title="계약 필터"><option value="all">계약 · 전체</option><option value="1">계약</option><option value="0">미계약</option></select>
+   <select class="fsel" id="cf_type" title="유형 필터"><option value="all">유형 · 전체</option><option value="개인">개인</option><option value="기업">기업</option><option value="에이전트">에이전트</option></select>
+   <select class="fsel" id="catf" title="카테고리 필터"><option value="all">카테고리 · 전체</option></select>
+   <div class="searchwrap"><svg class="sicon" viewBox="0 0 16 16" width="15" height="15"><circle cx="7" cy="7" r="5" fill="none" stroke="#8d8d8d" stroke-width="1.4"/><line x1="10.6" y1="10.6" x2="14" y2="14" stroke="#8d8d8d" stroke-width="1.4"/></svg><input id="search" type="text" placeholder="이름 · uid 검색" autocomplete="off"><button id="searchclr" title="지우기" style="display:none">✕</button></div><div class="count" id="count">인플루언서 카드를 클릭하면 세부 정보를 확인할 수 있습니다</div></div>
  <div id="tbl"></div><div class="pager" id="pager"></div>
 </div>
 <script>
 const D=window.XHS_DATA||{notes:[],profiles:[]};
-const notes=D.notes||[],profiles=D.profiles||[],SOCIALS=window.XHS_SOCIALS||{};
+const notes=D.notes||[],profiles=D.profiles||[],SOCIALS=window.XHS_SOCIALS||{},META=window.XHS_KPI||{};
+const CAT_KR={"时尚":"패션","fashion":"패션","时尚穿搭":"패션","穿搭":"패션","时尚博主":"패션","时尚达人":"패션","美妆":"뷰티","美妆博主":"뷰티","beauty":"뷰티","音乐":"음악","网红歌手":"음악","歌手":"음악","综艺":"예능","综艺NEFLIX":"예능","生活":"라이프","舞蹈":"댄스","跳舞":"댄스","日常":"일상","健身":"피트니스","健身博主":"피트니스","fitness":"피트니스","美食":"푸드","brunch":"푸드","吃播博主":"먹방","吃播":"먹방","旅行":"여행","摄影":"사진","情侣":"커플","情侣博主":"커플","搞笑":"유머","搞笑博主":"유머","喜剧":"유머","宠物":"반려동물","母婴":"육아","育儿":"육아","vlog":"브이로그","Vlog":"브이로그","体育":"스포츠","演员":"배우","科学":"과학","魔术师":"마술","理发师":"헤어","探店":"맛집","游戏":"게임","cosplay":"코스프레","打赏博主":"기타","博主":"기타"};
+function catKR(uid){let c=((META[uid]||{}).category||'').split(/[、,，\/\s]/)[0];if(!c)return '미분류';return CAT_KR[c]||CAT_KR[c.toLowerCase()]||c;}
 const PLAT_ICON={xiaohongshu:`<svg viewBox="0 0 24 24"><rect width="24" height="24" rx="0" fill="#ff2442"/><text x="12" y="17" font-size="13" text-anchor="middle" fill="#fff" font-weight="700" font-family="sans-serif">书</text></svg>`,
 instagram:`<svg viewBox="0 0 24 24"><rect x="2" y="2" width="20" height="20" rx="5" fill="#E1306C"/><rect x="5.6" y="5.6" width="12.8" height="12.8" rx="4" fill="none" stroke="#fff" stroke-width="1.7"/><circle cx="12" cy="12" r="3.1" fill="none" stroke="#fff" stroke-width="1.7"/><circle cx="16.5" cy="7.5" r="1.15" fill="#fff"/></svg>`,
 youtube:`<svg viewBox="0 0 24 24"><rect x="2" y="5" width="20" height="14" rx="3" fill="#FF0000"/><path d="M10 8.7l5.2 3.3L10 15.3z" fill="#fff"/></svg>`,
@@ -108,7 +115,7 @@ function socLink(u,pl){return `<a class="soc" href="${u}" target="_blank" rel="n
 function socialIcons(p){let s='';if(p.url)s+=socLink(p.url,'xiaohongshu');const ex=SOCIALS[p.uid];if(ex&&ex.url)s+=socLink(ex.url,ex.platform);return s?`<span class="socs">${s}</span>`:''}
 document.getElementById('stamp').textContent='업데이트 '+(D.updated_at||'-');
 if(location.hostname==='localhost'||location.hostname==='127.0.0.1'){const _al=document.getElementById('adminlink');if(_al)_al.style.display='';}
-function notesOf(p){const g=notes.filter(n=>n.author&&p.name&&n.author===p.name);g.sort((a,b)=>(a.grid_order??999)-(b.grid_order??999));return g}
+function notesOf(p){const g=notes.filter(n=>(n.uid&&p.uid)?n.uid===p.uid:(n.author&&p.name&&n.author===p.name));g.sort((a,b)=>(a.grid_order??999)-(b.grid_order??999));return g}
 function recentOf(g){const wd=g.filter(n=>n.publish_time);if(wd.length)return [...wd].sort((a,b)=>a.publish_time<b.publish_time?1:-1)[0];return g.find(n=>!n.pinned)||g[0]||null}
 function fansDelta(p){const f=first(p.history),l=last(p.history);if(!f||!l||f.fans==null)return '';const d=l.fans-f.fans;if(d>0)return `<span class="up">▲ +${fmt(d)}</span>`;if(d<0)return `<span class="dn">▼ ${fmt(-d)}</span>`;return ''}
 const sum=(a,k)=>a.reduce((x,y)=>x+(y[k]||0),0);
@@ -117,11 +124,12 @@ document.getElementById('kpis').innerHTML=[
  {l:'총 좋아요+저장수',v:fmt(sum(profiles,'likes_collects'))},{l:'계약 인플루언서',v:profiles.filter(p=>p.partner).length}
 ].map(k=>`<div class="tile"><div class="l">${k.l}</div><div class="v">${k.v}</div></div>`).join('');
 const VM=profiles.map((p,idx)=>{const g=notesOf(p);const rec=recentOf(g);return {idx,p,g,rec,name:p.name||'',fans:p.fans||0,lc:p.likes_collects||0,ncount:g.length||p.notes_count||0,recent:(rec&&rec.publish_time)||''}});
-let drawn={};let sortKey=null,sortDir=-1,curFilter='all',curType='all',page=0,searchTerm='';const PER=20;
+let drawn={};let sortKey=null,sortDir=-1,curFilter='all',curType='all',curCat='all',page=0,searchTerm='';const PER=20;
 const DEF={name:1,recent:-1,fans:-1,lc:-1,ncount:-1};
 function sind(k){if(sortKey!==k)return '<span class="sind">↕</span>';return sortDir>0?'<span class="sind on">▲</span>':'<span class="sind on">▼</span>'}
 function curList(){let l=VM.filter(v=>curFilter==='all'?true:(v.p.partner?1:0)===Number(curFilter));
  if(curType!=='all')l=l.filter(v=>(v.p.ctype||'')===curType);
+ if(curCat!=='all')l=l.filter(v=>catKR(v.p.uid)===curCat);
  if(searchTerm){const q=searchTerm.trim().toLowerCase();l=l.filter(v=>(v.name||'').toLowerCase().includes(q)||String(v.p.uid||'').toLowerCase().includes(q));}
  if(sortKey){l=[...l].sort((a,b)=>{let c;if(sortKey==='name'||sortKey==='recent')c=String(a[sortKey]).localeCompare(String(b[sortKey]),'ko');else c=(a[sortKey]||0)-(b[sortKey]||0);return c*sortDir});}return l}
 function typeChip(p){if(!p.partner||!p.ctype)return '';const c=p.ctype+((p.ctype==='기업'&&p.cname)?' · '+p.cname:'');return `<span class="tag ty">${c}</span>`}
@@ -163,8 +171,12 @@ function drawChart(idx){const p=profiles[idx];const h=p.history||[];const ctx=do
   {label:'좋아요+저장',data:h.map(x=>x.likes_collects),borderColor:'#007d79',backgroundColor:'rgba(0,125,121,.05)',fill:true,tension:0,borderWidth:1.75,pointRadius:2}]},
   options:{responsive:true,maintainAspectRatio:false,interaction:{mode:'index',intersect:false},plugins:{legend:{labels:{boxWidth:10,font:{size:11}}},tooltip:{backgroundColor:'#161616',cornerRadius:0,padding:10,callbacks:{label:c=>c.dataset.label+': '+fmt(c.parsed.y)}}},
    scales:{x:{grid:{display:false},ticks:{font:{size:10}}},y:{grid:{color:'#e0e0e0'},ticks:{font:{size:10},callback:v=>fmt(v)}}}}})}
-document.querySelectorAll('.sw').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('.sw').forEach(x=>x.classList.remove('active'));b.classList.add('active');curFilter=b.dataset.f;page=0;render()}));
-document.querySelectorAll('.swt').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('.swt').forEach(x=>x.classList.remove('active'));b.classList.add('active');curType=b.dataset.ft;page=0;render()}));
+(function(){const cc=document.getElementById('cf_contract');if(cc)cc.addEventListener('change',()=>{curFilter=cc.value;page=0;render();});
+ const ct=document.getElementById('cf_type');if(ct)ct.addEventListener('change',()=>{curType=ct.value;page=0;render();});})();
+(function(){const cf=document.getElementById('catf');if(!cf)return;const cnt={};profiles.forEach(p=>{const c=catKR(p.uid);cnt[c]=(cnt[c]||0)+1;});
+ const cats=Object.keys(cnt).sort((a,b)=>(a==='미분류')-(b==='미분류')||cnt[b]-cnt[a]);
+ cf.innerHTML='<option value="all">카테고리 · 전체</option>'+cats.map(c=>`<option value="${c}">${c} (${cnt[c]})</option>`).join('');
+ cf.addEventListener('change',()=>{curCat=cf.value;page=0;render();});})();
 (function(){const si=document.getElementById('search'),cl=document.getElementById('searchclr');
  if(si)si.addEventListener('input',()=>{searchTerm=si.value;cl.style.display=si.value?'':'none';page=0;render()});
  if(cl)cl.addEventListener('click',()=>{si.value='';searchTerm='';cl.style.display='none';page=0;render();si.focus()});})();
