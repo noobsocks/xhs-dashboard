@@ -1,0 +1,81 @@
+<!DOCTYPE html><html lang="ko"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>OFF-AIR 인플루언서 모니터링 · 트렌드</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
+<script src="data/trends.js"></script>
+<style>
+:root{--bg:#f4f4f4;--layer:#fff;--text:#161616;--text2:#525252;--helper:#6f6f6f;--border:#e0e0e0;--link:#0f62fe;--blue:#0f62fe;--teal:#007d79;--purple:#6929c4;--hover:#e8e8e8;--black:#161616;}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'IBM Plex Sans','Malgun Gothic',sans-serif;background:var(--bg);color:var(--text);font-size:14px;line-height:1.45;-webkit-font-smoothing:antialiased}
+.mono{font-family:'IBM Plex Mono',monospace;font-variant-numeric:tabular-nums}
+.hdr{height:48px;background:var(--black);display:flex;align-items:center;padding:0 16px;gap:16px;position:sticky;top:0;z-index:20}
+.hdr .prod{color:#f4f4f4;font-size:14px;font-weight:600}.hdr .spacer{flex:1}.hdr .stamp{color:#8d8d8d;font-size:12px}
+.tabs{background:var(--layer);display:flex;border-bottom:1px solid var(--border);padding:0 16px;position:sticky;top:48px;z-index:19}
+.tab{padding:14px 16px;font-size:14px;color:var(--text2);text-decoration:none;border-bottom:2px solid transparent;margin-bottom:-1px}
+.tab:hover{color:var(--text);background:var(--hover)}.tab.active{color:var(--text);font-weight:600;border-bottom-color:var(--blue)}
+.wrap{max-width:1216px;margin:0 auto;padding:24px 16px 80px}
+.sect{font-size:20px;font-weight:400;margin:8px 0 4px}
+.subline{font-size:12.5px;color:var(--helper);margin-bottom:18px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+@media(max-width:900px){.grid{grid-template-columns:1fr}}
+.card{background:var(--layer);border:1px solid var(--border)}
+.ch{padding:14px 16px;border-bottom:1px solid var(--border);display:flex;align-items:baseline;gap:8px}
+.ch .cn{font-size:16px;font-weight:600}
+.ch .cc{font-size:11px;color:var(--helper);margin-left:auto}
+.cb{padding:14px 16px}
+.lbl{font-size:11px;font-weight:600;color:var(--text2);letter-spacing:.16px;margin:2px 0 8px}
+.kw{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:14px}
+.kwchip{display:inline-flex;align-items:baseline;gap:5px;background:#f4f4f4;border:1px solid var(--border);font-size:12px;padding:3px 9px}
+.kwchip b{font-weight:600}.kwchip .lk{color:var(--helper);font-size:11px}
+.kwchip.top{background:#edf5ff;border-color:#a6c8ff;color:#0043ce}
+.posts{list-style:none;margin-bottom:6px}
+.posts li{display:flex;gap:10px;align-items:baseline;padding:5px 0;border-bottom:1px dotted var(--border);font-size:12.5px}
+.posts li:last-child{border-bottom:none}
+.posts .lk{color:var(--teal);font-weight:600;min-width:58px;text-align:right}
+.posts .tt{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.posts a.tt{color:var(--link);text-decoration:none}
+.posts a.tt:hover{text-decoration:underline}
+.posts a.tt::after{content:" ↗";color:var(--helper);font-size:10px}
+.posts .au{color:#a8a8a8;font-size:11px;max-width:90px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ins{margin-top:12px;border-top:1px solid var(--border);padding-top:12px}
+.ins .row{margin-bottom:10px}
+.tag{display:inline-block;font-size:10px;font-weight:600;padding:1px 8px;border-radius:10px;margin-right:6px;vertical-align:1px}
+.t-a{background:#defbe6;color:#0e6027}.t-b{background:#e8daff;color:#6929c4}.t-x{background:#d0e2ff;color:#0043ce}
+.ins .tx{font-size:13px;color:#393939}
+.foot{color:#a8a8a8;font-size:12px;margin-top:20px}
+</style></head><body>
+<div class="hdr"><span style="color:#f4f4f4;font-weight:600;font-size:15px;letter-spacing:.3px">OFF-AIR</span><div class="prod" style="border-left:1px solid #393939;padding-left:16px">인플루언서 모니터링</div><div class="spacer"></div><div class="stamp" id="stamp"></div></div>
+<div class="tabs"><a class="tab" href="analysis.html">대시보드</a><a class="tab" href="dashboard.html">인플루언서 현황</a><a class="tab" href="report.html">인플루언서 리포트</a><a class="tab active" href="trends.html">트렌드</a></div>
+<div class="wrap">
+ <div class="sect">카테고리 트렌드</div>
+ <div class="subline" id="subline"></div>
+ <div class="grid" id="grid"></div>
+ <div class="foot">니치=우리 크리에이터 콘텐츠 기획용 · 한국=한국 브랜드/소재 매칭용. 매주 <b>trend.bat → trend_report.py</b>로 갱신됩니다.</div>
+</div>
+<script>
+const T=window.XHS_TRENDS||{categories:[]};
+const fmt=n=>{n=n||0;return Math.abs(n)>=10000?(n/10000).toFixed(1).replace(/\.0$/,'')+'만':Math.round(n).toLocaleString('ko-KR')};
+const esc=s=>String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+document.getElementById('stamp').textContent='스캔 '+(T.generated_at||'-');
+document.getElementById('subline').textContent=T.generated_at?`(${T.generated_at} 스캔)`:'';
+function card(c){
+ const kw=(c.top_kw||[]).map((k,i)=>`<span class="kwchip ${i===0?'top':''}">${esc(k[0])} <span class="lk">❤${fmt(k[1])}</span></span>`).join('');
+ const posts=(c.top_posts||[]).map(p=>{
+  const link=p.url||('https://www.rednote.com/search_result?keyword='+encodeURIComponent(p.title||'')+'&type=51');
+  return `<li><span class="lk mono">❤${fmt(p.likes)}</span><a class="tt" href="${esc(link)}" target="_blank" rel="noopener">${esc(p.title)}</a><span class="au">@${esc(p.author)}</span></li>`;
+ }).join('');
+ return `<div class="card">
+  <div class="ch"><span class="cn">${esc(c.cat)}</span><span class="cc">검색 ${c.n}건</span></div>
+  <div class="cb">
+   <div class="lbl">뜨는 키워드 (키워드당 평균 좋아요)</div><div class="kw">${kw}</div>
+   <div class="lbl">상위 콘텐츠</div><ul class="posts">${posts}</ul>
+   <div class="ins">
+    <div class="row"><span class="tag t-a">니치</span><span class="tx">${esc(c.niche)}</span></div>
+    <div class="row"><span class="tag t-b">한국</span><span class="tx">${esc(c.korea)}</span></div>
+    <div class="row"><span class="tag t-x">제안</span><span class="tx">${esc(c.action)}</span></div>
+   </div>
+  </div></div>`;}
+document.getElementById('grid').innerHTML=(T.categories||[]).map(card).join('')||'<div style="color:#a8a8a8">trends.js 가 없습니다. trend.bat → trend_report.py 를 실행하세요.</div>';
+</script>
+<script src="data/log_config.js"></script><script src="data/logger.js"></script>
+</body></html>
