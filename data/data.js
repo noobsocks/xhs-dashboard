@@ -1,14 +1,14 @@
 window.XHS_DATA = {
-  "updated_at": "2026-08-12 12:53:11",
-  "ok_count": 194,
-  "fail_count": 0,
+  "updated_at": "2026-08-13 12:42:57",
+  "ok_count": 192,
+  "fail_count": 2,
   "notes": [
     {
       "url": "https://www.rednote.com/explore/6a783fa30000000022013ec5",
       "type": "note",
       "title": "PAES （）",
       "author": "都意 DOI",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120930/70e8dca44368e878937849781284d07d/1040g2sg323l3bf8mgm705q906fetp6iegtcvuu8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130930/7eddae9a90072fb038ff563b753ed841/1040g2sg323l3bf8mgm705q906fetp6iegtcvuu8!nd_dft_wlteh_webp_3?src=A",
       "likes": 16,
       "collects": 2,
       "comments": 0,
@@ -39,6 +39,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 16,
+          "collects": 2,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -47,7 +54,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇺🇸纽约MoMA ｜ 怎么拍都出片的美术馆",
       "author": "都意 DOI",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120930/99fd0b00eac753ed66b8cfc41b68c90d/1040g0083237vpq62mu005q906fetp6ie8ios5lg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130930/ba223a253bcc2d0961e32abceda5fa60/1040g0083237vpq62mu005q906fetp6ie8ios5lg!nd_dft_wlteh_webp_3?src=A",
       "likes": 9,
       "collects": 4,
       "comments": 0,
@@ -113,6 +120,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 9,
+          "collects": 4,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -121,7 +135,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "第一次看世界杯就是决赛，还看到西班牙夺冠",
       "author": "都意 DOI",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120931/6d078d994476667f80f7e6c972582c10/1040g2sg322rorcbd74705q906fetp6iekp1vge8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130930/3e06d6e5b975d2ef8caf45078026548c/1040g2sg322rorcbd74705q906fetp6iekp1vge8!nd_dft_wlteh_webp_3?src=A",
       "likes": 11,
       "collects": 0,
       "comments": 1,
@@ -203,6 +217,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 11,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -211,11 +232,12 @@ window.XHS_DATA = {
       "type": "note",
       "title": "带文福姬吃了三天重庆 我胃投降了😭",
       "author": "都意 DOI",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120931/7af9f2715ce0b9f5365453a2f9fddefa/notes_pre_post/1040g3k0321giognoms2g5q906fetp6ies37q65o!nd_dft_wlteh_webp_3?src=A",
-      "likes": 111,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130930/52dc6c0b387501258ddb4b4fed29ab41/notes_pre_post/1040g3k0321giognoms2g5q906fetp6ies37q65o!nd_dft_wlteh_webp_3?src=A",
+      "likes": 114,
       "collects": 6,
-      "comments": 5,
+      "comments": 6,
       "comments_text": [
+        "她是怎么做到又瘦又那么能吃的[笑哭R]",
         "她是真的能吃",
         "文姬粉白粉白的好好看",
         "還以為是板板醬",
@@ -332,6 +354,13 @@ window.XHS_DATA = {
           "collects": 6,
           "comments": 5,
           "shares": 4
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 114,
+          "collects": 6,
+          "comments": 6,
+          "shares": 4
         }
       ]
     },
@@ -340,14 +369,14 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国最近最火的网球风，被我逛明白了🎾",
       "author": "都意 DOI",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120931/bf9bede5e594437c8398f1a6ff7ded06/notes_pre_post/1040g3k83203fiu17is005q906fetp6iegk1fb1o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130930/4df3fa74d731baa51540772e44d1f3e2/notes_pre_post/1040g3k83203fiu17is005q906fetp6iegk1fb1o!nd_dft_wlteh_webp_3?src=A",
       "likes": 26,
       "collects": 6,
       "comments": 6,
       "comments_text": [
-        "[哇R][哇R]鞋子配色好好看！",
+        "想问一下，鞋子大概是多少韩币呀？",
         "这双鞋绝绝子",
-        "想问一下，鞋子大概是多少韩币呀？"
+        "[哇R][哇R]鞋子配色好好看！"
       ],
       "shares": 0,
       "publish_time": "2026-05-13",
@@ -459,6 +488,13 @@ window.XHS_DATA = {
           "collects": 6,
           "comments": 6,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 26,
+          "collects": 6,
+          "comments": 6,
+          "shares": 0
         }
       ]
     },
@@ -467,13 +503,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "公主游戏💖",
       "author": "Jang Eunbi 恩妃",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120931/941da12c0a4b82e6fea5741e9d41db23/oss-sg/notes/1040g3l0323c87caj000g5q5l00v6bnp5itf53e0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130931/8940f3ce2a30422bbcbf32c306bb7720/oss-sg/notes/1040g3l0323c87caj000g5q5l00v6bnp5itf53e0!nd_dft_wlteh_webp_3?src=A",
       "likes": 97,
       "collects": 2,
       "comments": 5,
       "comments_text": [
-        "好可爱啊欧尼[害羞R]",
         "第一个和第三个好好看[害羞R][飞吻R]",
+        "好可爱啊欧尼[害羞R]",
         "。웨딩드레스가 예쁘다.",
         "[点赞R][点赞R][点赞R]"
       ],
@@ -531,6 +567,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 5,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 97,
+          "collects": 2,
+          "comments": 5,
+          "shares": 0
         }
       ]
     },
@@ -539,8 +582,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国夫妻的休闲生活~",
       "author": "Jang Eunbi 恩妃",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120931/c0a4540d92cb603ceb46b59bd2b8cc30/oss-sg/notes/1040g3l0323c87caj00005q5l00v6bnp5d53ua6g!nd_dft_wlteh_webp_3?src=A",
-      "likes": 40,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130931/11a2a74510f19fbd98f1ab92bf841dbe/oss-sg/notes/1040g3l0323c87caj00005q5l00v6bnp5d53ua6g!nd_dft_wlteh_webp_3?src=A",
+      "likes": 41,
       "collects": 0,
       "comments": 1,
       "comments_text": [
@@ -600,6 +643,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 41,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -608,7 +658,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "我真的特别爱你🥰 为什么❓你会落泪",
       "author": "Jang Eunbi 恩妃",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120931/061345ac4b2d6af6d48dcc1d0db54381/oss-sg/notes/1040g3l0322l8nuof7u005q5l00v6bnp57cikl6g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130931/5ff71a9bffa86bfc2f22e5d343189df3/oss-sg/notes/1040g3l0322l8nuof7u005q5l00v6bnp57cikl6g!nd_dft_wlteh_webp_3?src=A",
       "likes": 49,
       "collects": 7,
       "comments": 1,
@@ -697,6 +747,13 @@ window.XHS_DATA = {
           "collects": 7,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 49,
+          "collects": 7,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -705,7 +762,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "当我骗男友双手合十…",
       "author": "Jang Eunbi 恩妃",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120932/16229543fbb0a079c85881e4a6cff680/oss-sg/notes/1040g3l0322h996dr000g5q5l00v6bnp5dlg2ql8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130931/dfa4b868e731398a4d00686059efb2fc/oss-sg/notes/1040g3l0322h996dr000g5q5l00v6bnp5dlg2ql8!nd_dft_wlteh_webp_3?src=A",
       "likes": 70,
       "collects": 3,
       "comments": 4,
@@ -797,6 +854,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 4,
           "shares": 5
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 70,
+          "collects": 3,
+          "comments": 4,
+          "shares": 5
         }
       ]
     },
@@ -805,7 +869,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "男友视角下的我…",
       "author": "Jang Eunbi 恩妃",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120932/55810a466b5421a4240e4ffc8c8bbc8f/oss-sg/notes/1040g3l0322h996dr00005q5l00v6bnp5ja8vfvo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130931/04b9d069c497b012d421f8156cb576b6/oss-sg/notes/1040g3l0322h996dr00005q5l00v6bnp5ja8vfvo!nd_dft_wlteh_webp_3?src=A",
       "likes": 16,
       "collects": 0,
       "comments": 0,
@@ -892,6 +956,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 2
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 16,
+          "collects": 0,
+          "comments": 0,
+          "shares": 2
         }
       ]
     },
@@ -900,15 +971,15 @@ window.XHS_DATA = {
       "type": "note",
       "title": "한국여자 韩女的管理费用",
       "author": "秋和政",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120932/e481cc9641de5abdd5ca935dadffab75/oss-sg/notes/1040g3l0323l3vq18ik005negs9ug8ak2fj0blpo!nd_dft_wlteh_webp_3?src=A",
-      "likes": 57,
-      "collects": 10,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130932/ab10113cf0cc1ee4ed48899b96b213d4/oss-sg/notes/1040g3l0323l3vq18ik005negs9ug8ak2fj0blpo!nd_dft_wlteh_webp_3?src=A",
+      "likes": 59,
+      "collects": 11,
       "comments": 5,
       "comments_text": [
         "小韩的身材管理真的没人说吗？真的很绝啊[哭惹R]",
-        "谁懂秋秋啊？",
-        "谢谢把v谢谢宝贝分享[飞吻R]",
         "小韩真的超级会让人自然变美！！！",
+        "谢谢把v谢谢宝贝分享[飞吻R]",
+        "谁懂秋秋啊？",
         "언니  이것은 무슨 프로젝트입니까？"
       ],
       "shares": 2,
@@ -930,6 +1001,13 @@ window.XHS_DATA = {
           "collects": 10,
           "comments": 5,
           "shares": 2
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 59,
+          "collects": 11,
+          "comments": 5,
+          "shares": 2
         }
       ]
     },
@@ -938,8 +1016,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "意识到人生太短的那一刻。",
       "author": "秋和政",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120932/f02e3b303df20273304968647c622f4d/oss-sg/notes/1040g3l0323h79dhtho005negs9ug8ak230j4tn8!nd_dft_wlteh_webp_3?src=A",
-      "likes": 554,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130932/ce19d97c8a004cf8474e49eb2bc72105/oss-sg/notes/1040g3l0323h79dhtho005negs9ug8ak230j4tn8!nd_dft_wlteh_webp_3?src=A",
+      "likes": 567,
       "collects": 124,
       "comments": 11,
       "comments_text": [
@@ -969,6 +1047,13 @@ window.XHS_DATA = {
           "collects": 124,
           "comments": 11,
           "shares": 78
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 567,
+          "collects": 124,
+          "comments": 11,
+          "shares": 78
         }
       ]
     },
@@ -977,8 +1062,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "和男闺蜜去兜风 🚗",
       "author": "秋和政",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120932/0eed6e1de89e5ea37e6e8695c08478cd/oss-sg/notes/1040g3l0322uvnljn7q005negs9ug8ak2v29ufmo!nd_dft_wlteh_webp_3?src=A",
-      "likes": 79,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130932/a2bd2b8bf6ca3706ce038d640da452d5/oss-sg/notes/1040g3l0322uvnljn7q005negs9ug8ak2v29ufmo!nd_dft_wlteh_webp_3?src=A",
+      "likes": 80,
       "collects": 11,
       "comments": 3,
       "comments_text": [
@@ -1005,6 +1090,13 @@ window.XHS_DATA = {
           "collects": 11,
           "comments": 3,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 80,
+          "collects": 11,
+          "comments": 3,
+          "shares": 1
         }
       ]
     },
@@ -1013,8 +1105,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🚗🚗",
       "author": "秋和政",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120932/73c8171bec81f9148a07f6451d88871d/oss-sg/notes/1040g3l0322uagml9ng005negs9ug8ak2576dehg!nd_dft_wlteh_webp_3?src=A",
-      "likes": 79,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130932/94018146d73cfd82b275492b30ff25c9/oss-sg/notes/1040g3l0322uagml9ng005negs9ug8ak2576dehg!nd_dft_wlteh_webp_3?src=A",
+      "likes": 81,
       "collects": 6,
       "comments": 4,
       "comments_text": [
@@ -1042,6 +1134,13 @@ window.XHS_DATA = {
           "collects": 6,
           "comments": 4,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 81,
+          "collects": 6,
+          "comments": 4,
+          "shares": 0
         }
       ]
     },
@@ -1050,15 +1149,15 @@ window.XHS_DATA = {
       "type": "note",
       "title": "去济州岛一定要喝！🍊🍺",
       "author": "秋和政",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120933/f490e75ce92c6141189f18d6d7797f5c/oss-sg/notes/1040g3l0322rhtuq7nu005negs9ug8ak2mdu0sdg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130932/ac71e1bcf35e9cc42f39e1f27a0a6b88/oss-sg/notes/1040g3l0322rhtuq7nu005negs9ug8ak2mdu0sdg!nd_dft_wlteh_webp_3?src=A",
       "likes": 68,
       "collects": 4,
       "comments": 6,
       "comments_text": [
         "秋秋最美",
         "秋秋，没尝前，你已经醉了[大笑R]",
-        "[哭惹R]哈哈哈 塑料中文好可爱",
         "秋秋做双眼皮了嘛",
+        "[哭惹R]哈哈哈 塑料中文好可爱",
         "@许潇晗   傻笑声是你吧？"
       ],
       "shares": 3,
@@ -1080,6 +1179,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 6,
           "shares": 3
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 68,
+          "collects": 4,
+          "comments": 6,
+          "shares": 3
         }
       ]
     },
@@ -1088,7 +1194,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "第一次去巴厘岛，真的比想象中更美！",
       "author": "정빈郑彬",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120933/9134ece63b2c36982b463ab53bffad8b/notes_pre_post/1040g3k031tavmbih5k105q8b0dmdoppg0epjhlg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130932/216f60a98e5681c9ab164fa790aadc1b/notes_pre_post/1040g3k031tavmbih5k105q8b0dmdoppg0epjhlg!nd_dft_wlteh_webp_3?src=A",
       "likes": 178,
       "collects": 19,
       "comments": 17,
@@ -1210,6 +1316,13 @@ window.XHS_DATA = {
           "collects": 19,
           "comments": 17,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 178,
+          "collects": 19,
+          "comments": 17,
+          "shares": 1
         }
       ]
     },
@@ -1218,7 +1331,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "GD哥我也想去看你呀",
       "author": "정빈郑彬",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120933/1837a36301d31baf6c91e98012bcfb6f/1040g00831qnbsa490a005q8b0dmdoppguqqsiko!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130933/3f7e5e9cca9e482ff5e046ea5c8d5dab/1040g00831qnbsa490a005q8b0dmdoppguqqsiko!nd_dft_wlteh_webp_3?src=A",
       "likes": 329,
       "collects": 18,
       "comments": 48,
@@ -1340,6 +1453,13 @@ window.XHS_DATA = {
           "collects": 18,
           "comments": 48,
           "shares": 6
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 329,
+          "collects": 18,
+          "comments": 48,
+          "shares": 6
         }
       ]
     },
@@ -1348,17 +1468,17 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国消防员告诉你们灭火器使用方法",
       "author": "정빈郑彬",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120933/af0ff781c9d8a2827cbe82f9ad5fc1d5/1040g00831q6i8r3c7g005q8b0dmdoppgjnm1q38!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130933/70f80cdf9f6fba2d0d07e5788819a11f/1040g00831q6i8r3c7g005q8b0dmdoppgjnm1q38!nd_dft_wlteh_webp_3?src=A",
       "likes": 764,
       "collects": 118,
       "comments": 93,
       "comments_text": [
         "我这边也有",
-        "好，学会了，下次学校什么时候着火了我第一个跑[doge]",
-        "弟弟像哥哥，哥哥像弟弟[doge]",
-        "睪酮弟弟 雌激素哥哥！！？？？[扯脸H]",
         "灭火器使用：一提二拔三喷射，上风对准火根部，灭火逃生勿慌张，逃生自救看情况",
-        "哥哥好温柔"
+        "睪酮弟弟 雌激素哥哥！！？？？[扯脸H]",
+        "喜欢超雄的弟弟，好凶[暗中观察R]",
+        "好，学会了，下次学校什么时候着火了我第一个跑[doge]",
+        "很可爱的反差组合哈哈哈哈！"
       ],
       "shares": 24,
       "publish_time": "2025-12-17",
@@ -1470,6 +1590,13 @@ window.XHS_DATA = {
           "collects": 118,
           "comments": 93,
           "shares": 24
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 764,
+          "collects": 118,
+          "comments": 93,
+          "shares": 24
         }
       ]
     },
@@ -1478,7 +1605,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "我喜欢夏天，你们呢? 🇰🇷",
       "author": "정빈郑彬",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120933/4b25d5535987ab9cd36452d70a790c64/1040g2sg31q04beou04705q8b0dmdoppggfa4kt0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130933/70f7704a82653b2d1baea86bfeb5e5c7/1040g2sg31q04beou04705q8b0dmdoppggfa4kt0!nd_dft_wlteh_webp_3?src=A",
       "likes": 84,
       "collects": 15,
       "comments": 25,
@@ -1600,6 +1727,13 @@ window.XHS_DATA = {
           "collects": 15,
           "comments": 25,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 84,
+          "collects": 15,
+          "comments": 25,
+          "shares": 1
         }
       ]
     },
@@ -1608,17 +1742,17 @@ window.XHS_DATA = {
       "type": "note",
       "title": "消防员日常，江南站必逛购物点",
       "author": "정빈郑彬",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120933/be74d4cd9dedb5a1371b8c3e2a4d5d1d/1040g2sg31ppo5uttkg705q8b0dmdoppgfmbpebg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130933/9fb461265ac8ce78841a70c9e38a8178/1040g2sg31ppo5uttkg705q8b0dmdoppgfmbpebg!nd_dft_wlteh_webp_3?src=A",
       "likes": 403,
       "collects": 46,
       "comments": 88,
       "comments_text": [
         "中国朋友们有想看的视频可以留言，我会为你们准备的！[派对R][派对R]",
+        "韩国人都喜欢kpop吗",
         "피부 진짜 좋네요",
-        "左侧的这道鱼，是烤鲅鱼？",
-        "欧巴，有女朋友吗？[偷笑R]",
+        "好丰富多彩的日常哦！看了之后心情变好了！而且你戴的那顶帽子，真的很帅~😊",
         "哇哦[萌萌哒R]",
-        "中文名居然跟我同名同姓[捂脸R]"
+        "欧巴，有女朋友吗？[偷笑R]"
       ],
       "shares": 20,
       "publish_time": "2025-12-07",
@@ -1730,6 +1864,13 @@ window.XHS_DATA = {
           "collects": 46,
           "comments": 88,
           "shares": 20
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 403,
+          "collects": 46,
+          "comments": 88,
+          "shares": 20
         }
       ]
     },
@@ -1738,7 +1879,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🌷🪻🌼🌹💐",
       "author": "im_barbie",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120934/a5ae13ce7da5c9f030ab0e814d27cbde/1040g2sg32003h3se2ae05pvm7rh390u3ph2gm0g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130933/1cf442f18ef37eec9cd69fc145369180/1040g2sg32003h3se2ae05pvm7rh390u3ph2gm0g!nd_dft_wlteh_webp_3?src=A",
       "likes": 22,
       "collects": 5,
       "comments": 2,
@@ -1856,6 +1997,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 22,
+          "collects": 5,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -1864,7 +2012,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国模特",
       "author": "im_barbie",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120934/31c113d7ce14cdb09c7b20a845b79b52/1040g00831viutrntii705pvm7rh390u3nv91sm8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130933/48afbcb72c3c24e02496c58b52fa1d35/1040g00831viutrntii705pvm7rh390u3nv91sm8!nd_dft_wlteh_webp_3?src=A",
       "likes": 25,
       "collects": 4,
       "comments": 2,
@@ -1982,6 +2130,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 25,
+          "collects": 4,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -1990,7 +2145,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "today ootd",
       "author": "im_barbie",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120934/60ee51dd0ebb89f12608e33a8f33952c/notes_pre_post/1040g3k831v6cdlrcjq705pvm7rh390u36o2rk10!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130934/9b49a88214989b0c51ad76bf97c0529b/notes_pre_post/1040g3k831v6cdlrcjq705pvm7rh390u36o2rk10!nd_dft_wlteh_webp_3?src=A",
       "likes": 24,
       "collects": 2,
       "comments": 1,
@@ -2107,6 +2262,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 24,
+          "collects": 2,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -2115,7 +2277,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "可爱的包推荐🎀🎀🎀",
       "author": "im_barbie",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120934/24fa10b35256e70bdf2d771b861da4e6/1040g00831uvfejv13q005pvm7rh390u3kdpep3g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130934/968f64d33ba691c14f0e0b972b77efea/1040g00831uvfejv13q005pvm7rh390u3kdpep3g!nd_dft_wlteh_webp_3?src=A",
       "likes": 39,
       "collects": 7,
       "comments": 5,
@@ -2233,6 +2395,13 @@ window.XHS_DATA = {
           "collects": 7,
           "comments": 5,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 39,
+          "collects": 7,
+          "comments": 5,
+          "shares": 0
         }
       ]
     },
@@ -2241,7 +2410,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "I💓shanghai",
       "author": "im_barbie",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120934/77dbdce10f43c351cab88bb35075aab0/1040g2sg31usqrnjmig705pvm7rh390u3pmekda8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130934/1b095e5ece8284103ca79c25852930a8/1040g2sg31usqrnjmig705pvm7rh390u3pmekda8!nd_dft_wlteh_webp_3?src=A",
       "likes": 42,
       "collects": 2,
       "comments": 7,
@@ -2360,6 +2529,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 7,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 42,
+          "collects": 2,
+          "comments": 7,
+          "shares": 0
         }
       ]
     },
@@ -2368,7 +2544,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "POV: 35도에 신호등 건널때⚠️🚷🔥",
       "author": "莉安 Rian",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120935/66817d042fbca3cb5de6bdc7888728d8/oss-sg/notes/1040g3l0323gb8cv47s005q97tc0dtiad6l3gtso!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130934/1a59252aea745dcce945b6ea4d306832/oss-sg/notes/1040g3l0323gb8cv47s005q97tc0dtiad6l3gtso!nd_dft_wlteh_webp_3?src=A",
       "likes": 34,
       "collects": 4,
       "comments": 0,
@@ -2413,6 +2589,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 34,
+          "collects": 4,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -2421,7 +2604,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "I LUV GILA🖤",
       "author": "莉安 Rian",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120935/80d3f43272e4c6df4f3d49068b9744a4/oss-sg/notes_pre_post/1040g3mo3239k06mu7q005q97tc0dtiadtqv5obg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130934/081d73b36c968bb5d2f1e1eafda3655d/oss-sg/notes_pre_post/1040g3mo3239k06mu7q005q97tc0dtiadtqv5obg!nd_dft_wlteh_webp_3?src=A",
       "likes": 22,
       "collects": 6,
       "comments": 0,
@@ -2480,6 +2663,13 @@ window.XHS_DATA = {
           "collects": 6,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 22,
+          "collects": 6,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -2488,7 +2678,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "✨",
       "author": "莉安 Rian",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120935/8accc064619b74186cea4b9bc6414907/oss-sg/notes_pre_post/1040g3mo3238i18a4nu705q97tc0dtiadiqok1fo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130934/2c9aaeb308f9962c3424d7984135baf3/oss-sg/notes_pre_post/1040g3mo3238i18a4nu705q97tc0dtiadiqok1fo!nd_dft_wlteh_webp_3?src=A",
       "likes": 10,
       "collects": 1,
       "comments": 0,
@@ -2554,6 +2744,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 10,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -2562,7 +2759,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Hello🖤",
       "author": "莉安 Rian",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120935/0212879e3b6567c78eaf6bb42adef411/oss-sg/notes/1040g3l0322vheh3jnu705q97tc0dtiad9bjrdio!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130934/4380ccb462f121e6079c17fd1689c2b4/oss-sg/notes/1040g3l0322vheh3jnu705q97tc0dtiad9bjrdio!nd_dft_wlteh_webp_3?src=A",
       "likes": 21,
       "collects": 7,
       "comments": 1,
@@ -2637,6 +2834,13 @@ window.XHS_DATA = {
           "collects": 7,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 21,
+          "collects": 7,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -2645,7 +2849,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🖤",
       "author": "莉安 Rian",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120935/f6063423f6f11f0296a368c00e109b7f/oss-sg/notes/1040g3l0322shv7mdns005q97tc0dtiadqbsv28g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130935/be00a5619f9b0b33cb2ebdd77c60e8a4/oss-sg/notes/1040g3l0322shv7mdns005q97tc0dtiadqbsv28g!nd_dft_wlteh_webp_3?src=A",
       "likes": 5,
       "collects": 1,
       "comments": 0,
@@ -2718,6 +2922,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 5,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -2726,7 +2937,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "上海的夜晚真的会让人上头",
       "author": "Errdayoung",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120935/7b2a4e2452b41a756933e66b43029366/notes_pre_post/1040g3k031u9srn462q005phnfh0hop4e6bork40!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130935/5dc615872ee68ac936245b340b8b41d7/notes_pre_post/1040g3k031u9srn462q005phnfh0hop4e6bork40!nd_dft_wlteh_webp_3?src=A",
       "likes": 7,
       "collects": 1,
       "comments": 0,
@@ -2841,6 +3052,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 7,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -2849,7 +3067,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "上海西岸高端活动韩国KOL体验✨",
       "author": "Errdayoung",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120936/fdc46b4dd3a870c1de47aef8c6c4c873/1040g00831u86rv7v2g005phnfh0hop4epokfcn8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130935/80a00a9c148b21f0ce3af5bbe34b3fa1/1040g00831u86rv7v2g005phnfh0hop4epokfcn8!nd_dft_wlteh_webp_3?src=A",
       "likes": 21,
       "collects": 3,
       "comments": 4,
@@ -2968,6 +3186,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 4,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 21,
+          "collects": 3,
+          "comments": 4,
+          "shares": 1
         }
       ]
     },
@@ -2976,7 +3201,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "香港烟花🎆",
       "author": "Errdayoung",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120936/2ef96a8ec84a58a2b07d13480fee81dd/1040g00831nk0itldmm005phnfh0hop4evp0liu0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130935/4e65e84b4ad8476348e858ba8be84025/1040g00831nk0itldmm005phnfh0hop4evp0liu0!nd_dft_wlteh_webp_3?src=A",
       "likes": 7,
       "collects": 1,
       "comments": 0,
@@ -3091,6 +3316,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 7,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -3099,7 +3331,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "大家好我是跳舞的Heejae",
       "author": "heejae_1023",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120936/24f4baff9a5c47ad2e416c1c74877132/1040g2sg31rh018b2nu705q68u6u6a0edqoiqfe0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130936/fc903b029d61f4243ac9d64e7e1c4e23/1040g2sg31rh018b2nu705q68u6u6a0edqoiqfe0!nd_dft_wlteh_webp_3?src=A",
       "likes": 2,
       "collects": 0,
       "comments": 0,
@@ -3214,6 +3446,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -3222,7 +3461,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "我平时就是喜欢和闺密跳个舞",
       "author": "heejae_1023",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120936/a50997c7d29e14bda3ce7c582d118f2c/1040g00831r4dhon900005q68u6u6a0edsmamcco!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130936/b3b273f0b6e045456d956cc7c867cee8/1040g00831r4dhon900005q68u6u6a0edsmamcco!nd_dft_wlteh_webp_3?src=A",
       "likes": 3,
       "collects": 0,
       "comments": 0,
@@ -3337,6 +3576,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 3,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -3345,7 +3591,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "开开心心换个衣服",
       "author": "heejae_1023",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120936/c8db65388d42d5321dd895941f416b33/1040g00831r2jumni7u0g5q68u6u6a0edqlfeos0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130936/b6fe81dfb9d143630d0f79f33e12f9df/1040g00831r2jumni7u0g5q68u6u6a0edqlfeos0!nd_dft_wlteh_webp_3?src=A",
       "likes": 8,
       "collects": 2,
       "comments": 0,
@@ -3460,6 +3706,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 8,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -3468,7 +3721,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "大家新年快乐~~",
       "author": "heejae_1023",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120936/a086dd1da9d641e866a9be9d55c6e23e/1040g00831r2jumni7u005q68u6u6a0ed2o9p41g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130936/85b22bb2f13a1feb7cfe34602a93082a/1040g00831r2jumni7u005q68u6u6a0ed2o9p41g!nd_dft_wlteh_webp_3?src=A",
       "likes": 6,
       "collects": 0,
       "comments": 0,
@@ -3583,6 +3836,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 6,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -3591,7 +3851,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "性感舞对我们来说有点难",
       "author": "heejae_1023",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120937/ed18e733cbfdfdc74871ed3d3357ddb1/1040g2sg31r1dpai1007g5q68u6u6a0ed0pgt8lo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130936/918de25684685a8c05e6b99b75fd3892/1040g2sg31r1dpai1007g5q68u6u6a0ed0pgt8lo!nd_dft_wlteh_webp_3?src=A",
       "likes": 7,
       "collects": 0,
       "comments": 0,
@@ -3706,6 +3966,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 7,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -3714,15 +3981,15 @@ window.XHS_DATA = {
       "type": "note",
       "title": "逛街的一天 🛍️",
       "author": "Lyla 孔羅熙",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120937/138d6e6ed5fc806749509edf7318af79/1040g2sg31qi5rieh7g705q68rufmaqmq32acjsg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130936/2e0166db0bf019bbcec4e61084fe7ab1/1040g2sg31qi5rieh7g705q68rufmaqmq32acjsg!nd_dft_wlteh_webp_3?src=A",
       "likes": 1400,
       "collects": 270,
       "comments": 5,
       "comments_text": [
         "我的宝贝儿",
         "微笑很漂亮",
-        "[自拍R]",
-        "安尼哈莎哟[赞R][赞R]"
+        "安尼哈莎哟[赞R][赞R]",
+        "[自拍R]"
       ],
       "shares": 27,
       "publish_time": "2025-12-26",
@@ -3736,6 +4003,13 @@ window.XHS_DATA = {
           "collects": 270,
           "comments": 5,
           "shares": 27
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1400,
+          "collects": 270,
+          "comments": 5,
+          "shares": 27
         }
       ]
     },
@@ -3744,7 +4018,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "来济州岛旅行啦 🌿",
       "author": "Lyla 孔羅熙",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120937/0cd52c53d8194d325ed04a29c7df7881/notes_pre_post/1040g3k031qhpfesing005q68rufmaqmq2k9muu8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130936/59ef32825204b277f2e37cb518e9c7dc/notes_pre_post/1040g3k031qhpfesing005q68rufmaqmq2k9muu8!nd_dft_wlteh_webp_3?src=A",
       "likes": 156,
       "collects": 44,
       "comments": 11,
@@ -3767,6 +4041,13 @@ window.XHS_DATA = {
           "collects": 44,
           "comments": 11,
           "shares": 4
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 156,
+          "collects": 44,
+          "comments": 11,
+          "shares": 4
         }
       ]
     },
@@ -3775,7 +4056,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "有人一起跳 Taka Taka 吗？🔥",
       "author": "Lyla 孔羅熙",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120937/0d590b8c48b995c65fa8bdfc55d76a28/1040g00831qgr7sqt00705q68rufmaqmqtfs038g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130937/26850f336b4f670d573d84c44d8a9a28/1040g00831qgr7sqt00705q68rufmaqmqtfs038g!nd_dft_wlteh_webp_3?src=A",
       "likes": 2100,
       "collects": 741,
       "comments": 15,
@@ -3799,6 +4080,13 @@ window.XHS_DATA = {
           "collects": 741,
           "comments": 15,
           "shares": 53
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2100,
+          "collects": 741,
+          "comments": 15,
+          "shares": 53
         }
       ]
     },
@@ -3807,7 +4095,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "节日快乐 💖",
       "author": "Lyla 孔羅熙",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120937/597d26adb21abba6f6c58c4bd723e19b/notes_pre_post/1040g3k831qgjagqbno705q68rufmaqmqmj65cvo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130937/88366c84c7866fd9e5c1b5a793d0efd7/notes_pre_post/1040g3k831qgjagqbno705q68rufmaqmqmj65cvo!nd_dft_wlteh_webp_3?src=A",
       "likes": 124,
       "collects": 39,
       "comments": 3,
@@ -3828,6 +4116,13 @@ window.XHS_DATA = {
           "collects": 39,
           "comments": 3,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 124,
+          "collects": 39,
+          "comments": 3,
+          "shares": 1
         }
       ]
     },
@@ -3836,7 +4131,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "一起跳个舞吧～✨",
       "author": "Lyla 孔羅熙",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120937/af2477ea209f1f07323ec7c6731aa638/1040g2sg31qfprtja0ab05q68rufmaqmq3v7k300!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130937/88094e2596afc39efb0062db7832623d/1040g2sg31qfprtja0ab05q68rufmaqmq3v7k300!nd_dft_wlteh_webp_3?src=A",
       "likes": 677,
       "collects": 225,
       "comments": 3,
@@ -3857,6 +4152,13 @@ window.XHS_DATA = {
           "collects": 225,
           "comments": 3,
           "shares": 19
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 677,
+          "collects": 225,
+          "comments": 3,
+          "shares": 19
         }
       ]
     },
@@ -3865,7 +4167,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "howto｜让闺蜜拍出神图",
       "author": "Goyoonseo",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120938/3d5a95f9bce2d39d50265d83b9391354/oss-sg/notes/1040g3l0322s9hct0no005phbbbu0ue80l34spg0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130937/46868b6d5e0cf9ddacbb0caa9095b1ce/oss-sg/notes/1040g3l0322s9hct0no005phbbbu0ue80l34spg0!nd_dft_wlteh_webp_3?src=A",
       "likes": 23,
       "collects": 3,
       "comments": 0,
@@ -3938,6 +4240,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 23,
+          "collects": 3,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -3946,7 +4255,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "한국 성수 길피자 맛집 🍕🍴",
       "author": "Goyoonseo",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120938/0f55751ee3f57bfac9bf55deb414c8ef/oss-sg/notes/1040g3l0322enspqj7i005phbbbu0ue8052vtm5o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130937/84a58707868bc97d8eedd20345d7a513/oss-sg/notes/1040g3l0322enspqj7i005phbbbu0ue8052vtm5o!nd_dft_wlteh_webp_3?src=A",
       "likes": 26,
       "collects": 3,
       "comments": 1,
@@ -4035,6 +4344,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 26,
+          "collects": 3,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -4043,7 +4359,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "✨✨<3",
       "author": "Goyoonseo",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120938/9416ab67c4845d7b38a77da472c06629/oss-sg/notes_pre_post/1040g3mo3225sl3ft7u005phbbbu0ue80h00m3pg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130937/542db390b1a49e968e2c089288b0f120/oss-sg/notes_pre_post/1040g3mo3225sl3ft7u005phbbbu0ue80h00m3pg!nd_dft_wlteh_webp_3?src=A",
       "likes": 100,
       "collects": 18,
       "comments": 2,
@@ -4161,6 +4477,13 @@ window.XHS_DATA = {
           "collects": 18,
           "comments": 2,
           "shares": 3
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 100,
+          "collects": 18,
+          "comments": 2,
+          "shares": 3
         }
       ]
     },
@@ -4169,7 +4492,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Itaewon, Korea 🇰🇷",
       "author": "Goyoonseo",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120938/9de5b0e2783310cfdccc189db7e47d60/oss-sg/notes_pre_post/1040g3mo321j4det97i005phbbbu0ue803u68hko!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130938/604855cf4df4ea699ee6279b22b1b3a9/oss-sg/notes_pre_post/1040g3mo321j4det97i005phbbbu0ue803u68hko!nd_dft_wlteh_webp_3?src=A",
       "likes": 9,
       "collects": 4,
       "comments": 2,
@@ -4287,6 +4610,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 2,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 9,
+          "collects": 4,
+          "comments": 2,
+          "shares": 1
         }
       ]
     },
@@ -4295,7 +4625,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "夏日时尚穿搭 | 韩国欧尼的墨镜秘籍🕶️",
       "author": "Goyoonseo",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120938/67f9f0d2cbe21c9dda20f3c7f0376c13/oss-sg/notes_pre_post/1040g3mo321h91notnc1g5phbbbu0ue80741hvng!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130938/9458c28f9d0061aab0101f3203d5d893/oss-sg/notes_pre_post/1040g3mo321h91notnc1g5phbbbu0ue80741hvng!nd_dft_wlteh_webp_3?src=A",
       "likes": 15,
       "collects": 7,
       "comments": 0,
@@ -4410,6 +4740,13 @@ window.XHS_DATA = {
           "collects": 7,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 15,
+          "collects": 7,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -4418,7 +4755,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "性价比拉满Nike运动鞋",
       "author": "soondoll22",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120939/517fe5bf5d49b3e8f94de952e257294e/1040g00831t4fruub5k005q89jdftotn3f9inm9g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130938/d7e02e62d0539e856c234591180cb777/1040g00831t4fruub5k005q89jdftotn3f9inm9g!nd_dft_wlteh_webp_3?src=A",
       "likes": 4,
       "collects": 2,
       "comments": 0,
@@ -4533,6 +4870,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 4,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -4541,7 +4885,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "女朋友喜欢的生日礼物推荐",
       "author": "soondoll22",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120939/4226cc4e8955f4729e0d39dd7ca1cd7a/1040g00831t360ac95m005q89jdftotn3vv5id10!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130938/8832d8cd023eb16db9452b3c84c19c55/1040g00831t360ac95m005q89jdftotn3vv5id10!nd_dft_wlteh_webp_3?src=A",
       "likes": 5,
       "collects": 1,
       "comments": 0,
@@ -4656,6 +5000,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 5,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -4664,7 +5015,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "笋豆和NOMANUAL联名连帽卫衣",
       "author": "soondoll22",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120939/5e57c4107a60709a09d71da1621ad707/1040g2sg31t0ftqinlm005q89jdftotn3huoohh8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130938/491a572c8345ac97a5bcc0399d0d1c46/1040g2sg31t0ftqinlm005q89jdftotn3huoohh8!nd_dft_wlteh_webp_3?src=A",
       "likes": 9,
       "collects": 4,
       "comments": 0,
@@ -4779,6 +5130,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 9,
+          "collects": 4,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -4787,7 +5145,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国10w博主笋豆克罗心购买清单",
       "author": "soondoll22",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120939/5ccc1a51f00b048eb35a0abc35236556/1040g2sg31rttiv2lia705q89jdftotn3f7sglvg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130939/b89fd9e19b7c1cc499af20b2199a934f/1040g2sg31rttiv2lia705q89jdftotn3f7sglvg!nd_dft_wlteh_webp_3?src=A",
       "likes": 54,
       "collects": 5,
       "comments": 0,
@@ -4902,6 +5260,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 0,
           "shares": 5
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 54,
+          "collects": 5,
+          "comments": 0,
+          "shares": 5
         }
       ]
     },
@@ -4910,16 +5275,16 @@ window.XHS_DATA = {
       "type": "note",
       "title": "冬季保暖必备品NORTHFACE",
       "author": "soondoll22",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120939/54d75d2f304190c1d15701cbe6d45db6/1040g00831rkobg2e2s005q89jdftotn3p7rjcko!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130939/78176ab99da189224ab9a8c06c4d60ef/1040g00831rkobg2e2s005q89jdftotn3p7rjcko!nd_dft_wlteh_webp_3?src=A",
       "likes": 446,
       "collects": 136,
       "comments": 20,
       "comments_text": [
-        "好看好看好看！！！！but 说话速度太快啦！！！请慢一点哦～",
         "版型很好看…但是韩国tnf好像是单独运营的，想买但买不到[笑哭R]",
-        "这不是棉服吗",
         "白标买过一次 真觉得面料不是很好的样子不知道是不是我错觉。海淘来看不咋地就海鲜出了",
+        "好看好看好看！！！！but 说话速度太快啦！！！请慢一点哦～",
         "这件是棉服？ballt",
+        "这不是棉服吗",
         "讲得好快[捂脸R]"
       ],
       "shares": 99,
@@ -5032,6 +5397,13 @@ window.XHS_DATA = {
           "collects": 136,
           "comments": 20,
           "shares": 99
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 446,
+          "collects": 136,
+          "comments": 20,
+          "shares": 99
         }
       ]
     },
@@ -5040,7 +5412,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "New hairstlye 🔥",
       "author": "朱元大",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120940/72d1f83c6a259a541c03d43006f8e3cd/oss-sg/notes/1040g3l0323jn2kq32a005q15l88jjib8qipj6f0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130939/5a8cf3d68b5d9bb989700d3dc37fe9a2/oss-sg/notes/1040g3l0323jn2kq32a005q15l88jjib8qipj6f0!nd_dft_wlteh_webp_3?src=A",
       "likes": 2,
       "collects": 1,
       "comments": 0,
@@ -5071,6 +5443,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -5079,7 +5458,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "猜猜我的年龄😎",
       "author": "朱元大",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120940/869ab7f68f1fe70dc33494b73c09f069/1040g2sg31tkbuognmo705q15l88jjib8fs9a390!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130939/4b4ef4347a62f1786de4820cf93422ea/1040g2sg31tkbuognmo705q15l88jjib8fs9a390!nd_dft_wlteh_webp_3?src=A",
       "likes": 8,
       "collects": 1,
       "comments": 2,
@@ -5119,6 +5498,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 8,
+          "collects": 1,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -5127,7 +5513,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "2月也结束了！！",
       "author": "朱元大",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120940/30a1c3fd679c011301160b393e9d1396/1040g00831t4t4jfm5e005q15l88jjib8d590lio!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130939/4cd18709c4f8eca4281a74616bf10f3c/1040g00831t4t4jfm5e005q15l88jjib8d590lio!nd_dft_wlteh_webp_3?src=A",
       "likes": 12,
       "collects": 2,
       "comments": 0,
@@ -5165,6 +5551,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 12,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -5173,7 +5566,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "脱色头发 VS 黑发🇰🇷",
       "author": "朱元大",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120940/50c887029e9870bf12bd4a74d72a9162/notes_pre_post/1040g3k031rm53e55i42g5q15l88jjib81itvfa8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130939/91f852208849eeac54a12571ef328ff2/notes_pre_post/1040g3k031rm53e55i42g5q15l88jjib81itvfa8!nd_dft_wlteh_webp_3?src=A",
       "likes": 5,
       "collects": 1,
       "comments": 3,
@@ -5213,6 +5606,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 3,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 5,
+          "collects": 1,
+          "comments": 3,
+          "shares": 0
         }
       ]
     },
@@ -5221,7 +5621,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "比两百块还便宜？🇰🇷",
       "author": "朱元大",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120940/5690f54cf228d0d9f43553138520b6a2/1040g2sg31ria9f9j24705q15l88jjib81t3891g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130939/bc166430d6f31d8b0a8b679b5665fa1b/1040g2sg31ria9f9j24705q15l88jjib81t3891g!nd_dft_wlteh_webp_3?src=A",
       "likes": 3,
       "collects": 1,
       "comments": 1,
@@ -5261,6 +5661,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 3,
+          "collects": 1,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -5269,7 +5676,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "(제목 없음)",
       "author": "Juju",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120940/ac143afb5c5f5e476aa434e81bffb123/1040g2sg31vakpb8d2s705q554ui6ac30tqmgb78!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130940/0a57dc659346fe030f985e173414efb2/1040g2sg31vakpb8d2s705q554ui6ac30tqmgb78!nd_dft_wlteh_webp_3?src=A",
       "likes": 13,
       "collects": 0,
       "comments": 1,
@@ -5386,6 +5793,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 1,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 13,
+          "collects": 0,
+          "comments": 1,
+          "shares": 1
         }
       ]
     },
@@ -5394,7 +5808,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "(제목 없음)",
       "author": "Juju",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120940/8ee4d78c402e259169a1095d7ec9223f/1040g2sg31s9qs2t5l8005q554ui6ac30kuphpk8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130940/aa6076cb250efe43ebef2bca238a7bd8/1040g2sg31s9qs2t5l8005q554ui6ac30kuphpk8!nd_dft_wlteh_webp_3?src=A",
       "likes": 80,
       "collects": 3,
       "comments": 0,
@@ -5509,6 +5923,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 80,
+          "collects": 3,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -5517,7 +5938,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "쫀득쿠키 你们有吃过迪拜糯糯巧克力吗",
       "author": "Juju",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120941/77e1c0d3a754d041c06c38740f8c4f13/1040g00831rfnb0mrn4005q554ui6ac30149jb10!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130940/c38b60dc91b704a2c13077d9286d9ff9/1040g00831rfnb0mrn4005q554ui6ac30149jb10!nd_dft_wlteh_webp_3?src=A",
       "likes": 12,
       "collects": 2,
       "comments": 0,
@@ -5632,6 +6053,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 12,
+          "collects": 2,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -5640,7 +6068,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "用一张照片，迎接2026年 🤍",
       "author": "Juju",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120941/caa0cffae0c7d9791efa8108725e47af/1040g00831r0ocou770005q554ui6ac3009t7vg8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130940/4141b350bf4ce389f3ad4ea07f97285b/1040g00831r0ocou770005q554ui6ac3009t7vg8!nd_dft_wlteh_webp_3?src=A",
       "likes": 16,
       "collects": 2,
       "comments": 0,
@@ -5755,6 +6183,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 16,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -5763,7 +6198,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Happy new year!",
       "author": "Juju",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120941/24e60524693e4ba333559aa92fe6c63b/notes_pre_post/1040g3k831qprob2vn00g5q554ui6ac30jp80c70!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130940/9e63ea1372414798cf0071e93ed2e94e/notes_pre_post/1040g3k831qprob2vn00g5q554ui6ac30jp80c70!nd_dft_wlteh_webp_3?src=A",
       "likes": 619,
       "collects": 111,
       "comments": 9,
@@ -5878,6 +6313,13 @@ window.XHS_DATA = {
           "collects": 111,
           "comments": 9,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 619,
+          "collects": 111,
+          "comments": 9,
+          "shares": 1
         }
       ]
     },
@@ -5886,7 +6328,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "在首尔的夜晚｜81层的香槟时光",
       "author": "maro",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120941/096883d53052a9fd257559bb087de3a5/1040g2sg31s487t0h627g5q5405vm9kifqehpsjo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130941/bb0aca4d9fe7ca1e76994c42ce7aefb4/1040g2sg31s487t0h627g5q5405vm9kifqehpsjo!nd_dft_wlteh_webp_3?src=A",
       "likes": 2,
       "collects": 1,
       "comments": 0,
@@ -6001,6 +6443,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -6009,7 +6458,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "换上韩服 ， 感受不同的美",
       "author": "maro",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120941/447b58b2d1bba2a3b42eb88548428dfa/1040g2sg31s487t0h62705q5405vm9kifel34oig!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130941/13f0ed47e8c8cd65c29dbc194e36825e/1040g2sg31s487t0h62705q5405vm9kifel34oig!nd_dft_wlteh_webp_3?src=A",
       "likes": 4,
       "collects": 2,
       "comments": 0,
@@ -6124,6 +6573,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 4,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -6132,7 +6588,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "镜头前的我｜电视广告模特",
       "author": "maro",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120942/5f5bdfe625055f048d9334b84a498351/1040g2sg31s1d4i6t4u005q5405vm9kifa3r2a7o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130941/eded056bbe47acc7318e6f9150bde1f1/1040g2sg31s1d4i6t4u005q5405vm9kifa3r2a7o!nd_dft_wlteh_webp_3?src=A",
       "likes": 0,
       "collects": 0,
       "comments": 0,
@@ -6247,6 +6703,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 0,
+          "collects": 0,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -6255,7 +6718,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "帕尔玛之水 (首尔的小选择)",
       "author": "maro",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120942/4f1474293bb81b637fadaa94c7f67a05/1040g2sg31rc6st9u7u005q5405vm9kifrdvskq8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130941/82dc55097e97af4e2e027da61b71814d/1040g2sg31rc6st9u7u005q5405vm9kifrdvskq8!nd_dft_wlteh_webp_3?src=A",
       "likes": 2,
       "collects": 0,
       "comments": 0,
@@ -6370,6 +6833,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -6378,7 +6848,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "女神夏日护肤神器 Dr.Jart",
       "author": "maro",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120942/2398a7ee5306b6cccabe8606ae92a91f/spectrum/1040g34o31mg2dni74s0g5q5405vm9kifhh7677o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130941/1a4b1ac4f6538e7ac8dafb2df3a5d1ce/spectrum/1040g34o31mg2dni74s0g5q5405vm9kifhh7677o!nd_dft_wlteh_webp_3?src=A",
       "likes": 3,
       "collects": 1,
       "comments": 0,
@@ -6493,6 +6963,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 3,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -6501,7 +6978,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Waterbomb💣💦🔫",
       "author": "민규珉奎",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120942/5d75823b3c919f371b0cb367a48fcd81/notes_uhdr/1040g3qg3239lhmp0nc005q6tu2edtri7vvg4km8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130942/57aee87f89d2dd12a75d8619981df456/notes_uhdr/1040g3qg3239lhmp0nc005q6tu2edtri7vvg4km8!nd_dft_wlteh_webp_3?src=A",
       "likes": 11,
       "collects": 2,
       "comments": 1,
@@ -6560,6 +7037,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 11,
+          "collects": 2,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -6568,7 +7052,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "检查外表",
       "author": "민규珉奎",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120943/7c4d1e5bfe022c2284a15f8a51ae1ca0/oss-sg/notes/1040g3l0320gdf5fs7g005q6tu2edtri7lda4fc0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130942/44ef5cee44311555587649fc768eee53/oss-sg/notes/1040g3l0320gdf5fs7g005q6tu2edtri7lda4fc0!nd_dft_wlteh_webp_3?src=A",
       "likes": 5,
       "collects": 0,
       "comments": 0,
@@ -6683,6 +7167,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 5,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -6691,7 +7182,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "去日本旅行了✈️",
       "author": "민규珉奎",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120943/5d5a23ca4e72943e2565ffc674939005/note_pre_post_uhdr/1040g3r03208n1pm2mc005q6tu2edtri79af5ck0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130942/3b45fc93f4639a7afc72e938b2a74800/note_pre_post_uhdr/1040g3r03208n1pm2mc005q6tu2edtri79af5ck0!nd_dft_wlteh_webp_3?src=A",
       "likes": 2,
       "collects": 0,
       "comments": 0,
@@ -6806,6 +7297,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -6814,7 +7312,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "생맥주 좋아! 喜欢啤酒🍻",
       "author": "민규珉奎",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120943/9bdd4fef3f82da2b581c7fc24630c677/oss-sg/notes/1040g3l032054tu057k005q6tu2edtri7ke6pu5g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130942/c150c8a2bdde639cf4508397e8c1bc45/oss-sg/notes/1040g3l032054tu057k005q6tu2edtri7ke6pu5g!nd_dft_wlteh_webp_3?src=A",
       "likes": 5,
       "collects": 0,
       "comments": 0,
@@ -6929,6 +7427,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 5,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -6937,7 +7442,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "单身四年 我的第一约会第二期",
       "author": "민규珉奎",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120943/ab77363e132b911af6fddd7fad029415/oss-sg/notes/1040g3l03201aap02nk005q6tu2edtri7qbhqf4o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130943/b04b763a8927cf787ec1de0b23191ca7/oss-sg/notes/1040g3l03201aap02nk005q6tu2edtri7qbhqf4o!nd_dft_wlteh_webp_3?src=A",
       "likes": 21,
       "collects": 4,
       "comments": 1,
@@ -7052,6 +7557,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 21,
+          "collects": 4,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -7060,7 +7572,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "小伙伴接力舞~!",
       "author": "유은비",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120944/1bacdb1e86bffe80706a1a46d053c4b9/1040g00831qbpq5km7o005q29fd16ra8io6uji3o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130943/1ed549472674d725cbcdd29f98381c1c/1040g00831qbpq5km7o005q29fd16ra8io6uji3o!nd_dft_wlteh_webp_3?src=A",
       "likes": 5,
       "collects": 0,
       "comments": 1,
@@ -7147,6 +7659,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 5,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -7155,7 +7674,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "在月光下拍的照片最好看",
       "author": "유은비",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120944/b2e3ae37bbd7ef555de77f71aec7ceca/1040g00831q94gr4q00005q29fd16ra8iqao56l0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130943/919a83148d81b6424bb23103b41d5069/1040g00831q94gr4q00005q29fd16ra8iqao56l0!nd_dft_wlteh_webp_3?src=A",
       "likes": 20,
       "collects": 2,
       "comments": 1,
@@ -7242,6 +7761,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 20,
+          "collects": 2,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -7250,7 +7776,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "跳舞让我开心",
       "author": "유은비",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120944/9e6e166a759bc6ced9c5cc219c48204f/1040g00831q3jn3ppg0005q29fd16ra8i27nosso!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130943/7ef32683fc6bbd00c81f6f6f92ef60f1/1040g00831q3jn3ppg0005q29fd16ra8i27nosso!nd_dft_wgth_webp_3?src=A",
       "likes": 4,
       "collects": 1,
       "comments": 0,
@@ -7337,6 +7863,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 4,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -7345,7 +7878,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "就要跟闺蜜跳个舞",
       "author": "유은비",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120944/8e634aca963b4a3217dc6a6b70c01b16/1040g2sg31q19po2i0a005q29fd16ra8iqqnhnr0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130944/34bd61bd4c53e2efcf3c3cbfc8c75de3/1040g2sg31q19po2i0a005q29fd16ra8iqqnhnr0!nd_dft_wlteh_webp_3?src=A",
       "likes": 4,
       "collects": 0,
       "comments": 0,
@@ -7432,6 +7965,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 4,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -7440,7 +7980,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "你好",
       "author": "유은비",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120944/a067b1db1cc56dc981a15736640a37bd/notes_pre_post/1040g3k031pr0j0t25a005q29fd16ra8is7tqueg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130944/a33bf42d3a330ae85d074930e3391598/notes_pre_post/1040g3k031pr0j0t25a005q29fd16ra8is7tqueg!nd_dft_wlteh_webp_3?src=A",
       "likes": 0,
       "collects": 0,
       "comments": 0,
@@ -7527,6 +8067,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 0,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -7535,7 +8082,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇨🇳🇰🇷 안녕 韩国的模特",
       "author": "惠蘭 Lani",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120945/3dcad4f581ade0529fc24e5e69d29058/1040g00831rjo9ectim605q4jfsaq31sisr8gh08!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130944/b6f8965631223e1aa0998d50bc37fea6/1040g00831rjo9ectim605q4jfsaq31sisr8gh08!nd_dft_wlteh_webp_3?src=A",
       "likes": 18,
       "collects": 6,
       "comments": 5,
@@ -7650,6 +8197,13 @@ window.XHS_DATA = {
           "collects": 6,
           "comments": 5,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 18,
+          "collects": 6,
+          "comments": 5,
+          "shares": 0
         }
       ]
     },
@@ -7658,7 +8212,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇨🇳🇰🇷운동 每天坚持这几招",
       "author": "惠蘭 Lani",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120945/84b693caf6dabd1c87561cedbfdf2b90/1040g2sg31rbvmqav0acg5q4jfsaq31si8qeaee0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130945/90b8283868da7b002d407bb4f0336a7a/1040g2sg31rbvmqav0acg5q4jfsaq31si8qeaee0!nd_dft_wlteh_webp_3?src=A",
       "likes": 13,
       "collects": 4,
       "comments": 3,
@@ -7773,6 +8327,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 3,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 13,
+          "collects": 4,
+          "comments": 3,
+          "shares": 1
         }
       ]
     },
@@ -7781,7 +8342,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷 朝鲜半岛时尚",
       "author": "惠蘭 Lani",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120946/1f89f7a7a6564a024dec267708d8a131/110/0/01e94952581d4af10010000000019b466a4f44_0.jpg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130945/364174e08562e0084c76696c7eeacf23/110/0/01e94952581d4af10010000000019b466a4f44_0.jpg!nd_dft_wlteh_webp_3?src=A",
       "likes": 6,
       "collects": 0,
       "comments": 0,
@@ -7896,6 +8457,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 6,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -7904,7 +8472,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷 Hiii, 大家好",
       "author": "惠蘭 Lani",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120946/b747307438461cd390b5dcbf977f14b2/1040g00831qd8tskc7o6g5q4jfsaq31si4cfqsgg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130945/ccf12c896cd6b8bf8b6de420a1fa98a8/1040g00831qd8tskc7o6g5q4jfsaq31si4cfqsgg!nd_dft_wlteh_webp_3?src=A",
       "likes": 3,
       "collects": 1,
       "comments": 0,
@@ -8019,6 +8587,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 3,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -8027,7 +8602,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国模特每日时尚🇰🇷 ootd",
       "author": "惠蘭 Lani",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120946/c9176d8588d5e0094f2f364fc31744d6/notes_pre_post/1040g3k831on2b15a6g005q4jfsaq31sidufnkkg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130945/3076df0562e558875121d706b7df8150/notes_pre_post/1040g3k831on2b15a6g005q4jfsaq31sidufnkkg!nd_dft_wlteh_webp_3?src=A",
       "likes": 6,
       "collects": 2,
       "comments": 0,
@@ -8142,6 +8717,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 6,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -8150,7 +8732,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "最近最爱的穿搭🔥",
       "author": "Orogy",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120946/283aa15d3b1c311d753ae0b401fe88a1/notes_pre_post/1040g3k831rkt7qruj2eg5qa64glgppfg5tbkii0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130946/9d41a4cd2c1fe14f67a9d976de0bed1f/notes_pre_post/1040g3k831rkt7qruj2eg5qa64glgppfg5tbkii0!nd_dft_wlteh_webp_3?src=A",
       "likes": 0,
       "collects": 0,
       "comments": 0,
@@ -8265,6 +8847,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 0,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -8273,7 +8862,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🙏🏻🙏🏻",
       "author": "Orogy",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120947/8ee509d2cf7e63d81c0e4cfe117d0f69/notes_pre_post/1040g3k031qtinlp5nu005qa64glgppfg09l8c30!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130946/a590de5c21ccf5848e26ef4e092afd60/notes_pre_post/1040g3k031qtinlp5nu005qa64glgppfg09l8c30!nd_dft_wlteh_webp_3?src=A",
       "likes": 1,
       "collects": 0,
       "comments": 0,
@@ -8388,6 +8977,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -8396,7 +8992,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "翻车包包展览会 🥲",
       "author": "Orogy",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120947/aff6a50674e1e5e28b18e37741381f2d/1040g2sg31qrbhbm1ga705qa64glgppfgbd4gjqg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130946/3f5f73273d8799dddb447dcec098bae9/1040g2sg31qrbhbm1ga705qa64glgppfgbd4gjqg!nd_dft_wlteh_webp_3?src=A",
       "likes": 2,
       "collects": 0,
       "comments": 0,
@@ -8511,6 +9107,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -8519,7 +9122,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国女生的 Get Ready With Me 🇰🇷",
       "author": "Orogy",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120947/ec10abd142e418fba753815f9f63b316/1040g00831qpvleqd7u0g5qa64glgppfgss0hfqg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130946/5df21968dc18e29c9bf0ff40d0bfb4b0/1040g00831qpvleqd7u0g5qa64glgppfgss0hfqg!nd_dft_wlteh_webp_3?src=A",
       "likes": 1,
       "collects": 0,
       "comments": 0,
@@ -8634,6 +9237,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -8642,7 +9252,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "2025年是个说谎话的年度 🥹",
       "author": "Orogy",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120947/3a8b04d87b59d5b2aa5c2ecf68656e70/1040g00831qokee71g0005qa64glgppfg59v6bug!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130946/040a729b58ef1c249c5142c1afd0490a/1040g00831qokee71g0005qa64glgppfg59v6bug!nd_dft_wlteh_webp_3?src=A",
       "likes": 1,
       "collects": 0,
       "comments": 0,
@@ -8757,6 +9367,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -8765,7 +9382,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "SpiderWoman🕷️",
       "author": "hiimyoursue",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120948/f3dca101f8203202aefad56908a9cd08/oss-sg/notes/1040g3l0323ndpqvgie005q70igitu0h8t8n73g0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130947/536a58f021ca1f58f9a48bc1733ca11b/oss-sg/notes/1040g3l0323ndpqvgie005q70igitu0h8t8n73g0!nd_dft_wlteh_webp_3?src=A",
       "likes": 2,
       "collects": 1,
       "comments": 0,
@@ -8782,6 +9399,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -8790,7 +9414,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "hi❤️",
       "author": "hiimyoursue",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120948/a103a1b04b100db6b7f9940df371c72c/1040g2sg31ualr4er1m705q70igitu0h8d00k778!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130947/7ac676fbff495e8bb35b118b5581952b/1040g2sg31ualr4er1m705q70igitu0h8d00k778!nd_dft_wlteh_webp_3?src=A",
       "likes": 17,
       "collects": 7,
       "comments": 2,
@@ -8870,6 +9494,13 @@ window.XHS_DATA = {
           "collects": 7,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 17,
+          "collects": 7,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -8878,7 +9509,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "❤️🇻🇳",
       "author": "hiimyoursue",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120948/23ff69b33d32269db4c18e7d53155ac1/1040g2sg31u5nu3v42s7g5q70igitu0h87pskaqg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130947/a306cf2d2b8225085d131314f918d8c9/1040g2sg31u5nu3v42s7g5q70igitu0h87pskaqg!nd_dft_wlteh_webp_3?src=A",
       "likes": 2,
       "collects": 0,
       "comments": 0,
@@ -8958,6 +9589,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -8966,7 +9604,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🫠",
       "author": "hiimyoursue",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120948/6eddf03c41fc5944d32f35ce05cef51b/1040g2sg31tltm0uanu705q70igitu0h8c8d8e88!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130948/8b575872b5faec0b79b66a7dc02f107b/1040g2sg31tltm0uanu705q70igitu0h8c8d8e88!nd_dft_wlteh_webp_3?src=A",
       "likes": 73,
       "collects": 11,
       "comments": 1,
@@ -9046,6 +9684,13 @@ window.XHS_DATA = {
           "collects": 11,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 73,
+          "collects": 11,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -9054,7 +9699,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "❤️",
       "author": "hiimyoursue",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120949/3569d2ed2a0f23ec93d20149bb9e9c41/1040g2sg31tht2om46ee05q70igitu0h88rc1bkg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130948/699dc3a2f97fb9dce55db0b693aef59a/1040g2sg31tht2om46ee05q70igitu0h88rc1bkg!nd_dft_wlteh_webp_3?src=A",
       "likes": 23,
       "collects": 0,
       "comments": 0,
@@ -9134,6 +9779,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 23,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -9142,7 +9794,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "💋🪽",
       "author": "金minmin",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120949/fe0125a3845e01eb829b5adfc9517cae/1040g2sg32015gpcl3q005q82vahdok41umc4cfg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130948/c711188c7214840a9b39a1e4c5b3f098/1040g2sg32015gpcl3q005q82vahdok41umc4cfg!nd_dft_wlteh_webp_3?src=A",
       "likes": 16,
       "collects": 2,
       "comments": 1,
@@ -9257,6 +9909,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 16,
+          "collects": 2,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -9265,7 +9924,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "👓",
       "author": "金minmin",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120950/81f9b7d02c78800e705e7be4651380f7/1040g00831vj4tirliq005q82vahdok417g4kfmo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130949/323aea1440c7a9e3171a2d6022d0d37f/1040g00831vj4tirliq005q82vahdok417g4kfmo!nd_dft_wlteh_webp_3?src=A",
       "likes": 36,
       "collects": 1,
       "comments": 2,
@@ -9380,6 +10039,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 36,
+          "collects": 1,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -9388,7 +10054,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Garosu Street🇰🇷",
       "author": "金minmin",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120950/f3d2b0d2e080f586a3c0f7db62536bc5/1040g00831uu5ng57ii105q82vahdok41pfcbaho!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130949/30bdce8ee9e58e70e8345856d07eec61/1040g00831uu5ng57ii105q82vahdok41pfcbaho!nd_dft_wlteh_webp_3?src=A",
       "likes": 37,
       "collects": 8,
       "comments": 2,
@@ -9503,6 +10169,13 @@ window.XHS_DATA = {
           "collects": 8,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 37,
+          "collects": 8,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -9511,7 +10184,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "MAX SIEDENTOPF",
       "author": "金minmin",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120950/b7324b0d3ccc56f7a0c7539ac6d49697/c/1040g2sg31ut4nl7b2g005q82vahdok4179uh0tg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130949/9a72a07098b39a2bf663a7012d92760f/c/1040g2sg31ut4nl7b2g005q82vahdok4179uh0tg!nd_dft_wlteh_webp_3?src=A",
       "likes": 23,
       "collects": 3,
       "comments": 1,
@@ -9626,6 +10299,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 23,
+          "collects": 3,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -9634,7 +10314,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "打开门",
       "author": "金minmin",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120950/a783807f177f229d91e8657644b11f76/1040g2sg31qomuroc00705q82vahdok41c6pmltg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130949/d0ac90c220d3785da271ef87ea90787e/1040g2sg31qomuroc00705q82vahdok41c6pmltg!nd_dft_wlteh_webp_3?src=A",
       "likes": 22,
       "collects": 1,
       "comments": 0,
@@ -9749,6 +10429,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 22,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -9757,7 +10444,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Here I am 🫶 请多关照",
       "author": "MOON🌙",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120951/766211224bdb27fce05734d6224eb4d0/1040g2sg31l5vft9c4s7g5q428usn9fri3f0br6o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130950/0c15f37d95a71e1d164af9e675fead98/1040g2sg31l5vft9c4s7g5q428usn9fri3f0br6o!nd_dft_wlteh_webp_3?src=A",
       "likes": 0,
       "collects": 0,
       "comments": 0,
@@ -9872,6 +10559,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 0,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -9880,7 +10574,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国人Coser来小红书啦！",
       "author": "parsley",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120951/bb1b8b76ec06e9d505d238a3657384bf/1040g00831o62u3tdg6005q80coddo7vmq9o54gg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130950/e24b6efbfff01e8617b874a6320929a1/1040g00831o62u3tdg6005q80coddo7vmq9o54gg!nd_dft_wlteh_webp_3?src=A",
       "likes": 8,
       "collects": 1,
       "comments": 3,
@@ -9995,6 +10689,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 3,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 8,
+          "collects": 1,
+          "comments": 3,
+          "shares": 1
         }
       ]
     },
@@ -10003,7 +10704,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷",
       "author": "n03yh6d_6",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120952/59f009f9bd12af3b232c032a063a0da5/oss-sg/notes_pre_post/1040g3mo323i7pjn4j0005q6ibso8dc3ivek6it0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130951/4ed1c9f960874622d1ad8adcf8a3c297/oss-sg/notes_pre_post/1040g3mo323i7pjn4j0005q6ibso8dc3ivek6it0!nd_dft_wlteh_webp_3?src=A",
       "likes": 31,
       "collects": 2,
       "comments": 1,
@@ -10041,6 +10742,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 31,
+          "collects": 2,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -10049,7 +10757,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "真是一个华丽的生日派对🎉🎂",
       "author": "n03yh6d_6",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120952/f777fa4b410b0618ca7999847fe6bd83/oss-sg/notes/1040g3l0323b5ageu7k005q6ibso8dc3i5ukhhj0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130951/66fca909e0753ef04a2781380998416f/oss-sg/notes/1040g3l0323b5ageu7k005q6ibso8dc3i5ukhhj0!nd_dft_wlteh_webp_3?src=A",
       "likes": 48,
       "collects": 7,
       "comments": 5,
@@ -10108,6 +10816,13 @@ window.XHS_DATA = {
           "collects": 7,
           "comments": 5,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 48,
+          "collects": 7,
+          "comments": 5,
+          "shares": 0
         }
       ]
     },
@@ -10116,8 +10831,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国的地铁🇰🇷",
       "author": "n03yh6d_6",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120952/a6500219e4a2bcca86c9a54e4fb6aa46/oss-sg/notes/1040g3l03239jbu2d7u005q6ibso8dc3ig728ci0!nd_dft_wlteh_webp_3?src=A",
-      "likes": 54,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130951/1c6e28ba3cffcb587f0f29c998e128ed/oss-sg/notes/1040g3l03239jbu2d7u005q6ibso8dc3ig728ci0!nd_dft_wlteh_webp_3?src=A",
+      "likes": 55,
       "collects": 7,
       "comments": 2,
       "comments_text": [],
@@ -10175,6 +10890,13 @@ window.XHS_DATA = {
           "collects": 7,
           "comments": 2,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 55,
+          "collects": 7,
+          "comments": 2,
+          "shares": 1
         }
       ]
     },
@@ -10183,7 +10905,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "这张照片可以吗？",
       "author": "n03yh6d_6",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120953/cd83ac1fbc42bcf053abcdf0f3234e73/oss-sg/notes/1040g3l03236s7fa9nc005q6ibso8dc3i9vaco4g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130952/b7ecf059240d02719af8b9cd281130fa/oss-sg/notes/1040g3l03236s7fa9nc005q6ibso8dc3i9vaco4g!nd_dft_wlteh_webp_3?src=A",
       "likes": 28,
       "collects": 4,
       "comments": 1,
@@ -10249,6 +10971,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 28,
+          "collects": 4,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -10257,8 +10986,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "喜欢喝酒吗？ 🍺🍻",
       "author": "n03yh6d_6",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120953/8674d3f497504caa6e790aa4cdcd23dc/oss-sg/notes_pre_post/1040g3mo32331bala7q0g5q6ibso8dc3i6c4n0tg!nd_dft_wlteh_webp_3?src=A",
-      "likes": 37,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130952/0ab307d4888b1fc622eb39f588c54bb5/oss-sg/notes_pre_post/1040g3mo32331bala7q0g5q6ibso8dc3i6c4n0tg!nd_dft_wlteh_webp_3?src=A",
+      "likes": 38,
       "collects": 5,
       "comments": 5,
       "comments_text": [],
@@ -10330,6 +11059,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 5,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 38,
+          "collects": 5,
+          "comments": 5,
+          "shares": 0
         }
       ]
     },
@@ -10338,7 +11074,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "정해인",
       "author": "_or.xom",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120953/60486adef431a46aad73cbd720af0520/1040g2sg31o757d4r06705n3tvnnlnv447fqhto8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130952/fafe47b0acdbfc303a9e97d7e8676f81/1040g2sg31o757d4r06705n3tvnnlnv447fqhto8!nd_dft_wlteh_webp_3?src=A",
       "likes": 23,
       "collects": 2,
       "comments": 0,
@@ -10453,6 +11189,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 23,
+          "collects": 2,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -10461,7 +11204,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "TOMMY HILFIGER❤️",
       "author": "_or.xom",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120954/791c78c8d65fde5189a817e35c77b840/notes_pre_post/1040g3k031o757d4s6g005n3tvnnlnv4433m2n48!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130952/5ba48c42b8396cacebbd096ffda1ef6d/notes_pre_post/1040g3k031o757d4s6g005n3tvnnlnv4433m2n48!nd_dft_wlteh_webp_3?src=A",
       "likes": 2,
       "collects": 1,
       "comments": 0,
@@ -10576,6 +11319,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -10584,7 +11334,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Alternative Stereo唇彩试色，显色又水润",
       "author": "_or.xom",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120954/ea4d10d89ecb5d4d136fc8d4c97b8ed5/1040g00831n65fm40mm005n3tvnnlnv448d38h68!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130953/543a24c63b6cd958b90893a10677dd5c/1040g00831n65fm40mm005n3tvnnlnv448d38h68!nd_dft_wlteh_webp_3?src=A",
       "likes": 10,
       "collects": 3,
       "comments": 0,
@@ -10699,6 +11449,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 10,
+          "collects": 3,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -10707,7 +11464,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "在首尔的某个角落，喝一口微醺",
       "author": "_or.xom",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120954/fc9aa36d748fdfb33d89b3f9181b8a38/1040g2sg31n1thvuq58705n3tvnnlnv44ti5n9jg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130953/4f987e78e6c6ad56a9822c201f45254c/1040g2sg31n1thvuq58705n3tvnnlnv44ti5n9jg!nd_dft_wlteh_webp_3?src=A",
       "likes": 10,
       "collects": 0,
       "comments": 1,
@@ -10822,6 +11579,38 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 10,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a75b480000000000c003001",
+      "type": "note",
+      "title": "杨熙会选择爸爸or零食",
+      "author": "SungHoon 成勋",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130953/dcab4e668b82f08efcd10e408325f4db/oss-sg/notes/1040g3l0323ij9mruj2305qdrarupg5enkfq3010!nd_dft_wlteh_webp_3?src=A",
+      "likes": 64,
+      "collects": 10,
+      "comments": 16,
+      "comments_text": [],
+      "shares": 1,
+      "publish_time": "2026-08-12",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 64,
+          "collects": 10,
+          "comments": 16,
+          "shares": 1
         }
       ]
     },
@@ -10830,15 +11619,15 @@ window.XHS_DATA = {
       "type": "note",
       "title": "音乐专业的PD vs 勉强算是前歌手的我",
       "author": "SungHoon 成勋",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120955/8b1336d2c5d40a47b3e09a2bee211306/oss-sg/notes/1040g3l0323ij9mruj23g5qdrarupg5en9stchmo!nd_dft_wlteh_webp_3?src=A",
-      "likes": 89,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130954/0e6cda6f964ad7b0c4c27eb225a74f4b/oss-sg/notes/1040g3l0323ij9mruj23g5qdrarupg5en9stchmo!nd_dft_wlteh_webp_3?src=A",
+      "likes": 90,
       "collects": 9,
       "comments": 16,
       "comments_text": [],
       "shares": 1,
       "publish_time": "2026-08-09",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 1,
       "from_profile": true,
       "history": [
         {
@@ -10861,6 +11650,13 @@ window.XHS_DATA = {
           "collects": 9,
           "comments": 16,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 90,
+          "collects": 9,
+          "comments": 16,
+          "shares": 1
         }
       ]
     },
@@ -10869,15 +11665,15 @@ window.XHS_DATA = {
       "type": "note",
       "title": "捏捏asmr初体验（失败版）",
       "author": "SungHoon 成勋",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120955/4b5293f2ef87f6fc4db1f41da50e41bc/oss-sg/notes/1040g3l0323ij9mruj2405qdrarupg5enkibmglg!nd_dft_wlteh_webp_3?src=A",
-      "likes": 69,
-      "collects": 10,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130954/ea4cec5fa43622bb31b4d23df029ee20/oss-sg/notes/1040g3l0323ij9mruj2405qdrarupg5enkibmglg!nd_dft_wlteh_webp_3?src=A",
+      "likes": 70,
+      "collects": 11,
       "comments": 22,
       "comments_text": [],
       "shares": 0,
       "publish_time": "2026-08-07",
       "pinned": false,
-      "grid_order": 1,
+      "grid_order": 2,
       "from_profile": true,
       "history": [
         {
@@ -10900,6 +11696,13 @@ window.XHS_DATA = {
           "collects": 10,
           "comments": 22,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 70,
+          "collects": 11,
+          "comments": 22,
+          "shares": 0
         }
       ]
     },
@@ -10908,7 +11711,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "挑战吹风机1分钟-1小时的牛肉",
       "author": "SungHoon 成勋",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120955/e2197ad177f49d9293f331c4b4d80519/oss-sg/spectrum/1040g3ug3238cud547k005qad1si9n604n6ca46o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130954/f373af4b5e5275c8a9dcdfc71dc181d0/oss-sg/spectrum/1040g3ug3238cud547k005qad1si9n604n6ca46o!nd_dft_wlteh_webp_3?src=A",
       "likes": 553,
       "collects": 54,
       "comments": 25,
@@ -10916,7 +11719,7 @@ window.XHS_DATA = {
       "shares": 11,
       "publish_time": "2026-07-30",
       "pinned": false,
-      "grid_order": 2,
+      "grid_order": 3,
       "from_profile": true,
       "history": [
         {
@@ -10974,6 +11777,13 @@ window.XHS_DATA = {
           "collects": 54,
           "comments": 25,
           "shares": 11
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 553,
+          "collects": 54,
+          "comments": 25,
+          "shares": 11
         }
       ]
     },
@@ -10982,7 +11792,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "和妈妈一起网吧开黑 我.很.开.心.",
       "author": "SungHoon 成勋",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120955/01ebcde789f3cbbf96ecf89bb8a6f238/oss-sg/notes/1040g3l0322ja7ktunk6g5qad1si9n604pghc458!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130954/6a441b9ce000d2560166869390ca4c2e/oss-sg/notes/1040g3l0322ja7ktunk6g5qad1si9n604pghc458!nd_dft_wgth_webp_3?src=A",
       "likes": 138,
       "collects": 19,
       "comments": 27,
@@ -10990,7 +11800,7 @@ window.XHS_DATA = {
       "shares": 8,
       "publish_time": "2026-07-14",
       "pinned": false,
-      "grid_order": 3,
+      "grid_order": 4,
       "from_profile": true,
       "history": [
         {
@@ -11069,129 +11879,13 @@ window.XHS_DATA = {
           "collects": 19,
           "comments": 27,
           "shares": 8
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a435b79000000000e021800",
-      "type": "note",
-      "title": "韩国有名爆辣咖喱辣到哭",
-      "author": "SungHoon 成勋",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120956/8249521c93fd95e25b2782b7499a7047/oss-sg/notes/1040g3l03221a65o8no5g5q0ks88j980vfmmkdj8!nd_dft_wgth_webp_3?src=A",
-      "likes": 77,
-      "collects": 13,
-      "comments": 22,
-      "comments_text": [],
-      "shares": 3,
-      "publish_time": "2026-06-30",
-      "pinned": false,
-      "grid_order": 4,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 56,
-          "collects": 13,
-          "comments": 20,
-          "shares": 0
         },
         {
-          "date": "2026-07-08",
-          "likes": 56,
-          "collects": 13,
-          "comments": 20,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-09",
-          "likes": 57,
-          "collects": 13,
-          "comments": 20,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-10",
-          "likes": 57,
-          "collects": 13,
-          "comments": 20,
-          "shares": 0
-        },
-        {
-          "date": "2026-07-20",
-          "likes": 64,
-          "collects": 13,
-          "comments": 22,
-          "shares": 2
-        },
-        {
-          "date": "2026-07-21",
-          "likes": 68,
-          "collects": 13,
-          "comments": 22,
-          "shares": 2
-        },
-        {
-          "date": "2026-07-29",
-          "likes": 71,
-          "collects": 13,
-          "comments": 22,
-          "shares": 3
-        },
-        {
-          "date": "2026-07-31",
-          "likes": 74,
-          "collects": 13,
-          "comments": 22,
-          "shares": 3
-        },
-        {
-          "date": "2026-08-03",
-          "likes": 76,
-          "collects": 13,
-          "comments": 22,
-          "shares": 3
-        },
-        {
-          "date": "2026-08-04",
-          "likes": 76,
-          "collects": 13,
-          "comments": 22,
-          "shares": 3
-        },
-        {
-          "date": "2026-08-06",
-          "likes": 76,
-          "collects": 13,
-          "comments": 22,
-          "shares": 3
-        },
-        {
-          "date": "2026-08-07",
-          "likes": 76,
-          "collects": 13,
-          "comments": 22,
-          "shares": 3
-        },
-        {
-          "date": "2026-08-10",
-          "likes": 76,
-          "collects": 13,
-          "comments": 22,
-          "shares": 3
-        },
-        {
-          "date": "2026-08-11",
-          "likes": 77,
-          "collects": 13,
-          "comments": 22,
-          "shares": 3
-        },
-        {
-          "date": "2026-08-12",
-          "likes": 77,
-          "collects": 13,
-          "comments": 22,
-          "shares": 3
+          "date": "2026-08-13",
+          "likes": 138,
+          "collects": 19,
+          "comments": 27,
+          "shares": 8
         }
       ]
     },
@@ -11200,7 +11894,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "公主们随便拿捏你的crush吧~",
       "author": "_xx__hye",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120957/f3ce73f444074bd8efa0ffeccf7746eb/1040g00831u260n9mn2005q2outfms7ku1viunbg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130955/270d53c225fb62eaef5468dae5ffcb2a/1040g00831u260n9mn2005q2outfms7ku1viunbg!nd_dft_wlteh_webp_3?src=A",
       "likes": 15,
       "collects": 7,
       "comments": 0,
@@ -11315,6 +12009,13 @@ window.XHS_DATA = {
           "collects": 7,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 15,
+          "collects": 7,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -11323,7 +12024,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩女风格高层次发型",
       "author": "_xx__hye",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120957/3864b039f22779c4f7bc3799c2626b30/1040g00831tc9jkkvm80g5q2outfms7kuvljpql8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130956/19ab469e3d3466dbb5cd9feb876e340c/1040g00831tc9jkkvm80g5q2outfms7kuvljpql8!nd_dft_wlteh_webp_3?src=A",
       "likes": 2,
       "collects": 1,
       "comments": 0,
@@ -11375,6 +12076,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -11383,7 +12091,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "今天和大家分享GRWM~",
       "author": "_xx__hye",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120957/3fd1940203b018b11fa13455e7f28d52/1040g00831t75p42im2005q2outfms7ku86i3usg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130956/4433990db059772a688c36aab0295cf0/1040g00831t75p42im2005q2outfms7ku86i3usg!nd_dft_wlteh_webp_3?src=A",
       "likes": 643,
       "collects": 334,
       "comments": 12,
@@ -11498,6 +12206,13 @@ window.XHS_DATA = {
           "collects": 334,
           "comments": 12,
           "shares": 29
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 643,
+          "collects": 334,
+          "comments": 12,
+          "shares": 29
         }
       ]
     },
@@ -11506,7 +12221,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "2分钟学会韩女氛围卷发 🤍",
       "author": "_xx__hye",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120958/77a5b6cc614b30e221e337ca55c66d34/1040g2sg31sl2hk0pm21g5q2outfms7ku4mo38v0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130957/4e006005a639ae5176a9fd71cf7f8219/1040g2sg31sl2hk0pm21g5q2outfms7ku4mo38v0!nd_dft_wlteh_webp_3?src=A",
       "likes": 27,
       "collects": 19,
       "comments": 1,
@@ -11623,6 +12338,13 @@ window.XHS_DATA = {
           "collects": 19,
           "comments": 1,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 27,
+          "collects": 19,
+          "comments": 1,
+          "shares": 1
         }
       ]
     },
@@ -11631,8 +12353,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "其实……我是蜘蛛侠🕷️🕸️♥️",
       "author": "ASTER",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120959/34633f84c9846e233dc1d46f277bc37c/oss-sg/notes_pre_post/1040g3mo323dhgss17c005qajmlh9n7b86l2mg0g!nd_dft_wlteh_webp_3?src=A",
-      "likes": 468,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130957/3f2faf5cb0607b74ad8cbeb2cc39b65f/oss-sg/notes_pre_post/1040g3mo323dhgss17c005qajmlh9n7b86l2mg0g!nd_dft_wlteh_webp_3?src=A",
+      "likes": 476,
       "collects": 48,
       "comments": 6,
       "comments_text": [
@@ -11655,6 +12377,13 @@ window.XHS_DATA = {
           "collects": 48,
           "comments": 6,
           "shares": 2
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 476,
+          "collects": 48,
+          "comments": 6,
+          "shares": 2
         }
       ]
     },
@@ -11663,7 +12392,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "你挑衣服的时候喜欢绿色吗?💚",
       "author": "ASTER",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120959/47d8b26dbad4f13b22f855e7986a2067/oss-sg/notes_pre_post/1040g3mo3233rmgqk7e005qajmlh9n7b8b0lg09g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130957/d2083d6e2c42423ed964f883441e175f/oss-sg/notes_pre_post/1040g3mo3233rmgqk7e005qajmlh9n7b8b0lg09g!nd_dft_wlteh_webp_3?src=A",
       "likes": 52,
       "collects": 3,
       "comments": 3,
@@ -11684,6 +12413,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 3,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 52,
+          "collects": 3,
+          "comments": 3,
+          "shares": 0
         }
       ]
     },
@@ -11692,7 +12428,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "2026韩国Waterbomb，现场氛围太燃了🩵💛💦",
       "author": "ASTER",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120959/b73e8836752583ca55696c4b5735e034/oss-sg/notes/1040g3l03231sq1tr7u005qajmlh9n7b80trkk7o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130957/71e07a5a0506f9090f283f0800a6eaec/oss-sg/notes/1040g3l03231sq1tr7u005qajmlh9n7b80trkk7o!nd_dft_wlteh_webp_3?src=A",
       "likes": 290,
       "collects": 25,
       "comments": 16,
@@ -11700,11 +12436,11 @@ window.XHS_DATA = {
         "好玩归好玩 但不想那么狼狈啊[捂脸R]",
         "中国有没有这样的音乐节啊？（草莓迷笛这些算了吧，唱芭乐歌简直要听吐了）",
         "好怕他跳着跳着掉下来去[捂脸R]",
-        "他是装了弹簧的[微笑R]",
         "[皱眉R][皱眉R][皱眉R][哇R][哇R][哇R]",
+        "他是装了弹簧的[微笑R]",
         "Argy[飞吻R][飞吻R][飞吻R]"
       ],
-      "shares": 74,
+      "shares": 75,
       "publish_time": "2026-07-25",
       "pinned": false,
       "grid_order": 2,
@@ -11716,6 +12452,13 @@ window.XHS_DATA = {
           "collects": 25,
           "comments": 16,
           "shares": 74
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 290,
+          "collects": 25,
+          "comments": 16,
+          "shares": 75
         }
       ]
     },
@@ -11724,7 +12467,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "还记得这首歌吗?🖤ALAN WALKER",
       "author": "ASTER",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120959/7bf18bf964ffa43513a988c34165666c/oss-sg/notes/1040g3l0322spmbcqg0005qajmlh9n7b82dj90v8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130957/15b8619301edee2738291ceb4eb02ef8/oss-sg/notes/1040g3l0322spmbcqg0005qajmlh9n7b82dj90v8!nd_dft_wlteh_webp_3?src=A",
       "likes": 99,
       "collects": 6,
       "comments": 1,
@@ -11743,6 +12486,13 @@ window.XHS_DATA = {
           "collects": 6,
           "comments": 1,
           "shares": 3
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 99,
+          "collects": 6,
+          "comments": 1,
+          "shares": 3
         }
       ]
     },
@@ -11751,10 +12501,10 @@ window.XHS_DATA = {
       "type": "note",
       "title": "救命！这首歌真的会让人忍不住跟着唱🎤🎶",
       "author": "ASTER",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608120959/ab5f2d93d895faade83058f2a8dca519/oss-sg/notes/1040g3l0322k9ilo3ng005qajmlh9n7b8i725cko!nd_dft_wlteh_webp_3?src=A",
-      "likes": 121,
-      "collects": 24,
-      "comments": 4,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130957/f93c39db5113498d4a25431779a26855/oss-sg/notes/1040g3l0322k9ilo3ng005qajmlh9n7b8i725cko!nd_dft_wlteh_webp_3?src=A",
+      "likes": 123,
+      "collects": 25,
+      "comments": 5,
       "comments_text": [
         "他的衣服我好喜欢啊。我是女的。怎么买呢？",
         "뚜뚜뚜두- 막스 베르스타펜!! 🏎️💨🏁",
@@ -11773,6 +12523,13 @@ window.XHS_DATA = {
           "collects": 24,
           "comments": 4,
           "shares": 5
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 123,
+          "collects": 25,
+          "comments": 5,
+          "shares": 5
         }
       ]
     },
@@ -11781,17 +12538,17 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🧊 韩女的夏日爽物推荐！❄️",
       "author": "吴英珠Youngjoo Oh",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121000/53488a59ee2b55259b3b01c014a8eff8/oss-sg/notes/1040g3l0323ikj7152i605qavl8idpfmhp0nq3b8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130958/9f0b8f86e15acf4fcaadb3844c9d6bf8/oss-sg/notes/1040g3l0323ikj7152i605qavl8idpfmhp0nq3b8!nd_dft_wlteh_webp_3?src=A",
       "likes": 125,
       "collects": 24,
       "comments": 10,
       "comments_text": [
         "please create more video[飞吻R]",
         "眼镜好看[飞吻R]我要去买了，香水推荐[派对R]",
-        "o ni  no mu yi bo[飞吻R][飞吻R]",
-        "好实用！",
         "就爱看姐姐的好物分享[飞吻R][飞吻R]",
-        "长的很自然很美[doge]"
+        "亲爱的，请问能不能分享一下日常喜欢的香水呢？想知道你喜欢的香气[偷笑R]",
+        "好实用！",
+        "o ni  no mu yi bo[飞吻R][飞吻R]"
       ],
       "shares": 1,
       "publish_time": "2026-08-07",
@@ -11819,6 +12576,13 @@ window.XHS_DATA = {
           "collects": 24,
           "comments": 10,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 125,
+          "collects": 24,
+          "comments": 10,
+          "shares": 1
         }
       ]
     },
@@ -11827,19 +12591,19 @@ window.XHS_DATA = {
       "type": "note",
       "title": "日本旅行记录",
       "author": "吴英珠Youngjoo Oh",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121000/d2934c6b30b7de4f5a04095e8f033f10/oss-sg/spectrum/1040g3ug3238bl2257s005qavl8idpfmhojg4cb0!nd_dft_wlteh_webp_3?src=A",
-      "likes": 459,
-      "collects": 55,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130958/364c83669a23e8f04c20898165b85ed7/oss-sg/spectrum/1040g3ug3238bl2257s005qavl8idpfmhojg4cb0!nd_dft_wlteh_webp_3?src=A",
+      "likes": 460,
+      "collects": 59,
       "comments": 28,
       "comments_text": [
         "好美[飞吻R][飞吻R][飞吻R]",
         "英珠身材还是这么好[飞吻R][飞吻R][飞吻R]",
         "可以去这样的地方呆上一周活着才值得[抽泣R][抽泣R]",
         "欧尼本人吗",
-        "喜欢我们英珠！",
+        "啊啊啊啊欧尼本人嘛，你的歌单我听了好久",
         "欧尼[害羞R][害羞R]"
       ],
-      "shares": 32,
+      "shares": 33,
       "publish_time": "2026-07-30",
       "pinned": false,
       "grid_order": 1,
@@ -11900,6 +12664,13 @@ window.XHS_DATA = {
           "collects": 55,
           "comments": 28,
           "shares": 32
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 460,
+          "collects": 59,
+          "comments": 28,
+          "shares": 33
         }
       ]
     },
@@ -11908,9 +12679,9 @@ window.XHS_DATA = {
       "type": "note",
       "title": "5年圣水居民总结的圣水美食！",
       "author": "吴英珠Youngjoo Oh",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121000/c4899f905e6d00d651498fbafe64de6a/oss-sg/notes/1040g3l03230oceoanu605qavl8idpfmhsnq2d6g!nd_dft_wlteh_webp_3?src=A",
-      "likes": 749,
-      "collects": 672,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130958/592b9fbe9e506047f3403b75fafae2df/oss-sg/notes/1040g3l03230oceoanu605qavl8idpfmhsnq2d6g!nd_dft_wlteh_webp_3?src=A",
+      "likes": 750,
+      "collects": 675,
       "comments": 18,
       "comments_text": [
         "这个角度拍 都这么美",
@@ -11920,7 +12691,7 @@ window.XHS_DATA = {
         "太有用啦！！！！！谢谢姐姐",
         "每家看起来都好好吃"
       ],
-      "shares": 205,
+      "shares": 206,
       "publish_time": "2026-07-24",
       "pinned": false,
       "grid_order": 2,
@@ -11988,6 +12759,13 @@ window.XHS_DATA = {
           "collects": 672,
           "comments": 18,
           "shares": 205
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 750,
+          "collects": 675,
+          "comments": 18,
+          "shares": 206
         }
       ]
     },
@@ -11996,7 +12774,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "我的悉尼OOTD~",
       "author": "吴英珠Youngjoo Oh",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121000/5896aa0a8613de03ee41469bc0b34c1d/oss-sg/notes/1040g3l0322m1udsfno6g5qavl8idpfmhg4g6dg8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130958/4c2d4c0ddbb54018b000906309ec3166/oss-sg/notes/1040g3l0322m1udsfno6g5qavl8idpfmhg4g6dg8!nd_dft_wlteh_webp_3?src=A",
       "likes": 440,
       "collects": 80,
       "comments": 21,
@@ -12004,9 +12782,9 @@ window.XHS_DATA = {
         "蹲一个五块或者十块麻将搭子 红中麻将 🀄",
         "做数据，想要个粉丝，互关一下呗，拜托拜托。",
         "喜欢小姐姐",
-        "姐姐每一件穿搭，都富有个性和独特的女性气质～[飞吻R]是“英珠”风格呀[派对R]",
         "因为自己的工作生活越来越无聊，隔一段时间就会想看看英珠在过什么样子的生活，会想：啊原来有人在精彩的生活着呢[飞吻R]",
-        "一直都很喜欢姐姐[飞吻R]"
+        "项链是多少分的呀",
+        "好简单好好看"
       ],
       "shares": 10,
       "publish_time": "2026-07-16",
@@ -12090,6 +12868,13 @@ window.XHS_DATA = {
           "collects": 80,
           "comments": 21,
           "shares": 10
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 440,
+          "collects": 80,
+          "comments": 21,
+          "shares": 10
         }
       ]
     },
@@ -12098,17 +12883,17 @@ window.XHS_DATA = {
       "type": "note",
       "title": "和闺蜜的8天7夜ㅣ悉尼居然这么好..! 3",
       "author": "吴英珠Youngjoo Oh",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121000/b7fbb7f9e1b4e632dfb7dfd86154cd48/oss-sg/notes/1040g3l0322ej7qh47o405q0ks88j980vpokhhng!nd_dft_wlteh_webp_3?src=A",
-      "likes": 386,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130958/2710259ec09d673a5b8b7b07bd621ee8/oss-sg/notes/1040g3l0322ej7qh47o405q0ks88j980vpokhhng!nd_dft_wlteh_webp_3?src=A",
+      "likes": 387,
       "collects": 92,
       "comments": 14,
       "comments_text": [
-        "这么好[点赞R]",
-        "欧尼太漂亮了",
         "英珠还是那么漂亮 身材也太好了",
-        "这个背景音乐是什么啊，谁知道？[哭惹R]",
-        "英珠身材太好啦[飞吻R][飞吻R][飞吻R]",
-        "太美啦[大笑R]"
+        "yibuda[飞吻R]",
+        "언니 [飞吻R][飞吻R][飞吻R]",
+        "这么好[点赞R]",
+        "又美了",
+        "皮肤也太好了"
       ],
       "shares": 24,
       "publish_time": "2026-07-10",
@@ -12178,6 +12963,45 @@ window.XHS_DATA = {
           "collects": 92,
           "comments": 14,
           "shares": 24
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 387,
+          "collects": 92,
+          "comments": 14,
+          "shares": 24
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a7c2a99000000000c033c00",
+      "type": "note",
+      "title": "【Boki】大黑虎虾酱虾吃播🦐",
+      "author": "文福姬Eat with Boki",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130959/15241f79f4a5560ccc147ec6bec4fc38/oss-sg/spectrum/1040g3ug323oubaslio005qe594l9n75ec2ue5b0!nd_dft_wgth_webp_3?src=A",
+      "likes": 5700,
+      "collects": 374,
+      "comments": 135,
+      "comments_text": [
+        "姐姐刚打完鼻钉不能吃辣吃海鲜的[飞吻R]",
+        "虾是生的？还是熟的？",
+        "姐姐，以后能出做饭教程嘛[笑哭R]或者单开个做饭账号，看得人好馋呀",
+        "好香好香求求你了给我吃一口我啥都招了…",
+        "刚刚！！！！[爱心R]",
+        "有人吗"
+      ],
+      "shares": 238,
+      "publish_time": "2026-08-12",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 5700,
+          "collects": 374,
+          "comments": 135,
+          "shares": 238
         }
       ]
     },
@@ -12186,22 +13010,22 @@ window.XHS_DATA = {
       "type": "note",
       "title": "【Boki】魔鬼辣烤翅 + 酱料炸鸡吃播",
       "author": "文福姬Eat with Boki",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121000/0c769fb58b776111095a1bfde19b35c8/oss-sg/spectrum/1040g3ug323ida05g30005qe594l9n75emfmp5d8!nd_dft_wgth_webp_3?src=A",
-      "likes": 8900,
-      "collects": 702,
-      "comments": 291,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130959/cfe9bc49d6094fa1a34b6f85e09117b0/oss-sg/spectrum/1040g3ug323ida05g30005qe594l9n75emfmp5d8!nd_dft_wgth_webp_3?src=A",
+      "likes": 15000,
+      "collects": 1300,
+      "comments": 366,
       "comments_text": [
+        "唯一真神来了",
         "这是很久以前的库存了吧",
         "名场面打卡[皱眉R]",
         "这个好像不是福姬，她是齐刘海，吃饭很大口很快，基本不说话",
-        "名场面",
-        "我靠你们手咋这么快",
-        "姐姐的嘴能装下一整座梦想豪宅"
+        "快留句号，不然就成古人了。",
+        "名场面"
       ],
-      "shares": 506,
+      "shares": 873,
       "publish_time": "2026-08-11",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 1,
       "from_profile": true,
       "history": [
         {
@@ -12210,6 +13034,13 @@ window.XHS_DATA = {
           "collects": 702,
           "comments": 291,
           "shares": 506
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 15000,
+          "collects": 1300,
+          "comments": 366,
+          "shares": 873
         }
       ]
     },
@@ -12218,10 +13049,10 @@ window.XHS_DATA = {
       "type": "note",
       "title": "【Boki】睡前过瘾麻辣合集🌶️",
       "author": "文福姬Eat with Boki",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121000/3c843dfaa490df552f9ff8881f1477bd/oss-sg/spectrum/1040g3ug323m7nn6t2s005qe594l9n75edi5f4ag!nd_dft_wgth_webp_3?src=A",
-      "likes": 6300,
-      "collects": 545,
-      "comments": 151,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130959/63dec509842107dbf27c9a2d14491044/oss-sg/spectrum/1040g3ug323m7nn6t2s005qe594l9n75edi5f4ag!nd_dft_wgth_webp_3?src=A",
+      "likes": 6900,
+      "collects": 598,
+      "comments": 158,
       "comments_text": [
         "她为啥不会胖啊[微笑R]",
         "咦今天怎么没有片头",
@@ -12230,10 +13061,10 @@ window.XHS_DATA = {
         "这么早睡觉吗[微笑R]",
         "这是真博主吗"
       ],
-      "shares": 212,
+      "shares": 237,
       "publish_time": "2026-08-10",
       "pinned": false,
-      "grid_order": 1,
+      "grid_order": 2,
       "from_profile": true,
       "history": [
         {
@@ -12249,6 +13080,13 @@ window.XHS_DATA = {
           "collects": 545,
           "comments": 151,
           "shares": 212
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 6900,
+          "collects": 598,
+          "comments": 158,
+          "shares": 237
         }
       ]
     },
@@ -12257,22 +13095,22 @@ window.XHS_DATA = {
       "type": "note",
       "title": "【Boki】浓郁拉丝芝士汉堡披萨搭配火鸡面",
       "author": "文福姬Eat with Boki",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121001/0d52ffb6f0daaf2666883894c77ffd1d/oss-sg/spectrum/1040g3ug323icn4ep2s005qe594l9n75evijl5ag!nd_dft_wgth_webp_3?src=A",
-      "likes": 11000,
-      "collects": 874,
-      "comments": 259,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130959/c24fd1a685d865d22029673dc730186f/oss-sg/spectrum/1040g3ug323icn4ep2s005qe594l9n75evijl5ag!nd_dft_wgth_webp_3?src=A",
+      "likes": 12000,
+      "collects": 936,
+      "comments": 281,
       "comments_text": [
         "所以到底塌没",
         "我真服了，看个吃播闹心死了，尤其是1楼，不喜欢看，可以划走[笑哭了R]在评论区讨论那些有什么用，看着香看着好吃不就行了吗？你管他的[捂脸R]",
+        "人火是非多[失望R]那么多外国人呢，不如去管管国内那些歧视印度的人，她没有正面发表过过激言论吧……为什么都要私信，真有确切的消息营销号早发了",
         "不用餐巾纸一直拿手抿[鄙视R]",
         "评论区说的到底啥意思[呃R]为啥看不懂[哭惹R]",
-        "外国和中国的教育不一样你不能要求每个外国人都知道这些东西改正过来就行了大不了拉黑呗一直在刷真的很烦",
-        "以前都看搬运的，现在是正主来了吗"
+        "外国和中国的教育不一样你不能要求每个外国人都知道这些东西改正过来就行了大不了拉黑呗一直在刷真的很烦"
       ],
-      "shares": 559,
+      "shares": 622,
       "publish_time": "2026-08-09",
       "pinned": false,
-      "grid_order": 2,
+      "grid_order": 3,
       "from_profile": true,
       "history": [
         {
@@ -12295,6 +13133,13 @@ window.XHS_DATA = {
           "collects": 874,
           "comments": 259,
           "shares": 559
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 12000,
+          "collects": 936,
+          "comments": 281,
+          "shares": 622
         }
       ]
     },
@@ -12303,22 +13148,22 @@ window.XHS_DATA = {
       "type": "note",
       "title": "【Boki】麻辣香锅+炸酱面++锅包肉🌶️",
       "author": "文福姬Eat with Boki",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121001/b7dc0948ae058ded48feed8de031ea4b/oss-sg/spectrum/1040g3ug323i8uin1iq005qe594l9n75e7pf5e8o!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608130959/c77678d8a41a3961b79a6f303e80e51c/oss-sg/spectrum/1040g3ug323i8uin1iq005qe594l9n75e7pf5e8o!nd_dft_wgth_webp_3?src=A",
       "likes": 13000,
-      "collects": 941,
-      "comments": 301,
+      "collects": 1000,
+      "comments": 304,
       "comments_text": [
-        "我寻思不是td吗 咋还一堆人支持[哇R]",
         "td我至今不知何意味[色色R]",
+        "不是真搞td啊，以前很喜欢看，现在直接取关取赞！",
         "越来越大口了，真的好担心她会噎到……",
-        "有点吓人",
         "评论区说的td是啥意思",
+        "有点吓人",
         "这种炸酱面是什么牌子的呀[皱眉R]"
       ],
-      "shares": 517,
+      "shares": 554,
       "publish_time": "2026-08-08",
       "pinned": false,
-      "grid_order": 3,
+      "grid_order": 4,
       "from_profile": true,
       "history": [
         {
@@ -12341,52 +13186,13 @@ window.XHS_DATA = {
           "collects": 941,
           "comments": 301,
           "shares": 517
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a7555250000000002003c01",
-      "type": "note",
-      "title": "【Boki】酥脆天花板！BBQ 火辣黄金橄榄炸鸡",
-      "author": "文福姬Eat with Boki",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121001/131fe18c7b737469765c4fcdfa64421f/oss-sg/spectrum/1040g3ug323m2580834005qe594l9n75e3d710f0!nd_dft_wgth_webp_3?src=A",
-      "likes": 13000,
-      "collects": 835,
-      "comments": 296,
-      "comments_text": [
-        "这字幕咋回事，驴唇不对马嘴的",
-        "感觉boki不适合短发诶 总觉得比之前的发型显得脑袋大（主观主观主观）",
-        "旁边那个有点像一块块海绵的是啥？",
-        "怎么感觉剪了头发没有辨识度了呢[暗中观察R]",
-        "怎么感觉画质不太清晰呢？这次，是我平板的问题吗？",
-        "字幕对不上"
-      ],
-      "shares": 592,
-      "publish_time": "2026-08-07",
-      "pinned": false,
-      "grid_order": 4,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-08-10",
-          "likes": 11000,
-          "collects": 720,
-          "comments": 271,
-          "shares": 500
         },
         {
-          "date": "2026-08-11",
-          "likes": 12000,
-          "collects": 785,
-          "comments": 291,
-          "shares": 545
-        },
-        {
-          "date": "2026-08-12",
+          "date": "2026-08-13",
           "likes": 13000,
-          "collects": 835,
-          "comments": 296,
-          "shares": 592
+          "collects": 1000,
+          "comments": 304,
+          "shares": 554
         }
       ]
     },
@@ -12395,17 +13201,17 @@ window.XHS_DATA = {
       "type": "note",
       "title": "在韩国吃到超大块无花果蛋糕🍰",
       "author": "果汁世妍lovely_._v",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121001/8fb7dbb5063dd2830ab19a9c2ff01c63/oss-sg/notes/1040g3l0323c1r3uunk005q3csbm793njhmvtrlg!nd_dft_wlteh_webp_3?src=A",
-      "likes": 192,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131000/199f1fbaa073928480532e02746c0aeb/oss-sg/notes/1040g3l0323c1r3uunk005q3csbm793njhmvtrlg!nd_dft_wlteh_webp_3?src=A",
+      "likes": 205,
       "collects": 12,
       "comments": 11,
       "comments_text": [
         "竟然是姐姐本人[笑哭R]真的吗",
         "언니~자주 올려 줘!!",
         "언니가 너무 예뻐요.",
+        "第二张还以为是张元英，美女果然都有相似之处",
         "哇哇哇看起来好美味！",
-        "在哪里可以看直播",
-        "哪家店呀姐姐我也想吃🥺🥺"
+        "在哪里可以看直播"
       ],
       "shares": 3,
       "publish_time": "2026-08-02",
@@ -12461,6 +13267,13 @@ window.XHS_DATA = {
           "collects": 12,
           "comments": 11,
           "shares": 3
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 205,
+          "collects": 12,
+          "comments": 11,
+          "shares": 3
         }
       ]
     },
@@ -12469,8 +13282,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "最近拍的📸",
       "author": "果汁世妍lovely_._v",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121001/2943738757cfbda8f6bd2e0363823863/oss-sg/notes/1040g3l0322sjh6vbns005q3csbm793njdme2100!nd_dft_wlteh_webp_3?src=A",
-      "likes": 223,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131000/df242e89b82c487e9a13876cd5039f24/oss-sg/notes/1040g3l0322sjh6vbns005q3csbm793njdme2100!nd_dft_wlteh_webp_3?src=A",
+      "likes": 224,
       "collects": 18,
       "comments": 15,
       "comments_text": [
@@ -12478,8 +13291,8 @@ window.XHS_DATA = {
         "姐姐好漂亮，最近一直在考古你的直播，如果我是男人的也想和你交往[笑哭R]",
         "像爱豆一样",
         "金灿灿的姐姐！",
-        "啊啊啊啊啊好漂亮 都好喜欢！姐姐你终于更新啦",
-        "언니예뻐요"
+        "诶我去，终于更新了[偷笑R]",
+        "啊啊啊啊啊好漂亮 都好喜欢！姐姐你终于更新啦"
       ],
       "shares": 3,
       "publish_time": "2026-07-21",
@@ -12549,6 +13362,13 @@ window.XHS_DATA = {
           "collects": 18,
           "comments": 15,
           "shares": 3
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 224,
+          "collects": 18,
+          "comments": 15,
+          "shares": 3
         }
       ]
     },
@@ -12557,7 +13377,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "果汁世妍 韩国 韩女的秘密 新人博主 challenge 转场 双人变装 闺蜜 ",
       "author": "果汁世妍lovely_._v",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121002/0a923137cf67593f993f97f8d3cc0cd3/oss-sg/notes/1040g3l031vpcbalrnc1g5q3csbm793njppmsg58!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131000/369890f479eacd5b3a9249496140e538/oss-sg/notes/1040g3l031vpcbalrnc1g5q3csbm793njppmsg58!nd_dft_wlteh_webp_3?src=A",
       "likes": 300,
       "collects": 17,
       "comments": 11,
@@ -12567,7 +13387,7 @@ window.XHS_DATA = {
         "哈哈哈哈哈哈姐姐这个妆造拍了好多视频呀",
         "美丽",
         "姐姐！！！",
-        "姐姐.."
+        "언니치파오너무예쁘시다[飞吻R]"
       ],
       "shares": 6,
       "publish_time": "2026-05-10",
@@ -12679,6 +13499,13 @@ window.XHS_DATA = {
           "collects": 17,
           "comments": 11,
           "shares": 6
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 300,
+          "collects": 17,
+          "comments": 11,
+          "shares": 6
         }
       ]
     },
@@ -12687,7 +13514,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "果汁世妍 韩国 韩女的秘密 新人博主 challenge 转场 双人变装 闺蜜 ",
       "author": "果汁世妍lovely_._v",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121002/137b52ca57a0bfdb73bd1df65cd346ec/oss-sg/notes/1040g3l031vpcbalrnc0g5q3csbm793njrudjrtg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131000/52e7692e5db82d5297739615f921cfaf/oss-sg/notes/1040g3l031vpcbalrnc0g5q3csbm793njrudjrtg!nd_dft_wlteh_webp_3?src=A",
       "likes": 279,
       "collects": 15,
       "comments": 13,
@@ -12695,8 +13522,8 @@ window.XHS_DATA = {
         "姐姐！发饰好漂亮",
         "好美呀姐姐[哭惹R]",
         "有刘海和无刘海是不同风格的好看😋",
-        "姐姐裤子是什么呀",
         "i love you[飞吻R]",
+        "姐姐裤子是什么呀",
         "啊啊啊啊啊姐姐好漂亮！穿旗袍也好好看"
       ],
       "shares": 7,
@@ -12809,6 +13636,13 @@ window.XHS_DATA = {
           "collects": 15,
           "comments": 13,
           "shares": 7
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 279,
+          "collects": 15,
+          "comments": 13,
+          "shares": 7
         }
       ]
     },
@@ -12817,17 +13651,17 @@ window.XHS_DATA = {
       "type": "note",
       "title": "果汁世妍 韩国 韩女的秘密 新人博主 challenge 转场 双人变装 闺蜜 ",
       "author": "果汁世妍lovely_._v",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121002/ab967c0779e16c34e9824c7bf1cce163/oss-sg/notes/1040g3l031vpcbalrnc005q3csbm793nj7tvbcgg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131000/337313b72b198374b7486768da2ac6b1/oss-sg/notes/1040g3l031vpcbalrnc005q3csbm793nj7tvbcgg!nd_dft_wlteh_webp_3?src=A",
       "likes": 950,
       "collects": 58,
       "comments": 24,
       "comments_text": [
         "宝宝无刘海好有姐感 特别美啊 以后请多尝试这种风格 美哭我了",
         "姐姐你超级无敌适合这种风格啊啊啊啊",
-        "最近天天在刷你的视频啊，你好漂亮。[害羞R][害羞R]",
         "好像angela baby",
         "旁边那个我以为ab",
-        "姐姐美呀[玫瑰R]"
+        "最近天天在刷你的视频啊，你好漂亮。[害羞R][害羞R]",
+        "好美啊啊啊啊掀开刘海也好漂亮！！"
       ],
       "shares": 45,
       "publish_time": "2026-05-05",
@@ -12939,6 +13773,13 @@ window.XHS_DATA = {
           "collects": 58,
           "comments": 24,
           "shares": 45
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 950,
+          "collects": 58,
+          "comments": 24,
+          "shares": 45
         }
       ]
     },
@@ -12947,7 +13788,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷 韩国下雪了..♥",
       "author": "娧悧",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121002/e4465c5e1638246d87a1defa690f3b88/1040g2sg31sqa46efls705q8sej6dtksane2d818!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131001/a363244ed8fed7337fe2e0841c5bef07/1040g2sg31sqa46efls705q8sej6dtksane2d818!nd_dft_wlteh_webp_3?src=A",
       "likes": 125,
       "collects": 9,
       "comments": 4,
@@ -12990,6 +13831,13 @@ window.XHS_DATA = {
           "collects": 9,
           "comments": 4,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 125,
+          "collects": 9,
+          "comments": 4,
+          "shares": 1
         }
       ]
     },
@@ -12998,7 +13846,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "对韩国学校生活有什么好奇的吗？",
       "author": "娧悧",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121002/ec9f2e0a611dde5014deaf19f7337d60/1040g00831sjl4ljhm8005q8sej6dtksanjl7f20!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131001/f202de09660239ee84b2640a255e5bf9/1040g00831sjl4ljhm8005q8sej6dtksanjl7f20!nd_dft_wgth_webp_3?src=A",
       "likes": 387,
       "collects": 33,
       "comments": 3,
@@ -13040,6 +13888,13 @@ window.XHS_DATA = {
           "collects": 33,
           "comments": 3,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 387,
+          "collects": 33,
+          "comments": 3,
+          "shares": 0
         }
       ]
     },
@@ -13048,7 +13903,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🍋aespa 에스파 ‘LEMONADE’ cover",
       "author": "Blue.D蓝迪",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121003/2f4216e43e22addfee6e7743995bc136/oss-sg/notes/1040g3l0321ob53fi7i005q9ksihto5mmlve9g28!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131001/38d589c5457f6940f083920ccfbb7cd3/oss-sg/notes/1040g3l0321ob53fi7i005q9ksihto5mmlve9g28!nd_dft_wlteh_webp_3?src=A",
       "likes": 34,
       "collects": 3,
       "comments": 1,
@@ -13165,6 +14020,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 34,
+          "collects": 3,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -13173,7 +14035,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Nha Trang 💙✨",
       "author": "Blue.D蓝迪",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121003/6393d21fe16957db8e6d84f05daa6a62/oss-sg/notes/1040g3l0321h07p0ing005q9ksihto5mmn3akbv8!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131001/f4eb5d7a40a8c338c6e3a2c37de99910/oss-sg/notes/1040g3l0321h07p0ing005q9ksihto5mmn3akbv8!nd_dft_wgth_webp_3?src=A",
       "likes": 28,
       "collects": 1,
       "comments": 2,
@@ -13291,6 +14153,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 28,
+          "collects": 1,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -13299,7 +14168,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "COLDE-《WA-R-R》 cover",
       "author": "Blue.D蓝迪",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121003/1b01e38afd9c459942777c688c23c311/oss-sg/notes/1040g3l0320dsbhmpne005q9ksihto5mme80873g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131001/5ff1173de002811cce5133676467105f/oss-sg/notes/1040g3l0320dsbhmpne005q9ksihto5mme80873g!nd_dft_wlteh_webp_3?src=A",
       "likes": 39,
       "collects": 2,
       "comments": 1,
@@ -13416,6 +14285,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 39,
+          "collects": 2,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -13424,7 +14300,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "进击的巨人-《恶魔之子》",
       "author": "Blue.D蓝迪",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121003/d02a7eccf90e3428a541ecbe9c588661/oss-sg/notes/1040g3l0320a9to9v7e005q9ksihto5mmkft77fg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131001/fd5840f9eda588c864d8984960b0f008/oss-sg/notes/1040g3l0320a9to9v7e005q9ksihto5mmkft77fg!nd_dft_wlteh_webp_3?src=A",
       "likes": 56,
       "collects": 13,
       "comments": 1,
@@ -13541,6 +14417,13 @@ window.XHS_DATA = {
           "collects": 13,
           "comments": 1,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 56,
+          "collects": 13,
+          "comments": 1,
+          "shares": 1
         }
       ]
     },
@@ -13549,7 +14432,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "谢谢1000位小伙伴的喜欢!🥳",
       "author": "Blue.D蓝迪",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121003/335697e77f01664c785c41d37db27aae/oss-sg/notes/1040g3l03207lvklnni005q9ksihto5mm65cpln8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131002/97bae85ed9690929fc1e5e57e40870d3/oss-sg/notes/1040g3l03207lvklnni005q9ksihto5mm65cpln8!nd_dft_wlteh_webp_3?src=A",
       "likes": 11,
       "collects": 0,
       "comments": 2,
@@ -13667,6 +14550,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 11,
+          "collects": 0,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -13675,7 +14565,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "非常希望你能过一个完美的一天",
       "author": "金瑜眞 스테이시 stacey",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121004/acfec1a8052c487f979094670966be6e/1040g00831vb4rp3e3q005ohkm2kk1o09okf08no!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131002/8c58e9ed9f7d9ac2ec2ee3bafc4e4a48/1040g00831vb4rp3e3q005ohkm2kk1o09okf08no!nd_dft_wlteh_webp_3?src=A",
       "likes": 8,
       "collects": 0,
       "comments": 1,
@@ -13792,6 +14682,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 8,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -13800,7 +14697,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "嘿朋友，拍张这样的照片。📸",
       "author": "金瑜眞 스테이시 stacey",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121004/71a66cbac3c447a55689ec531c1e1681/notes_pre_post/1040g3k831v32rl90ig705ohkm2kk1o09va12148!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131002/d03149e478b78c48fdcd32d6b3c841c5/notes_pre_post/1040g3k831v32rl90ig705ohkm2kk1o09va12148!nd_dft_wlteh_webp_3?src=A",
       "likes": 53,
       "collects": 10,
       "comments": 2,
@@ -13918,6 +14815,13 @@ window.XHS_DATA = {
           "collects": 10,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 53,
+          "collects": 10,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -13926,7 +14830,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "一定要记住，我们需要爱我自己",
       "author": "金瑜眞 스테이시 stacey",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121004/d77f0571af809661ce790c7960e82364/1040g00831v1radhfia005ohkm2kk1o092bgk6ro!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131002/63fb4151974377abd7199fbd25046d66/1040g00831v1radhfia005ohkm2kk1o092bgk6ro!nd_dft_wlteh_webp_3?src=A",
       "likes": 7,
       "collects": 1,
       "comments": 0,
@@ -14041,6 +14945,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 7,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -14049,7 +14960,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "嘿朋友，拍张这样的照片。 📸",
       "author": "金瑜眞 스테이시 stacey",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121004/5b4b239be7dd48f4e5764c45d54880f5/1040g2sg31up5qppa2q005ohkm2kk1o09a4eo2e8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131002/727a3dff8143cb4c1ce0c717c8da591a/1040g2sg31up5qppa2q005ohkm2kk1o09a4eo2e8!nd_dft_wlteh_webp_3?src=A",
       "likes": 50,
       "collects": 3,
       "comments": 1,
@@ -14166,6 +15077,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 50,
+          "collects": 3,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -14174,7 +15092,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "不要内耗，人生已经很美好",
       "author": "金瑜眞 스테이시 stacey",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121004/2ae1b24e06e23878303fc993ee405efc/1040g2sg31unr9bo5jq705ohkm2kk1o09m454jf0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131002/1ae1fa117527a454ca7b14692a502618/1040g2sg31unr9bo5jq705ohkm2kk1o09m454jf0!nd_dft_wlteh_webp_3?src=A",
       "likes": 7,
       "collects": 0,
       "comments": 0,
@@ -14289,6 +15207,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 7,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -14297,7 +15222,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🖤🖤",
       "author": "彩英 chaeyeong",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121004/c23f36b82e5d6ea97d68d29bb1440653/oss-sg/notes_pre_post/1040g3mo321i1sfec7k005qat3aidp32qg0506o0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131003/bd50e6c96cbf3bc5765cc3cfa27f651b/oss-sg/notes_pre_post/1040g3mo321i1sfec7k005qat3aidp32qg0506o0!nd_dft_wlteh_webp_3?src=A",
       "likes": 17,
       "collects": 1,
       "comments": 2,
@@ -14338,6 +15263,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 17,
+          "collects": 1,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -14346,7 +15278,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "太漂亮的礼服了..🖤",
       "author": "彩英 chaeyeong",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121005/2d24555c7f6c910fb4320af0159877e6/oss-sg/notes/1040g3l03213n2rhanc0g5qat3aidp32qtjl94h0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131003/9c397ebf5cc9804e67f65202dcc5a9ff/oss-sg/notes/1040g3l03213n2rhanc0g5qat3aidp32qtjl94h0!nd_dft_wlteh_webp_3?src=A",
       "likes": 29,
       "collects": 4,
       "comments": 0,
@@ -14384,6 +15316,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 29,
+          "collects": 4,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -14392,7 +15331,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "这首歌真的忍不住 💃",
       "author": "彩英 chaeyeong",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121005/8de6179c3ec10d02e73e76e4ddc5942c/1040g00831vsgvelrhm005qat3aidp32qfrf81to!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131003/45641213646e1a179ecba07ae6b0996e/1040g00831vsgvelrhm005qat3aidp32qfrf81to!nd_dft_wlteh_webp_3?src=A",
       "likes": 43,
       "collects": 6,
       "comments": 2,
@@ -14433,6 +15372,13 @@ window.XHS_DATA = {
           "collects": 6,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 43,
+          "collects": 6,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -14441,7 +15387,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "假装会弹吉他",
       "author": "彩英 chaeyeong",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121005/dea102a355fbacc9b4b6e7f70ab3b16a/1040g2sg31uc71qap1s705qat3aidp32q0d4922o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131003/ee8596a38929d1d55bd8fb0d54ea4b30/1040g2sg31uc71qap1s705qat3aidp32q0d4922o!nd_dft_wlteh_webp_3?src=A",
       "likes": 26,
       "collects": 3,
       "comments": 1,
@@ -14481,6 +15427,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 26,
+          "collects": 3,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -14489,7 +15442,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "和闺蜜跳舞就是开心~",
       "author": "彩英 chaeyeong",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121005/c8943c77a37a95ae97fb7c502e781491/1040g2sg31u4vq2fchu705qat3aidp32qdota3kg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131003/6cbad607d8e543d7d4ef0afadf93d27c/1040g2sg31u4vq2fchu705qat3aidp32qdota3kg!nd_dft_wlteh_webp_3?src=A",
       "likes": 8,
       "collects": 3,
       "comments": 1,
@@ -14529,6 +15482,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 8,
+          "collects": 3,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -14537,8 +15497,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "整蛊隔壁桌｜男友和哲学适配度=？",
       "author": "Dlib Factory",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121005/c3770a4cd0f00774a4cf2cda3dfe11f6/oss-sg/notes/1040g3l0323874krgnu005qdrgd09n3mlh6qn5go!nd_dft_wgth_webp_3?src=A",
-      "likes": 689,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131004/3d046bf210ab0e1c28e29103ace8693e/oss-sg/notes/1040g3l0323874krgnu005qdrgd09n3mlh6qn5go!nd_dft_wgth_webp_3?src=A",
+      "likes": 695,
       "collects": 58,
       "comments": 6,
       "comments_text": [
@@ -14603,6 +15563,13 @@ window.XHS_DATA = {
           "collects": 58,
           "comments": 6,
           "shares": 31
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 695,
+          "collects": 58,
+          "comments": 6,
+          "shares": 31
         }
       ]
     },
@@ -14611,17 +15578,17 @@ window.XHS_DATA = {
       "type": "note",
       "title": "整蛊隔壁桌｜有健忘症的女友",
       "author": "Dlib Factory",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121005/da8378740880a33d94bd858465a94512/oss-sg/notes/1040g3l0321n1fomi7g605qdrgd09n3mln29ep70!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131004/5d7fb8ee6d868e90315d9575caee3c27/oss-sg/notes/1040g3l0321n1fomi7g605qdrgd09n3mln29ep70!nd_dft_wgth_webp_3?src=A",
       "likes": 1200,
       "collects": 97,
       "comments": 29,
       "comments_text": [
-        "最后甚至还忘了夹克……",
         "他们里面的厕所挂衣区是不分男女的吗？不然的话他怎么拿出来的呀",
-        "这期已经是看着很心酸的程度了",
-        "是不是很搞笑，更搞笑的是，他们那个很多健忘场景对我而言是真的，例如，看到一个东西就想到网上搜一下，结果，打开浏览器后，突然忘了自己要搜什么了。",
+        "最后甚至还忘了夹克……",
         "这样看四年只丢了80个雨伞那还行",
-        "虽然主要是为了看两个路人的反映。但路人的笑声也太大了，多失礼啊！[笑哭R]"
+        "虽然主要是为了看两个路人的反映。但路人的笑声也太大了，多失礼啊！[笑哭R]",
+        "这期已经是看着很心酸的程度了",
+        "是不是很搞笑，更搞笑的是，他们那个很多健忘场景对我而言是真的，例如，看到一个东西就想到网上搜一下，结果，打开浏览器后，突然忘了自己要搜什么了。"
       ],
       "shares": 141,
       "publish_time": "2026-06-22",
@@ -14733,6 +15700,13 @@ window.XHS_DATA = {
           "collects": 97,
           "comments": 29,
           "shares": 141
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1200,
+          "collects": 97,
+          "comments": 29,
+          "shares": 141
         }
       ]
     },
@@ -14741,7 +15715,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "整蛊隔壁桌｜成功的秘诀",
       "author": "Dlib Factory",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121005/0f911323516235c9666a4506d690e5df/oss-sg/notes/1040g3l0320unkmrqnc5g5qdrgd09n3ml6nlhtq0!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131004/97dd0bbb73c8f5b02bac9e36644eceba/oss-sg/notes/1040g3l0320unkmrqnc5g5qdrgd09n3ml6nlhtq0!nd_dft_wgth_webp_3?src=A",
       "likes": 2600,
       "collects": 250,
       "comments": 34,
@@ -14750,8 +15724,8 @@ window.XHS_DATA = {
         "这就是表音文字的快乐吗[回招呼]",
         "俩小姐姐演都不演了",
         "隔壁直接笑出声",
-        "这期太好笑了",
-        "难绷"
+        "难绷",
+        "这期太好笑了"
       ],
       "shares": 322,
       "publish_time": "2026-06-03",
@@ -14863,6 +15837,13 @@ window.XHS_DATA = {
           "collects": 250,
           "comments": 34,
           "shares": 322
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2600,
+          "collects": 250,
+          "comments": 34,
+          "shares": 322
         }
       ]
     },
@@ -14871,17 +15852,17 @@ window.XHS_DATA = {
       "type": "note",
       "title": "整蛊隔壁桌｜身高差 30 厘米情侣",
       "author": "Dlib Factory",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121006/049ff234829c52e21c4aea863780eab1/oss-sg/notes/1040g3l0320o57jdini6g5qdrgd09n3mla9k97q8!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131004/47afd7dae1935da6e3f4e2a4c61a79f9/oss-sg/notes/1040g3l0320o57jdini6g5qdrgd09n3mla9k97q8!nd_dft_wgth_webp_3?src=A",
       "likes": 903,
       "collects": 111,
       "comments": 14,
       "comments_text": [
         "坐下说的话估计男生就可以低头了哈哈哈哈哈哈",
-        "笑喷了哈哈哈[笑哭R]",
-        "好像10年前看过[笑哭R]",
-        "扣掉高跟鞋，感觉只差15厘米",
         "难道你要我跳起来打你吗[哭惹R]",
-        "女生从后面靠在肩旁的时候有点可爱"
+        "笑喷了哈哈哈[笑哭R]",
+        "女生从后面靠在肩旁的时候有点可爱",
+        "好像10年前看过[笑哭R]",
+        "扣掉高跟鞋，感觉只差15厘米"
       ],
       "shares": 87,
       "publish_time": "2026-05-30",
@@ -14993,6 +15974,13 @@ window.XHS_DATA = {
           "collects": 111,
           "comments": 14,
           "shares": 87
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 903,
+          "collects": 111,
+          "comments": 14,
+          "shares": 87
         }
       ]
     },
@@ -15001,7 +15989,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "整蛊隔壁桌｜便利店情侣",
       "author": "Dlib Factory",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121006/65ec3d08f0202b43e2112f8267132d01/oss-sg/notes/1040g3l0320n1mfapne605qdrgd09n3mlsio01l8!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131004/a0d9f138b688afb906780c86eae4c149/oss-sg/notes/1040g3l0320n1mfapne605qdrgd09n3mlsio01l8!nd_dft_wgth_webp_3?src=A",
       "likes": 3900,
       "collects": 599,
       "comments": 240,
@@ -15011,7 +15999,7 @@ window.XHS_DATA = {
         "两位演员怎么忍住不笑的 太厉害了",
         "这个泡面真的很好吃哎",
         "隔壁笑到恨不得把脸埋到面碗里去",
-        "我在敷面膜，救命[笑哭R][笑哭R][笑哭R]"
+        "我在B站收藏了你们住持欧巴那期，经常会翻出来看，环境太安静那个路人要一直憋笑太搞笑了，不过后面你们都没更新了。"
       ],
       "shares": 3000,
       "publish_time": "2026-05-28",
@@ -15123,6 +16111,13 @@ window.XHS_DATA = {
           "collects": 599,
           "comments": 240,
           "shares": 3000
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 3900,
+          "collects": 599,
+          "comments": 240,
+          "shares": 3000
         }
       ]
     },
@@ -15131,17 +16126,17 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Shanghai & Hangzhou with CERRIC🎀",
       "author": "Bellawooyoung",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121006/9c3cf0a113d05bf836f26fad97cecc46/oss-sg/notes_pre_post/1040g3mo322ers3gb00005ppthpp7doko4d7utn8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131005/131f3c775de8636044de467464af0847/oss-sg/notes_pre_post/1040g3mo322ers3gb00005ppthpp7doko4d7utn8!nd_dft_wlteh_webp_3?src=A",
       "likes": 771,
-      "collects": 90,
+      "collects": 91,
       "comments": 18,
       "comments_text": [
+        "好喜欢你啊！多来中国好吗？！",
         "欧尼！！！",
-        "欧尼！",
+        "女神多更搭配ootd vlog！",
+        "喜欢左边那位 她看起来好高啊",
         "可以多多更新小红书账号吗[害羞R]",
-        "！！！姐你竟然有小红书！！！！",
-        "太漂亮了呀欧尼[飞吻R][飞吻R][飞吻R][飞吻R]",
-        "女神多更搭配ootd vlog！"
+        "太漂亮了呀欧尼[飞吻R][飞吻R][飞吻R][飞吻R]"
       ],
       "shares": 106,
       "publish_time": "2026-07-11",
@@ -15225,6 +16220,13 @@ window.XHS_DATA = {
           "collects": 90,
           "comments": 18,
           "shares": 106
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 771,
+          "collects": 91,
+          "comments": 18,
+          "shares": 106
         }
       ]
     },
@@ -15233,8 +16235,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Puma speedcat wedge🐆💫💫",
       "author": "Bellawooyoung",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121006/a36d63dee9c8e4f5eb2638771ae6d337/1040g2sg31sjru5r1l6705ppthpp7dokosvgnfag!nd_dft_wlteh_webp_3?src=A",
-      "likes": 119,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131005/d670239ea84e9a3e15059e8707006f78/1040g2sg31sjru5r1l6705ppthpp7dokosvgnfag!nd_dft_wlteh_webp_3?src=A",
+      "likes": 120,
       "collects": 26,
       "comments": 2,
       "comments_text": [
@@ -15330,6 +16332,13 @@ window.XHS_DATA = {
           "collects": 26,
           "comments": 2,
           "shares": 14
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 120,
+          "collects": 26,
+          "comments": 2,
+          "shares": 14
         }
       ]
     },
@@ -15338,7 +16347,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "adidas Sportswear FUTURE OF STYLE🛸",
       "author": "Bellawooyoung",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121006/7c60801f0c3305e720491298f70f956a/1040g2sg31no66lijkuag5ppthpp7dokoghl73h8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131005/23a889ea13acfb0c47de276199fc4c21/1040g2sg31no66lijkuag5ppthpp7dokoghl73h8!nd_dft_wlteh_webp_3?src=A",
       "likes": 106,
       "collects": 9,
       "comments": 4,
@@ -15435,6 +16444,13 @@ window.XHS_DATA = {
           "collects": 9,
           "comments": 4,
           "shares": 9
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 106,
+          "collects": 9,
+          "comments": 4,
+          "shares": 9
         }
       ]
     },
@@ -15443,7 +16459,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "咖啡是我的必需品",
       "author": "Bellawooyoung",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121006/c5730b8ad04a89787c2e58c5b2aadaf7/notes_pre_post/1040g3k831lp9dneq4sb05ppthpp7dokosj9l038!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131005/6207b909253af33f9f3a9ed75ee932ca/notes_pre_post/1040g3k831lp9dneq4sb05ppthpp7dokosj9l038!nd_dft_wlteh_webp_3?src=A",
       "likes": 192,
       "collects": 14,
       "comments": 3,
@@ -15540,6 +16556,13 @@ window.XHS_DATA = {
           "collects": 14,
           "comments": 3,
           "shares": 12
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 192,
+          "collects": 14,
+          "comments": 3,
+          "shares": 12
         }
       ]
     },
@@ -15548,7 +16571,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "最近的小日子：复古淘店 & 阳光早午餐",
       "author": "Bellawooyoung",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121007/bf754492f31d1dfc86dca3aa21c89cc8/notes_pre_post/1040g3k031hth8jj138005ppthpp7dokop78j3a8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131005/30ba020610096d7b40aef560e4ddaf2a/notes_pre_post/1040g3k031hth8jj138005ppthpp7dokop78j3a8!nd_dft_wlteh_webp_3?src=A",
       "likes": 130,
       "collects": 29,
       "comments": 6,
@@ -15648,6 +16671,13 @@ window.XHS_DATA = {
           "collects": 29,
           "comments": 6,
           "shares": 14
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 130,
+          "collects": 29,
+          "comments": 6,
+          "shares": 14
         }
       ]
     },
@@ -15656,8 +16686,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "丈母娘的催生（二胎版）",
       "author": "咯咯商会",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121007/e511a3867c5bfb36475eb094f92de9d4/oss-sg/notes/1040g3l0323dcdc88g0005qeb9o0pgbne17uul1o!nd_dft_wgth_webp_3?src=A",
-      "likes": 12,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131005/b4d04ec0093370d83cb313695adc7227/oss-sg/notes/1040g3l0323dcdc88g0005qeb9o0pgbne17uul1o!nd_dft_wgth_webp_3?src=A",
+      "likes": 13,
       "collects": 6,
       "comments": 1,
       "comments_text": [
@@ -15689,6 +16719,13 @@ window.XHS_DATA = {
           "collects": 6,
           "comments": 1,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 13,
+          "collects": 6,
+          "comments": 1,
+          "shares": 1
         }
       ]
     },
@@ -15697,7 +16734,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国夫妻有孩子后怎么吵架",
       "author": "咯咯商会",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121007/29d64009e7da77e56f3dd0cae6b85930/oss-sg/notes/1040g3l03234dstdn00005qeb9o0pgbneo901918!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131005/397b356ea41c00735552cc8849b2619c/oss-sg/notes/1040g3l03234dstdn00005qeb9o0pgbneo901918!nd_dft_wgth_webp_3?src=A",
       "likes": 117,
       "collects": 23,
       "comments": 2,
@@ -15759,6 +16796,13 @@ window.XHS_DATA = {
           "collects": 23,
           "comments": 2,
           "shares": 17
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 117,
+          "collects": 23,
+          "comments": 2,
+          "shares": 17
         }
       ]
     },
@@ -15767,7 +16811,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "今天自己带了孩子 我可以吃一顿烤肉吗？",
       "author": "咯咯商会",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121007/cd8cddda9ba53c2734d767ad8ce6049f/oss-sg/spectrum/1040g3ug3230ls240nu005qeb9o0pgbneco0nop8!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131006/ef6a938a7d57c9b3ae48cc4d0f547308/oss-sg/spectrum/1040g3ug3230ls240nu005qeb9o0pgbneco0nop8!nd_dft_wgth_webp_3?src=A",
       "likes": 42,
       "collects": 5,
       "comments": 1,
@@ -15842,6 +16886,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 1,
           "shares": 5
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 42,
+          "collects": 5,
+          "comments": 1,
+          "shares": 5
         }
       ]
     },
@@ -15850,7 +16901,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "你不是说…老婆孩子都不在家吗",
       "author": "咯咯商会",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121007/837658cea66de03fd1d5ed3f167886f7/oss-sg/notes/1040g3l0322no6vkg7g305pnnhgnneem22hm9ovo!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131006/c918072087ed12dbbbb737b09b01d747/oss-sg/notes/1040g3l0322no6vkg7g305pnnhgnneem22hm9ovo!nd_dft_wgth_webp_3?src=A",
       "likes": 84,
       "collects": 9,
       "comments": 5,
@@ -15943,6 +16994,13 @@ window.XHS_DATA = {
           "collects": 9,
           "comments": 5,
           "shares": 5
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 84,
+          "collects": 9,
+          "comments": 5,
+          "shares": 5
         }
       ]
     },
@@ -15951,7 +17009,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国夫妻育儿ㅣ宝宝百日闹终于过了",
       "author": "咯咯商会",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121007/91362f53da5ea8484a0ee9f5b3427274/oss-sg/notes/1040g3l0322c0rngnng005qeb9o0pgbner7mkl4o!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131006/7a4701fec6e700266f4f86eac910846a/oss-sg/notes/1040g3l0322c0rngnng005qeb9o0pgbner7mkl4o!nd_dft_wgth_webp_3?src=A",
       "likes": 51,
       "collects": 7,
       "comments": 1,
@@ -16040,6 +17098,13 @@ window.XHS_DATA = {
           "collects": 7,
           "comments": 1,
           "shares": 9
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 51,
+          "collects": 7,
+          "comments": 1,
+          "shares": 9
         }
       ]
     },
@@ -16048,7 +17113,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "一套让人忍不住回头看的舞者穿搭",
       "author": "RIYE",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121008/04ffe7c12c6387efc6df1679d66a2d2c/oss-sg/notes/1040g3l032103gt667i005qani84pn99s9pujkl0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131006/78952d6e1a5bcb7b95938557b2f228e3/oss-sg/notes/1040g3l032103gt667i005qani84pn99s9pujkl0!nd_dft_wlteh_webp_3?src=A",
       "likes": 10,
       "collects": 1,
       "comments": 0,
@@ -16086,6 +17151,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 10,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -16094,13 +17166,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "OMG 🫥🫥",
       "author": "RIYE",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121008/9d70a2c9b1469ec11890aa18a1ae71d9/oss-sg/notes_pre_post/1040g3mo31vqu54lsnk0g5qani84pn99s1oq69oo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131006/bc1d814cc9a4bfcf88fc02cb052a7512/oss-sg/notes_pre_post/1040g3mo31vqu54lsnk0g5qani84pn99s1oq69oo!nd_dft_wlteh_webp_3?src=A",
       "likes": 29,
       "collects": 1,
       "comments": 3,
       "comments_text": [
-        "姐姐我想知道身高体重[害羞R][害羞R]",
-        "OMG is right! 🤍🔥🖤"
+        "OMG is right! 🤍🔥🖤",
+        "姐姐我想知道身高体重[害羞R][害羞R]"
       ],
       "shares": 1,
       "publish_time": "2026-05-06",
@@ -16135,6 +17207,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 3,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 29,
+          "collects": 1,
+          "comments": 3,
+          "shares": 1
         }
       ]
     },
@@ -16143,15 +17222,15 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🔫🔫🔫",
       "author": "RIYE",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121008/a76aefe537417691202d413ef31d1763/oss-sg/notes/1040g3l031vqu54lt7k005qani84pn99sc14b8g8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131006/eabe44485fec246efea4bba3d69c9b06/oss-sg/notes/1040g3l031vqu54lt7k005qani84pn99sc14b8g8!nd_dft_wlteh_webp_3?src=A",
       "likes": 54,
       "collects": 2,
       "comments": 4,
       "comments_text": [
         "hi beauty!where r u originally from and live now?",
-        "[色色R][色色R]",
         "玩射击？",
-        "언니한테 반했어😻"
+        "언니한테 반했어😻",
+        "[色色R][色色R]"
       ],
       "shares": 0,
       "publish_time": "2026-05-06",
@@ -16186,6 +17265,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 4,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 54,
+          "collects": 2,
+          "comments": 4,
+          "shares": 0
         }
       ]
     },
@@ -16194,7 +17280,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "卡点太舒服了！这支舞谁跳谁好看 💃",
       "author": "RIYE",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121008/c1a08ca3a9073fccb68a186937098bc3/oss-sg/notes/1040g3l031vih0pjsne005qani84pn99svjl75k0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131006/42eac5f19a91809d8dadc7e033e25e62/oss-sg/notes/1040g3l031vih0pjsne005qani84pn99svjl75k0!nd_dft_wlteh_webp_3?src=A",
       "likes": 20,
       "collects": 1,
       "comments": 0,
@@ -16232,6 +17318,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 20,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -16240,7 +17333,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🥂✨🥂",
       "author": "RIYE",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121008/a77b08aa99aabea73b638c79c85c1cdd/oss-sg/notes/1040g3l031v5tesv3ne005qani84pn99sdb7toa0!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131007/f9b5d5027478a82e8643047983a70f20/oss-sg/notes/1040g3l031v5tesv3ne005qani84pn99sdb7toa0!nd_dft_wgth_webp_3?src=A",
       "likes": 12,
       "collects": 2,
       "comments": 0,
@@ -16278,6 +17371,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 12,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -16286,7 +17386,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "保姆级虫子教程 这样可以拿下比赛吗😋",
       "author": "파동padong",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121009/b0c464ef722d8a1c239e121bba76253e/oss-sg/notes/1040g3l0322cr914unc005qen1vnpgcm7j77pomg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131007/9ac4a324244009e226e848e0b07703a2/oss-sg/notes/1040g3l0322cr914unc005qen1vnpgcm7j77pomg!nd_dft_wlteh_webp_3?src=A",
       "likes": 13,
       "collects": 2,
       "comments": 0,
@@ -16324,6 +17424,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 13,
+          "collects": 2,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -16332,7 +17439,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "有了三神器厄加特打遍天下",
       "author": "파동padong",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121009/28ccc3aeb87e4d864cca202b7f322c0d/oss-sg/notes/1040g3l0321nh2v93ne005qen1vnpgcm7oer7i9g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131007/5ff6e67ca39e85cd0ac05c7014a680c0/oss-sg/notes/1040g3l0321nh2v93ne005qen1vnpgcm7oer7i9g!nd_dft_wlteh_webp_3?src=A",
       "likes": 10,
       "collects": 4,
       "comments": 0,
@@ -16370,6 +17477,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 10,
+          "collects": 4,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -16378,7 +17492,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "没想到吃鸡会这么简单",
       "author": "파동padong",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121009/a920957702ea0ea8400b9a87739c756b/oss-sg/notes/1040g3l0321e6dlchni005qen1vnpgcm7c8h5b18!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131007/b0dc9ea819e402c8ab98af0c9160def9/oss-sg/notes/1040g3l0321e6dlchni005qen1vnpgcm7c8h5b18!nd_dft_wlteh_webp_3?src=A",
       "likes": 11,
       "collects": 0,
       "comments": 0,
@@ -16416,6 +17530,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 11,
+          "collects": 0,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -16424,7 +17545,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "从来没见过这么厉害的一费卡",
       "author": "파동padong",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121009/72ed602b0e66018c8c635619ae05bf9f/oss-sg/notes/1040g3l03216lagb17c0g5qen1vnpgcm7aliatcg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131007/0730c76189d3922f082d7cccb55974d2/oss-sg/notes/1040g3l03216lagb17c0g5qen1vnpgcm7aliatcg!nd_dft_wlteh_webp_3?src=A",
       "likes": 12,
       "collects": 0,
       "comments": 2,
@@ -16462,6 +17583,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 2,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 12,
+          "collects": 0,
+          "comments": 2,
+          "shares": 1
         }
       ]
     },
@@ -16470,7 +17598,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "波比强化就是这个味儿",
       "author": "파동padong",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121009/119fcecfab81530e0b793e814c2281ca/oss-sg/notes/1040g3l0320uorq0d7e705qen1vnpgcm7egevqp8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131008/0362762b1c9c79010f723f721b18bd42/oss-sg/notes/1040g3l0320uorq0d7e705qen1vnpgcm7egevqp8!nd_dft_wlteh_webp_3?src=A",
       "likes": 7,
       "collects": 0,
       "comments": 0,
@@ -16508,6 +17636,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 7,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -16516,7 +17651,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩女怎么穿条纹元素？",
       "author": "lynzzzzang",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121010/a939533ee3b971dd2c7cd5baf80318b2/oss-sg/notes/1040g3l0321gm3j167c005ppimr5n315el8q5gs8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131008/3b4b6cbbdc5726688aa7cf91536d42cd/oss-sg/notes/1040g3l0321gm3j167c005ppimr5n315el8q5gs8!nd_dft_wlteh_webp_3?src=A",
       "likes": 29,
       "collects": 4,
       "comments": 0,
@@ -16631,6 +17766,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 29,
+          "collects": 4,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -16639,13 +17781,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "首尔街头 fi t check 👖",
       "author": "lynzzzzang",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121010/2fd25f1f301844069a2dfff090a292af/oss-sg/notes/1040g3l0321bjv2tl7k005ppimr5n315edd9k3to!nd_dft_wlteh_webp_3?src=A",
-      "likes": 298,
-      "collects": 35,
-      "comments": 6,
+      "cover": "",
+      "likes": 0,
+      "collects": 0,
+      "comments": 0,
       "comments_text": [],
-      "shares": 17,
-      "publish_time": "2026-06-13",
+      "shares": 0,
+      "publish_time": "",
       "pinned": false,
       "grid_order": 1,
       "from_profile": true,
@@ -16754,6 +17896,13 @@ window.XHS_DATA = {
           "collects": 35,
           "comments": 6,
           "shares": 17
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 0,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -16762,7 +17911,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "📱vs📸ㅣ喜欢哪个？",
       "author": "lynzzzzang",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121010/f6bc499c30aece8ac89aa8f37692ee4f/oss-sg/notes/1040g3l03217r3b9ung005ppimr5n315eq385k38!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131008/8e1d336c1d2eeaf15b6ce1556363730e/oss-sg/notes/1040g3l03217r3b9ung005ppimr5n315eq385k38!nd_dft_wlteh_webp_3?src=A",
       "likes": 21,
       "collects": 0,
       "comments": 0,
@@ -16877,6 +18026,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 21,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -16885,7 +18041,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "恋综男嘉宾现实身材｜和咖啡哥健身房📷",
       "author": "lynzzzzang",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121010/1688293ffe47ec69e6ca5069eed316d6/1040g2sg3205cjkuq2q705ppimr5n315evb8aq1g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131009/6f59f222aa884a9e88df5aa0876ea969/1040g2sg3205cjkuq2q705ppimr5n315evb8aq1g!nd_dft_wlteh_webp_3?src=A",
       "likes": 15,
       "collects": 2,
       "comments": 2,
@@ -17000,6 +18156,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 2,
           "shares": 7
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 15,
+          "collects": 2,
+          "comments": 2,
+          "shares": 7
         }
       ]
     },
@@ -17008,7 +18171,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "被问爆的穿搭｜黑白黄皮都适合",
       "author": "lynzzzzang",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121010/2f017f8e252f8f57d52e0a1d2ae77e25/1040g00832012gffuia005ppimr5n315e16u0m6o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131009/be55fb3ca78df43418c4d7b16375359c/1040g00832012gffuia005ppimr5n315e16u0m6o!nd_dft_wlteh_webp_3?src=A",
       "likes": 9,
       "collects": 0,
       "comments": 0,
@@ -17123,6 +18286,38 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 9,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a7c35a90000000012013f33",
+      "type": "note",
+      "title": "New hair 👼🏻",
+      "author": "裴成妍 Seongyeon Bae",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131009/c688f06379e15e6390cdce4088170802/oss-sg/notes/1040g3l0323ovoq8cia005q9askm0qfiqbjv5dog!nd_dft_wgth_webp_3?src=A",
+      "likes": 34,
+      "collects": 2,
+      "comments": 6,
+      "comments_text": [],
+      "shares": 0,
+      "publish_time": "2026-08-12",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 34,
+          "collects": 2,
+          "comments": 6,
+          "shares": 0
         }
       ]
     },
@@ -17131,15 +18326,15 @@ window.XHS_DATA = {
       "type": "note",
       "title": "My fluffy hair !! 🏃🏼‍♀️🏃🏼‍♀️🏃🏼‍♀️",
       "author": "裴成妍 Seongyeon Bae",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121011/7581f5fdb1f57f93e3381f53b429d46b/oss-sg/notes/1040g3l0323mlm74bic005q9askm0qfiqm3jp9n8!nd_dft_wlteh_webp_3?src=A",
-      "likes": 72,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131009/ee45e109e4707b7b095f1ecd4cad0276/oss-sg/notes/1040g3l0323mlm74bic005q9askm0qfiqm3jp9n8!nd_dft_wlteh_webp_3?src=A",
+      "likes": 84,
       "collects": 2,
       "comments": 0,
       "comments_text": [],
       "shares": 0,
       "publish_time": "2026-08-10",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 1,
       "from_profile": true,
       "history": [
         {
@@ -17155,6 +18350,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 84,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -17163,15 +18365,15 @@ window.XHS_DATA = {
       "type": "note",
       "title": "👼🏻🤍",
       "author": "裴成妍 Seongyeon Bae",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121011/69995616eb78b40ca03bf3497e7b8e75/oss-sg/notes/1040g3l0323fl7mjh0a005q9askm0qfiqls7he1o!nd_dft_wlteh_webp_3?src=A",
-      "likes": 33,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131010/779588c1b235e04ddf9c6b7d64404075/oss-sg/notes/1040g3l0323fl7mjh0a005q9askm0qfiqls7he1o!nd_dft_wlteh_webp_3?src=A",
+      "likes": 35,
       "collects": 2,
       "comments": 1,
       "comments_text": [],
       "shares": 0,
       "publish_time": "2026-08-05",
       "pinned": false,
-      "grid_order": 1,
+      "grid_order": 2,
       "from_profile": true,
       "history": [
         {
@@ -17208,6 +18410,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 35,
+          "collects": 2,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -17216,15 +18425,15 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Me in Seoul city👼🏻",
       "author": "裴成妍 Seongyeon Bae",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121011/546489fdd60dc324b97d49f6a03cdd26/oss-sg/notes_pre_post/1040g3mo323dm579s0a005q9askm0qfiqm6ehcbg!nd_dft_wlteh_webp_3?src=A",
-      "likes": 24,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131010/f0b64a39e1a4c79f7db352baee3482d6/oss-sg/notes_pre_post/1040g3mo323dm579s0a005q9askm0qfiqm6ehcbg!nd_dft_wlteh_webp_3?src=A",
+      "likes": 25,
       "collects": 1,
       "comments": 2,
       "comments_text": [],
       "shares": 0,
       "publish_time": "2026-08-03",
       "pinned": false,
-      "grid_order": 2,
+      "grid_order": 3,
       "from_profile": true,
       "history": [
         {
@@ -17268,6 +18477,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 25,
+          "collects": 1,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -17276,15 +18492,15 @@ window.XHS_DATA = {
       "type": "note",
       "title": "158cm 43kg｜韩国女生夏日穿搭🤍 🇰🇷",
       "author": "裴成妍 Seongyeon Bae",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121011/4b3213dc175546db354f9e4737dc8285/oss-sg/notes/1040g3l03239accuo06005q9askm0qfiqiam4988!nd_dft_wlteh_webp_3?src=A",
-      "likes": 29,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131010/9276b755417ce1d93774343ff271d86a/oss-sg/notes/1040g3l03239accuo06005q9askm0qfiqiam4988!nd_dft_wlteh_webp_3?src=A",
+      "likes": 30,
       "collects": 4,
       "comments": 1,
       "comments_text": [],
       "shares": 0,
       "publish_time": "2026-07-31",
       "pinned": false,
-      "grid_order": 3,
+      "grid_order": 4,
       "from_profile": true,
       "history": [
         {
@@ -17335,87 +18551,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 1,
           "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a6869e3000000000c033c00",
-      "type": "note",
-      "title": "My daily make-up 💓",
-      "author": "裴成妍 Seongyeon Bae",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121011/dfe423fd264880f6017c38cb04ea6ad4/oss-sg/notes/1040g3l03235l52fq7i005q9askm0qfiqrl1rkdg!nd_dft_wgth_webp_3?src=A",
-      "likes": 98,
-      "collects": 4,
-      "comments": 9,
-      "comments_text": [],
-      "shares": 2,
-      "publish_time": "2026-07-28",
-      "pinned": false,
-      "grid_order": 4,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-29",
-          "likes": 56,
-          "collects": 1,
-          "comments": 8,
-          "shares": 2
         },
         {
-          "date": "2026-07-31",
-          "likes": 74,
-          "collects": 3,
-          "comments": 9,
-          "shares": 2
-        },
-        {
-          "date": "2026-08-03",
-          "likes": 83,
-          "collects": 3,
-          "comments": 9,
-          "shares": 2
-        },
-        {
-          "date": "2026-08-04",
-          "likes": 88,
-          "collects": 3,
-          "comments": 9,
-          "shares": 2
-        },
-        {
-          "date": "2026-08-06",
-          "likes": 93,
-          "collects": 3,
-          "comments": 9,
-          "shares": 2
-        },
-        {
-          "date": "2026-08-07",
-          "likes": 94,
-          "collects": 3,
-          "comments": 9,
-          "shares": 2
-        },
-        {
-          "date": "2026-08-10",
-          "likes": 96,
+          "date": "2026-08-13",
+          "likes": 30,
           "collects": 4,
-          "comments": 9,
-          "shares": 2
-        },
-        {
-          "date": "2026-08-11",
-          "likes": 96,
-          "collects": 4,
-          "comments": 9,
-          "shares": 2
-        },
-        {
-          "date": "2026-08-12",
-          "likes": 98,
-          "collects": 4,
-          "comments": 9,
-          "shares": 2
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -17424,7 +18566,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "这样还不好看吗？🤨",
       "author": "卢恩率Ensol",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121012/905025192c5e150b09778d6d0d5512fa/oss-sg/notes/1040g3l0322ojf9ainc005qdo37j9g70i09tlm7o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131010/fd62f3d491f7d661b546291f4fb65bb3/oss-sg/notes/1040g3l0322ojf9ainc005qdo37j9g70i09tlm7o!nd_dft_wlteh_webp_3?src=A",
       "likes": 21,
       "collects": 0,
       "comments": 1,
@@ -17511,6 +18653,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 21,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -17519,9 +18668,9 @@ window.XHS_DATA = {
       "type": "note",
       "title": "大码韩女试穿ㅣ女爱豆直拍同款",
       "author": "卢恩率Ensol",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121012/d403e2e928c778efbb86b8937b34bfa7/oss-sg/notes/1040g3l0322al75lr7e0g5qdo37j9g70ieb6h5po!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131010/7a45be63f21467d5a4a6c58bd913fddb/oss-sg/notes/1040g3l0322al75lr7e0g5qdo37j9g70ieb6h5po!nd_dft_wlteh_webp_3?src=A",
       "likes": 124,
-      "collects": 21,
+      "collects": 22,
       "comments": 3,
       "comments_text": [],
       "shares": 3,
@@ -17627,6 +18776,13 @@ window.XHS_DATA = {
           "collects": 21,
           "comments": 3,
           "shares": 3
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 124,
+          "collects": 22,
+          "comments": 3,
+          "shares": 3
         }
       ]
     },
@@ -17635,7 +18791,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Happy Eunsol’s Day🍰",
       "author": "卢恩率Ensol",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121012/a4357a5b55e7ca24c2d62ed80defc59b/oss-sg/notes/1040g3l032241madj7i005qdo37j9g70i1udd7j8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131011/0f3c5df90a8cf3cdf15e1886bfc7ef2a/oss-sg/notes/1040g3l032241madj7i005qdo37j9g70i1udd7j8!nd_dft_wlteh_webp_3?src=A",
       "likes": 13,
       "collects": 3,
       "comments": 1,
@@ -17750,6 +18906,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 13,
+          "collects": 3,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -17758,7 +18921,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Zagae开业活动❤",
       "author": "卢恩率Ensol",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121012/6275a22aa05028ce6078f0c2a8dbddb7/oss-sg/notes_pre_post/1040g3mo32208c710ni005qdo37j9g70ij1spna8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131011/9fa5c4e4a87287fc12e0feb77567656f/oss-sg/notes_pre_post/1040g3mo32208c710ni005qdo37j9g70ij1spna8!nd_dft_wlteh_webp_3?src=A",
       "likes": 7,
       "collects": 0,
       "comments": 0,
@@ -17873,6 +19036,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 7,
+          "collects": 0,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -17881,7 +19051,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷大码韩女试穿ㅣ女豆爱穿品牌",
       "author": "卢恩率Ensol",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121013/e180a95eb692ef2eb98d82988965c995/oss-sg/notes/1040g3l0321v6rrer00005qdo37j9g70iaiicj18!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131011/7f15d0e9b0f4766fc500f72aba2751b2/oss-sg/notes/1040g3l0321v6rrer00005qdo37j9g70iaiicj18!nd_dft_wlteh_webp_3?src=A",
       "likes": 93,
       "collects": 29,
       "comments": 0,
@@ -17996,6 +19166,13 @@ window.XHS_DATA = {
           "collects": 29,
           "comments": 0,
           "shares": 3
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 93,
+          "collects": 29,
+          "comments": 0,
+          "shares": 3
         }
       ]
     },
@@ -18004,7 +19181,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Golf vlog",
       "author": "yesyul",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121014/f279cc9fc110c86caadabb22ea2b6659/oss-sg/notes/1040g3l03226l18l8ng005qff6gfjen01vl90ed8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131012/b0b34896eb69045da2ac52e46ab34146/oss-sg/notes/1040g3l03226l18l8ng005qff6gfjen01vl90ed8!nd_dft_wlteh_webp_3?src=A",
       "likes": 16,
       "collects": 2,
       "comments": 1,
@@ -18119,6 +19296,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 16,
+          "collects": 2,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -18127,7 +19311,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Golf vlog",
       "author": "yesyul",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121014/d33afdf70d172e96c1d65071dbcc1393/oss-sg/notes/1040g3l0321v4qs6o7q005qff6gfjen01g2qp0tg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131012/4a6e6813da492eb80f2c5c2716efeeb8/oss-sg/notes/1040g3l0321v4qs6o7q005qff6gfjen01g2qp0tg!nd_dft_wlteh_webp_3?src=A",
       "likes": 16,
       "collects": 5,
       "comments": 1,
@@ -18242,6 +19426,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 1,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 16,
+          "collects": 5,
+          "comments": 1,
+          "shares": 1
         }
       ]
     },
@@ -18250,7 +19441,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Summer golf",
       "author": "yesyul",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121014/cab443fa489aa2c7adc02cf921c4340e/oss-sg/notes/1040g3l0321jks5e1ne005qff6gfjen01ifiut90!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131012/fbaa07ee20cef8d2eb5a6663832be5c3/oss-sg/notes/1040g3l0321jks5e1ne005qff6gfjen01ifiut90!nd_dft_wlteh_webp_3?src=A",
       "likes": 66,
       "collects": 8,
       "comments": 2,
@@ -18365,6 +19556,13 @@ window.XHS_DATA = {
           "collects": 8,
           "comments": 2,
           "shares": 2
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 66,
+          "collects": 8,
+          "comments": 2,
+          "shares": 2
         }
       ]
     },
@@ -18373,7 +19571,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "infinite loop",
       "author": "yesyul",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121014/35ab85809ca55153dc3d0322a0e83e1c/oss-sg/notes/1040g3l0321h3u0runi005qff6gfjen01vvo9n1g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131013/30da829eb5701740ea279bf10bb6fbcb/oss-sg/notes/1040g3l0321h3u0runi005qff6gfjen01vvo9n1g!nd_dft_wlteh_webp_3?src=A",
       "likes": 8,
       "collects": 0,
       "comments": 0,
@@ -18488,6 +19686,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 8,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -18496,7 +19701,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Rainy season golf",
       "author": "yesyul",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121014/378d88b4ba2261296bcd9813a8506ad8/oss-sg/notes/1040g3l0320pvpi327k005qff6gfjen016g0kfa8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131013/3a77f899eda8d51abc30a40b9ef68443/oss-sg/notes/1040g3l0320pvpi327k005qff6gfjen016g0kfa8!nd_dft_wlteh_webp_3?src=A",
       "likes": 30,
       "collects": 1,
       "comments": 0,
@@ -18611,6 +19816,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 30,
+          "collects": 1,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -18619,7 +19831,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "korea hair style",
       "author": "Yoning_kyu",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121015/9647849324474a6d051af8694f3bfff4/oss-sg/notes/1040g3l0322v00h2kng005qfgcui3en02vv276v0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131013/1888a631ac07546e3fb9be62ca468ff3/oss-sg/notes/1040g3l0322v00h2kng005qfgcui3en02vv276v0!nd_dft_wlteh_webp_3?src=A",
       "likes": 5,
       "collects": 3,
       "comments": 0,
@@ -18692,6 +19904,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 5,
+          "collects": 3,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -18700,7 +19919,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "YONING韩国最新流行空气感发型",
       "author": "Yoning_kyu",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121015/f868d63b4c3bde9ef11c4830eb402b46/oss-sg/notes/1040g3l032295v9c800005qfgcui3en020qji5io!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131013/a343fc8b7dad16e08d76dbf4dbf8dac4/oss-sg/notes/1040g3l032295v9c800005qfgcui3en020qji5io!nd_dft_wlteh_webp_3?src=A",
       "likes": 0,
       "collects": 0,
       "comments": 0,
@@ -18815,6 +20034,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 0,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -18823,9 +20049,9 @@ window.XHS_DATA = {
       "type": "note",
       "title": "high Layered C curl",
       "author": "Yoning_kyu",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121015/1b125bbb9099478c6f5b502367419558/oss-sg/notes/1040g3l03225o3bi17i005qfgcui3en02d3nvjo8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131014/c1aebd184e2fd56791a02ba6a678787e/oss-sg/notes/1040g3l03225o3bi17i005qfgcui3en02d3nvjo8!nd_dft_wlteh_webp_3?src=A",
       "likes": 18,
-      "collects": 12,
+      "collects": 13,
       "comments": 2,
       "comments_text": [],
       "shares": 0,
@@ -18938,6 +20164,13 @@ window.XHS_DATA = {
           "collects": 12,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 18,
+          "collects": 13,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -18946,7 +20179,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "High Layered Cut",
       "author": "Yoning_kyu",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121016/87d06ee95650a84ee235d0457678169d/oss-sg/notes/1040g3l03224bhuar7i005qfgcui3en02tst4v30!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131014/7546bea8323261d0ba2be7796632089d/oss-sg/notes/1040g3l03224bhuar7i005qfgcui3en02tst4v30!nd_dft_wlteh_webp_3?src=A",
       "likes": 3,
       "collects": 4,
       "comments": 0,
@@ -19033,6 +20266,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 3,
+          "collects": 4,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -19041,7 +20281,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷 韩国女生发型｜显白又高级",
       "author": "Yoning_kyu",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121016/ebaf8dec264f614da86b22183035c05e/oss-sg/notes/1040g3l0321uuiqa2nu005qfgcui3en02oj5qg4o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131014/98e73df2b4e79272b3b914b5076a7790/oss-sg/notes/1040g3l0321uuiqa2nu005qfgcui3en02oj5qg4o!nd_dft_wlteh_webp_3?src=A",
       "likes": 6,
       "collects": 1,
       "comments": 0,
@@ -19156,6 +20396,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 6,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -19164,12 +20411,12 @@ window.XHS_DATA = {
       "type": "note",
       "title": "少女时代TAEYEON 最爱腮红是？",
       "author": "娜娜nanapick",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121016/bb7f14c578a6d7515deccbbe25088cc5/oss-sg/notes/1040g3l032205vl0h7o0g5prksdo63veuhob35fo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131015/1d0192451dda218c60cf4477c8985281/oss-sg/notes/1040g3l032205vl0h7o0g5prksdo63veuhob35fo!nd_dft_wlteh_webp_3?src=A",
       "likes": 22,
       "collects": 3,
       "comments": 2,
       "comments_text": [],
-      "shares": 4,
+      "shares": 5,
       "publish_time": "2026-06-29",
       "pinned": false,
       "grid_order": 0,
@@ -19279,6 +20526,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 2,
           "shares": 4
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 22,
+          "collects": 3,
+          "comments": 2,
+          "shares": 5
         }
       ]
     },
@@ -19287,13 +20541,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "1500万播放😮....?",
       "author": "娜娜nanapick",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121016/730d4cd1195b5fb1de45acf0ac567e70/oss-sg/notes/1040g3l0321hpespe7k005prksdo63veugvcvheg!nd_dft_wlteh_webp_3?src=A",
-      "likes": 25,
-      "collects": 10,
+      "cover": "",
+      "likes": 0,
+      "collects": 0,
       "comments": 0,
       "comments_text": [],
       "shares": 0,
-      "publish_time": "2026-06-18",
+      "publish_time": "",
       "pinned": false,
       "grid_order": 1,
       "from_profile": true,
@@ -19402,6 +20656,13 @@ window.XHS_DATA = {
           "collects": 10,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 0,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -19410,7 +20671,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "瘦了10kg都在吃的这一餐🍳",
       "author": "娜娜nanapick",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121017/d9df955549f950fbcc927c78ab6ff215/oss-sg/notes/1040g3l03214pe256nk0g5prksdo63veu6pdadn0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131015/dde29078db8a7ee363ea35308014d1af/oss-sg/notes/1040g3l03214pe256nk0g5prksdo63veu6pdadn0!nd_dft_wlteh_webp_3?src=A",
       "likes": 32,
       "collects": 6,
       "comments": 1,
@@ -19525,6 +20786,13 @@ window.XHS_DATA = {
           "collects": 6,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 32,
+          "collects": 6,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -19533,7 +20801,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "159cm 45kg 减肥版杨枝甘露🥭🇰🇷",
       "author": "娜娜nanapick",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121017/824873db9804a606399035f797ec99a0/oss-sg/notes/1040g3l0320gavnnc7c005prksdo63veumkcs9ig!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131015/e26dc2252400e33ccab70eb9d9f3961a/oss-sg/notes/1040g3l0320gavnnc7c005prksdo63veumkcs9ig!nd_dft_wlteh_webp_3?src=A",
       "likes": 8,
       "collects": 1,
       "comments": 0,
@@ -19648,6 +20916,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 8,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -19656,7 +20931,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷39岁 159cm 55kg > 45kg vlog",
       "author": "娜娜nanapick",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121017/c5be51ec0835c08a682c298ddb0eedfd/oss-sg/notes/1040g3l032053f8l47i005prksdo63veujd7ub80!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131015/c7b824f6da765ab1ce3bd7da4df69323/oss-sg/notes/1040g3l032053f8l47i005prksdo63veujd7ub80!nd_dft_wlteh_webp_3?src=A",
       "likes": 13,
       "collects": 0,
       "comments": 0,
@@ -19771,6 +21046,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 13,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -19779,8 +21061,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国白天也太热了吧🥵☀️",
       "author": "姜抒衍",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121017/6c49ae14cdfcdfa1830939e31027121f/oss-sg/notes/1040g3l0323lbinoqic005qfge393en00mf689ag!nd_dft_wlteh_webp_3?src=A",
-      "likes": 16,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131016/e60d2b858793c7aed3c8eeca96897f61/oss-sg/notes/1040g3l0323lbinoqic005qfge393en00mf689ag!nd_dft_wlteh_webp_3?src=A",
+      "likes": 17,
       "collects": 1,
       "comments": 3,
       "comments_text": [],
@@ -19810,6 +21092,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 3,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 17,
+          "collects": 1,
+          "comments": 3,
+          "shares": 1
         }
       ]
     },
@@ -19818,7 +21107,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷🍊  我的济州治愈角落🌿",
       "author": "姜抒衍",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121018/548980c0954fdd38ab8d03c6c9912b64/oss-sg/notes/1040g3l0323guupco06005qfge393en00tgmdbig!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131016/190c1871fab745f11b5481c8261b96bb/oss-sg/notes/1040g3l0323guupco06005qfge393en00tgmdbig!nd_dft_wlteh_webp_3?src=A",
       "likes": 22,
       "collects": 28,
       "comments": 1,
@@ -19856,6 +21145,13 @@ window.XHS_DATA = {
           "collects": 28,
           "comments": 1,
           "shares": 5
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 22,
+          "collects": 28,
+          "comments": 1,
+          "shares": 5
         }
       ]
     },
@@ -19864,8 +21160,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "AI变身蜘蛛侠🕷️",
       "author": "姜抒衍",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121018/65e1843d9310cee1898a44f0568f7a38/oss-sg/notes/1040g3l0323fudr7ug8005qfge393en00uku1bto!nd_dft_wlteh_webp_3?src=A",
-      "likes": 33,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131016/4a546aee07c04633fdc32581cd230395/oss-sg/notes/1040g3l0323fudr7ug8005qfge393en00uku1bto!nd_dft_wlteh_webp_3?src=A",
+      "likes": 34,
       "collects": 7,
       "comments": 0,
       "comments_text": [],
@@ -19902,6 +21198,13 @@ window.XHS_DATA = {
           "collects": 7,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 34,
+          "collects": 7,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -19910,7 +21213,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "AI爆改蜘蛛侠战衣🔥真的太好玩了",
       "author": "姜抒衍",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121018/1e40fec8ee2103d1d2d1f7ff326fcfa1/oss-sg/notes_pre_post/1040g3mo323brr75rni005qfge393en00ndrpv40!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131017/43ca64fa8d663c1e1f4e283293e67753/oss-sg/notes_pre_post/1040g3mo323brr75rni005qfge393en00ndrpv40!nd_dft_wlteh_webp_3?src=A",
       "likes": 57,
       "collects": 6,
       "comments": 5,
@@ -19948,6 +21251,13 @@ window.XHS_DATA = {
           "collects": 6,
           "comments": 5,
           "shares": 3
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 57,
+          "collects": 6,
+          "comments": 5,
+          "shares": 3
         }
       ]
     },
@@ -19956,7 +21266,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "首尔超好逛的Iceball旗舰店💎✨💍",
       "author": "姜抒衍",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121018/60b775f5309fbae1664cb9e1c0b34a48/oss-sg/notes/1040g3l0323brr75pg0005qfge393en00qt45fb8!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131017/e12180330252ccc013703a59d2482879/oss-sg/notes/1040g3l0323brr75pg0005qfge393en00qt45fb8!nd_dft_wgth_webp_3?src=A",
       "likes": 9,
       "collects": 1,
       "comments": 0,
@@ -19994,6 +21304,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 9,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -20002,7 +21319,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Vlog|沉浸式带你体验韩国婚礼的一天💍",
       "author": "Haesol",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121019/cd1487c43f00624893fc81b278f1eff8/1040g008323edm9oa02005p57m4hn5bfvhh8h660!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131017/7aadbaf0b7822012b5cbaaeff4e79a97/1040g008323edm9oa02005p57m4hn5bfvhh8h660!nd_dft_wlteh_webp_3?src=A",
       "likes": 27,
       "collects": 4,
       "comments": 0,
@@ -20047,6 +21364,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 0,
           "shares": 3
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 27,
+          "collects": 4,
+          "comments": 0,
+          "shares": 3
         }
       ]
     },
@@ -20055,7 +21379,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "世界杯周边的穿搭搭配X4",
       "author": "Haesol",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121019/ab00a9218b6c224b8e97aa9d7abd2061/1040g008322jpto1200005p57m4hn5bfvgb2gp9o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131018/04ca42ee1d4dc9cd39268611620573bb/1040g008322jpto1200005p57m4hn5bfvgb2gp9o!nd_dft_wlteh_webp_3?src=A",
       "likes": 12,
       "collects": 1,
       "comments": 0,
@@ -20142,6 +21466,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 12,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -20150,7 +21481,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "备婚日常💕",
       "author": "Haesol",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121020/2426ff9d44c7c500df1758c3fcf08426/1040g2sg321ravk0j7k705p57m4hn5bfv6cfph90!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131018/6f34eaa3dd08f89c29e84224b2cad010/1040g2sg321ravk0j7k705p57m4hn5bfv6cfph90!nd_dft_wlteh_webp_3?src=A",
       "likes": 33,
       "collects": 4,
       "comments": 3,
@@ -20272,6 +21603,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 3,
           "shares": 2
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 33,
+          "collects": 4,
+          "comments": 3,
+          "shares": 2
         }
       ]
     },
@@ -20280,7 +21618,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国女生普普通通的 Vlog❤️",
       "author": "Haesol",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121020/d4ad86363405b2885b470ffd8b204c2b/1040g2sg321aav8h7ne705p57m4hn5bfv419s1t8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131018/492ab74a73963bdc305fdcf8cbd000b7/1040g2sg321aav8h7ne705p57m4hn5bfv419s1t8!nd_dft_wlteh_webp_3?src=A",
       "likes": 87,
       "collects": 12,
       "comments": 6,
@@ -20402,6 +21740,13 @@ window.XHS_DATA = {
           "collects": 12,
           "comments": 6,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 87,
+          "collects": 12,
+          "comments": 6,
+          "shares": 1
         }
       ]
     },
@@ -20410,7 +21755,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国女生学习中文日常Vlog✨",
       "author": "Haesol",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121020/8c327a978b105aad2bc424b64c987604/1040g008320n911b25s005p57m4hn5bfv6odrp1o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131018/650ec55c39499e214b280078ae8a498d/1040g008320n911b25s005p57m4hn5bfv6odrp1o!nd_dft_wlteh_webp_3?src=A",
       "likes": 492,
       "collects": 81,
       "comments": 30,
@@ -20532,6 +21877,13 @@ window.XHS_DATA = {
           "collects": 81,
           "comments": 30,
           "shares": 6
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 492,
+          "collects": 81,
+          "comments": 30,
+          "shares": 6
         }
       ]
     },
@@ -20540,7 +21892,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国男主播白天都在干什么？",
       "author": "YeaHoo 雅虎",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121021/e8f8a5bf7e9601044fb4a3bf69db436e/oss-sg/notes/1040g3l0322m8bvgq00005qfj8jqjej01ao96vgg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131019/614d9083a1202a4a867fc5de328a0c22/oss-sg/notes/1040g3l0322m8bvgq00005qfj8jqjej01ao96vgg!nd_dft_wlteh_webp_3?src=A",
       "likes": 6,
       "collects": 1,
       "comments": 0,
@@ -20627,6 +21979,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 6,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -20635,7 +21994,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Le freak🎵",
       "author": "YeaHoo 雅虎",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121021/6d016fc233b4789c8a9a54d50e26f407/oss-sg/notes/1040g3l0321b19f43nc005qfj8jqjej01a9h7l80!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131019/a89a007acbd6cb173b537d20732b4f8b/oss-sg/notes/1040g3l0321b19f43nc005qfj8jqjej01a9h7l80!nd_dft_wlteh_webp_3?src=A",
       "likes": 4,
       "collects": 0,
       "comments": 0,
@@ -20750,6 +22109,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 4,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -20758,7 +22124,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "社交悍匪入侵官方活动…",
       "author": "YeaHoo 雅虎",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121021/57a362482b2fa9750142c24eb3b473ca/oss-sg/notes/1040g3l0321k57v8j7e005qfj8jqjej014s6sme0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131020/8133f3b56c561f39ebb939ba93447c3f/oss-sg/notes/1040g3l0321k57v8j7e005qfj8jqjej014s6sme0!nd_dft_wlteh_webp_3?src=A",
       "likes": 7,
       "collects": 0,
       "comments": 0,
@@ -20873,6 +22239,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 7,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -20881,7 +22254,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "这个sixseven有点上头！",
       "author": "YeaHoo 雅虎",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121022/58eacf75be74361d1377d893253e1e9c/oss-sg/notes/1040g3l0321b0derenk0g5qfj8jqjej01vumi8kg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131020/e4937b3678667fd3615f40d41cfe01eb/oss-sg/notes/1040g3l0321b0derenk0g5qfj8jqjej01vumi8kg!nd_dft_wlteh_webp_3?src=A",
       "likes": 2,
       "collects": 2,
       "comments": 0,
@@ -20996,6 +22369,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -21004,7 +22384,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "一转眼就长大了",
       "author": "YeaHoo 雅虎",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121022/799a71590bf953e249170b2bb3baff9d/oss-sg/notes/1040g3l0321b0derenk005qfj8jqjej01t7082d0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131020/3dc73e9212a3e51528dd89118e8209ae/oss-sg/notes/1040g3l0321b0derenk005qfj8jqjej01t7082d0!nd_dft_wlteh_webp_3?src=A",
       "likes": 3,
       "collects": 0,
       "comments": 0,
@@ -21119,6 +22499,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 3,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -21127,7 +22514,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "漂亮鬼神4|她也能看见？",
       "author": "scene world",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121022/d1ea077c6618a64d1b541866778065c1/oss-sg/notes/1040g3l0321i1jtl67c005qfj81e3en017qp39f0!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131021/f61cd53d9ce95745b37ff5df9e3731de/oss-sg/notes/1040g3l0321i1jtl67c005qfj81e3en017qp39f0!nd_dft_wgth_webp_3?src=A",
       "likes": 17,
       "collects": 0,
       "comments": 0,
@@ -21242,6 +22629,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 17,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -21250,13 +22644,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "漂亮鬼神 3|来了个新房客",
       "author": "scene world",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121023/3324eab5253ce1d30979d39db26c32a5/oss-sg/notes/1040g3l0321ehaopl7k005qfj81e3en01ja0qv0g!nd_dft_wgth_webp_3?src=A",
-      "likes": 4,
+      "cover": "",
+      "likes": 0,
       "collects": 0,
       "comments": 0,
       "comments_text": [],
       "shares": 0,
-      "publish_time": "2026-06-16",
+      "publish_time": "",
       "pinned": false,
       "grid_order": 1,
       "from_profile": true,
@@ -21365,6 +22759,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 0,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -21373,7 +22774,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "漂亮鬼神 2|传销 VS 鬼神",
       "author": "scene world",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121023/7b57cc553a308a9235983f3edee338b0/oss-sg/notes/1040g3l0321bj2dr4ni005qfj81e3en01rni07f0!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131021/dd5a67f484269eb00a2ad5a68a40ec5a/oss-sg/notes/1040g3l0321bj2dr4ni005qfj81e3en01rni07f0!nd_dft_wgth_webp_3?src=A",
       "likes": 8,
       "collects": 1,
       "comments": 1,
@@ -21488,6 +22889,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 8,
+          "collects": 1,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -21496,7 +22904,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "漂亮鬼神住我家|韩剧式反转剧情",
       "author": "scene world",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121023/a2cba1399d4ea26897889f25e79d85ff/oss-sg/notes/1040g3l0320mqofthni005qfj81e3en01ljhnvl8!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131021/6b3a207b09152396ec5e0ed8263df47f/oss-sg/notes/1040g3l0320mqofthni005qfj81e3en01ljhnvl8!nd_dft_wgth_webp_3?src=A",
       "likes": 10,
       "collects": 1,
       "comments": 0,
@@ -21555,202 +22963,12 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a368897000000000e038401",
-      "type": "note",
-      "title": "🇰🇷模特一周开车通勤穿搭 2",
-      "author": "Daroyoon",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121024/2db536e6a5ed5c794d19dc22014dfa64/oss-sg/notes/1040g3l0321ku80sr7c005qfj8763en01cggvvm0!nd_dft_wlteh_webp_3?src=A",
-      "likes": 11,
-      "collects": 1,
-      "comments": 0,
-      "comments_text": [],
-      "shares": 1,
-      "publish_time": "2026-06-20",
-      "pinned": false,
-      "grid_order": 0,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "likes": 11,
-          "collects": 1,
-          "comments": 0,
-          "shares": 1
         },
         {
-          "date": "2026-07-08",
-          "likes": 11,
-          "collects": 1,
-          "comments": 0,
-          "shares": 1
-        },
-        {
-          "date": "2026-07-09",
-          "likes": 11,
-          "collects": 1,
-          "comments": 0,
-          "shares": 1
-        },
-        {
-          "date": "2026-07-10",
-          "likes": 11,
-          "collects": 1,
-          "comments": 0,
-          "shares": 1
-        },
-        {
-          "date": "2026-07-20",
-          "likes": 11,
-          "collects": 1,
-          "comments": 0,
-          "shares": 1
-        },
-        {
-          "date": "2026-07-21",
-          "likes": 11,
-          "collects": 1,
-          "comments": 0,
-          "shares": 1
-        },
-        {
-          "date": "2026-07-29",
-          "likes": 11,
-          "collects": 1,
-          "comments": 0,
-          "shares": 1
-        },
-        {
-          "date": "2026-07-31",
-          "likes": 11,
-          "collects": 1,
-          "comments": 0,
-          "shares": 1
-        },
-        {
-          "date": "2026-08-03",
-          "likes": 11,
-          "collects": 1,
-          "comments": 0,
-          "shares": 1
-        },
-        {
-          "date": "2026-08-04",
-          "likes": 11,
-          "collects": 1,
-          "comments": 0,
-          "shares": 1
-        },
-        {
-          "date": "2026-08-06",
-          "likes": 11,
-          "collects": 1,
-          "comments": 0,
-          "shares": 1
-        },
-        {
-          "date": "2026-08-07",
-          "likes": 11,
-          "collects": 1,
-          "comments": 0,
-          "shares": 1
-        },
-        {
-          "date": "2026-08-10",
-          "likes": 11,
-          "collects": 1,
-          "comments": 0,
-          "shares": 1
-        },
-        {
-          "date": "2026-08-11",
-          "likes": 11,
-          "collects": 1,
-          "comments": 0,
-          "shares": 1
-        },
-        {
-          "date": "2026-08-12",
-          "likes": 11,
-          "collects": 1,
-          "comments": 0,
-          "shares": 1
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a2a91df000000000e031400",
-      "type": "note",
-      "title": "🇰🇷模特一周开车通勤穿搭",
-      "author": "Daroyoon",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121024/875efefc63b131bc7fa0af1c74e2f134/oss-sg/notes/1040g3l032198co3g7c005qfj8763en01fhllc10!nd_dft_wlteh_webp_3?src=A",
-      "likes": 10,
-      "collects": 2,
-      "comments": 1,
-      "comments_text": [],
-      "shares": 0,
-      "publish_time": "2026-06-11",
-      "pinned": false,
-      "grid_order": 1,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-07-31",
+          "date": "2026-08-13",
           "likes": 10,
-          "collects": 2,
-          "comments": 1,
-          "shares": 0
-        },
-        {
-          "date": "2026-08-03",
-          "likes": 10,
-          "collects": 2,
-          "comments": 1,
-          "shares": 0
-        },
-        {
-          "date": "2026-08-04",
-          "likes": 10,
-          "collects": 2,
-          "comments": 1,
-          "shares": 0
-        },
-        {
-          "date": "2026-08-06",
-          "likes": 10,
-          "collects": 2,
-          "comments": 1,
-          "shares": 0
-        },
-        {
-          "date": "2026-08-07",
-          "likes": 10,
-          "collects": 2,
-          "comments": 1,
-          "shares": 0
-        },
-        {
-          "date": "2026-08-10",
-          "likes": 10,
-          "collects": 2,
-          "comments": 1,
-          "shares": 0
-        },
-        {
-          "date": "2026-08-11",
-          "likes": 10,
-          "collects": 2,
-          "comments": 1,
-          "shares": 0
-        },
-        {
-          "date": "2026-08-12",
-          "likes": 10,
-          "collects": 2,
-          "comments": 1,
+          "collects": 1,
+          "comments": 0,
           "shares": 0
         }
       ]
@@ -21760,15 +22978,11 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国前爱豆跳《打瓦必跳迷核小曲》🔥",
       "author": "喵咕情侣",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121025/d3f6c8751edb9fc9e72849c9735087de/oss-sg/notes/1040g3l0323ngbivg2c005qfit9vjen03nbv06io!nd_dft_wlteh_webp_3?src=A",
-      "likes": 80,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131022/60f05476939b13deaa79f17110f9701b/oss-sg/notes/1040g3l0323ngbivg2c005qfit9vjen03nbv06io!nd_dft_wlteh_webp_3?src=A",
+      "likes": 90,
       "collects": 10,
       "comments": 3,
-      "comments_text": [
-        "哇……是三个人吗？",
-        "这首歌真的太上头了😂🔥\n你们觉得我跳得怎么样？\n下一首想看我挑战什么？评论区点歌！👇",
-        "[飞吻R][飞吻R]"
-      ],
+      "comments_text": [],
       "shares": 4,
       "publish_time": "2026-08-11",
       "pinned": false,
@@ -21781,41 +22995,12 @@ window.XHS_DATA = {
           "collects": 10,
           "comments": 3,
           "shares": 4
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a795e060000000012013b5b",
-      "type": "note",
-      "title": "如果Tomie剪短发，你更喜欢？",
-      "author": "喵咕情侣",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121025/b2c7101af75da59ded7875d2e2ad912c/oss-sg/notes/1040g3l0323m6s037ie005qfit9vjen03gnit1k0!nd_dft_wlteh_webp_3?src=A",
-      "likes": 57,
-      "collects": 4,
-      "comments": 5,
-      "comments_text": [
-        "如果是你，你会让Tomie剪短发吗？😂\n我感觉短发也会有完全不一样的魅力……🖤\n评论告诉我：短发派还是长发派？👇",
-        "像漫画角色一样",
-        "很有鬼感[doge]"
-      ],
-      "shares": 4,
-      "publish_time": "2026-08-10",
-      "pinned": false,
-      "grid_order": 1,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-08-11",
-          "likes": 50,
-          "collects": 4,
-          "comments": 5,
-          "shares": 4
         },
         {
-          "date": "2026-08-12",
-          "likes": 57,
-          "collects": 4,
-          "comments": 5,
+          "date": "2026-08-13",
+          "likes": 90,
+          "collects": 10,
+          "comments": 3,
           "shares": 4
         }
       ]
@@ -21825,7 +23010,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "谈恋爱时 vs 分手后",
       "author": "喵咕情侣",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121025/d9d745d6a3216e101b11a5778bdb2576/oss-sg/notes/1040g3l0323l0co6lic005qfit9vjen034hrggg8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131023/c47a3458ba8cbfaa0c837da744966297/oss-sg/notes/1040g3l0323l0co6lic005qfit9vjen034hrggg8!nd_dft_wlteh_webp_3?src=A",
       "likes": 5,
       "collects": 2,
       "comments": 3,
@@ -21860,6 +23045,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 3,
           "shares": 4
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 5,
+          "collects": 2,
+          "comments": 3,
+          "shares": 4
         }
       ]
     },
@@ -21868,14 +23060,14 @@ window.XHS_DATA = {
       "type": "note",
       "title": "前韩国偶像挑战 BABYMONSTER ASA妆容✨",
       "author": "喵咕情侣",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121025/e9c0c353a0f56f246067b0b379e34688/oss-sg/notes/1040g3l0323jljg012c005qfit9vjen03fkquq2o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131023/c88155fa32ce17015673dfa87686ac2d/oss-sg/notes/1040g3l0323jljg012c005qfit9vjen03fkquq2o!nd_dft_wlteh_webp_3?src=A",
       "likes": 107,
       "collects": 10,
       "comments": 10,
       "comments_text": [
         "觉得完全不像[害羞R]不要骂我",
-        "有点感觉[自拍R]",
         "有感觉",
+        "有点感觉[自拍R]",
         "你们觉得像ASA吗？👀\n下一次想看哪位KPOP爱豆的妆容？评论区告诉我！💄👇"
       ],
       "shares": 4,
@@ -21904,6 +23096,13 @@ window.XHS_DATA = {
           "collects": 10,
           "comments": 10,
           "shares": 4
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 107,
+          "collects": 10,
+          "comments": 10,
+          "shares": 4
         }
       ]
     },
@@ -21912,16 +23111,16 @@ window.XHS_DATA = {
       "type": "note",
       "title": "前韩国爱豆挑战 aespa《Lemonade》！🍋",
       "author": "喵咕情侣",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121025/76c85b1ca97421cef36bf6d333c38db2/oss-sg/notes/1040g3l0323ibhui9ic005qfit9vjen03ecie0ig!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131023/4fa53b4ac759b04a85c0295911ce7cd5/oss-sg/notes/1040g3l0323ibhui9ic005qfit9vjen03ecie0ig!nd_dft_wlteh_webp_3?src=A",
       "likes": 67,
       "collects": 5,
       "comments": 18,
       "comments_text": [
         "鼻孔也太可爱了吧",
         "我来啦！[哇R]",
-        "好漂亮的姐姐",
-        "你长的有点像金志垣[害羞R]",
         "姐姐之前是哪个团的？",
+        "你长的有点像金志垣[害羞R]",
+        "好漂亮的姐姐",
         "你点的《Lemonade》已经跳啦！谢谢你的推荐～🥹\n希望你会喜欢！如果还有想看的舞蹈，记得继续留言告诉我呀❤️"
       ],
       "shares": 4,
@@ -21950,6 +23149,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 18,
           "shares": 4
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 67,
+          "collects": 5,
+          "comments": 18,
+          "shares": 4
         }
       ]
     },
@@ -21958,7 +23164,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "p1 🧢👜Vintage Vondutch/Vintage Chanel ✝",
       "author": "aquaaa7",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121026/020a810790b6effdf7915a8013054514/01027a01kuojwoscmk4010ri3sh3ox8j1e!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131024/f229a2d8943307b75f854f0174f2c812/01027a01kuojwoscmk4010ri3sh3ox8j1e!nd_dft_wgth_webp_3?src=A",
       "likes": 33,
       "collects": 1,
       "comments": 3,
@@ -21978,6 +23184,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 3,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 33,
+          "collects": 1,
+          "comments": 3,
+          "shares": 1
         }
       ]
     },
@@ -21986,7 +23199,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国K-POP夜店推荐",
       "author": "Holy Cow 🐮",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121026/fa0c34997f4ca9fb919f913f4c6392ac/oss-sg/notes/1040g3l03221qf35enc005q0k8ip3jmadvssl178!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131024/9c62ecba74f5140227bd7bce89988922/oss-sg/notes/1040g3l03221qf35enc005q0k8ip3jmadvssl178!nd_dft_wlteh_webp_3?src=A",
       "likes": 2,
       "collects": 0,
       "comments": 0,
@@ -22024,6 +23237,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -22032,7 +23252,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "2026 弘大 KPOP 蹦迪推荐",
       "author": "Holy Cow 🐮",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121026/55250ad38c31b6fb5d351bbcd9ef7fd1/oss-sg/notes/1040g3l03218sr5gj7k005q0k8ip3jmad79f1m7g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131024/f407117f9c4151388b27f850944063f7/oss-sg/notes/1040g3l03218sr5gj7k005q0k8ip3jmad79f1m7g!nd_dft_wlteh_webp_3?src=A",
       "likes": 12,
       "collects": 4,
       "comments": 2,
@@ -22073,6 +23293,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 2,
           "shares": 3
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 12,
+          "collects": 4,
+          "comments": 2,
+          "shares": 3
         }
       ]
     },
@@ -22081,7 +23308,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "2026 韩国梨泰院热门场所推荐",
       "author": "Holy Cow 🐮",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121026/0b991874e098356bf3c3e48ce3390df1/oss-sg/notes/1040g3l03216l2iei7c005q0k8ip3jmad7962uqo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131024/b2bac6843ff8bc4e93c852b1d511390f/oss-sg/notes/1040g3l03216l2iei7c005q0k8ip3jmad7962uqo!nd_dft_wlteh_webp_3?src=A",
       "likes": 305,
       "collects": 209,
       "comments": 8,
@@ -22125,6 +23352,13 @@ window.XHS_DATA = {
           "collects": 209,
           "comments": 8,
           "shares": 150
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 305,
+          "collects": 209,
+          "comments": 8,
+          "shares": 150
         }
       ]
     },
@@ -22133,7 +23367,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "大邱最火最热闹的蹦迪推荐",
       "author": "Holy Cow 🐮",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121027/cc5197d5bad7034322002fadc440b338/oss-sg/notes/1040g3l0320ihv373nk005q0k8ip3jmad7cijd28!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131024/df0370333122f527f62ccbb8f8d9e5cd/oss-sg/notes/1040g3l0320ihv373nk005q0k8ip3jmad7cijd28!nd_dft_wlteh_webp_3?src=A",
       "likes": 13,
       "collects": 5,
       "comments": 4,
@@ -22142,7 +23376,7 @@ window.XHS_DATA = {
         "외국인 안대용ㅠㅠ",
         "dd"
       ],
-      "shares": 20,
+      "shares": 21,
       "publish_time": "2026-05-25",
       "pinned": false,
       "grid_order": 3,
@@ -22175,6 +23409,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 4,
           "shares": 20
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 13,
+          "collects": 5,
+          "comments": 4,
+          "shares": 21
         }
       ]
     },
@@ -22183,7 +23424,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "梨泰院edm蹦迪测评",
       "author": "Holy Cow 🐮",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121027/5a0f8a2e418b7b88349b6c204b02f509/1040g2sg31upa829r2q705q0k8ip3jmadd39kmcg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131025/59c18a433d47466bb8ab078bd38fdbec/1040g2sg31upa829r2q705q0k8ip3jmadd39kmcg!nd_dft_wlteh_webp_3?src=A",
       "likes": 57,
       "collects": 28,
       "comments": 2,
@@ -22223,6 +23464,13 @@ window.XHS_DATA = {
           "collects": 28,
           "comments": 2,
           "shares": 40
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 57,
+          "collects": 28,
+          "comments": 2,
+          "shares": 40
         }
       ]
     },
@@ -22231,7 +23479,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "今天是婚纱拍摄日 🤍",
       "author": "Juyeol Choi",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121027/e853ac1207764f2bc890c8cdfbd60f83/oss-sg/notes_pre_post/1040g3mo322lps4pgno005pvopfbjjl1mm05jah8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131025/005beef30ab49d086c4e0dfb5ceca483/oss-sg/notes_pre_post/1040g3mo322lps4pgno005pvopfbjjl1mm05jah8!nd_dft_wlteh_webp_3?src=A",
       "likes": 2,
       "collects": 0,
       "comments": 0,
@@ -22269,6 +23517,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -22277,7 +23532,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "美好的一天。☀️",
       "author": "Juyeol Choi",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121027/f3f165c9498c52aede892575a6e287a7/oss-sg/notes_pre_post/1040g3mo3223aestpng005pvopfbjjl1mubd17ao!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131025/9162223df7b3094dbedc30c97fab89ec/oss-sg/notes_pre_post/1040g3mo3223aestpng005pvopfbjjl1mubd17ao!nd_dft_wlteh_webp_3?src=A",
       "likes": 4,
       "collects": 0,
       "comments": 0,
@@ -22315,6 +23570,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 4,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -22323,7 +23585,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "hi 👋🏻",
       "author": "Juyeol Choi",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121027/0babc1e91ea1b81fa4285d6d16054b03/oss-sg/notes/1040g3l03220p1pcs7q005pvopfbjjl1mg03l7eg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131025/1c5d2d091290167d06f5f1653d893c9b/oss-sg/notes/1040g3l03220p1pcs7q005pvopfbjjl1mg03l7eg!nd_dft_wlteh_webp_3?src=A",
       "likes": 5,
       "collects": 0,
       "comments": 0,
@@ -22361,6 +23623,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 5,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -22369,7 +23638,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "☺️💐",
       "author": "Juyeol Choi",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121028/54731db83e7e3c052a80858be83aab83/oss-sg/notes_pre_post/1040g3mo321tfgehs7i005pvopfbjjl1mckako5g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131025/a83bc9440e75ea304244324095b123ed/oss-sg/notes_pre_post/1040g3mo321tfgehs7i005pvopfbjjl1mckako5g!nd_dft_wlteh_webp_3?src=A",
       "likes": 14,
       "collects": 0,
       "comments": 0,
@@ -22407,6 +23676,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 14,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -22415,7 +23691,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "今日份浪漫 💍",
       "author": "Juyeol Choi",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121028/f70f25336f9ba7118258c48bf9f86f69/oss-sg/notes/1040g3l0321nj2ufhni005pvopfbjjl1m7b767lo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131026/0bccba0ed3e3ee4becca163fd15c9364/oss-sg/notes/1040g3l0321nj2ufhni005pvopfbjjl1m7b767lo!nd_dft_wlteh_webp_3?src=A",
       "likes": 5,
       "collects": 0,
       "comments": 0,
@@ -22453,6 +23729,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 5,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -22461,15 +23744,15 @@ window.XHS_DATA = {
       "type": "note",
       "title": "最近喜欢的周末氛围⋆.ೃ࿔:･",
       "author": "楊眞 8_jjini",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121028/3df52e796159250e7b4f5a5d381f69b6/oss-sg/notes/1040g3l0323kcdaebj0105qbggubpn9mdfmd55r8!nd_dft_wlteh_webp_3?src=A",
-      "likes": 91,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131026/0b391c2f81a7be1c3247057d9e3b59a3/oss-sg/notes/1040g3l0323kcdaebj0105qbggubpn9mdfmd55r8!nd_dft_wlteh_webp_3?src=A",
+      "likes": 96,
       "collects": 19,
       "comments": 2,
       "comments_text": [
         "越来越漂亮[偷笑R]",
         "姐姐我今天也做了海利美甲"
       ],
-      "shares": 0,
+      "shares": 1,
       "publish_time": "2026-08-09",
       "pinned": false,
       "grid_order": 0,
@@ -22488,6 +23771,13 @@ window.XHS_DATA = {
           "collects": 19,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 96,
+          "collects": 19,
+          "comments": 2,
+          "shares": 1
         }
       ]
     },
@@ -22496,14 +23786,14 @@ window.XHS_DATA = {
       "type": "note",
       "title": "周末身体管理Vlog🫧",
       "author": "楊眞 8_jjini",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121028/9c89cc49eb6b8d8e2d9191d10392e5bf/oss-sg/notes/1040g3l0323j2kv0qii0g5qbggubpn9mdd0bkju0!nd_dft_wlteh_webp_3?src=A",
-      "likes": 659,
-      "collects": 154,
-      "comments": 9,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131026/2795b6110d99dc2b64c8fdac24572427/oss-sg/notes/1040g3l0323j2kv0qii0g5qbggubpn9mdd0bkju0!nd_dft_wlteh_webp_3?src=A",
+      "likes": 672,
+      "collects": 155,
+      "comments": 8,
       "comments_text": [
         "想问下一套有没有链接呀[飞吻R]",
-        "宝宝 请问裤子[红色心形R]",
         "这是韩国什么地方",
+        "宝宝 请问裤子[红色心形R]",
         "好瘦哇",
         "太美了[飞吻R]  身材无敌好[派对R]气质也超高",
         "加油"
@@ -22527,6 +23817,13 @@ window.XHS_DATA = {
           "collects": 154,
           "comments": 9,
           "shares": 19
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 672,
+          "collects": 155,
+          "comments": 8,
+          "shares": 19
         }
       ]
     },
@@ -22535,19 +23832,19 @@ window.XHS_DATA = {
       "type": "note",
       "title": "最近喜欢的照片合集🤍",
       "author": "楊眞 8_jjini",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121028/0df4f5170d154b797eca715ac96a297c/oss-sg/notes_pre_post/1040g3mo322mg90dm7u005qbggubpn9mda9oql48!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131026/1c27e71540ff0249297d2630e36cea3c/oss-sg/notes_pre_post/1040g3mo322mg90dm7u005qbggubpn9mda9oql48!nd_dft_wlteh_webp_3?src=A",
       "likes": 1100,
       "collects": 186,
       "comments": 31,
       "comments_text": [
         "面相金水格",
         "还以为你又要当夜猫子了[偷笑R]",
-        "爱你呦[飞吻R]",
+        "问问姐姐的美瞳",
         "姐姐，怎么让妆容变得bling bling的，用了高光产品吗",
-        "Soooo pretty💗",
-        "好美啊[心心眼R]"
+        "爱你呦[飞吻R]",
+        "Soooo pretty💗"
       ],
-      "shares": 14,
+      "shares": 15,
       "publish_time": "2026-07-16",
       "pinned": false,
       "grid_order": 2,
@@ -22566,6 +23863,13 @@ window.XHS_DATA = {
           "collects": 186,
           "comments": 31,
           "shares": 14
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1100,
+          "collects": 186,
+          "comments": 31,
+          "shares": 15
         }
       ]
     },
@@ -22574,9 +23878,9 @@ window.XHS_DATA = {
       "type": "note",
       "title": "我真的很喜欢运动🏋🏻‍♀️🤍",
       "author": "楊眞 8_jjini",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121028/0c0f60c97baa1446f417948f36f016bd/oss-sg/notes/1040g3l0322mg90d0no105qbggubpn9mdgfr4v3g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131026/d0fabb5b50208b83a58e5ca97d1de0df/oss-sg/notes/1040g3l0322mg90d0no105qbggubpn9mdgfr4v3g!nd_dft_wlteh_webp_3?src=A",
       "likes": 3900,
-      "collects": 872,
+      "collects": 871,
       "comments": 40,
       "comments_text": [
         "蹲蹲上衣裤子和鞋子[害羞R]",
@@ -22584,9 +23888,9 @@ window.XHS_DATA = {
         "这状态真好",
         "姐姐身材好棒！健身的同时也别忘了好好吃饭[哭惹R]太瘦了[哭惹R]看的心疼死我了",
         "鞋底太厚了，脚趾抓地会很费劲，导致左右晃。换个平底训练鞋会好很多。[派对R]",
-        "加油 好棒[派对R]"
+        "好瘦呀宝宝"
       ],
-      "shares": 50,
+      "shares": 51,
       "publish_time": "2026-07-16",
       "pinned": false,
       "grid_order": 3,
@@ -22605,6 +23909,13 @@ window.XHS_DATA = {
           "collects": 872,
           "comments": 40,
           "shares": 50
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 3900,
+          "collects": 871,
+          "comments": 40,
+          "shares": 51
         }
       ]
     },
@@ -22613,17 +23924,17 @@ window.XHS_DATA = {
       "type": "note",
       "title": "10秒水光直接拉满✨",
       "author": "楊眞 8_jjini",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121029/c56a1ac1d01d28f62fbb5640070a0b0e/oss-sg/notes/1040g3l0322mg90d0no0g5qbggubpn9md3akoeoo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131027/37bf4b374f112e830f6c5071b2b8c0b7/oss-sg/notes/1040g3l0322mg90d0no0g5qbggubpn9md3akoeoo!nd_dft_wlteh_webp_3?src=A",
       "likes": 3200,
-      "collects": 624,
-      "comments": 134,
+      "collects": 626,
+      "comments": 135,
       "comments_text": [
         "记住，美女是天生和医美，护肤品的作用不超过百分之5",
         "眼线下至是半永久",
         "我以为你画了全妆，结果你是素颜",
+        "缺人脉嘛，➕爆那种 都是有购买意愿的",
         "[汗颜R]感觉有点像油",
-        "可以用来做起泡胶[色色R]",
-        "Ai"
+        "可以用来做起泡胶[色色R]"
       ],
       "shares": 71,
       "publish_time": "2026-07-16",
@@ -22644,6 +23955,13 @@ window.XHS_DATA = {
           "collects": 624,
           "comments": 134,
           "shares": 71
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 3200,
+          "collects": 626,
+          "comments": 135,
+          "shares": 71
         }
       ]
     },
@@ -22652,8 +23970,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "和50位粉丝一起过生日🎂💖",
       "author": "种草公主NANAIN",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121029/69600f9df4355553628705a1f6ca66cc/oss-sg/notes/1040g3l0323nullhl2c005pfle6p1hirfg9r5es8!nd_dft_wlteh_webp_3?src=A",
-      "likes": 6,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131027/f4d25115e6767b43126537011ed26995/oss-sg/notes/1040g3l0323nullhl2c005pfle6p1hirfg9r5es8!nd_dft_wlteh_webp_3?src=A",
+      "likes": 7,
       "collects": 0,
       "comments": 2,
       "comments_text": [
@@ -22671,6 +23989,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 7,
+          "collects": 0,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -22679,7 +24004,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国女博主推荐上海美食✈️❤️",
       "author": "种草公主NANAIN",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121029/213010d6f4d59358d4eb7bd76e36b3f3/oss-sg/notes/1040g3l0321egtpgq7k0g5pfle6p1hirf8mmam48!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131027/3762e3abd9061bb518bcebf276679f64/oss-sg/notes/1040g3l0321egtpgq7k0g5pfle6p1hirf8mmam48!nd_dft_wlteh_webp_3?src=A",
       "likes": 9,
       "collects": 3,
       "comments": 0,
@@ -22794,6 +24119,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 9,
+          "collects": 3,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -22802,7 +24134,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "青岛的回忆🇰🇷🤭",
       "author": "种草公主NANAIN",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121029/2613d365702bf3310fcb2d8de35e08ac/oss-sg/notes_pre_post/1040g3mo321ef60lhni305pfle6p1hirf293bkso!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131027/19515f13dc4d90d9611dfced6092357a/oss-sg/notes_pre_post/1040g3mo321ef60lhni305pfle6p1hirf293bkso!nd_dft_wlteh_webp_3?src=A",
       "likes": 2,
       "collects": 0,
       "comments": 0,
@@ -22917,6 +24249,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -22925,7 +24264,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "在上海6000+就能买迪奥？！",
       "author": "种草公主NANAIN",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121029/726eac500cb3ecba7ea9280499822b3a/oss-sg/notes/1040g3l0321bql2ksne005pfle6p1hirfcqii5s8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131027/b40b0b40dd8c02293b41de18b0b06e42/oss-sg/notes/1040g3l0321bql2ksne005pfle6p1hirfcqii5s8!nd_dft_wlteh_webp_3?src=A",
       "likes": 1,
       "collects": 0,
       "comments": 0,
@@ -23040,6 +24379,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -23048,7 +24394,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "大家好，非常开心在小红书里和大家见面",
       "author": "种草公主NANAIN",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121029/dae4db0a9b6e68c6821b1398a24ca2f7/oss-sg/notes/1040g3l032193u6qing005pfle6p1hirf71b19p8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131027/9ebdfdb51f9182a2b2c96b83f7e5535b/oss-sg/notes/1040g3l032193u6qing005pfle6p1hirf71b19p8!nd_dft_wlteh_webp_3?src=A",
       "likes": 1,
       "collects": 0,
       "comments": 0,
@@ -23163,6 +24509,38 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a7bf06c00000000110217ee",
+      "type": "note",
+      "title": "我要举办健美比赛",
+      "author": "Seungchul Lee",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131028/4a8a8af0baa8d5e7c9bcf647285fc1b7/oss-sg/notes/1040g3l0323on9qfbie6g5qgfibbjen02a39e7d0!nd_dft_wgth_webp_3?src=A",
+      "likes": 2,
+      "collects": 2,
+      "comments": 0,
+      "comments_text": [],
+      "shares": 0,
+      "publish_time": "2026-08-12",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -23171,20 +24549,27 @@ window.XHS_DATA = {
       "type": "note",
       "title": "什么是适度的有氧训练？",
       "author": "Seungchul Lee",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121030/50407e6f4aff4e01f5b226d1da5d5030/oss-sg/notes/1040g3l0323ihanld285g5qgfibbjen02tpsn10g!nd_dft_wgth_webp_3?src=A",
-      "likes": 3,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131028/8e41a8e5c321e2241b1ff4db51bcb002/oss-sg/notes/1040g3l0323ihanld285g5qgfibbjen02tpsn10g!nd_dft_wgth_webp_3?src=A",
+      "likes": 5,
       "collects": 1,
       "comments": 0,
       "comments_text": [],
       "shares": 0,
       "publish_time": "2026-08-11",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 1,
       "from_profile": true,
       "history": [
         {
           "date": "2026-08-12",
           "likes": 3,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 5,
           "collects": 1,
           "comments": 0,
           "shares": 0
@@ -23196,7 +24581,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "运动这事，没有像数学那样固定的公式",
       "author": "Seungchul Lee",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121030/7d1720284e6e41d49eafc495a7dad9ef/oss-sg/notes/1040g3l03239iu4ulg8205qgfibbjen02bikqml0!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131028/d48f94697eb41e42be3ee60d9c5b4e60/oss-sg/notes/1040g3l03239iu4ulg8205qgfibbjen02bikqml0!nd_dft_wgth_webp_3?src=A",
       "likes": 2,
       "collects": 1,
       "comments": 0,
@@ -23204,7 +24589,7 @@ window.XHS_DATA = {
       "shares": 0,
       "publish_time": "2026-08-07",
       "pinned": false,
-      "grid_order": 1,
+      "grid_order": 2,
       "from_profile": true,
       "history": [
         {
@@ -23227,6 +24612,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -23235,15 +24627,15 @@ window.XHS_DATA = {
       "type": "note",
       "title": "绳索器械训练超全实用技巧分享",
       "author": "Seungchul Lee",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121030/c9f1f69b71c0e6c41af6079d55c70919/oss-sg/notes/1040g3l03239iu4ulg8605qgfibbjen02hvl16o8!nd_dft_wgth_webp_3?src=A",
-      "likes": 5,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131028/931a7e6233bbfe464da4507b9675468f/oss-sg/notes/1040g3l03239iu4ulg8605qgfibbjen02hvl16o8!nd_dft_wgth_webp_3?src=A",
+      "likes": 6,
       "collects": 2,
       "comments": 0,
       "comments_text": [],
       "shares": 0,
       "publish_time": "2026-08-04",
       "pinned": false,
-      "grid_order": 2,
+      "grid_order": 3,
       "from_profile": true,
       "history": [
         {
@@ -23273,6 +24665,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 6,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -23281,15 +24680,15 @@ window.XHS_DATA = {
       "type": "note",
       "title": "找到适合自己的重量与速度",
       "author": "Seungchul Lee",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121030/3775dd438f53bd89abedce21bcb8f502/oss-sg/notes/1040g3l03230kj254nq4g5qgfibbjen02riv9ri8!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131028/40dcff7baca6857061aefd79a5f99edb/oss-sg/notes/1040g3l03230kj254nq4g5qgfibbjen02riv9ri8!nd_dft_wgth_webp_3?src=A",
       "likes": 13,
-      "collects": 4,
+      "collects": 5,
       "comments": 0,
       "comments_text": [],
       "shares": 0,
       "publish_time": "2026-07-31",
       "pinned": false,
-      "grid_order": 3,
+      "grid_order": 4,
       "from_profile": true,
       "history": [
         {
@@ -23319,52 +24718,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 0,
           "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a634725000000000c033c02",
-      "type": "note",
-      "title": "运动和休息同等重要。",
-      "author": "Seungchul Lee",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121030/b80ab01b4b69ad478a5ccda8ce96e78c/oss-sg/notes/1040g3l03230kj254nq6g5qgfibbjen02chi3p1o!nd_dft_wgth_webp_3?src=A",
-      "likes": 120,
-      "collects": 36,
-      "comments": 0,
-      "comments_text": [],
-      "shares": 5,
-      "publish_time": "2026-07-28",
-      "pinned": false,
-      "grid_order": 4,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-08-07",
-          "likes": 108,
-          "collects": 34,
-          "comments": 0,
-          "shares": 5
         },
         {
-          "date": "2026-08-10",
-          "likes": 117,
-          "collects": 36,
+          "date": "2026-08-13",
+          "likes": 13,
+          "collects": 5,
           "comments": 0,
-          "shares": 5
-        },
-        {
-          "date": "2026-08-11",
-          "likes": 118,
-          "collects": 36,
-          "comments": 0,
-          "shares": 5
-        },
-        {
-          "date": "2026-08-12",
-          "likes": 120,
-          "collects": 36,
-          "comments": 0,
-          "shares": 5
+          "shares": 0
         }
       ]
     },
@@ -23373,7 +24733,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "明明不是下雨天～",
       "author": "橙八八",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121030/f929aa3438cfaa1e39f9a6c13daa5068/1040g2sg320n38g2s5k005p9i77oajck5mcq8s08!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131029/845bbfab19557f81e33c0e678cd1c160/1040g2sg320n38g2s5k005p9i77oajck5mcq8s08!nd_dft_wlteh_webp_3?src=A",
       "likes": 57,
       "collects": 4,
       "comments": 8,
@@ -23404,6 +24764,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 8,
           "shares": 3
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 57,
+          "collects": 4,
+          "comments": 8,
+          "shares": 3
         }
       ]
     },
@@ -23412,7 +24779,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Howto|短发穿搭合集",
       "author": "橙八八",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121031/149a9425ac5380a1bd1b8ca38b1af1b5/1040g2sg320n38g2s5k0g5p9i77oajck5cj9rv6o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131029/8b5d0ac8c6e9e2e0d31b382936610cad/1040g2sg320n38g2s5k0g5p9i77oajck5cj9rv6o!nd_dft_wlteh_webp_3?src=A",
       "likes": 67,
       "collects": 8,
       "comments": 2,
@@ -23439,6 +24806,13 @@ window.XHS_DATA = {
           "collects": 8,
           "comments": 2,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 67,
+          "collects": 8,
+          "comments": 2,
+          "shares": 1
         }
       ]
     },
@@ -23447,15 +24821,15 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷这是那个新人爱豆棒球台转播截到了",
       "author": "橙八八",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121031/360e7adbee673ad5a591c83b6d99fc99/notes_pre_post/1040g3k031vt37csel4005p9i77oajck53jo0b50!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131029/93f0c7fc97e880b0e3988d2a4dda0602/notes_pre_post/1040g3k031vt37csel4005p9i77oajck53jo0b50!nd_dft_wgth_webp_3?src=A",
       "likes": 50,
       "collects": 4,
       "comments": 7,
       "comments_text": [
         "来🍠支持了[大笑R][大笑R]今天在🍠直播嘛",
-        "her name plz",
         "🇰🇷变美二群",
         "好漂亮啊[派对R]",
+        "her name plz",
         "喜欢！"
       ],
       "shares": 0,
@@ -23477,6 +24851,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 7,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 50,
+          "collects": 4,
+          "comments": 7,
+          "shares": 0
         }
       ]
     },
@@ -23485,13 +24866,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷这么辣谁啊",
       "author": "橙八八",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121031/7f68e8bb2d3f777c6ec04add5ea5a6e0/1040g00831v9je1jlk01g5p9i77oajck5ogbkn50!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131029/60235733329eda7db6c5e1549c96661d/1040g00831v9je1jlk01g5p9i77oajck5ogbkn50!nd_dft_wlteh_webp_3?src=A",
       "likes": 130,
       "collects": 16,
       "comments": 8,
       "comments_text": [
-        "好美😚",
         "omg！有点像Sooin Kim 爱了😍",
+        "好美😚",
         "美女宝宝有衣服链接吗",
         "宝宝完全女神啊！"
       ],
@@ -23514,6 +24895,13 @@ window.XHS_DATA = {
           "collects": 16,
           "comments": 8,
           "shares": 4
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 130,
+          "collects": 16,
+          "comments": 8,
+          "shares": 4
         }
       ]
     },
@@ -23522,7 +24910,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "shibuya",
       "author": "橙八八",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121031/fe7906da630f053e4ea57ebb808df86e/1040g2sg31thjn6fhlaa05p9i77oajck5erscvcg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131029/07437739556f30f56a406dc7b5dbf355/1040g2sg31thjn6fhlaa05p9i77oajck5erscvcg!nd_dft_wlteh_webp_3?src=A",
       "likes": 14,
       "collects": 3,
       "comments": 3,
@@ -23550,6 +24938,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 3,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 14,
+          "collects": 3,
+          "comments": 3,
+          "shares": 1
         }
       ]
     },
@@ -23558,7 +24953,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "嘻嘻 第一次在韩国做指甲💅好可爱 好ins哇!",
       "author": "格子赚大钱",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121031/e624d66879ec96e465601f58b7e6292f/notes_pre_post/1040g3k0321bm4h59ne0049jrpo22ce1ag7t3l20!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131030/03f99305aad3f3c9d6b95f55528e4853/notes_pre_post/1040g3k0321bm4h59ne0049jrpo22ce1ag7t3l20!nd_dft_wlteh_webp_3?src=A",
       "likes": 156,
       "collects": 101,
       "comments": 8,
@@ -23588,6 +24983,13 @@ window.XHS_DATA = {
           "collects": 101,
           "comments": 8,
           "shares": 16
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 156,
+          "collects": 101,
+          "comments": 8,
+          "shares": 16
         }
       ]
     },
@@ -23596,17 +24998,17 @@ window.XHS_DATA = {
       "type": "note",
       "title": "喵🐱",
       "author": "五字女",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121032/9e8a9790eebe0415cfb027c0185b659c/1040g008320m3h2rc5m0g5plr6627c6ng7cgbv90!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131030/fe275bdaaef44294de5c969257159474/1040g008320m3h2rc5m0g5plr6627c6ng7cgbv90!nd_dft_wlteh_webp_3?src=A",
       "likes": 365,
       "collects": 64,
       "comments": 9,
       "comments_text": [
-        "我去 这是谁 关注了",
         "我发现有个叫首尔流浪女的模仿你 还比你先发视频[微笑R]",
-        "凭实力刷到[飞吻R]",
-        "有点宁艺卓",
+        "我去 这是谁 关注了",
         "好美[偷笑R]",
-        "好可爱呀完全小猫"
+        "有点宁艺卓",
+        "好萌！",
+        "凭实力刷到[飞吻R]"
       ],
       "shares": 12,
       "publish_time": "2026-05-27",
@@ -23627,6 +25029,13 @@ window.XHS_DATA = {
           "collects": 64,
           "comments": 9,
           "shares": 12
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 365,
+          "collects": 64,
+          "comments": 9,
+          "shares": 12
         }
       ]
     },
@@ -23635,16 +25044,16 @@ window.XHS_DATA = {
       "type": "note",
       "title": "hello",
       "author": "五字女",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121032/6f6c71555b9849feef4fe091453f88df/notes_pre_post/1040g3k0320ke8lfgm8005plr6627c6ngiheqed0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131030/7693924aaa41785e770b83d5f3f4ec4f/notes_pre_post/1040g3k0320ke8lfgm8005plr6627c6ngiheqed0!nd_dft_wlteh_webp_3?src=A",
       "likes": 28,
       "collects": 4,
       "comments": 5,
       "comments_text": [
         "哈喽👋",
+        "媳妇[kissR][kissR]",
         "第368！",
         "也是成为第14个fans了！🥹",
-        "Hello",
-        "媳妇[kissR][kissR]"
+        "Hello"
       ],
       "shares": 2,
       "publish_time": "2026-05-26",
@@ -23665,6 +25074,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 5,
           "shares": 2
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 28,
+          "collects": 4,
+          "comments": 5,
+          "shares": 2
         }
       ]
     },
@@ -23673,8 +25089,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "标题｜巴黎演出VLOG，舞台幕后的一日记录",
       "author": "金枝香 Kim jihyang",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121032/62e4a5bd5ebf59197fc0237bff4cb379/oss-sg/notes/1040g3l0323ikobk6ig6g5q0ks88j980vg2qr43o!nd_dft_wlteh_webp_3?src=A",
-      "likes": 26,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131030/54d35405c7514f65601bbc30dc3399e0/oss-sg/notes/1040g3l0323ikobk6ig6g5q0ks88j980vg2qr43o!nd_dft_wlteh_webp_3?src=A",
+      "likes": 27,
       "collects": 1,
       "comments": 1,
       "comments_text": [
@@ -23699,6 +25115,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 1,
           "shares": 3
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 27,
+          "collects": 1,
+          "comments": 1,
+          "shares": 3
         }
       ]
     },
@@ -23707,7 +25130,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "- - -✂️沿虚线剪开此女的巴黎翻箱视频！",
       "author": "金枝香 Kim jihyang",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121032/8e843f76b01f1987e8058485105e8af2/oss-sg/spectrum/1040g3ug3239n3g1b7o005q0ks88j980vgh3jv80!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131031/08f6147569b2118b076c3a251638fd03/oss-sg/spectrum/1040g3ug3239n3g1b7o005q0ks88j980vgh3jv80!nd_dft_wlteh_webp_3?src=A",
       "likes": 34,
       "collects": 3,
       "comments": 2,
@@ -23734,6 +25157,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 2,
           "shares": 3
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 34,
+          "collects": 3,
+          "comments": 2,
+          "shares": 3
         }
       ]
     },
@@ -23742,7 +25172,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "夏天和海边最配☀️🏖️🌊",
       "author": "金枝香 Kim jihyang",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121033/5e053c21525df8fc5fbf1e50ed7e1231/oss-sg/spectrum/1040g3ug3238bpv8ane005q0ks88j980v7nop1o8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131031/69610fe31d604e5d54b8297e4b8c3393/oss-sg/spectrum/1040g3ug3238bpv8ane005q0ks88j980v7nop1o8!nd_dft_wlteh_webp_3?src=A",
       "likes": 40,
       "collects": 5,
       "comments": 2,
@@ -23769,6 +25199,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 40,
+          "collects": 5,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -23777,7 +25214,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "陪我一起度过我的今天吧❤️",
       "author": "金枝香 Kim jihyang",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121033/e144bcf1a0143fcf5ff3ca2a1603384c/oss-sg/spectrum/1040g3ug3230j7tka7k005q0ks88j980vmisvkjo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131031/7b3fa1abad6a5afa63951710840ddae0/oss-sg/spectrum/1040g3ug3230j7tka7k005q0ks88j980vmisvkjo!nd_dft_wlteh_webp_3?src=A",
       "likes": 30,
       "collects": 4,
       "comments": 3,
@@ -23805,6 +25242,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 3,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 30,
+          "collects": 4,
+          "comments": 3,
+          "shares": 0
         }
       ]
     },
@@ -23813,7 +25257,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🟢•ᴥ•🟢",
       "author": "金枝香 Kim jihyang",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121033/4580fd5ac89223366640e3065cbf645a/oss-sg/notes/1040g3l0322v9k97rnk4g5q0ks88j980v2qi1f5g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131031/82797f4d5d49d23ed22a227eb226152c/oss-sg/notes/1040g3l0322v9k97rnk4g5q0ks88j980v2qi1f5g!nd_dft_wlteh_webp_3?src=A",
       "likes": 112,
       "collects": 12,
       "comments": 2,
@@ -23840,6 +25284,45 @@ window.XHS_DATA = {
           "collects": 12,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 112,
+          "collects": 12,
+          "comments": 2,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a7c46ad000000001102328e",
+      "type": "note",
+      "title": "大家周三过得好吗？～",
+      "author": "林秀香 Im SooHyang",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131031/73f1c015f30d39cf3d3e29aa25226c46/note_pre_post_uhdr/1040g3r0323p1qdduns005qgl7sv3en00pcvrun8!nd_dft_wlteh_webp_3?src=A",
+      "likes": 234,
+      "collects": 6,
+      "comments": 27,
+      "comments_text": [
+        "언니의 예쁜 사진 덕분에 정말 행복합니다[红色心形R][红色心形R]",
+        "열이 나서 별로 기분이 좋지 않았어요. 하지만 언니의 사진을 보니 기분이 훨씬 나아졌어요! 야야야[飞吻R]",
+        "언니, 여기에서 비가 많이 와요[哭惹R]",
+        "最近有台风[笑哭R]",
+        "超级热",
+        "[飞吻R][飞吻R]哇塞，是本人吗？"
+      ],
+      "shares": 0,
+      "publish_time": "2026-08-12",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 234,
+          "collects": 6,
+          "comments": 27,
+          "shares": 0
         }
       ]
     },
@@ -23848,22 +25331,22 @@ window.XHS_DATA = {
       "type": "note",
       "title": "短暂的休息",
       "author": "林秀香 Im SooHyang",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121033/b94e9d4d2cf9af9d0363f94a64f902ec/oss-sg/notes_pre_post/1040g3mo323nqs4dn2e305qhfleijnf00bq6vq00!nd_dft_wlteh_webp_3?src=A",
-      "likes": 133,
-      "collects": 3,
-      "comments": 11,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131031/d6547f1f1c95af967275abdf069cd685/oss-sg/notes_pre_post/1040g3mo323nqs4dn2e305qhfleijnf00bq6vq00!nd_dft_wlteh_webp_3?src=A",
+      "likes": 198,
+      "collects": 10,
+      "comments": 14,
       "comments_text": [
+        "언니가 찍은 드라마 보고 싶어요",
+        "请多多发小红书吧[害羞R]",
+        "漂亮漂亮[红色心形R][红色心形R][玫瑰R][玫瑰R]",
         "姐姐，想看再跳new face！！！！[害羞R][害羞R]",
-        "欧尼热不",
         "姐姐好美！",
-        "好美好美，氛围感美女[玫瑰R]",
-        "景色好美人更美",
-        "언니가 찍은 드라마 보고 싶어요"
+        "美美美[飞吻R]"
       ],
       "shares": 1,
       "publish_time": "2026-08-11",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 1,
       "from_profile": true,
       "history": [
         {
@@ -23871,6 +25354,13 @@ window.XHS_DATA = {
           "likes": 133,
           "collects": 3,
           "comments": 11,
+          "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 198,
+          "collects": 10,
+          "comments": 14,
           "shares": 1
         }
       ]
@@ -23880,22 +25370,22 @@ window.XHS_DATA = {
       "type": "note",
       "title": "幸福的全州旅行🩵",
       "author": "林秀香 Im SooHyang",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121033/cdc053b62bab36c4c31b74f3e91b1880/oss-sg/notes/1040g3l0323mcv8f1ig005qhfleijnf00gqahnhg!nd_dft_wlteh_webp_3?src=A",
-      "likes": 187,
-      "collects": 4,
-      "comments": 26,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131031/87d946f213565a101e61702b5aff5a3f/oss-sg/notes/1040g3l0323mcv8f1ig005qhfleijnf00gqahnhg!nd_dft_wlteh_webp_3?src=A",
+      "likes": 204,
+      "collects": 5,
+      "comments": 28,
       "comments_text": [
+        "欧尼，我想要电子签名[萌萌哒R][皱眉R]",
         "欧尼的脸只有巴掌大一点",
         "姐姐 全州有推荐吗？不要豆芽汤[完啦R]",
-        "欧尼，我想要电子签名[萌萌哒R][皱眉R]",
-        "很漂亮又清新的姐姐[哇R][哇R][哇R]",
-        "欧尼想看你拍的vlog[大笑R]",
-        "欧尼比树上的花儿还美[玫瑰R]"
+        "立秋快乐呀",
+        "第一次来这么早，姐姐好漂亮呀[萌萌哒R]",
+        "很漂亮又清新的姐姐[哇R][哇R][哇R]"
       ],
       "shares": 0,
       "publish_time": "2026-08-10",
       "pinned": false,
-      "grid_order": 1,
+      "grid_order": 2,
       "from_profile": true,
       "history": [
         {
@@ -23911,6 +25401,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 26,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 204,
+          "collects": 5,
+          "comments": 28,
+          "shares": 0
         }
       ]
     },
@@ -23919,9 +25416,9 @@ window.XHS_DATA = {
       "type": "note",
       "title": "讨厌雨天☔️",
       "author": "林秀香 Im SooHyang",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121033/c40ea0558f3f637599e7f525de1060e6/oss-sg/notes_pre_post/1040g3mo323h7ge0rh4105qgl7sv3en00ideoijo!nd_dft_wlteh_webp_3?src=A",
-      "likes": 142,
-      "collects": 4,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131032/5c9e4a3fdfba588455f35750ecf218a8/oss-sg/notes_pre_post/1040g3mo323h7ge0rh4105qgl7sv3en00ideoijo!nd_dft_wlteh_webp_3?src=A",
+      "likes": 151,
+      "collects": 5,
       "comments": 21,
       "comments_text": [
         "姐姐p1拍得好梦幻啊哈哈哈哈\n언니P 1 몽환적으로 나온다. 하하.[捂脸R]",
@@ -23934,7 +25431,7 @@ window.XHS_DATA = {
       "shares": 0,
       "publish_time": "2026-08-09",
       "pinned": false,
-      "grid_order": 2,
+      "grid_order": 3,
       "from_profile": true,
       "history": [
         {
@@ -23957,6 +25454,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 21,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 151,
+          "collects": 5,
+          "comments": 21,
+          "shares": 0
         }
       ]
     },
@@ -23965,22 +25469,22 @@ window.XHS_DATA = {
       "type": "note",
       "title": "KBS 演技大赏 🖤🤍",
       "author": "林秀香 Im SooHyang",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121033/73ceda0130e9e126aa8b0d5d3ef70391/oss-sg/notes_pre_post/1040g3mo323h7ge0rh4005qgl7sv3en0081gqha0!nd_dft_wlteh_webp_3?src=A",
-      "likes": 691,
-      "collects": 23,
-      "comments": 47,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131032/3ee55482aca42327cbb25abd22dc91aa/oss-sg/notes_pre_post/1040g3mo323h7ge0rh4005qgl7sv3en0081gqha0!nd_dft_wlteh_webp_3?src=A",
+      "likes": 711,
+      "collects": 25,
+      "comments": 48,
       "comments_text": [
         "언니, 제가 만들어준 이모티콘 귀여워요?\n姐姐，我给你做的 表情包 可爱吗？[萌萌哒R][萌萌哒R]",
         "지금 인류의 의지력으로는 이런 귀여움을 도저히 견딜 수가 없어.",
         "欧尼怎么更新这么勤",
-        "姐姐这个裙子好气质！！！穿起来好美[色色R][色色R]",
         "哇～完全是公主啊[萌萌哒R][萌萌哒R][萌萌哒R]",
-        "好美啊姐姐"
+        "姐姐这个裙子好气质！！！穿起来好美[色色R][色色R]",
+        "新妓生传的女主 &仁显皇后的男人[偷笑R][偷笑R]我最爱的两部韩剧"
       ],
       "shares": 0,
       "publish_time": "2026-08-08",
       "pinned": false,
-      "grid_order": 3,
+      "grid_order": 4,
       "from_profile": true,
       "history": [
         {
@@ -24003,52 +25507,13 @@ window.XHS_DATA = {
           "collects": 23,
           "comments": 47,
           "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a75b93a0000000012028739",
-      "type": "note",
-      "title": "小红薯专属|在线点评《新妓生传》",
-      "author": "林秀香 Im SooHyang",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121034/6b93e63a840dfc819b7bfb704b61b5ed/oss-sg/notes/1040g3l0323ikobk6ig3g5q0ks88j980vvn6t7a0!nd_dft_wlteh_webp_3?src=A",
-      "likes": 3100,
-      "collects": 371,
-      "comments": 353,
-      "comments_text": [
-        "姐姐那个时候漂亮极了！！！我现在正在重温",
-        "当时小小的老子被她公公吓到做噩梦[捂脸R]",
-        "想看江南美人的点评[哭惹R]看了无数次了",
-        "这是最近的剧吗？",
-        "大学的时候看的这部剧，太喜欢秀香美女小姐姐[飞吻R][飞吻R] 怎么十几年过去还是那么漂亮[派对R]",
-        "安德烈啊哈哈哈"
-      ],
-      "shares": 103,
-      "publish_time": "2026-08-07",
-      "pinned": false,
-      "grid_order": 4,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-08-10",
-          "likes": 2800,
-          "collects": 328,
-          "comments": 310,
-          "shares": 78
         },
         {
-          "date": "2026-08-11",
-          "likes": 3100,
-          "collects": 369,
-          "comments": 343,
-          "shares": 101
-        },
-        {
-          "date": "2026-08-12",
-          "likes": 3100,
-          "collects": 371,
-          "comments": 353,
-          "shares": 103
+          "date": "2026-08-13",
+          "likes": 711,
+          "collects": 25,
+          "comments": 48,
+          "shares": 0
         }
       ]
     },
@@ -24057,15 +25522,15 @@ window.XHS_DATA = {
       "type": "note",
       "title": "宝宝想被打几拳？",
       "author": "HighFiction",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121034/ea325d33e9ab5160ada2709007b56f97/oss-sg/notes/1040g3l0323dc3id4ne0g5qgmakg3ej003jqq0k0!nd_dft_wgth_webp_3?src=A",
-      "likes": 133,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131032/0c4ea77d8408f10e4c971a739e5ec2cc/oss-sg/notes/1040g3l0323dc3id4ne0g5qgmakg3ej003jqq0k0!nd_dft_wgth_webp_3?src=A",
+      "likes": 137,
       "collects": 26,
       "comments": 7,
       "comments_text": [
         "哈哈哈哈哈哈哈又讲理又酷的姐姐[萌萌哒R][萌萌哒R][萌萌哒R]好喜欢",
         "谈恋爱谈出了玩命的节奏",
-        "好看，爱看，多拍[点赞R][点赞R][点赞R]",
         "我觉得女主挺好看的啊 男主怎么不知足啊[坏笑R]",
+        "好看，爱看，多拍[点赞R][点赞R][点赞R]",
         "好看多更！",
         "女生很漂亮啊，男的也就是个男的，这样也敢有歪心思[抠鼻R][抠鼻R]"
       ],
@@ -24095,6 +25560,13 @@ window.XHS_DATA = {
           "collects": 26,
           "comments": 7,
           "shares": 4
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 137,
+          "collects": 26,
+          "comments": 7,
+          "shares": 4
         }
       ]
     },
@@ -24103,17 +25575,17 @@ window.XHS_DATA = {
       "type": "note",
       "title": "出轨被抓的前五秒",
       "author": "HighFiction",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121034/5153b7a0e9f9fcf15b6b8d013e798301/oss-sg/notes/1040g3l0323dc3id4ne005qgmakg3ej00htf107g!nd_dft_wgth_webp_3?src=A",
-      "likes": 87,
-      "collects": 12,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131032/bb1c1afc63108479fdfba45351c0e03f/oss-sg/notes/1040g3l0323dc3id4ne005qgmakg3ej00htf107g!nd_dft_wgth_webp_3?src=A",
+      "likes": 89,
+      "collects": 14,
       "comments": 7,
       "comments_text": [
-        "太好玩了啊[doge]",
-        "哈哈哈好搞笑",
-        "这是拉到餐厅广告了？[点赞R]",
-        "哈哈哈哈哈",
+        "好看好看",
         "好有意思啊啊啊啊啊！催更！",
-        "好看好看"
+        "哈哈哈哈哈",
+        "太好玩了啊[doge]",
+        "这是拉到餐厅广告了？[点赞R]",
+        "哈哈哈好搞笑"
       ],
       "shares": 6,
       "publish_time": "2026-08-06",
@@ -24148,6 +25620,13 @@ window.XHS_DATA = {
           "collects": 12,
           "comments": 7,
           "shares": 6
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 89,
+          "collects": 14,
+          "comments": 7,
+          "shares": 6
         }
       ]
     },
@@ -24156,7 +25635,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "宝宝..生日礼物送我这个干嘛..？",
       "author": "HighFiction",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121034/f5c5b382724c39f79adc28c697f45175/oss-sg/notes/1040g3l032348f93f7o005qgmakg3ej00iiko5jo!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131032/1c46cfbf246ee088eb1a7e56ec65bdbf/oss-sg/notes/1040g3l032348f93f7o005qgmakg3ej00iiko5jo!nd_dft_wgth_webp_3?src=A",
       "likes": 93,
       "collects": 6,
       "comments": 6,
@@ -24198,6 +25677,13 @@ window.XHS_DATA = {
           "collects": 6,
           "comments": 6,
           "shares": 3
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 93,
+          "collects": 6,
+          "comments": 6,
+          "shares": 3
         }
       ]
     },
@@ -24206,7 +25692,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "我说没说过我只穿红色的衣服？",
       "author": "HighFiction",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121034/f8cf5bc28ac695783ca7860dff653cab/oss-sg/notes/1040g3l032347u2eh7e005qgmakg3ej00609ntb8!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131032/13a642e2e320ada51e8626e2d75e2b75/oss-sg/notes/1040g3l032347u2eh7e005qgmakg3ej00609ntb8!nd_dft_wgth_webp_3?src=A",
       "likes": 111,
       "collects": 10,
       "comments": 3,
@@ -24247,6 +25733,13 @@ window.XHS_DATA = {
           "collects": 10,
           "comments": 3,
           "shares": 4
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 111,
+          "collects": 10,
+          "comments": 3,
+          "shares": 4
         }
       ]
     },
@@ -24255,7 +25748,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "第5集ㅣ原来这才叫闹事..",
       "author": "HighFiction",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121034/1ab396c144964ef358c3bdf31e1395b9/oss-sg/notes/1040g3l0322m9e849nc0g5qgl7sv3en0094j8n7g!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131033/c533ff90f8000bbfbab51c3d21ba3e39/oss-sg/notes/1040g3l0322m9e849nc0g5qgl7sv3en0094j8n7g!nd_dft_wgth_webp_3?src=A",
       "likes": 181,
       "collects": 30,
       "comments": 5,
@@ -24299,6 +25792,13 @@ window.XHS_DATA = {
           "collects": 30,
           "comments": 5,
           "shares": 16
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 181,
+          "collects": 30,
+          "comments": 5,
+          "shares": 16
         }
       ]
     },
@@ -24307,7 +25807,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "搞笑韩女边吃麻辣烫边吐槽前任",
       "author": "leeravely",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121035/e18266677a12ebe4146a9590383346ed/oss-sg/notes/1040g3l0323ias1j128005q2p866mr48osp7ucoo!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131033/797a9716d3895cb532dd6ca813c19ebe/oss-sg/notes/1040g3l0323ias1j128005q2p866mr48osp7ucoo!nd_dft_wgth_webp_3?src=A",
       "likes": 20,
       "collects": 3,
       "comments": 1,
@@ -24347,6 +25847,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 20,
+          "collects": 3,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -24355,7 +25862,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "教你如何在公司偷吃辣炒年糕",
       "author": "leeravely",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121035/8be81ef199c1c6d58ee0947c92111c26/oss-sg/notes/1040g3l0322setffe00005q2p866mr48oshcm6r0!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131033/a1d347dd3bf36391b400152667c2eb32/oss-sg/notes/1040g3l0322setffe00005q2p866mr48oshcm6r0!nd_dft_wgth_webp_3?src=A",
       "likes": 273,
       "collects": 41,
       "comments": 14,
@@ -24400,6 +25907,13 @@ window.XHS_DATA = {
           "collects": 41,
           "comments": 14,
           "shares": 3
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 273,
+          "collects": 41,
+          "comments": 14,
+          "shares": 3
         }
       ]
     },
@@ -24408,7 +25922,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "上班偷吃不会不被发现吧！",
       "author": "leeravely",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121035/d5d4d9aeb5a1b7cdb53653862066f4e1/oss-sg/notes/1040g3l03229510167s005q2p866mr48ob1u0gk0!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131033/7b219fee5274cb656e744d6bc8b7c18d/oss-sg/notes/1040g3l03229510167s005q2p866mr48ob1u0gk0!nd_dft_wgth_webp_3?src=A",
       "likes": 23,
       "collects": 7,
       "comments": 2,
@@ -24449,6 +25963,13 @@ window.XHS_DATA = {
           "collects": 7,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 23,
+          "collects": 7,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -24457,13 +25978,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🎶",
       "author": "leeravely",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121035/42dd76bd6c452b93c440b921dc8ab691/1040g2sg31thnf7d762705q2p866mr48oh0nbs7o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131033/56bf5d5ffa300be589e7146547b4ab65/1040g2sg31thnf7d762705q2p866mr48oh0nbs7o!nd_dft_wlteh_webp_3?src=A",
       "likes": 11,
       "collects": 4,
       "comments": 2,
       "comments_text": [
-        "好美[害羞R]",
-        "刚刚"
+        "刚刚",
+        "好美[害羞R]"
       ],
       "shares": 0,
       "publish_time": "2026-03-10",
@@ -24498,6 +26019,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 11,
+          "collects": 4,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -24506,7 +26034,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Vip ",
       "author": "leeravely",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121035/eb513244e11c61f01e2fff4b5fa67dcc/1040g00831plkd39c4m005q2p866mr48o30p07b8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131033/d9f47c3ed30e409e22dddd085098e369/1040g00831plkd39c4m005q2p866mr48o30p07b8!nd_dft_wlteh_webp_3?src=A",
       "likes": 5,
       "collects": 0,
       "comments": 1,
@@ -24546,6 +26074,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 5,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -24554,11 +26089,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Don't tell me🤐🚨",
       "author": "諝炫 Seohyun",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121036/927c473949d3c51c993f17f70f3b4302/oss-sg/notes/1040g3l0322kqgfj9ng005nuct690bp4c2irs31g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131034/7ce23f99391a7a6a19db9e63a1e211e5/oss-sg/notes/1040g3l0322kqgfj9ng005nuct690bp4c2irs31g!nd_dft_wlteh_webp_3?src=A",
       "likes": 3,
       "collects": 1,
       "comments": 1,
-      "comments_text": [],
+      "comments_text": [
+        "[doge]"
+      ],
       "shares": 0,
       "publish_time": "2026-07-15",
       "pinned": false,
@@ -24592,6 +26129,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 3,
+          "collects": 1,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -24600,7 +26144,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "给大家分享韩女夏天最爱的配色~",
       "author": "諝炫 Seohyun",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121036/c7f24273ccf7351f002e362ccec778fc/oss-sg/notes/1040g3l03225fir9k7o005nuct690bp4chfjfn6g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131034/986faafc39c9c4d3779ba1825981c3af/oss-sg/notes/1040g3l03225fir9k7o005nuct690bp4chfjfn6g!nd_dft_wlteh_webp_3?src=A",
       "likes": 7,
       "collects": 2,
       "comments": 0,
@@ -24638,6 +26182,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 7,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -24646,7 +26197,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "GRWM🇰🇷 秋天烤栗子妆容 🤎🍂",
       "author": "諝炫 Seohyun",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121036/ef78d5dc1e1e2a0088b62d7dca22671f/1040g2sg31svv2cbs5m705nuct690bp4cn63lqu0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131034/713cc5e0f6f41a7c135f7e61122889e1/1040g2sg31svv2cbs5m705nuct690bp4cn63lqu0!nd_dft_wlteh_webp_3?src=A",
       "likes": 28,
       "collects": 6,
       "comments": 0,
@@ -24684,6 +26235,13 @@ window.XHS_DATA = {
           "collects": 6,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 28,
+          "collects": 6,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -24692,7 +26250,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "饿死啦～Forever hungry 🍔🍟",
       "author": "諝炫 Seohyun",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121036/543a6af38e95bf1c7de36481c1fe7621/1040g00831mq5bhgh5m005nuct690bp4cmttp3t0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131034/c6eda6db224d2aa83b3cedd55cdef234/1040g00831mq5bhgh5m005nuct690bp4cmttp3t0!nd_dft_wlteh_webp_3?src=A",
       "likes": 112,
       "collects": 18,
       "comments": 1,
@@ -24730,6 +26288,13 @@ window.XHS_DATA = {
           "collects": 18,
           "comments": 1,
           "shares": 7
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 112,
+          "collects": 18,
+          "comments": 1,
+          "shares": 7
         }
       ]
     },
@@ -24738,7 +26303,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "布鲁克林的一天～ 威廉斯堡真的是我的最爱♥️",
       "author": "諝炫 Seohyun",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121036/295ec7a912d4cc08226c893f7a36ebdf/1040g2sg31mo2k9j0lm705nuct690bp4c05a6v4o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131034/21ec679caa34c7e19f4e0d531df80d92/1040g2sg31mo2k9j0lm705nuct690bp4c05a6v4o!nd_dft_wlteh_webp_3?src=A",
       "likes": 56,
       "collects": 6,
       "comments": 2,
@@ -24776,6 +26341,13 @@ window.XHS_DATA = {
           "collects": 6,
           "comments": 2,
           "shares": 2
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 56,
+          "collects": 6,
+          "comments": 2,
+          "shares": 2
         }
       ]
     },
@@ -24784,7 +26356,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷｜占便宜等不了明天！圣水我来了！",
       "author": "药药在干嘛",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121037/7cb21fa0bf0d8e3a4bcf136b371ad0e9/1040g0083217iqq8u7e005n82cj75mq53pt7q1pg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131035/e50577c751ab1bb402cd44197cd4f11e/1040g0083217iqq8u7e005n82cj75mq53pt7q1pg!nd_dft_wlteh_webp_3?src=A",
       "likes": 116,
       "collects": 24,
       "comments": 3,
@@ -24808,6 +26380,13 @@ window.XHS_DATA = {
           "collects": 24,
           "comments": 3,
           "shares": 5
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 116,
+          "collects": 24,
+          "comments": 3,
+          "shares": 5
         }
       ]
     },
@@ -24816,8 +26395,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷｜一些现场花絮vlog奉上",
       "author": "药药在干嘛",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121037/c0dd1db9f3e7abe3903ae937bfc6d27c/1040g00831utesao62al05n82cj75mq53fcsslf0!nd_dft_wlteh_webp_3?src=A",
-      "likes": 67,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131035/46ab8387dfa12a1ac736842aa319b7cc/1040g00831utesao62al05n82cj75mq53fcsslf0!nd_dft_wlteh_webp_3?src=A",
+      "likes": 69,
       "collects": 4,
       "comments": 3,
       "comments_text": [],
@@ -24840,6 +26419,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 3,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 69,
+          "collects": 4,
+          "comments": 3,
+          "shares": 0
         }
       ]
     },
@@ -24848,7 +26434,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "紧张！",
       "author": "药药在干嘛",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121037/32d576885f76fc9b10e2f54b8d84e9cd/1040g2sg31uco7esjia0g5n82cj75mq5307b7ar0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131035/0707aa5cbcfce4d43c5d7bb117e3e993/1040g2sg31uco7esjia0g5n82cj75mq5307b7ar0!nd_dft_wlteh_webp_3?src=A",
       "likes": 79,
       "collects": 5,
       "comments": 10,
@@ -24872,6 +26458,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 10,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 79,
+          "collects": 5,
+          "comments": 10,
+          "shares": 1
         }
       ]
     },
@@ -24880,7 +26473,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷｜姐妹神图有了！",
       "author": "药药在干嘛",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121037/d97dd4ec5e08d92a1619e72aa88a8c59/1040g2sg31trvt3cj727g5nsq5lv08itcj4a1eb8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131035/42157bbf53475c6ed8aefa07466590d6/1040g2sg31trvt3cj727g5nsq5lv08itcj4a1eb8!nd_dft_wlteh_webp_3?src=A",
       "likes": 60,
       "collects": 19,
       "comments": 10,
@@ -24904,6 +26497,13 @@ window.XHS_DATA = {
           "collects": 19,
           "comments": 10,
           "shares": 7
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 60,
+          "collects": 19,
+          "comments": 10,
+          "shares": 7
         }
       ]
     },
@@ -24912,7 +26512,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷｜这家我真的特别期待来着.....",
       "author": "药药在干嘛",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121038/a91f0d4511e1a0c06c3b95a59b85ee30/1040g2sg31tb9br5f5s005n82cj75mq53jqfnspo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131036/72e73f2498e7f804124ae5cd921cfc35/1040g2sg31tb9br5f5s005n82cj75mq53jqfnspo!nd_dft_wlteh_webp_3?src=A",
       "likes": 34,
       "collects": 1,
       "comments": 4,
@@ -24936,6 +26536,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 4,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 34,
+          "collects": 1,
+          "comments": 4,
+          "shares": 1
         }
       ]
     },
@@ -24944,10 +26551,10 @@ window.XHS_DATA = {
       "type": "note",
       "title": "正面vs侧面哪个更好看？",
       "author": "jongmin02",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121040/f429d196574862d23c5fcc610118fdff/oss-sg/notes/1040g3l0323h8rn3d18005qgpdeajen00f0gsnh0!nd_dft_wlteh_webp_3?src=A",
-      "likes": 94,
-      "collects": 5,
-      "comments": 78,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131037/811d04057497d0861243f91466d68ee1/oss-sg/notes/1040g3l0323h8rn3d18005qgpdeajen00f0gsnh0!nd_dft_wlteh_webp_3?src=A",
+      "likes": 100,
+      "collects": 6,
+      "comments": 82,
       "comments_text": [],
       "shares": 1,
       "publish_time": "2026-08-06",
@@ -24968,6 +26575,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 78,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 100,
+          "collects": 6,
+          "comments": 82,
+          "shares": 1
         }
       ]
     },
@@ -24976,8 +26590,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "好久不见！！中国有什么韩国的东西很出名？",
       "author": "jongmin02",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121040/aecb0734dacc0b81c3609f44374cab40/oss-sg/notes/1040g3l0323eoke7vg2005qgpdeajen001qfn9io!nd_dft_wlteh_webp_3?src=A",
-      "likes": 82,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131038/5eea8c814bcabbe8718a2dd04e84fb94/oss-sg/notes/1040g3l0323eoke7vg2005qgpdeajen001qfn9io!nd_dft_wlteh_webp_3?src=A",
+      "likes": 83,
       "collects": 5,
       "comments": 72,
       "comments_text": [],
@@ -25000,6 +26614,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 72,
           "shares": 2
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 83,
+          "collects": 5,
+          "comments": 72,
+          "shares": 2
         }
       ]
     },
@@ -25008,10 +26629,10 @@ window.XHS_DATA = {
       "type": "note",
       "title": "我长发很适合吗？",
       "author": "jongmin02",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121040/40c544ce8d6d0d8336269caf57d3e0e8/oss-sg/notes/1040g3l03239fnrehnc005qgpdeajen00i5e8fk8!nd_dft_wlteh_webp_3?src=A",
-      "likes": 168,
-      "collects": 11,
-      "comments": 109,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131038/92a671e12001dd52d595fe0ca796cd14/oss-sg/notes/1040g3l03239fnrehnc005qgpdeajen00i5e8fk8!nd_dft_wlteh_webp_3?src=A",
+      "likes": 170,
+      "collects": 12,
+      "comments": 111,
       "comments_text": [],
       "shares": 5,
       "publish_time": "2026-07-31",
@@ -25032,6 +26653,13 @@ window.XHS_DATA = {
           "collects": 11,
           "comments": 109,
           "shares": 5
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 170,
+          "collects": 12,
+          "comments": 111,
+          "shares": 5
         }
       ]
     },
@@ -25040,7 +26668,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "第二张照片看看，脸和身材搭配得好看吗？",
       "author": "jongmin02",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121040/bf194022f5497f4f48dd2cddad69a9e1/oss-sg/notes/1040g3l03234cc5fa7g005qgpdeajen00e7fi118!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131038/8bd9150f0aaf4f02d8fc2409f1cabfbb/oss-sg/notes/1040g3l03234cc5fa7g005qgpdeajen00e7fi118!nd_dft_wlteh_webp_3?src=A",
       "likes": 78,
       "collects": 7,
       "comments": 80,
@@ -25064,6 +26692,13 @@ window.XHS_DATA = {
           "collects": 7,
           "comments": 80,
           "shares": 3
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 78,
+          "collects": 7,
+          "comments": 80,
+          "shares": 3
         }
       ]
     },
@@ -25072,8 +26707,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "你好，是周末，你在做什么？",
       "author": "jongmin02",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121040/17ef0d938f46af1e5930e437fa47baac/oss-sg/notes/1040g3l032334meapnc005qgpdeajen004u7a098!nd_dft_wlteh_webp_3?src=A",
-      "likes": 329,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131038/6863bc0709b92afd248596bfdbf77c9a/oss-sg/notes/1040g3l032334meapnc005qgpdeajen004u7a098!nd_dft_wlteh_webp_3?src=A",
+      "likes": 331,
       "collects": 30,
       "comments": 160,
       "comments_text": [],
@@ -25096,6 +26731,13 @@ window.XHS_DATA = {
           "collects": 30,
           "comments": 160,
           "shares": 10
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 331,
+          "collects": 30,
+          "comments": 160,
+          "shares": 10
         }
       ]
     },
@@ -25104,7 +26746,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "아름다운 하늘🕶️",
       "author": "不能再吃了",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121041/bd8a295457a03a12bc59a79b9f00d671/1040g00831pn8mdgf4u0g5o64ln2g80pfcdbu88g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131039/937190537752c00d8af0f1fd8dd818d2/1040g00831pn8mdgf4u0g5o64ln2g80pfcdbu88g!nd_dft_wlteh_webp_3?src=A",
       "likes": 151,
       "collects": 9,
       "comments": 11,
@@ -25128,6 +26770,13 @@ window.XHS_DATA = {
           "collects": 9,
           "comments": 11,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 151,
+          "collects": 9,
+          "comments": 11,
+          "shares": 1
         }
       ]
     },
@@ -25136,7 +26785,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "黑发回归～",
       "author": "不能再吃了",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121041/313df1525980526287e7c78fb95a714d/1040g00831p3v1rpf3c0g5o64ln2g80pfhcv8qto!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131039/43fbc23004b7262930c5987b586d5fa7/1040g00831p3v1rpf3c0g5o64ln2g80pfhcv8qto!nd_dft_wlteh_webp_3?src=A",
       "likes": 135,
       "collects": 9,
       "comments": 19,
@@ -25160,6 +26809,13 @@ window.XHS_DATA = {
           "collects": 9,
           "comments": 19,
           "shares": 5
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 135,
+          "collects": 9,
+          "comments": 19,
+          "shares": 5
         }
       ]
     },
@@ -25168,7 +26824,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "染头发啦pink💕",
       "author": "不能再吃了",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121041/10580c43aabea9c0578eec22803baba4/notes_pre_post/1040g3k831kfr44sf2o7g5o64ln2g80pfn01j0o8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131039/ffb12588fd1721a65a8b2a8bf588f9e3/notes_pre_post/1040g3k831kfr44sf2o7g5o64ln2g80pfn01j0o8!nd_dft_wlteh_webp_3?src=A",
       "likes": 163,
       "collects": 12,
       "comments": 28,
@@ -25192,6 +26848,13 @@ window.XHS_DATA = {
           "collects": 12,
           "comments": 28,
           "shares": 5
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 163,
+          "collects": 12,
+          "comments": 28,
+          "shares": 5
         }
       ]
     },
@@ -25200,7 +26863,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "💤",
       "author": "不能再吃了",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121042/dfc8260748b114a1634b88c302ef7b9e/1040g2sg31finq7nn04705o64ln2g80pftk7ffi8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131039/baf338e1fa6fa359ddf91ed428d9ea21/1040g2sg31finq7nn04705o64ln2g80pftk7ffi8!nd_dft_wlteh_webp_3?src=A",
       "likes": 408,
       "collects": 22,
       "comments": 25,
@@ -25224,6 +26887,13 @@ window.XHS_DATA = {
           "collects": 22,
           "comments": 25,
           "shares": 13
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 408,
+          "collects": 22,
+          "comments": 25,
+          "shares": 13
         }
       ]
     },
@@ -25232,7 +26902,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "好久不见～",
       "author": "不能再吃了",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121042/7bab7652778a8dae71d98de74af0edc1/1040g00831c2njhjp0u005o64ln2g80pf9uagino!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131039/b8d07492adedcda23449b7852082d90e/1040g00831c2njhjp0u005o64ln2g80pf9uagino!nd_dft_wlteh_webp_3?src=A",
       "likes": 136,
       "collects": 7,
       "comments": 38,
@@ -25256,6 +26926,13 @@ window.XHS_DATA = {
           "collects": 7,
           "comments": 38,
           "shares": 10
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 136,
+          "collects": 7,
+          "comments": 38,
+          "shares": 10
         }
       ]
     },
@@ -25264,7 +26941,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "baby u buggin✌️",
       "author": "任宇辰",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121042/f63273798d1531ee7407aac27fdd5ffa/1040g008323l85o1rna005p2stf0qace8c6d46a0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131040/29b69e1bf5c18e75362db08e650847c9/1040g008323l85o1rna005p2stf0qace8c6d46a0!nd_dft_wlteh_webp_3?src=A",
       "likes": 13,
       "collects": 3,
       "comments": 0,
@@ -25288,6 +26965,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 13,
+          "collects": 3,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -25296,7 +26980,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "BAD",
       "author": "任宇辰",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121043/6464c2b1da00e1bac769f804370094a4/1040g2sg3238a11p8nu005p2stf0qace8754nr00!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131040/eb0ad378d12787df13b478242d12fb56/1040g2sg3238a11p8nu005p2stf0qace8754nr00!nd_dft_wlteh_webp_3?src=A",
       "likes": 45,
       "collects": 5,
       "comments": 4,
@@ -25320,6 +27004,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 4,
           "shares": 3
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 45,
+          "collects": 5,
+          "comments": 4,
+          "shares": 3
         }
       ]
     },
@@ -25328,7 +27019,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "烤蹄子的机动车",
       "author": "任宇辰",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121043/3749b44f052be30a8976b5bb3f1e00b8/1040g2sg322ri2o0lna705p2stf0qace81f7dpf8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131041/884b21ee414585ded0cb893a66ea055c/1040g2sg322ri2o0lna705p2stf0qace81f7dpf8!nd_dft_wlteh_webp_3?src=A",
       "likes": 20,
       "collects": 1,
       "comments": 3,
@@ -25352,6 +27043,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 3,
           "shares": 2
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 20,
+          "collects": 1,
+          "comments": 3,
+          "shares": 2
         }
       ]
     },
@@ -25360,7 +27058,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "这种和声的感觉？",
       "author": "任宇辰",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121043/627e38a07309354b0dd3eb25eac5eea2/1040g2sg322q517bonue05p2stf0qace8l794drg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131041/2f2b6a44c28fe530517e4b239af74427/1040g2sg322q517bonue05p2stf0qace8l794drg!nd_dft_wlteh_webp_3?src=A",
       "likes": 135,
       "collects": 12,
       "comments": 9,
@@ -25384,6 +27082,13 @@ window.XHS_DATA = {
           "collects": 12,
           "comments": 9,
           "shares": 6
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 135,
+          "collects": 12,
+          "comments": 9,
+          "shares": 6
         }
       ]
     },
@@ -25392,7 +27097,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "顺拐不起来了",
       "author": "任宇辰",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121043/2d56ee5f1c6d25adbe4b75af97933b08/1040g2sg321kmr61cno705p2stf0qace8u4kpmc0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131041/c219ee02e3d994645c85f048604df207/1040g2sg321kmr61cno705p2stf0qace8u4kpmc0!nd_dft_wlteh_webp_3?src=A",
       "likes": 40,
       "collects": 2,
       "comments": 4,
@@ -25416,6 +27121,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 4,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 40,
+          "collects": 2,
+          "comments": 4,
+          "shares": 0
         }
       ]
     },
@@ -25424,8 +27136,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "赛车比赛🏎️🏁",
       "author": "inho",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121044/d4ade3bb75c7397ed9f7f361bb39c174/oss-sg/notes/1040g3l0323jnbtn5ik005qd2o11pg3aniptbbp8!nd_dft_wlteh_webp_3?src=A",
-      "likes": 19,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131041/048d187f2f0ea3fb805a06a92fa117dc/oss-sg/notes/1040g3l0323jnbtn5ik005qd2o11pg3aniptbbp8!nd_dft_wlteh_webp_3?src=A",
+      "likes": 21,
       "collects": 3,
       "comments": 1,
       "comments_text": [],
@@ -25448,6 +27160,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 1,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 21,
+          "collects": 3,
+          "comments": 1,
+          "shares": 1
         }
       ]
     },
@@ -25456,8 +27175,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "出发吧！",
       "author": "inho",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121044/234c9c2813902e0740f3675a0b3a5c69/oss-sg/notes/1040g3l0323hutgsf1i005qd2o11pg3andm6srr8!nd_dft_wlteh_webp_3?src=A",
-      "likes": 50,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131042/6be7364c5fc2171c56599075eb567258/oss-sg/notes/1040g3l0323hutgsf1i005qd2o11pg3andm6srr8!nd_dft_wlteh_webp_3?src=A",
+      "likes": 51,
       "collects": 4,
       "comments": 5,
       "comments_text": [],
@@ -25480,6 +27199,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 5,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 51,
+          "collects": 4,
+          "comments": 5,
+          "shares": 0
         }
       ]
     },
@@ -25488,8 +27214,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🌌🌌",
       "author": "inho",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121044/74488b86ca4b3cd5b73b40783bf04a87/oss-sg/notes/1040g3l03239r4b9i7c005qd2o11pg3aneg1be6g!nd_dft_wlteh_webp_3?src=A",
-      "likes": 75,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131042/4e91d5b89d01ddda9519ada4cb9b404e/oss-sg/notes/1040g3l03239r4b9i7c005qd2o11pg3aneg1be6g!nd_dft_wlteh_webp_3?src=A",
+      "likes": 76,
       "collects": 5,
       "comments": 4,
       "comments_text": [],
@@ -25512,6 +27238,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 4,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 76,
+          "collects": 5,
+          "comments": 4,
+          "shares": 0
         }
       ]
     },
@@ -25520,8 +27253,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "日常元音",
       "author": "inho",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121044/67db4e3800bc559ce4ff309fad58f2dc/oss-sg/notes_pre_post/1040g3mo322qrr1e37u005qd2o11pg3an8joenio!nd_dft_wlteh_webp_3?src=A",
-      "likes": 243,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131042/04a1ee03f2ae7cc1390804bdafdabcaa/oss-sg/notes_pre_post/1040g3mo322qrr1e37u005qd2o11pg3an8joenio!nd_dft_wlteh_webp_3?src=A",
+      "likes": 244,
       "collects": 9,
       "comments": 3,
       "comments_text": [],
@@ -25544,6 +27277,13 @@ window.XHS_DATA = {
           "collects": 9,
           "comments": 3,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 244,
+          "collects": 9,
+          "comments": 3,
+          "shares": 0
         }
       ]
     },
@@ -25552,7 +27292,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "📸👀",
       "author": "inho",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121045/08a3c0347b857cca81cdf77f1e037383/oss-sg/notes/1040g3l0322c4r9lcnu005qd2o11pg3ana740u08!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131042/5a7dd23bf82b8f5b3d42e3da55168b51/oss-sg/notes/1040g3l0322c4r9lcnu005qd2o11pg3ana740u08!nd_dft_wlteh_webp_3?src=A",
       "likes": 58,
       "collects": 7,
       "comments": 7,
@@ -25576,6 +27316,13 @@ window.XHS_DATA = {
           "collects": 7,
           "comments": 7,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 58,
+          "collects": 7,
+          "comments": 7,
+          "shares": 1
         }
       ]
     },
@@ -25584,7 +27331,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "我被偷拍了！！😳📸",
       "author": "By金贤进",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121045/0ec8aa2b950fcfa44e382c4e33d6720f/oss-sg/notes/1040g3l03210e63quni0g5q16lcl3905ncjf1pq0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131043/512b324653d4e02b6d80b8a19eb9bd3b/oss-sg/notes/1040g3l03210e63quni0g5q16lcl3905ncjf1pq0!nd_dft_wlteh_webp_3?src=A",
       "likes": 2,
       "collects": 0,
       "comments": 0,
@@ -25608,6 +27355,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -25616,7 +27370,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "在韩国偶遇明星啦！！！✨🇰🇷",
       "author": "By金贤进",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121046/d1b2bdc3776b3eaea59e271b77bb8c3e/oss-sg/notes/1040g3l03210e63quni005q16lcl3905nsfji14g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131043/b57cecfafe5ca7972be6084059328c58/oss-sg/notes/1040g3l03210e63quni005q16lcl3905nsfji14g!nd_dft_wlteh_webp_3?src=A",
       "likes": 4,
       "collects": 0,
       "comments": 0,
@@ -25640,6 +27394,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 4,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -25648,7 +27409,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "医生推荐的 韩国美食店",
       "author": "By金贤进",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121046/1b337b652337ab050401997d49165252/1040g2sg31tk9r03bmu0g5q16lcl3905n6foqkdo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131044/890e78db21f7b590b2aebf65c07a9843/1040g2sg31tk9r03bmu0g5q16lcl3905n6foqkdo!nd_dft_wlteh_webp_3?src=A",
       "likes": 4,
       "collects": 0,
       "comments": 0,
@@ -25672,6 +27433,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 4,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -25680,7 +27448,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "欢迎大家来韩国玩呀😆🇰🇷✨",
       "author": "By金贤进",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121046/4e07da654565e5765254c3314a4b3fec/oss-sg/notes/1040g3l03202evi7tne005q16lcl3905n2bg8a40!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131044/9ed35fb8aebb98a22ba34eacae13e64a/oss-sg/notes/1040g3l03202evi7tne005q16lcl3905n2bg8a40!nd_dft_wlteh_webp_3?src=A",
       "likes": 6,
       "collects": 2,
       "comments": 0,
@@ -25704,6 +27472,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 6,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -25712,7 +27487,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "要不要我给大家推荐韩国美食店呢？😆🇰🇷🍜",
       "author": "By金贤进",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121046/0b6cd1ffd94aaa7fbe9cb191dc1a5701/notes_uhdr/1040g3qg3202f08e728005q16lcl3905nfj3ekg8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131044/0129c3b46100ebb1178e6641721a98c5/notes_uhdr/1040g3qg3202f08e728005q16lcl3905nfj3ekg8!nd_dft_wlteh_webp_3?src=A",
       "likes": 5,
       "collects": 1,
       "comments": 0,
@@ -25736,6 +27511,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 5,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -25744,7 +27526,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "일상",
       "author": "Hyunny",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121047/bcdbb15c57474413c1ec03b8608216b7/oss-sg/notes/1040g3l032382vh7sg00g5qgbt3pjej0108hq8eo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131044/12168905f55ef8a363d36aafe0650695/oss-sg/notes/1040g3l032382vh7sg00g5qgbt3pjej0108hq8eo!nd_dft_wlteh_webp_3?src=A",
       "likes": 1,
       "collects": 0,
       "comments": 0,
@@ -25768,6 +27550,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -25776,7 +27565,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "일상",
       "author": "Hyunny",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121047/6a1fc71fff3fc45af2f671649fb2ecc9/oss-sg/notes/1040g3l032382vh7sg0005qgbt3pjej01mvfb9dg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131045/53d827146fef82fcacc5a56e7e53a7d0/oss-sg/notes/1040g3l032382vh7sg0005qgbt3pjej01mvfb9dg!nd_dft_wlteh_webp_3?src=A",
       "likes": 0,
       "collects": 0,
       "comments": 0,
@@ -25800,6 +27589,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 0,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -25808,7 +27604,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Korea🇰🇷",
       "author": "Hyunny",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121047/687a2f5fdf376385bdedeb59fc4a06a5/oss-sg/notes/1040g3l03235rveja7s105qgbt3pjej010ov5bt8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131045/d3100bb9da52351e7cc94b86c4c60a6a/oss-sg/notes/1040g3l03235rveja7s105qgbt3pjej010ov5bt8!nd_dft_wlteh_webp_3?src=A",
       "likes": 1,
       "collects": 0,
       "comments": 0,
@@ -25832,6 +27628,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -25840,7 +27643,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Hi",
       "author": "Hyunny",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121047/34dd185c7b3699ba8fa300b2b960ace4/oss-sg/notes/1040g3l03235rveja7s0g5qgbt3pjej01qb2dqeo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131045/fffc99236f5b85096410153ecf67b5f0/oss-sg/notes/1040g3l03235rveja7s0g5qgbt3pjej01qb2dqeo!nd_dft_wlteh_webp_3?src=A",
       "likes": 1,
       "collects": 0,
       "comments": 2,
@@ -25864,6 +27667,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1,
+          "collects": 0,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -25872,7 +27682,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "친구하자",
       "author": "Hyunny",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121048/811839e0efc7ea1f71671af1f1ba9e91/oss-sg/notes/1040g3l03235rveja7s005qgbt3pjej01ihbipd0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131045/e573bf29081408485b5a0d3d410b604a/oss-sg/notes/1040g3l03235rveja7s005qgbt3pjej01ihbipd0!nd_dft_wlteh_webp_3?src=A",
       "likes": 1,
       "collects": 0,
       "comments": 1,
@@ -25896,6 +27706,38 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a7c37950000000011022e0e",
+      "type": "note",
+      "title": "Maison margiela",
+      "author": "YANGWOO",
+      "cover": "",
+      "likes": 0,
+      "collects": 0,
+      "comments": 0,
+      "comments_text": [],
+      "shares": 0,
+      "publish_time": "",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 0,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -25904,15 +27746,15 @@ window.XHS_DATA = {
       "type": "note",
       "title": "去日本旅行的时候！ ✨",
       "author": "YANGWOO",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121049/e4c5550cdad1e580d487a759fddc7f04/oss-sg/notes/1040g3l0323hfu1oui8005q14jpi3jl9v0eai5ro!nd_dft_wlteh_webp_3?src=A",
-      "likes": 11,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131047/47a51faa05009def4f86231d9281e038/oss-sg/notes/1040g3l0323hfu1oui8005q14jpi3jl9v0eai5ro!nd_dft_wlteh_webp_3?src=A",
+      "likes": 13,
       "collects": 1,
       "comments": 0,
       "comments_text": [],
       "shares": 1,
       "publish_time": "2026-08-06",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 1,
       "from_profile": true,
       "history": [
         {
@@ -25928,6 +27770,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 13,
+          "collects": 1,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -25936,7 +27785,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "变啦 📸",
       "author": "YANGWOO",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121049/6c953a14d87b33a2e931b0aaa3f56cb3/oss-sg/notes/1040g3l0323erf3qrg8005q14jpi3jl9vat7c8a0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131047/1c8ed06384ab28b5526af3f73aa79c6a/oss-sg/notes/1040g3l0323erf3qrg8005q14jpi3jl9vat7c8a0!nd_dft_wlteh_webp_3?src=A",
       "likes": 9,
       "collects": 0,
       "comments": 1,
@@ -25944,7 +27793,7 @@ window.XHS_DATA = {
       "shares": 0,
       "publish_time": "2026-08-04",
       "pinned": false,
-      "grid_order": 1,
+      "grid_order": 2,
       "from_profile": true,
       "history": [
         {
@@ -25956,6 +27805,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "likes": 9,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
+        },
+        {
+          "date": "2026-08-13",
           "likes": 9,
           "collects": 0,
           "comments": 1,
@@ -25968,15 +27824,15 @@ window.XHS_DATA = {
       "type": "note",
       "title": "一起来唱我喜欢的歌吧 🫶🏻",
       "author": "YANGWOO",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121049/88e1b03470c0949fd74398ef18b19662/oss-sg/notes/1040g3l0323c9168i06005q14jpi3jl9vrtj1ju8!nd_dft_wlteh_webp_3?src=A",
-      "likes": 8,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131047/0758d53e31b4d54cf67c0f7398de3b8a/oss-sg/notes/1040g3l0323c9168i06005q14jpi3jl9vrtj1ju8!nd_dft_wlteh_webp_3?src=A",
+      "likes": 9,
       "collects": 0,
       "comments": 0,
       "comments_text": [],
       "shares": 0,
       "publish_time": "2026-08-02",
       "pinned": false,
-      "grid_order": 2,
+      "grid_order": 3,
       "from_profile": true,
       "history": [
         {
@@ -25989,6 +27845,13 @@ window.XHS_DATA = {
         {
           "date": "2026-08-12",
           "likes": 8,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 9,
           "collects": 0,
           "comments": 0,
           "shares": 0
@@ -26000,7 +27863,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "我超级喜欢吃越南河粉🫶🏻",
       "author": "YANGWOO",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121049/b5f8f645b12bef9aada0d80c0c00107e/note_pre_post_uhdr/1040g3r83238dp0ldns705q14jpi3jl9vjqd1th0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131047/617bf915e54f1280bc76bde0092169f0/note_pre_post_uhdr/1040g3r83238dp0ldns705q14jpi3jl9vjqd1th0!nd_dft_wlteh_webp_3?src=A",
       "likes": 9,
       "collects": 0,
       "comments": 1,
@@ -26008,53 +27871,28 @@ window.XHS_DATA = {
       "shares": 0,
       "publish_time": "2026-07-30",
       "pinned": false,
-      "grid_order": 3,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-08-11",
-          "likes": 9,
-          "collects": 0,
-          "comments": 1,
-          "shares": 0
-        },
-        {
-          "date": "2026-08-12",
-          "likes": 9,
-          "collects": 0,
-          "comments": 1,
-          "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a68a2c3000000000c033c00",
-      "type": "note",
-      "title": "No make up / make-up",
-      "author": "YANGWOO",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121050/69d7984de9f0c4785a7af4682b81e259/oss-sg/notes/1040g3l03235s3i50ng005q14jpi3jl9vnsn78gg!nd_dft_wlteh_webp_3?src=A",
-      "likes": 6,
-      "collects": 0,
-      "comments": 0,
-      "comments_text": [],
-      "shares": 0,
-      "publish_time": "2026-07-28",
-      "pinned": false,
       "grid_order": 4,
       "from_profile": true,
       "history": [
         {
           "date": "2026-08-11",
-          "likes": 6,
+          "likes": 9,
           "collects": 0,
-          "comments": 0,
+          "comments": 1,
           "shares": 0
         },
         {
           "date": "2026-08-12",
-          "likes": 6,
+          "likes": 9,
           "collects": 0,
-          "comments": 0,
+          "comments": 1,
+          "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 9,
+          "collects": 0,
+          "comments": 1,
           "shares": 0
         }
       ]
@@ -26064,7 +27902,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "📍上海",
       "author": "Selin Egemen",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121050/f52d8b0c66ef6578d2fcc9a2470f9eee/notes_pre_post/1040g3k831q862tg1ng705odfup741udqmbusmc0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131048/9054631b9056666c1bce57a7d1e6ee5d/notes_pre_post/1040g3k831q862tg1ng705odfup741udqmbusmc0!nd_dft_wlteh_webp_3?src=A",
       "likes": 805,
       "collects": 91,
       "comments": 8,
@@ -26088,6 +27926,13 @@ window.XHS_DATA = {
           "collects": 91,
           "comments": 8,
           "shares": 11
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 805,
+          "collects": 91,
+          "comments": 8,
+          "shares": 11
         }
       ]
     },
@@ -26096,7 +27941,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🖤 ",
       "author": "Selin Egemen",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121051/9723b4429ca6596b3b9ed30644366999/1040g2sg31hcriq6ejq705odfup741udqd420agg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131048/42f72874f0f346db1bedca5013d897e3/1040g2sg31hcriq6ejq705odfup741udqd420agg!nd_dft_wlteh_webp_3?src=A",
       "likes": 230,
       "collects": 24,
       "comments": 20,
@@ -26120,6 +27965,13 @@ window.XHS_DATA = {
           "collects": 24,
           "comments": 20,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 230,
+          "collects": 24,
+          "comments": 20,
+          "shares": 1
         }
       ]
     },
@@ -26128,7 +27980,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "蓝色和小韩很搭哦",
       "author": "Mini帆",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121051/1a87494809c2bcf9d64ec05b546920c9/notes_pre_post/1040g3k8321ai5kth6s705o25sjggbljbi89adj8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131049/e72d99354032d8eb8580f27523843d4e/notes_pre_post/1040g3k8321ai5kth6s705o25sjggbljbi89adj8!nd_dft_wlteh_webp_3?src=A",
       "likes": 44,
       "collects": 1,
       "comments": 4,
@@ -26152,6 +28004,38 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 4,
           "shares": 3
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 44,
+          "collects": 1,
+          "comments": 4,
+          "shares": 3
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a0aeef3000000003501c2d9",
+      "type": "note",
+      "title": "zifan最近皮肤好的邪修大法(无广）",
+      "author": "Mini帆",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131049/6116b2e1eb3dbc3ca5524163cc41c7f1/notes_pre_post/1040g3k8320abt2dflc705o25sjggbljbjocsdg0!nd_dft_wlteh_webp_3?src=A",
+      "likes": 53,
+      "collects": 20,
+      "comments": 3,
+      "comments_text": [],
+      "shares": 7,
+      "publish_time": "2026-05-18",
+      "pinned": false,
+      "grid_order": 1,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 53,
+          "collects": 20,
+          "comments": 3,
+          "shares": 7
         }
       ]
     },
@@ -26160,18 +28044,11 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Mini zifan来喽",
       "author": "Mini帆",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121059/7130851e29868f58262d0d7eef3c254f/notes_pre_post/1040g3k031vs3hvdgis005o25sjggbljbojd2vp8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131049/e5d7730dbd1df91b04285de30315e3bf/notes_pre_post/1040g3k031vs3hvdgis005o25sjggbljbojd2vp8!nd_dft_wlteh_webp_3?src=A",
       "likes": 277,
       "collects": 7,
       "comments": 30,
-      "comments_text": [
-        "欧尼我想你🥺",
-        "超绝小猫视角",
-        "哎哟我的小帆帆",
-        "来了！！",
-        "啊小小fan好可爱[萌萌哒R]",
-        "🍠给我fanfan流量！！"
-      ],
+      "comments_text": [],
       "shares": 6,
       "publish_time": "2026-05-07",
       "pinned": false,
@@ -26191,6 +28068,13 @@ window.XHS_DATA = {
           "collects": 7,
           "comments": 30,
           "shares": 6
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 277,
+          "collects": 7,
+          "comments": 30,
+          "shares": 6
         }
       ]
     },
@@ -26199,18 +28083,11 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷｜野生猫猫出击🐈‍⬛？",
       "author": "Mini帆",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121059/da68b4c79cd3c00d17a78665f8a957ae/03033801kolb70ke5bf011c0tpb0ssfoat!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131050/ca961aac46a0db3808aba9b6c6b001cf/03033801kolb70ke5bf011c0tpb0ssfoat!nd_dft_wlteh_webp_3?src=A",
       "likes": 1800,
       "collects": 185,
       "comments": 30,
-      "comments_text": [
-        "要！！！",
-        "要！！！！！！喜欢宝贝的妆容",
-        "太美了！",
-        "当然要[飞吻R]",
-        "好美",
-        "好美，有点像妍珍吶~[偷笑R]"
-      ],
+      "comments_text": [],
       "shares": 29,
       "publish_time": "2023-03-08",
       "pinned": false,
@@ -26230,6 +28107,13 @@ window.XHS_DATA = {
           "collects": 185,
           "comments": 30,
           "shares": 29
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1800,
+          "collects": 185,
+          "comments": 30,
+          "shares": 29
         }
       ]
     },
@@ -26238,7 +28122,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "古早爱豆和闺蜜闲聊世界杯",
       "author": "Serriday",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121100/2db20f42f580f6c41d8bb1305bd6b578/oss-sg/notes/1040g3l0321mvvj3n7e005q2id9qn92fi6dnc8lg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131051/8e66ae8453ba054834e371aa4fe8c3f5/oss-sg/notes/1040g3l0321mvvj3n7e005q2id9qn92fi6dnc8lg!nd_dft_wlteh_webp_3?src=A",
       "likes": 142,
       "collects": 13,
       "comments": 8,
@@ -26283,6 +28167,13 @@ window.XHS_DATA = {
           "collects": 13,
           "comments": 8,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 142,
+          "collects": 13,
+          "comments": 8,
+          "shares": 1
         }
       ]
     },
@@ -26291,17 +28182,17 @@ window.XHS_DATA = {
       "type": "note",
       "title": "三代女团回忆杀！还记得Dalshabet吗？",
       "author": "Serriday",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121101/7c6e3fffc375e50e50d5ca48e85ec888/oss-sg/notes/1040g3l0321n5o8g9nc005q2id9qn92fivsert48!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131051/20ed258881bb5109150e44353cda87ea/oss-sg/notes/1040g3l0321n5o8g9nc005q2id9qn92fivsert48!nd_dft_wlteh_webp_3?src=A",
       "likes": 1900,
       "collects": 251,
-      "comments": 145,
+      "comments": 146,
       "comments_text": [
         "我只知道这个女团被一个男团的粉丝给害惨了，就因为那一场合作舞台",
         "someone like U是我的kpop舞蹈启蒙啊",
+        "喜欢你们那首BBB",
         "我还买过你们的专辑，今天早上还在听你们的歌\n저도 여러분의 앨범을 샀고, 오늘 아침에도 여러분의 노래를 듣고 있어요.",
-        "超喜欢这张专辑的！还买了实体专",
-        "啊啊啊啊啊世理来啦！出道曲就超喜欢，印象最深的就是世理！！！后面去参加The Unit特别希望你能再次出道的。好开心能在小红书看到你啊[派对R][派对R][派对R]",
-        "喜欢你们那首BBB"
+        "朴敏荷那个女团吗",
+        "超喜欢这张专辑的！还买了实体专"
       ],
       "shares": 69,
       "publish_time": "2026-06-19",
@@ -26336,6 +28227,13 @@ window.XHS_DATA = {
           "collects": 251,
           "comments": 145,
           "shares": 69
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1900,
+          "collects": 251,
+          "comments": 146,
+          "shares": 69
         }
       ]
     },
@@ -26344,17 +28242,17 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🥃",
       "author": "Austin Kang",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121101/30cd380ba804b538657fd08651da84fd/oss-sg/notes/1040g3l0323jv93uuiu0g5oji37h8c9ss43bvg7o!nd_dft_wlteh_webp_3?src=A",
-      "likes": 155,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131051/cc0f8caff1581d009845eda228e4df39/oss-sg/notes/1040g3l0323jv93uuiu0g5oji37h8c9ss43bvg7o!nd_dft_wlteh_webp_3?src=A",
+      "likes": 161,
       "collects": 2,
-      "comments": 17,
+      "comments": 18,
       "comments_text": [
         "欧巴，tell Henry that I love him！",
         "형, 말해줘Henry나는 그를 정말 좋아해요.[偷笑R]",
         "苏州来不来",
         "欧巴欧巴太帅了[飞吻R]",
-        "so handsome[玫瑰R]",
-        "哥你也太帅了吧"
+        "Austin越来越有型了[得意R][得意R] 苏州奥体现场要抓住这个cool boy",
+        "so handsome[玫瑰R]"
       ],
       "shares": 2,
       "publish_time": "2026-08-08",
@@ -26382,6 +28280,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 17,
           "shares": 2
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 161,
+          "collects": 2,
+          "comments": 18,
+          "shares": 2
         }
       ]
     },
@@ -26390,19 +28295,19 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Enjoyed the show!!!!!!",
       "author": "Austin Kang",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121101/6878a7482cbfa5b41bafd00d69440e95/oss-sg/notes/1040g3l0323ep6qf6nc005oji37h8c9ssgscoia0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131052/4ac5ddac441f999db03ac2e2592d30ef/oss-sg/notes/1040g3l0323ep6qf6nc005oji37h8c9ssgscoia0!nd_dft_wlteh_webp_3?src=A",
       "likes": 2800,
-      "collects": 139,
-      "comments": 221,
+      "collects": 141,
+      "comments": 223,
       "comments_text": [
         "Austin终于发了finally[派对R]",
         "这位帅哥是谁啊",
-        "那天逛街看到一个服装品牌广告海报模特很像你，是你吗Austin",
-        "先拍了再说[doge]",
         "听说你领的物料比琴弦还多啊[偷笑R]",
+        "先拍了再说[doge]",
+        "那天逛街看到一个服装品牌广告海报模特很像你，是你吗Austin",
         "我看见你啦 旁边是顿哥吧 可惜没遇到你"
       ],
-      "shares": 132,
+      "shares": 133,
       "publish_time": "2026-08-04",
       "pinned": false,
       "grid_order": 1,
@@ -26435,6 +28340,13 @@ window.XHS_DATA = {
           "collects": 139,
           "comments": 221,
           "shares": 132
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2800,
+          "collects": 141,
+          "comments": 223,
+          "shares": 133
         }
       ]
     },
@@ -26443,17 +28355,17 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🥸",
       "author": "Austin Kang",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121101/31c0143b03b2f020b012091ec9da9c66/oss-sg/notes/1040g3l0323as6va17k005oji37h8c9ssfaj8aj8!nd_dft_wlteh_webp_3?src=A",
-      "likes": 132,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131052/d7d10e6f71a4e824b0e58907c434792b/oss-sg/notes/1040g3l0323as6va17k005oji37h8c9ssfaj8aj8!nd_dft_wlteh_webp_3?src=A",
+      "likes": 133,
       "collects": 3,
       "comments": 16,
       "comments_text": [
+        "so handsome[飞吻R]",
         "来参加好朋友的聚会了呢",
         "I was so lucky to meet you and take a picture with you at Henry’s concert yesterday. You’re far more handsome in real li",
-        "太帅了，配我闺蜜刚好！婚礼得在中国办啊！",
+        "今晚看到你来Henry演唱会啦",
         "啊啊啊啊啊！终于更新啦，帅哥一枚，以后都每天一更吧[害羞R][萌萌哒R]，每天都想见帅哥[黄金薯R]",
-        "今天Henry演唱会散场时 和你正面碰上了，你们同行四人，两男两女，一眼就认得你，不敢上前打扰",
-        "今晚看到你来Henry演唱会啦"
+        "今天Henry演唱会散场时 和你正面碰上了，你们同行四人，两男两女，一眼就认得你，不敢上前打扰"
       ],
       "shares": 2,
       "publish_time": "2026-08-01",
@@ -26488,6 +28400,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 16,
           "shares": 2
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 133,
+          "collects": 3,
+          "comments": 16,
+          "shares": 2
         }
       ]
     },
@@ -26496,14 +28415,14 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🍵",
       "author": "Austin Kang",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121101/cea2c2b121ce219148ee26364c7ea74f/oss-sg/notes/1040g3l03238e83k0ni005oji37h8c9ssa26vrj8!nd_dft_wlteh_webp_3?src=A",
-      "likes": 132,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131052/84a2759773c91839a8d54d5bc851e511/oss-sg/notes/1040g3l03238e83k0ni005oji37h8c9ssa26vrj8!nd_dft_wlteh_webp_3?src=A",
+      "likes": 134,
       "collects": 3,
       "comments": 18,
       "comments_text": [
         "没去澳门？",
-        "会见面吗？",
         "可以叫Henry返场澳门🇲🇴吗[偷笑R]",
+        "会见面吗？",
         "也是大帅[心心眼R][心心眼R]",
         "hot nerd系列",
         "没有来澳门玩嘛"
@@ -26541,6 +28460,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 18,
           "shares": 2
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 134,
+          "collects": 3,
+          "comments": 18,
+          "shares": 2
         }
       ]
     },
@@ -26549,10 +28475,10 @@ window.XHS_DATA = {
       "type": "note",
       "title": "大家好 我是厨师Austin Kang",
       "author": "Austin Kang",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121101/8f234fbae1bb8304620033ce714530a8/oss-sg/notes/1040g3l03230k1647ne005oji37h8c9ss4iepffo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131052/46d7e6b17d3193eea49e2c63c0915217/oss-sg/notes/1040g3l03230k1647ne005oji37h8c9ss4iepffo!nd_dft_wlteh_webp_3?src=A",
       "likes": 1100,
-      "collects": 142,
-      "comments": 152,
+      "collects": 143,
+      "comments": 151,
       "comments_text": [
         "Henry's friend?",
         "去过你的餐厅，不过没有吃上，因为没有预约",
@@ -26561,7 +28487,7 @@ window.XHS_DATA = {
         "You two can make food together",
         "Henry 的朋友就是我的朋友，欢迎你朋友[飞吻R]"
       ],
-      "shares": 125,
+      "shares": 127,
       "publish_time": "2026-07-24",
       "pinned": false,
       "grid_order": 4,
@@ -26594,6 +28520,45 @@ window.XHS_DATA = {
           "collects": 142,
           "comments": 152,
           "shares": 125
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1100,
+          "collects": 143,
+          "comments": 151,
+          "shares": 127
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a7c4b430000000012028575",
+      "type": "note",
+      "title": "🔴红与黑⚫️",
+      "author": "金高恩goxnniee",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131053/33a14939e3084e285738834de04da099/oss-sg/notes_pre_post/1040g3mo323p2a9rd2c605ppbg08ndisjr3eac50!nd_dft_wlteh_webp_3?src=A",
+      "likes": 441,
+      "collects": 12,
+      "comments": 36,
+      "comments_text": [
+        "oni！！",
+        "非常喜欢你🫶",
+        "欧尼更爱拿铁还是美式呀！[大笑R][大笑R][飞吻R]",
+        "高恩好美[色色R][飞吻R]😍",
+        "好像芭比娃娃欧尼",
+        "看起來歐膩很喜歡去咖啡廳呢[害羞R]"
+      ],
+      "shares": 2,
+      "publish_time": "2026-08-12",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 441,
+          "collects": 12,
+          "comments": 36,
+          "shares": 2
         }
       ]
     },
@@ -26602,22 +28567,22 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷美术馆随拍～🐈‍⬛️♡",
       "author": "金高恩goxnniee",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121102/8b79a5b67afe16c759cd5ae759b74458/oss-sg/notes_pre_post/1040g3mo323nqi6r02c6g5ppbg08ndisjrf5v7r8!nd_dft_wlteh_webp_3?src=A",
-      "likes": 334,
-      "collects": 11,
-      "comments": 25,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131053/313f1c20439f55c59da43bee73c057cb/oss-sg/notes_pre_post/1040g3mo323nqi6r02c6g5ppbg08ndisjrf5v7r8!nd_dft_wlteh_webp_3?src=A",
+      "likes": 394,
+      "collects": 16,
+      "comments": 27,
       "comments_text": [
-        "欧尼 好漂亮吧[飞吻R]",
+        "姐姐 在单身即地狱就特别喜欢你 我也想要你的赞赞",
         "언니, 네가 예술품이야[派对R][派对R][派对R]",
+        "欧尼 好漂亮吧[飞吻R]",
         "高恩欧尼我刚又重刷了一遍你的综艺[萌萌哒R]",
-        "歐膩是有換髮色嗎好漂亮",
-        "姐姐我爱你[大笑R][大笑R]好美",
-        "超漂亮！"
+        "好漂亮欧尼",
+        "姐姐可以听得懂吗？"
       ],
-      "shares": 1,
+      "shares": 3,
       "publish_time": "2026-08-11",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 1,
       "from_profile": true,
       "history": [
         {
@@ -26626,6 +28591,13 @@ window.XHS_DATA = {
           "collects": 11,
           "comments": 25,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 394,
+          "collects": 16,
+          "comments": 27,
+          "shares": 3
         }
       ]
     },
@@ -26634,22 +28606,22 @@ window.XHS_DATA = {
       "type": "note",
       "title": "⛳是谁开始学高尔夫了",
       "author": "金高恩goxnniee",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121102/10842582abe7f950026475bec5da1e6a/oss-sg/notes_pre_post/1040g3mo323mhni9d28605ppbg08ndisjad2bcr8!nd_dft_wlteh_webp_3?src=A",
-      "likes": 342,
-      "collects": 9,
-      "comments": 46,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131053/03921c49147d0afb586eb3cd87397847/oss-sg/notes_pre_post/1040g3mo323mhni9d28605ppbg08ndisjad2bcr8!nd_dft_wlteh_webp_3?src=A",
+      "likes": 383,
+      "collects": 10,
+      "comments": 48,
       "comments_text": [
         "欧尼 这个裤子是什么牌子的[哭惹R] 找了好久  好喜欢你",
         "欧尼换了新工作在熬[哭惹R][哭惹R]",
         "呜呜呜欧尼 昨天心情真的差完了[哭惹R]周一特别坏坏的[哭惹R]",
-        "欧尼 想要护肤彩妆分享vlgo[色色R][色色R]",
-        "欧尼我还在暑假实习中，还有最后一个星期[哭惹R]",
-        "欧尼[微笑R]周一真的好坏[哭惹R]"
+        "高恩会出饰品分享吗[萌萌哒R][萌萌哒R]",
+        "欧尼[微笑R]周一真的好坏[哭惹R]",
+        "喜欢好天气"
       ],
-      "shares": 9,
+      "shares": 10,
       "publish_time": "2026-08-10",
       "pinned": false,
-      "grid_order": 1,
+      "grid_order": 2,
       "from_profile": true,
       "history": [
         {
@@ -26665,6 +28637,13 @@ window.XHS_DATA = {
           "collects": 9,
           "comments": 46,
           "shares": 9
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 383,
+          "collects": 10,
+          "comments": 48,
+          "shares": 10
         }
       ]
     },
@@ -26673,14 +28652,14 @@ window.XHS_DATA = {
       "type": "note",
       "title": "我的夏日度假穿搭｜夏日海边look☀",
       "author": "金高恩goxnniee",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121102/57ab17334c4be8d8e104747946210885/oss-sg/notes/1040g3l0323l2d5hh285g5ppbg08ndisj761pcf0!nd_dft_wlteh_webp_3?src=A",
-      "likes": 408,
-      "collects": 31,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131053/e22e2f97844309180df49bf38025fe2b/oss-sg/notes/1040g3l0323l2d5hh285g5ppbg08ndisj761pcf0!nd_dft_wlteh_webp_3?src=A",
+      "likes": 424,
+      "collects": 34,
       "comments": 33,
       "comments_text": [
         "第一套真的特别美！",
-        "喜欢我的头像吗",
         "想看你的妆造过程[飞吻R]",
+        "喜欢我的头像吗",
         "此女美商好高",
         "怎么这么会穿",
         "每一套都太好看了"
@@ -26688,7 +28667,7 @@ window.XHS_DATA = {
       "shares": 5,
       "publish_time": "2026-08-09",
       "pinned": false,
-      "grid_order": 2,
+      "grid_order": 3,
       "from_profile": true,
       "history": [
         {
@@ -26711,6 +28690,13 @@ window.XHS_DATA = {
           "collects": 31,
           "comments": 33,
           "shares": 5
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 424,
+          "collects": 34,
+          "comments": 33,
+          "shares": 5
         }
       ]
     },
@@ -26719,22 +28705,22 @@ window.XHS_DATA = {
       "type": "note",
       "title": "高恩’s VLOG|日程满满的3天",
       "author": "金高恩goxnniee",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121102/c721998d0f21b657f2125fc7cb67bb48/oss-sg/notes/1040g3l0323iis0e82c505q14bc02nig2apiohso!nd_dft_wgth_webp_3?src=A",
-      "likes": 529,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131053/fe993712f6223287bb616f33a2f69598/oss-sg/notes/1040g3l0323iis0e82c505q14bc02nig2apiohso!nd_dft_wgth_webp_3?src=A",
+      "likes": 551,
       "collects": 38,
-      "comments": 51,
+      "comments": 52,
       "comments_text": [
-        "太棒啦是我最期待的 vlog❤️",
         "yena和高恩?！之前看到椰奶和高恩欧尼的Challenge了诶！没想到两人真的是好朋友[仙女R]也算是梦幻联动了吧",
         "！梦幻联动啊啊啊",
-        "저는 이런 맛있는 음식을 보고 정말 마음이 설렙네요 😋",
+        "你俩居然认识啊我完全不知道哈哈哈哈哈哈哈",
         "来啦！！！高恩欧尼今天吃了什么好吃的呀！！",
-        "哦莫网速最快的一集[派对R]"
+        "哦莫网速最快的一集[派对R]",
+        "哇哇哇 喜欢"
       ],
       "shares": 5,
       "publish_time": "2026-08-07",
       "pinned": false,
-      "grid_order": 3,
+      "grid_order": 4,
       "from_profile": true,
       "history": [
         {
@@ -26757,58 +28743,12 @@ window.XHS_DATA = {
           "collects": 38,
           "comments": 51,
           "shares": 5
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a7450ea00000000110216b7",
-      "type": "note",
-      "title": "5月的碎片｜到处乱跑🌻",
-      "author": "金高恩goxnniee",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121102/feb1ea64598d704cb314292b542c2926/oss-sg/notes_pre_post/1040g3mo323h8r0cch46g5ppbg08ndisjjbb1aag!nd_dft_wlteh_webp_3?src=A",
-      "likes": 495,
-      "collects": 11,
-      "comments": 55,
-      "comments_text": [
-        "高恩歐尼的親妹妹嗎！你們都太可愛了[害羞R]要開心～～～",
-        "p3好不一样的欧尼...[皱眉R]",
-        "姐姐原來還有妹妹",
-        "高恩和高恩的妹妹都特别可爱！！ㅋㅋㅋㅋ\n언니와 여동생, 둘 다 정말 귀엽다！！ㅋㅋㅋㅋ",
-        "欧尼，请来上海！来吃很久以前羊肉串吧haha～",
-        "欧尼你怎么这么美萌[皱眉R]"
-      ],
-      "shares": 5,
-      "publish_time": "2026-08-06",
-      "pinned": false,
-      "grid_order": 4,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-08-07",
-          "likes": 343,
-          "collects": 8,
-          "comments": 48,
-          "shares": 3
         },
         {
-          "date": "2026-08-10",
-          "likes": 470,
-          "collects": 11,
-          "comments": 55,
-          "shares": 4
-        },
-        {
-          "date": "2026-08-11",
-          "likes": 481,
-          "collects": 11,
-          "comments": 55,
-          "shares": 5
-        },
-        {
-          "date": "2026-08-12",
-          "likes": 495,
-          "collects": 11,
-          "comments": 55,
+          "date": "2026-08-13",
+          "likes": 551,
+          "collects": 38,
+          "comments": 52,
           "shares": 5
         }
       ]
@@ -26818,7 +28758,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "‼️‼️",
       "author": "SOJINHO",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121103/45cdf9948bfccd9ce132e6cd96bf3b8e/notes_pre_post/1040g3k831gmkf64ij8705omfsa1gg24sf79ui30!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131054/8de1494d15acaafd27223f8bca92bb31/notes_pre_post/1040g3k831gmkf64ij8705omfsa1gg24sf79ui30!nd_dft_wlteh_webp_3?src=A",
       "likes": 5,
       "collects": 1,
       "comments": 0,
@@ -26856,6 +28796,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 5,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -26864,7 +28811,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "😊",
       "author": "SOJINHO",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121103/f57af06232155178c17535fc89634b1e/notes_pre_post/1040g3k831g5nb71oh8705omfsa1gg24svikbfs8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131054/e1146b77abceae79bea6f402d8928531/notes_pre_post/1040g3k831g5nb71oh8705omfsa1gg24svikbfs8!nd_dft_wlteh_webp_3?src=A",
       "likes": 28,
       "collects": 1,
       "comments": 4,
@@ -26906,6 +28853,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 4,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 28,
+          "collects": 1,
+          "comments": 4,
+          "shares": 0
         }
       ]
     },
@@ -26914,7 +28868,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "最近",
       "author": "SOJINHO",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121103/b60eb3bec82f52a29d4711d3fc9c3554/1040g2sg31fucq2dg0e705omfsa1gg24shpolfu8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131054/9d32f585789cca8da852478cd25ce164/1040g2sg31fucq2dg0e705omfsa1gg24shpolfu8!nd_dft_wlteh_webp_3?src=A",
       "likes": 12,
       "collects": 0,
       "comments": 0,
@@ -26952,6 +28906,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 12,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -26960,7 +28921,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "😁",
       "author": "SOJINHO",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121103/457e1c919ee76e181ae4136c17f12bac/1040g2sg31fs0l1497k705omfsa1gg24sjst9ko0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131054/e1bd130ac4c6045237bebbfc19bf28e1/1040g2sg31fs0l1497k705omfsa1gg24sjst9ko0!nd_dft_wlteh_webp_3?src=A",
       "likes": 11,
       "collects": 0,
       "comments": 3,
@@ -27001,6 +28962,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 3,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 11,
+          "collects": 0,
+          "comments": 3,
+          "shares": 0
         }
       ]
     },
@@ -27009,7 +28977,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "📷",
       "author": "SOJINHO",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121103/ae5d163dd3237ceaa71b99d819e94874/1040g00831flckn3q7k005omfsa1gg24stpgqc3g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131054/15e256ee7a64fe66f61ebd783539b222/1040g00831flckn3q7k005omfsa1gg24stpgqc3g!nd_dft_wlteh_webp_3?src=A",
       "likes": 5,
       "collects": 0,
       "comments": 0,
@@ -27047,6 +29015,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 5,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -27055,7 +29030,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Sik-K公司艺人居然来我店里买衣服了",
       "author": "DIORBOY",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121104/910103745da57975fb0c967e173a0a14/oss-sg/notes_pre_post/1040g3mo32196b38c7k005q2ku92n943ga37n6c8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131055/f119748196697c5a453c70b124cc6069/oss-sg/notes_pre_post/1040g3mo32196b38c7k005q2ku92n943ga37n6c8!nd_dft_wlteh_webp_3?src=A",
       "likes": 234,
       "collects": 15,
       "comments": 5,
@@ -27085,6 +29060,13 @@ window.XHS_DATA = {
           "collects": 15,
           "comments": 5,
           "shares": 50
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 234,
+          "collects": 15,
+          "comments": 5,
+          "shares": 50
         }
       ]
     },
@@ -27093,17 +29075,17 @@ window.XHS_DATA = {
       "type": "note",
       "title": "在首尔林荫路偶遇金汎！！",
       "author": "DIORBOY",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121104/eeac935ab6118f3c7804de050d0c8cba/1040g2sg31vghqbbf2a705q2ku92n943gaiksbuo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131055/3ddaa6f0e5f4e908a7e351e397e0279f/1040g2sg31vghqbbf2a705q2ku92n943gaiksbuo!nd_dft_wlteh_webp_3?src=A",
       "likes": 220,
       "collects": 20,
       "comments": 16,
       "comments_text": [
-        "左边还是右边？",
-        "哇羡慕了",
         "哇啊啊啊啊[哇R][哇R]羡慕羡慕羡慕",
-        "他的衣服都很简约好看",
+        "哇羡慕了",
         "还是这么的帅气啊",
-        "羡慕了"
+        "他的衣服都很简约好看",
+        "羡慕了",
+        "汎一直對時尚單品都很有品味！👍👍👍"
       ],
       "shares": 27,
       "publish_time": "2026-04-28",
@@ -27124,6 +29106,13 @@ window.XHS_DATA = {
           "collects": 20,
           "comments": 16,
           "shares": 27
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 220,
+          "collects": 20,
+          "comments": 16,
+          "shares": 27
         }
       ]
     },
@@ -27132,7 +29121,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "peaceminusone highball",
       "author": "DIORBOY",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121104/9b20f11eee1f89b07d74ef5ae4333f2c/1040g2sg31iv5quj4habg5q2ku92n943gasdg7og!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131055/6684b9405ffc35724a9414ae7b68e647/1040g2sg31iv5quj4habg5q2ku92n943gasdg7og!nd_dft_wlteh_webp_3?src=A",
       "likes": 7,
       "collects": 0,
       "comments": 2,
@@ -27158,6 +29147,45 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 7,
+          "collects": 0,
+          "comments": 2,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a7c45880000000011023242",
+      "type": "note",
+      "title": "☀️🏜️🦅",
+      "author": "刘诗蘟 yu sieun",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131055/9c33e7e1c4cc63e4e709f27a896f9ff1/oss-sg/notes_pre_post/1040g3mo323p1jjt2ie005qhfleijnf00glc6vso!nd_dft_wlteh_webp_3?src=A",
+      "likes": 49,
+      "collects": 3,
+      "comments": 8,
+      "comments_text": [
+        "她的每个照片感觉就像p上去的，怎么这么不清晰又假假的[笑哭R]我就是疑惑，看综艺很喜欢她",
+        "姐夫怎么没出镜呀[偷笑R][偷笑R][色色R]",
+        "[自拍R][自拍R][自拍R]",
+        "这真的不是ai吗？[笑哭R]",
+        "太美了[飞吻R]",
+        "热不热？"
+      ],
+      "shares": 3,
+      "publish_time": "2026-08-12",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 49,
+          "collects": 3,
+          "comments": 8,
+          "shares": 3
         }
       ]
     },
@@ -27166,22 +29194,22 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国小姐评审委员👑✨",
       "author": "刘诗蘟 yu sieun",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121104/a47ab5195d0513b11f3bdde44060d092/oss-sg/notes_pre_post/1040g3mo323nqs4dn2e005qhfleijnf00e57jfbo!nd_dft_wlteh_webp_3?src=A",
-      "likes": 391,
-      "collects": 48,
-      "comments": 15,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131055/37b9a5be1fd6e7f2321c6b8e80a6c3cd/oss-sg/notes_pre_post/1040g3mo323nqs4dn2e005qhfleijnf00e57jfbo!nd_dft_wlteh_webp_3?src=A",
+      "likes": 2300,
+      "collects": 288,
+      "comments": 57,
       "comments_text": [
         "我以为是张元英",
+        "为什么韩国的女孩子侧面总跟我一种颌面有问题的感觉？ 很多idol也是这样，不影响整体的美，但是侧脸就是感觉很奇怪。还是说是审美的差异",
         "欧尼好美呀[飞吻R]",
-        "头发扎起来好漂亮",
-        "比综艺上好看",
         "此女就这么优秀",
-        "口红色号欧尼[害羞R]"
+        "豪美[黄金薯R]",
+        "俩小姐姐长得好像呀"
       ],
-      "shares": 11,
+      "shares": 50,
       "publish_time": "2026-08-11",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 1,
       "from_profile": true,
       "history": [
         {
@@ -27190,6 +29218,13 @@ window.XHS_DATA = {
           "collects": 48,
           "comments": 15,
           "shares": 11
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2300,
+          "collects": 288,
+          "comments": 57,
+          "shares": 50
         }
       ]
     },
@@ -27198,21 +29233,21 @@ window.XHS_DATA = {
       "type": "note",
       "title": "喜欢粉色🩷",
       "author": "刘诗蘟 yu sieun",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121104/5073548eedc8f9cc5d7b7a90b30406de/oss-sg/notes_pre_post/1040g3mo323mcv8f3ig005qhfleijnf000un3ik0!nd_dft_wlteh_webp_3?src=A",
-      "likes": 53,
-      "collects": 2,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131055/ef7de20fc215f404fbdf512cac2ab510/oss-sg/notes_pre_post/1040g3mo323mcv8f3ig005qhfleijnf000un3ik0!nd_dft_wlteh_webp_3?src=A",
+      "likes": 68,
+      "collects": 8,
       "comments": 6,
       "comments_text": [
         "官熙喜欢粉色兔子🐰[偷笑R]很般配呢",
         "欧尼今天好仙呀",
-        "裙子好好看",
         "好有气质",
-        "好高挑美丽"
+        "好高挑美丽",
+        "裙子好好看"
       ],
-      "shares": 2,
+      "shares": 3,
       "publish_time": "2026-08-10",
       "pinned": false,
-      "grid_order": 1,
+      "grid_order": 2,
       "from_profile": true,
       "history": [
         {
@@ -27228,6 +29263,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 6,
           "shares": 2
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 68,
+          "collects": 8,
+          "comments": 6,
+          "shares": 3
         }
       ]
     },
@@ -27236,22 +29278,22 @@ window.XHS_DATA = {
       "type": "note",
       "title": "我的变美思路：",
       "author": "刘诗蘟 yu sieun",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121105/875a70a6d43ace43f5498568b1f1419f/oss-sg/notes_pre_post/1040g3mo323h9np6a103g5qhfleijnf00q9i82kg!nd_dft_wlteh_webp_3?src=A",
-      "likes": 63,
-      "collects": 4,
-      "comments": 9,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131056/9df4128c72957fbcd5c7a4edac0c10b6/oss-sg/notes_pre_post/1040g3mo323h9np6a103g5qhfleijnf00q9i82kg!nd_dft_wlteh_webp_3?src=A",
+      "likes": 67,
+      "collects": 6,
+      "comments": 10,
       "comments_text": [
-        "Robert",
-        "啊啊啊啊姐姐我好喜欢你！从单身即地狱一眼最喜欢你了 祝福你永远幸福呀[飞吻R]",
+        "能不能教我画一下这个妆，好漂亮[捂脸R][捂脸R]，我化妆老丑了",
+        "언니 오랜만이에요",
         "诗蘟宝宝最最可爱啦~美萌美萌的~希望可以一直守护你🥰💓",
-        "姐姐请保持这个更新速度[色色R]",
-        "超美[色色R]",
-        "你一直很美"
+        "Robert",
+        "你一直很美",
+        "姐姐请保持这个更新速度[色色R]"
       ],
-      "shares": 1,
+      "shares": 2,
       "publish_time": "2026-08-09",
       "pinned": false,
-      "grid_order": 2,
+      "grid_order": 3,
       "from_profile": true,
       "history": [
         {
@@ -27274,6 +29316,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 9,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 67,
+          "collects": 6,
+          "comments": 10,
+          "shares": 2
         }
       ]
     },
@@ -27282,22 +29331,22 @@ window.XHS_DATA = {
       "type": "note",
       "title": "热情的天气与热情的动物们😇",
       "author": "刘诗蘟 yu sieun",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121105/5cc9995312eaade9961cdb98252dbfb6/oss-sg/notes_pre_post/1040g3mo323h9np6a100g5qhfleijnf00kpmmk38!nd_dft_wlteh_webp_3?src=A",
-      "likes": 147,
-      "collects": 12,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131056/9b4dac3e857fef5f5ee7ab3ce3558f2d/oss-sg/notes_pre_post/1040g3mo323h9np6a100g5qhfleijnf00kpmmk38!nd_dft_wlteh_webp_3?src=A",
+      "likes": 164,
+      "collects": 14,
       "comments": 7,
       "comments_text": [
         "好多水果！",
         "중국에 놀러 오신 걸 환영합니다.",
         "欧尼像小兔子🐰",
-        "好看",
         "欧尼又更新美照啦[害羞R][害羞R]",
+        "好看",
         "第一[害羞R]"
       ],
       "shares": 0,
       "publish_time": "2026-08-08",
       "pinned": false,
-      "grid_order": 3,
+      "grid_order": 4,
       "from_profile": true,
       "history": [
         {
@@ -27320,52 +29369,13 @@ window.XHS_DATA = {
           "collects": 12,
           "comments": 7,
           "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a744da00000000012029c09",
-      "type": "note",
-      "title": "幸运女孩的巴黎之旅～",
-      "author": "刘诗蘟 yu sieun",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121105/5a8b997694023c1eae5066fc6b318048/oss-sg/notes/1040g3l0323h88sri14005qhfleijnf00sg8s718!nd_dft_wlteh_webp_3?src=A",
-      "likes": 154,
-      "collects": 11,
-      "comments": 9,
-      "comments_text": [
-        "可爱🤭",
-        "欧尼[色色R][色色R][色色R][色色R][色色R]",
-        "好像张元英啊[抽泣R]",
-        "好漂亮[害羞R][害羞R]",
-        "可爱",
-        "气质真好"
-      ],
-      "shares": 3,
-      "publish_time": "2026-08-07",
-      "pinned": false,
-      "grid_order": 4,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-08-10",
-          "likes": 143,
-          "collects": 9,
-          "comments": 9,
-          "shares": 3
         },
         {
-          "date": "2026-08-11",
-          "likes": 148,
-          "collects": 9,
-          "comments": 9,
-          "shares": 3
-        },
-        {
-          "date": "2026-08-12",
-          "likes": 154,
-          "collects": 11,
-          "comments": 9,
-          "shares": 3
+          "date": "2026-08-13",
+          "likes": 164,
+          "collects": 14,
+          "comments": 7,
+          "shares": 0
         }
       ]
     },
@@ -27374,7 +29384,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "没有不成为性感女人的义务",
       "author": "YURA裕娜",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121105/9f356f43c91e9b28cffa6bef922f7a7a/oss-sg/notes/1040g3l0322ed62dnns005qhacb3jnf010nou1dg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131056/1bd80fec125217645a8da1283b05eba5/oss-sg/notes/1040g3l0322ed62dnns005qhacb3jnf010nou1dg!nd_dft_wlteh_webp_3?src=A",
       "likes": 1,
       "collects": 0,
       "comments": 0,
@@ -27412,6 +29422,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -27420,7 +29437,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国足球进球庆祝动作⚽️",
       "author": "YURA裕娜",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121105/354abd6afbb8071559e8e9215470c6f9/oss-sg/notes/1040g3l03225k0fsn7s005qhacb3jnf01chgm3h0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131056/e19599cd1938e157bb6c8c1799298d2f/oss-sg/notes/1040g3l03225k0fsn7s005qhacb3jnf01chgm3h0!nd_dft_wlteh_webp_3?src=A",
       "likes": 1,
       "collects": 1,
       "comments": 0,
@@ -27458,6 +29475,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -27466,7 +29490,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "重拍证件照｜五年后的自己，比想象中好看✨",
       "author": "YURA裕娜",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121105/09b294935a78db7563beb6afa6d8bcb0/oss-sg/notes_pre_post/1040g3mo321t8gpmkg0005qhacb3jnf015pt4vlg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131056/178ea1d48f0b74dcf41eaf64dd445d39/oss-sg/notes_pre_post/1040g3mo321t8gpmkg0005qhacb3jnf015pt4vlg!nd_dft_wlteh_webp_3?src=A",
       "likes": 2,
       "collects": 1,
       "comments": 0,
@@ -27504,6 +29528,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -27512,7 +29543,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "换乘恋爱贤智同款穿搭|约会拍照神裙",
       "author": "YURA裕娜",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121106/4736a3176a922cea1ce8acc65a1b3282/oss-sg/notes/1040g3l0321r64ur2no005qhacb3jnf010fh9vto!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131056/e3ac8e7337c7ab68d666c3d1d001a3fa/oss-sg/notes/1040g3l0321r64ur2no005qhacb3jnf010fh9vto!nd_dft_wlteh_webp_3?src=A",
       "likes": 5,
       "collects": 3,
       "comments": 0,
@@ -27550,6 +29581,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 5,
+          "collects": 3,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -27558,7 +29596,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🍋₍ᐢ..ᐢ₎♡̷ ❄️ 夏天只做辣妹",
       "author": "YURA裕娜",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121106/3af3a73f5d44a93b6bd77e36aa483d61/oss-sg/notes_pre_post/1040g3mo321gkp3rbni105qhacb3jnf01au59qc0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131057/eb9b00ef45b12cc166ea8b40b95fc306/oss-sg/notes_pre_post/1040g3mo321gkp3rbni105qhacb3jnf01au59qc0!nd_dft_wlteh_webp_3?src=A",
       "likes": 17,
       "collects": 2,
       "comments": 2,
@@ -27598,6 +29636,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 17,
+          "collects": 2,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -27606,7 +29651,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "生日vlog｜和我一起准备出门吧",
       "author": "金慧真Hyejin",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121106/ec4e5f46870affa30457cd30a086a8a4/oss-sg/notes/1040g3l0323iis0e82c305q14bc02nig27808ua8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131057/32dacbe715497c6314ad86849615ec0f/oss-sg/notes/1040g3l0323iis0e82c305q14bc02nig27808ua8!nd_dft_wlteh_webp_3?src=A",
       "likes": 33,
       "collects": 1,
       "comments": 7,
@@ -27644,6 +29689,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 7,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 33,
+          "collects": 1,
+          "comments": 7,
+          "shares": 0
         }
       ]
     },
@@ -27652,16 +29704,16 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国恋综女嘉宾带你逛汉南洞💖",
       "author": "金慧真Hyejin",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121106/5d416c45e2f93efca46f2a508d498713/oss-sg/spectrum/1040g3ug3239m1c7kni005pnnhgnneem23cakud0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131057/5c41c675c893d9b2b06631d95d8cb943/oss-sg/spectrum/1040g3ug3239m1c7kni005pnnhgnneem23cakud0!nd_dft_wlteh_webp_3?src=A",
       "likes": 118,
       "collects": 30,
       "comments": 9,
       "comments_text": [
         "欧尼！！！！好好看呀！被种草了！[飞吻R]",
         "첫번째 의상이 제 마음에 제일 들어요.이런 비디오 너무 좋아요[黄金薯R]비슷한 비다오를 더 많이 찍어 주세요[心心眼R]",
-        "下次去首尔就逛[派对R]",
         "pretty",
         "“an neyong ha se yo”“Hyejin”[打招呼][打招呼]“jeong mal yeppeyo”[棒R][棒R][玫瑰R][玫瑰R][玫瑰R]",
+        "下次去首尔就逛[派对R]",
         "简约又不失设计的衣服，又舒适又好看"
       ],
       "shares": 6,
@@ -27697,6 +29749,13 @@ window.XHS_DATA = {
           "collects": 30,
           "comments": 9,
           "shares": 6
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 118,
+          "collects": 30,
+          "comments": 9,
+          "shares": 6
         }
       ]
     },
@@ -27705,7 +29764,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国小姐的Olive Young购物vlog💚",
       "author": "金慧真Hyejin",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121106/c4421efa03dd877fac93ac6fa9d0f918/oss-sg/spectrum/1040g3ug3230kr1eenu005pnnhgnneem2qd7fntg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131057/9305d9f8b92041c75ee1d1edbb7da6bf/oss-sg/spectrum/1040g3ug3230kr1eenu005pnnhgnneem2qd7fntg!nd_dft_wlteh_webp_3?src=A",
       "likes": 79,
       "collects": 23,
       "comments": 7,
@@ -27748,6 +29807,13 @@ window.XHS_DATA = {
           "collects": 23,
           "comments": 7,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 79,
+          "collects": 23,
+          "comments": 7,
+          "shares": 1
         }
       ]
     },
@@ -27756,7 +29822,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "SUMMER LOOK☀️",
       "author": "金慧真Hyejin",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121106/e554b3baddb7768ffc722ef125cb438b/oss-sg/notes/1040g3l0322nr72c87k6g5pnnhgnneem2phsfmug!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131057/3eee922be1e7b953f06dc5fbea003ef8/oss-sg/notes/1040g3l0322nr72c87k6g5pnnhgnneem2phsfmug!nd_dft_wlteh_webp_3?src=A",
       "likes": 21,
       "collects": 2,
       "comments": 1,
@@ -27796,6 +29862,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 21,
+          "collects": 2,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -27804,7 +29877,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "能让人说500次“想结婚”的地方💐",
       "author": "金慧真Hyejin",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121106/25219897f5bed9b5601af76e54d99beb/oss-sg/notes_pre_post/1040g3mo322g23lmvg0005pnnhgnneem2aqqbp7o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131057/96efaeb8ed62aee8d52fc4126b679645/oss-sg/notes_pre_post/1040g3mo322g23lmvg0005pnnhgnneem2aqqbp7o!nd_dft_wlteh_webp_3?src=A",
       "likes": 47,
       "collects": 2,
       "comments": 5,
@@ -27848,6 +29921,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 5,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 47,
+          "collects": 2,
+          "comments": 5,
+          "shares": 0
         }
       ]
     },
@@ -27856,7 +29936,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "来看了一个完全戳中我审美的展览❤️",
       "author": "Jaeyee 婕依",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121107/0e3ea0e054800db41753e79b41d5d823/oss-sg/notes_pre_post/1040g3mo3231sf17jnc005qdumqvpndr9tpsfqo0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131058/e0f6f5dd396672e9978fb09936aafeed/oss-sg/notes_pre_post/1040g3mo3231sf17jnc005qdumqvpndr9tpsfqo0!nd_dft_wlteh_webp_3?src=A",
       "likes": 2,
       "collects": 0,
       "comments": 1,
@@ -27896,6 +29976,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -27904,7 +29991,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "今天的妆容我很喜欢💄",
       "author": "Jaeyee 婕依",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121107/f214f4a7bffacdfef8ec5d99dfddddb8/oss-sg/notes_pre_post/1040g3mo322sf305tno105qdumqvpndr9545q9g0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131058/2695907ea531f52a8bf73955d407e7f6/oss-sg/notes_pre_post/1040g3mo322sf305tno105qdumqvpndr9545q9g0!nd_dft_wlteh_webp_3?src=A",
       "likes": 2,
       "collects": 0,
       "comments": 2,
@@ -27944,6 +30031,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 0,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -27952,7 +30046,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🏋️ 今日运动打卡✅💪",
       "author": "Jaeyee 婕依",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121107/1a7890289a99929ca8c41c9055668915/oss-sg/notes_pre_post/1040g3mo322oi48pi000g5qdumqvpndr9n0290kg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131058/01a7122b3f67699c34869f692c578c66/oss-sg/notes_pre_post/1040g3mo322oi48pi000g5qdumqvpndr9n0290kg!nd_dft_wlteh_webp_3?src=A",
       "likes": 4,
       "collects": 0,
       "comments": 0,
@@ -27990,6 +30084,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 4,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -27998,7 +30099,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "一起笑一笑吧smile😊",
       "author": "Jaeyee 婕依",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121107/0b57e099f44e6e21f34fcc15f0ca5f4f/oss-sg/notes_pre_post/1040g3mo322m99eci7e0g5qdumqvpndr9vquv5m8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131058/8b48bc7a18d81a39489277a21c0a129d/oss-sg/notes_pre_post/1040g3mo322m99eci7e0g5qdumqvpndr9vquv5m8!nd_dft_wlteh_webp_3?src=A",
       "likes": 3,
       "collects": 0,
       "comments": 0,
@@ -28036,6 +30137,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 3,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -28044,7 +30152,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "喜欢Esther Bunny的快来集合!🐰💖",
       "author": "Jaeyee 婕依",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121107/78b38b037d278df6e4ebef6701ec68e8/oss-sg/notes/1040g3l0322fahrirg0005qdumqvpndr9t7j53go!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131058/ffa176e57cf453a7cbb2b7d6025ca2be/oss-sg/notes/1040g3l0322fahrirg0005qdumqvpndr9t7j53go!nd_dft_wlteh_webp_3?src=A",
       "likes": 3,
       "collects": 0,
       "comments": 1,
@@ -28084,6 +30192,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 3,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -28092,9 +30207,9 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Team1llusion|这能做到吗？",
       "author": "Team1llusion",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121108/35d9edfc3459cc5f09ae27c6a97e90a0/oss-sg/notes/1040g3l0323ij9mruj24g5qdrarupg5enqkpth90!nd_dft_wlteh_webp_3?src=A",
-      "likes": 86,
-      "collects": 6,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131059/261f1b170085d1c25ca7da99e3186379/oss-sg/notes/1040g3l0323ij9mruj24g5qdrarupg5enqkpth90!nd_dft_wlteh_webp_3?src=A",
+      "likes": 99,
+      "collects": 10,
       "comments": 0,
       "comments_text": [],
       "shares": 1,
@@ -28116,6 +30231,13 @@ window.XHS_DATA = {
           "collects": 6,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 99,
+          "collects": 10,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -28124,9 +30246,9 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Team1llusion|反向乘车",
       "author": "Team1llusion",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121108/1ed17e9beb3cb8f35c8d8d044b9883ec/oss-sg/notes/1040g3l0323ij9mruj26g5qdrarupg5en28934n0!nd_dft_wlteh_webp_3?src=A",
-      "likes": 54,
-      "collects": 4,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131059/11a43063c7bd2aaf3b06c51c356e7313/oss-sg/notes/1040g3l0323ij9mruj26g5qdrarupg5en28934n0!nd_dft_wlteh_webp_3?src=A",
+      "likes": 61,
+      "collects": 5,
       "comments": 4,
       "comments_text": [
         "前",
@@ -28160,6 +30282,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 4,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 61,
+          "collects": 5,
+          "comments": 4,
+          "shares": 0
         }
       ]
     },
@@ -28168,9 +30297,9 @@ window.XHS_DATA = {
       "type": "note",
       "title": "呼啦圈塞人挑战",
       "author": "Team1llusion",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121108/de076913e9e2e388fa4b238b84c03e1c/oss-sg/spectrum/1040g3ug3237tud3u7e005qdrarupg5en01h8jl0!nd_dft_wlteh_webp_3?src=A",
-      "likes": 217,
-      "collects": 19,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131059/a6d33aeec71cffeb3b1bf149f371181b/oss-sg/spectrum/1040g3ug3237tud3u7e005qdrarupg5en01h8jl0!nd_dft_wlteh_webp_3?src=A",
+      "likes": 222,
+      "collects": 20,
       "comments": 3,
       "comments_text": [
         "脱掉几件卫衣还可以再塞两人[大笑R]",
@@ -28203,6 +30332,13 @@ window.XHS_DATA = {
           "collects": 19,
           "comments": 3,
           "shares": 3
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 222,
+          "collects": 20,
+          "comments": 3,
+          "shares": 3
         }
       ]
     },
@@ -28211,8 +30347,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "人体气球挑战2",
       "author": "Team1llusion",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121108/406d17573a32013e9b53dcda3a051129/oss-sg/spectrum/1040g3ug3237ttg0onu005qdrarupg5enhcpgur8!nd_dft_wlteh_webp_3?src=A",
-      "likes": 62,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131059/31962c8d106711044c8e2e56fb07236b/oss-sg/spectrum/1040g3ug3237ttg0onu005qdrarupg5enhcpgur8!nd_dft_wlteh_webp_3?src=A",
+      "likes": 63,
       "collects": 9,
       "comments": 1,
       "comments_text": [
@@ -28244,6 +30380,13 @@ window.XHS_DATA = {
           "collects": 9,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 63,
+          "collects": 9,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -28252,8 +30395,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "人体气球挑战",
       "author": "Team1llusion",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121108/43eeecd5844a05fac248c74eddb3328a/oss-sg/spectrum/1040g3ug3237tsmlsnu005qdrarupg5enclekvm8!nd_dft_wlteh_webp_3?src=A",
-      "likes": 157,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131059/71e42d66909481a9e9771411355a266d/oss-sg/spectrum/1040g3ug3237tsmlsnu005qdrarupg5enclekvm8!nd_dft_wlteh_webp_3?src=A",
+      "likes": 160,
       "collects": 16,
       "comments": 1,
       "comments_text": [
@@ -28292,6 +30435,13 @@ window.XHS_DATA = {
           "collects": 16,
           "comments": 1,
           "shares": 4
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 160,
+          "collects": 16,
+          "comments": 1,
+          "shares": 4
         }
       ]
     },
@@ -28300,7 +30450,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "周末上班也能幸福吗？",
       "author": "2an2ne",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121108/50b191adb7a37484a50498661267ee25/oss-sg/notes/1040g3l03223m6u0og0305qgbio1jej001monfm0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131059/319ebbf6af7d898b8b39983c0aa658b2/oss-sg/notes/1040g3l03223m6u0og0305qgbio1jej001monfm0!nd_dft_wlteh_webp_3?src=A",
       "likes": 1,
       "collects": 0,
       "comments": 0,
@@ -28422,6 +30572,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -28430,7 +30587,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "低成本把自己养好的几件小事",
       "author": "2an2ne",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121109/b31d89a0b2f27c5e863d81bbbd1dffea/oss-sg/notes/1040g3l03223m6u0og06g5qgbio1jej008jgav78!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131059/57ef28fe49a599c96e26107b9935ef59/oss-sg/notes/1040g3l03223m6u0og06g5qgbio1jej008jgav78!nd_dft_wlteh_webp_3?src=A",
       "likes": 1,
       "collects": 0,
       "comments": 0,
@@ -28552,6 +30709,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -28560,7 +30724,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "妈妈幸福了 全家才幸福",
       "author": "2an2ne",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121109/fafbb193bee068f3892c7d2c73a6abae/oss-sg/notes_pre_post/1040g3mo321fs9fi3ne6g5qgbio1jej0021gjgi0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131100/5c52b34c72c830c542f078c1237726db/oss-sg/notes_pre_post/1040g3mo321fs9fi3ne6g5qgbio1jej0021gjgi0!nd_dft_wlteh_webp_3?src=A",
       "likes": 1,
       "collects": 0,
       "comments": 0,
@@ -28682,6 +30846,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -28690,7 +30861,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "和宝宝玩耍~",
       "author": "智秀 SSOLOG",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121109/b5310cbb061785604b8153c4a85f86a5/1040g2sg323oklsdrna705phkckahov3grk1ubm8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131100/674c456f85dd9df590ec011738f5ca49/1040g2sg323oklsdrna705phkckahov3grk1ubm8!nd_dft_wlteh_webp_3?src=A",
       "likes": 2,
       "collects": 0,
       "comments": 1,
@@ -28709,6 +30880,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -28717,7 +30895,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "比上班起床更累的是为了孩子早起😭",
       "author": "智秀 SSOLOG",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121109/00836f81723274df0dc019dfd283450a/1040g008323l97v1lgo005phkckahov3g8djuuig!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131100/eec388b35d6e4c604615c0b8e8da90ed/1040g008323l97v1lgo005phkckahov3g8djuuig!nd_dft_wlteh_webp_3?src=A",
       "likes": 8,
       "collects": 0,
       "comments": 0,
@@ -28748,6 +30926,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 8,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -28756,7 +30941,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "不爱喝奶粉宝宝的辅食食谱",
       "author": "智秀 SSOLOG",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121109/83f827746d46ff99abe0842c8921aebb/1040g008323ibbvgtnu005phkckahov3g587ai9o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131100/72ef4fb0718a0e7d081e56b94c942bf0/1040g008323ibbvgtnu005phkckahov3g587ai9o!nd_dft_wlteh_webp_3?src=A",
       "likes": 2,
       "collects": 0,
       "comments": 0,
@@ -28794,6 +30979,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -28802,7 +30994,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "妈妈！我真的饱了！",
       "author": "智秀 SSOLOG",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121109/e6ca629e80939ba71650d7bac258f1c8/1040g2sg323ficn5vna205phkckahov3gs7p5mco!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131100/a75d422797dee1b14ed5f3c76cdaf7aa/1040g2sg323ficn5vna205phkckahov3gs7p5mco!nd_dft_wlteh_webp_3?src=A",
       "likes": 14,
       "collects": 0,
       "comments": 0,
@@ -28840,6 +31032,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 14,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -28848,7 +31047,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "喜欢帮助妈妈的孝子~！",
       "author": "智秀 SSOLOG",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121109/9ec576052e4833c47aacb210abb026db/1040g2sg323e3iksc0a705phkckahov3gu3ou7b0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131100/911798a16767bf6bdc8d71af81336e46/1040g2sg323e3iksc0a705phkckahov3gu3ou7b0!nd_dft_wlteh_webp_3?src=A",
       "likes": 4,
       "collects": 0,
       "comments": 0,
@@ -28886,6 +31085,38 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 4,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a7c1ede0000000022015408",
+      "type": "note",
+      "title": "POV：饿的时候 vs 吃饱的时候看冰箱",
+      "author": "昭昭sojung",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131101/141b602f9ecf7a8c824f67f3bcdb68a9/1040g008323osv5eo70005q9s6lndpe65je711jo!nd_dft_wlteh_webp_3?src=A",
+      "likes": 14,
+      "collects": 1,
+      "comments": 0,
+      "comments_text": [],
+      "shares": 0,
+      "publish_time": "2026-08-12",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 14,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -28894,7 +31125,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "画质越高，真的越好看吗？🧐",
       "author": "昭昭sojung",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121110/861af27b4cdfd35e8a54464d61acab3e/1040g008323en5nli72005q9s6lndpe65aefoj6o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131101/4b0d718d91f58409b084b99d4b7104d6/1040g008323en5nli72005q9s6lndpe65aefoj6o!nd_dft_wlteh_webp_3?src=A",
       "likes": 7,
       "collects": 0,
       "comments": 0,
@@ -28902,7 +31133,7 @@ window.XHS_DATA = {
       "shares": 0,
       "publish_time": "2026-08-04",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 1,
       "from_profile": true,
       "history": [
         {
@@ -28932,6 +31163,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 7,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -28940,7 +31178,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "我陪它玩，它眼里的我却是这样🥲",
       "author": "昭昭sojung",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121110/04f4abf0fde8b7665411df3e4877a4b6/1040g2sg323ckadmj74705q9s6lndpe65e58qf70!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131101/dd64414d57df50b4fc0d2e753d63b4ea/1040g2sg323ckadmj74705q9s6lndpe65e58qf70!nd_dft_wlteh_webp_3?src=A",
       "likes": 2000,
       "collects": 149,
       "comments": 21,
@@ -28948,14 +31186,14 @@ window.XHS_DATA = {
         "哈哈哈哈哈哈哈哈哈哈哈哈",
         "你們兩個其中有兩個都非常可愛",
         "后面给我笑死了[色色R]",
-        "안녕하세요 반갑네요 ~",
         "你是要笑死谁",
+        "안녕하세요 반갑네요 ~",
         "这是土松串吗"
       ],
       "shares": 182,
       "publish_time": "2026-08-03",
       "pinned": false,
-      "grid_order": 1,
+      "grid_order": 2,
       "from_profile": true,
       "history": [
         {
@@ -28985,6 +31223,13 @@ window.XHS_DATA = {
           "collects": 149,
           "comments": 21,
           "shares": 182
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2000,
+          "collects": 149,
+          "comments": 21,
+          "shares": 182
         }
       ]
     },
@@ -28993,7 +31238,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "♥",
       "author": "昭昭sojung",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121110/b6bf0e8ed858a25556247e7a6474fe7f/notes_pre_post/1040g3k0323alevhe70005q9s6lndpe65mevnndg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131101/0b20b28959a0ccbb721013a43795c4c9/notes_pre_post/1040g3k0323alevhe70005q9s6lndpe65mevnndg!nd_dft_wlteh_webp_3?src=A",
       "likes": 14,
       "collects": 1,
       "comments": 0,
@@ -29001,7 +31246,7 @@ window.XHS_DATA = {
       "shares": 0,
       "publish_time": "2026-08-01",
       "pinned": false,
-      "grid_order": 2,
+      "grid_order": 3,
       "from_profile": true,
       "history": [
         {
@@ -29027,6 +31272,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "likes": 14,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-08-13",
           "likes": 14,
           "collects": 1,
           "comments": 0,
@@ -29039,96 +31291,53 @@ window.XHS_DATA = {
       "type": "note",
       "title": "长期恋爱的后遗症②：减肥一周后的变化🥲",
       "author": "昭昭sojung",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121110/62dc91122bc26165faee4bff8fe8b48e/1040g2sg3233ijivt70305q9s6lndpe65vhn02m0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131101/9bb41e4b01e7dc579dc4bafc8bb13cc1/1040g2sg3233ijivt70305q9s6lndpe65vhn02m0!nd_dft_wlteh_webp_3?src=A",
       "likes": 385,
       "collects": 44,
       "comments": 3,
       "comments_text": [
-        "这才50公斤？[捂脸R]",
         "不是呀，恋爱期间的运动量应该都很大呀！",
+        "这才50公斤？[捂脸R]",
         "情侣信物到底什么样才算独一无二？融合双方发丝淬炼的专属钻石首饰，把爱意长久留存，要不要了解下这份专属浪漫？手链、项链、吊坠都可以做[飞吻R]"
       ],
       "shares": 0,
       "publish_time": "2026-07-27",
-      "pinned": false,
-      "grid_order": 3,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-08-07",
-          "likes": 385,
-          "collects": 44,
-          "comments": 3,
-          "shares": 0
-        },
-        {
-          "date": "2026-08-10",
-          "likes": 385,
-          "collects": 44,
-          "comments": 3,
-          "shares": 0
-        },
-        {
-          "date": "2026-08-11",
-          "likes": 385,
-          "collects": 44,
-          "comments": 3,
-          "shares": 0
-        },
-        {
-          "date": "2026-08-12",
-          "likes": 385,
-          "collects": 44,
-          "comments": 3,
-          "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a60cd560000000011019f7d",
-      "type": "note",
-      "title": "我穿什么比较好看呢？🥲",
-      "author": "昭昭sojung",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121110/e6d373d620520c9b9274934319301af0/1040g008322u75sfgmu005q9s6lndpe65uhdoq0g!nd_dft_wlteh_webp_3?src=A",
-      "likes": 21,
-      "collects": 1,
-      "comments": 3,
-      "comments_text": [
-        "222",
-        "444",
-        "1111"
-      ],
-      "shares": 0,
-      "publish_time": "2026-07-22",
       "pinned": false,
       "grid_order": 4,
       "from_profile": true,
       "history": [
         {
           "date": "2026-08-07",
-          "likes": 21,
-          "collects": 1,
+          "likes": 385,
+          "collects": 44,
           "comments": 3,
           "shares": 0
         },
         {
           "date": "2026-08-10",
-          "likes": 21,
-          "collects": 1,
+          "likes": 385,
+          "collects": 44,
           "comments": 3,
           "shares": 0
         },
         {
           "date": "2026-08-11",
-          "likes": 21,
-          "collects": 1,
+          "likes": 385,
+          "collects": 44,
           "comments": 3,
           "shares": 0
         },
         {
           "date": "2026-08-12",
-          "likes": 21,
-          "collects": 1,
+          "likes": 385,
+          "collects": 44,
+          "comments": 3,
+          "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 385,
+          "collects": 44,
           "comments": 3,
           "shares": 0
         }
@@ -29139,7 +31348,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "康康我的小红书新头像 🗣",
       "author": "moma",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121111/4434dcf3342e2786e30bc9ab4f201441/oss-sg/notes_pre_post/1040g3mo31uha3mrun4005qegg6hpgd100u7l92g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131102/64eaf54dfc766eef645a95ee0b15aedd/oss-sg/notes_pre_post/1040g3mo31uha3mrun4005qegg6hpgd100u7l92g!nd_dft_wlteh_webp_3?src=A",
       "likes": 2,
       "collects": 0,
       "comments": 0,
@@ -29163,6 +31372,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -29171,7 +31387,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "夏日篮球时刻💙两次就命中咯",
       "author": "shin ara",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121111/64bef71988eb4ffab3189426175b9c98/1040g2sg323ilsn7pn20g5p0n6s2kibus340ncng!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131102/cd3707192f0fc15092ce7553b66ab93d/1040g2sg323ilsn7pn20g5p0n6s2kibus340ncng!nd_dft_wlteh_webp_3?src=A",
       "likes": 2,
       "collects": 0,
       "comments": 0,
@@ -29202,6 +31418,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -29210,7 +31433,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "恋综鼻祖入驻小红书啦！",
       "author": "shin ara",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121112/c9f7b5b2e6e0273147a4f6c383b860d0/1040g2sg322rhop42ms705p0n6s2kibusof4h77o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131103/9694eaf6e6d90449f3cc0d5511e9ef7e/1040g2sg322rhop42ms705p0n6s2kibusof4h77o!nd_dft_wlteh_webp_3?src=A",
       "likes": 10,
       "collects": 4,
       "comments": 1,
@@ -29248,6 +31471,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 1,
           "shares": 2
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 10,
+          "collects": 4,
+          "comments": 1,
+          "shares": 2
         }
       ]
     },
@@ -29256,11 +31486,18 @@ window.XHS_DATA = {
       "type": "note",
       "title": "高恩和伊健｜所以两人是什么关系呢？",
       "author": "一之濑美奈实",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121112/4c3a0ed6442df2c626e0f76d7bf02298/1040g2sg321sciaff740g5n9kg5mkd0d9gdadqsg!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131103/c04302b71515b8c0c66a0f45e102273d/1040g2sg321sciaff740g5n9kg5mkd0d9gdadqsg!nd_dft_wgth_webp_3?src=A",
       "likes": 133,
       "collects": 39,
       "comments": 9,
-      "comments_text": [],
+      "comments_text": [
+        "留己看，謝謝翻譯，請問這集是什麼時候出的",
+        "捆绑销售的关系",
+        "单身即地狱6啥时候出来",
+        "这是延伸节目吗",
+        "没人配得上高恩大美女",
+        "111"
+      ],
       "shares": 16,
       "publish_time": "2026-06-26",
       "pinned": false,
@@ -29280,6 +31517,13 @@ window.XHS_DATA = {
           "collects": 39,
           "comments": 9,
           "shares": 16
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 133,
+          "collects": 39,
+          "comments": 9,
+          "shares": 16
         }
       ]
     },
@@ -29288,11 +31532,18 @@ window.XHS_DATA = {
       "type": "note",
       "title": "时隔几年公开的东西｜成海恩的Q&A",
       "author": "一之濑美奈实",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121112/dcf14d9fb2ec5d6d4ae56d8388340cf9/1040g2sg321or6spmmud05n9kg5mkd0d9gjbhhu0!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131103/3d054e0e809408481b6fc12fb8acad45/1040g2sg321or6spmmud05n9kg5mkd0d9gjbhhu0!nd_dft_wgth_webp_3?src=A",
       "likes": 1300,
       "collects": 303,
       "comments": 13,
-      "comments_text": [],
+      "comments_text": [
+        "和贤奎分手了吗[捂脸R]好担心姐姐，希望别像在节目里那样一直哭了，一定要每天开心",
+        "想去单身即地狱的原因是因为想赢身体对抗[笑哭R]",
+        "喜欢单身节目组找海恩啦 海恩现在单身了 我想看啊",
+        "传下去，海恩想去单身即地狱比赛哈哈哈哈哈哈哈",
+        "跟海恩的金钱观真的好像[哭惹R]",
+        "好奇是哪个明星追过海恩哈哈哈"
+      ],
       "shares": 60,
       "publish_time": "2026-06-24",
       "pinned": false,
@@ -29312,6 +31563,13 @@ window.XHS_DATA = {
           "collects": 303,
           "comments": 13,
           "shares": 60
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1300,
+          "collects": 303,
+          "comments": 13,
+          "shares": 60
         }
       ]
     },
@@ -29320,12 +31578,12 @@ window.XHS_DATA = {
       "type": "note",
       "title": "恋综两位空姐首次见面",
       "author": "一之濑美奈实",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121112/e0ac1713463e7a65e4a3e284f669e6d3/1040g2sg321nn6b8c70005n9kg5mkd0d9jhv37e0!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131103/db78c692893feb590689af3731ae56b8/1040g2sg321nn6b8c70005n9kg5mkd0d9jhv37e0!nd_dft_wgth_webp_3?src=A",
       "likes": 3500,
-      "collects": 626,
+      "collects": 627,
       "comments": 134,
       "comments_text": [],
-      "shares": 661,
+      "shares": 662,
       "publish_time": "2026-06-23",
       "pinned": false,
       "grid_order": 2,
@@ -29344,6 +31602,13 @@ window.XHS_DATA = {
           "collects": 626,
           "comments": 134,
           "shares": 661
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 3500,
+          "collects": 627,
+          "comments": 134,
+          "shares": 662
         }
       ]
     },
@@ -29352,7 +31617,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "人老了又要谈这些了",
       "author": "东北韩国人阿朴",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121113/c5a5c504e310bc7b369cd977e275b1f1/oss-sg/notes/1040g3l03229jcrmi7u005pfouolhhhjnc5m8pf0!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131104/2140d7068df6a6c395616ffed1dff384/oss-sg/notes/1040g3l03229jcrmi7u005pfouolhhhjnc5m8pf0!nd_dft_wgth_webp_3?src=A",
       "likes": 16,
       "collects": 4,
       "comments": 2,
@@ -29376,6 +31641,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 16,
+          "collects": 4,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -29384,7 +31656,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国人的奇葩北京旅游2",
       "author": "东北韩国人阿朴",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121113/a9fa0c01619201cb4a1c79bc218d41d7/oss-sg/notes/1040g3l03229dip89ns005pfouolhhhjn6kuajq0!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131104/fae91d57b8fc0652cf54185ccda0c5b6/oss-sg/notes/1040g3l03229dip89ns005pfouolhhhjn6kuajq0!nd_dft_wgth_webp_3?src=A",
       "likes": 3,
       "collects": 0,
       "comments": 0,
@@ -29408,6 +31680,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 3,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -29416,13 +31695,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "重庆朋友们太重口味了吧",
       "author": "东北韩国人阿朴",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121113/4bed038f385bcbc2ff310e3145f46bfe/oss-sg/notes/1040g3l0321q343od7e005pfouolhhhjnsjnin0o!nd_dft_wlteh_webp_3?src=A",
-      "likes": 7,
-      "collects": 1,
-      "comments": 1,
+      "cover": "",
+      "likes": 0,
+      "collects": 0,
+      "comments": 0,
       "comments_text": [],
       "shares": 0,
-      "publish_time": "2026-06-25",
+      "publish_time": "",
       "pinned": false,
       "grid_order": 2,
       "from_profile": true,
@@ -29440,6 +31719,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 0,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -29448,7 +31734,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "只看穿搭找对象第1集",
       "author": "东北韩国人阿朴",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121114/7f8829fb10f1a31366cffe54f91813d6/1040g2sg31tb5ucdtm87g5pfouolhhhjndlg89ig!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131104/3e3d557214c8e99a249649f18c19bb02/1040g2sg31tb5ucdtm87g5pfouolhhhjndlg89ig!nd_dft_wlteh_webp_3?src=A",
       "likes": 10,
       "collects": 3,
       "comments": 3,
@@ -29472,6 +31758,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 3,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 10,
+          "collects": 3,
+          "comments": 3,
+          "shares": 1
         }
       ]
     },
@@ -29480,7 +31773,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国人时隔多年重回中国",
       "author": "东北韩国人阿朴",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121114/add595e814c302e03d04e47e8259f197/1040g2sg31up1hodnjqe05pfouolhhhjnt2fbbdg!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131105/4ebc2ac4aa8b156f8912eef32d683863/1040g2sg31up1hodnjqe05pfouolhhhjnt2fbbdg!nd_dft_wgth_webp_3?src=A",
       "likes": 30,
       "collects": 2,
       "comments": 0,
@@ -29504,6 +31797,38 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 30,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a7c4b9600000000100375cc",
+      "type": "note",
+      "title": "韩国人第一次见父母的仪式感",
+      "author": "娟柑姐",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131105/71e14e7ba2bced61220df899d9585225/oss-sg/notes/1040g3l0323p2cn9gig005qhabfj3ej01ue870fo!nd_dft_wgth_webp_3?src=A",
+      "likes": 5,
+      "collects": 1,
+      "comments": 0,
+      "comments_text": [],
+      "shares": 0,
+      "publish_time": "2026-08-12",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 5,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -29512,7 +31837,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "和韩国美妆创作者一起录播客🎙️",
       "author": "娟柑姐",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121114/cf93ab038669ecb570df1765d8757bd2/oss-sg/notes_pre_post/1040g3mo323gpbcb504005qhabfj3ej01u3ihqoo!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131105/4d034e9edc81373626dc1bc64a928389/oss-sg/notes_pre_post/1040g3mo323gpbcb504005qhabfj3ej01u3ihqoo!nd_dft_wgth_webp_3?src=A",
       "likes": 2,
       "collects": 0,
       "comments": 0,
@@ -29520,7 +31845,7 @@ window.XHS_DATA = {
       "shares": 0,
       "publish_time": "2026-08-06",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 1,
       "from_profile": true,
       "history": [
         {
@@ -29546,6 +31871,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-08-13",
           "likes": 2,
           "collects": 0,
           "comments": 0,
@@ -29558,7 +31890,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "在婚礼前与朋友断崖式绝交 我做错了吗?",
       "author": "娟柑姐",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121114/e7840e937af93de1e6690c9a1bdc8f42/oss-sg/notes/1040g3l0323gpbcb3g4005qhabfj3ej012cgjrug!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131105/d07992b04e9c68b53f05723823ef4d0b/oss-sg/notes/1040g3l0323gpbcb3g4005qhabfj3ej012cgjrug!nd_dft_wgth_webp_3?src=A",
       "likes": 1,
       "collects": 1,
       "comments": 0,
@@ -29566,7 +31898,7 @@ window.XHS_DATA = {
       "shares": 0,
       "publish_time": "2026-08-06",
       "pinned": false,
-      "grid_order": 1,
+      "grid_order": 2,
       "from_profile": true,
       "history": [
         {
@@ -29592,6 +31924,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "likes": 1,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-08-13",
           "likes": 1,
           "collects": 1,
           "comments": 0,
@@ -29604,7 +31943,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "42岁韩国博主的济州岛Vlog 🇰🇷🌊",
       "author": "娟柑姐",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121115/a18d4ffbe5de6275d5b407eef9cc99f8/oss-sg/notes/1040g3l0323a9ielrne005qhabfj3ej01ijrueo8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131105/b5ed676b60529b1850d35bceedcb85c4/oss-sg/notes/1040g3l0323a9ielrne005qhabfj3ej01ijrueo8!nd_dft_wlteh_webp_3?src=A",
       "likes": 11,
       "collects": 1,
       "comments": 0,
@@ -29612,7 +31951,7 @@ window.XHS_DATA = {
       "shares": 0,
       "publish_time": "2026-08-01",
       "pinned": false,
-      "grid_order": 2,
+      "grid_order": 3,
       "from_profile": true,
       "history": [
         {
@@ -29638,6 +31977,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "likes": 11,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-08-13",
           "likes": 11,
           "collects": 1,
           "comments": 0,
@@ -29650,7 +31996,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "结婚前男人变心的信号是…",
       "author": "娟柑姐",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121115/c7e8aeaed2ad8fa2cddcf754a630dc16/oss-sg/notes/1040g3l03239kus3t7q005qhabfj3ej013gskimo!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131106/ae2d0674911bd54599edad2caa4b3b63/oss-sg/notes/1040g3l03239kus3t7q005qhabfj3ej013gskimo!nd_dft_wgth_webp_3?src=A",
       "likes": 5,
       "collects": 0,
       "comments": 0,
@@ -29658,81 +32004,42 @@ window.XHS_DATA = {
       "shares": 0,
       "publish_time": "2026-07-31",
       "pinned": false,
-      "grid_order": 3,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-08-07",
-          "likes": 5,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-08-10",
-          "likes": 5,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-08-11",
-          "likes": 5,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-08-12",
-          "likes": 5,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a69c90b0000000008009c01",
-      "type": "note",
-      "title": "带你看看韩国博主的工作室🏠",
-      "author": "娟柑姐",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121115/d9d71c2d5f7c2591ffa721b8a6c83cee/oss-sg/notes_pre_post/1040g3mo3236vs2fvg0005qhabfj3ej0171rr8h8!nd_dft_wlteh_webp_3?src=A",
-      "likes": 8,
-      "collects": 3,
-      "comments": 2,
-      "comments_text": [],
-      "shares": 0,
-      "publish_time": "2026-07-29",
-      "pinned": false,
       "grid_order": 4,
       "from_profile": true,
       "history": [
         {
           "date": "2026-08-07",
-          "likes": 9,
-          "collects": 3,
-          "comments": 2,
+          "likes": 5,
+          "collects": 0,
+          "comments": 0,
           "shares": 0
         },
         {
           "date": "2026-08-10",
-          "likes": 8,
-          "collects": 3,
-          "comments": 2,
+          "likes": 5,
+          "collects": 0,
+          "comments": 0,
           "shares": 0
         },
         {
           "date": "2026-08-11",
-          "likes": 8,
-          "collects": 3,
-          "comments": 2,
+          "likes": 5,
+          "collects": 0,
+          "comments": 0,
           "shares": 0
         },
         {
           "date": "2026-08-12",
-          "likes": 8,
-          "collects": 3,
-          "comments": 2,
+          "likes": 5,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 5,
+          "collects": 0,
+          "comments": 0,
           "shares": 0
         }
       ]
@@ -29742,7 +32049,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "오늘은 늦은 촬영 잠시 출연했던 드라마",
       "author": "dony",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121116/3a0e69087c44af400c54babc53d54ff3/note_pre_post_uhdr/1040g3r8322moeneqns705p80ttjhm453jb8g50g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131106/2c823559c63c12983a3d2238c8012e47/note_pre_post_uhdr/1040g3r8322moeneqns705p80ttjhm453jb8g50g!nd_dft_wlteh_webp_3?src=A",
       "likes": 44,
       "collects": 5,
       "comments": 8,
@@ -29766,6 +32073,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 8,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 44,
+          "collects": 5,
+          "comments": 8,
+          "shares": 1
         }
       ]
     },
@@ -29774,7 +32088,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "야화첩",
       "author": "dony",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121116/1a47b6d4b37b71276ddb77a32cbf8793/note_pre_post_uhdr/1040g3r8321mv3j2lns705p80ttjhm4539k4de58!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131107/5597e0202f4f463f2f4ec220bb5e3c6d/note_pre_post_uhdr/1040g3r8321mv3j2lns705p80ttjhm4539k4de58!nd_dft_wlteh_webp_3?src=A",
       "likes": 208,
       "collects": 21,
       "comments": 16,
@@ -29798,6 +32112,13 @@ window.XHS_DATA = {
           "collects": 21,
           "comments": 16,
           "shares": 6
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 208,
+          "collects": 21,
+          "comments": 16,
+          "shares": 6
         }
       ]
     },
@@ -29806,7 +32127,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "야화첩",
       "author": "dony",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121116/ef14c252b1f787086259676a3125d267/oss-sg/notes_pre_post/1040g3mo321mv20387g005p80ttjhm45300r7080!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131107/f823725d959203faffdee7ff240c4fbf/oss-sg/notes_pre_post/1040g3mo321mv20387g005p80ttjhm45300r7080!nd_dft_wlteh_webp_3?src=A",
       "likes": 51,
       "collects": 1,
       "comments": 5,
@@ -29830,6 +32151,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 5,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 51,
+          "collects": 1,
+          "comments": 5,
+          "shares": 1
         }
       ]
     },
@@ -29838,7 +32166,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "painter of the night",
       "author": "dony",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121116/01192a051d8cc69248a9e6ef8382fca7/note_pre_post_uhdr/1040g3r0320oqmra1m00g5p80ttjhm45361mv7u0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131107/6a2e679750890f40d4dbcf6344aa2147/note_pre_post_uhdr/1040g3r0320oqmra1m00g5p80ttjhm45361mv7u0!nd_dft_wlteh_webp_3?src=A",
       "likes": 21,
       "collects": 1,
       "comments": 1,
@@ -29862,6 +32190,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 1,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 21,
+          "collects": 1,
+          "comments": 1,
+          "shares": 1
         }
       ]
     },
@@ -29870,7 +32205,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "painter of the night",
       "author": "dony",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121116/d96133e947bc0172ff684c08c971a25e/note_pre_post_uhdr/1040g3r0320oqmra1m0005p80ttjhm453ikhj6so!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131107/89cbe9bc8c8152e1bc948b37e7a54dde/note_pre_post_uhdr/1040g3r0320oqmra1m0005p80ttjhm453ikhj6so!nd_dft_wlteh_webp_3?src=A",
       "likes": 15,
       "collects": 0,
       "comments": 1,
@@ -29894,6 +32229,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 15,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -29902,7 +32244,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "叫哥哥。",
       "author": "福啵啵",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121117/85d194be4f1c8fc4c8e1c12fe2347cd8/1040g2sg322311qejnu004buqviqq6ih83jsm99o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131108/18c5ce3c0d97ed08c15e72f6a689b323/1040g2sg322311qejnu004buqviqq6ih83jsm99o!nd_dft_wlteh_webp_3?src=A",
       "likes": 28,
       "collects": 5,
       "comments": 1,
@@ -29926,6 +32268,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 1,
           "shares": 5
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 28,
+          "collects": 5,
+          "comments": 1,
+          "shares": 5
         }
       ]
     },
@@ -29934,7 +32283,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "小猫也有自己的世界杯🏆",
       "author": "福啵啵",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121117/17345d96eecf8a9e36b56adc5ba05d33/note_pre_post_uhdr/1040g3r8321a8dvkina705no89cn0buv230tsv9o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131108/fdee8005cc906ab0a4ed3d7d5b3a3a89/note_pre_post_uhdr/1040g3r8321a8dvkina705no89cn0buv230tsv9o!nd_dft_wlteh_webp_3?src=A",
       "likes": 8,
       "collects": 0,
       "comments": 0,
@@ -29958,6 +32307,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 8,
+          "collects": 0,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -29966,7 +32322,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "人，你可以靠在咪的胸膛",
       "author": "福啵啵",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121117/923de3fc795d0c5bd68c090da38d79ff/notes_pre_post/1040g3k831i3kluo2n8705no89cn0buv2hbbq0po!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131108/7880642b9f4600689f29dbb6d301d719/notes_pre_post/1040g3k831i3kluo2n8705no89cn0buv2hbbq0po!nd_dft_wlteh_webp_3?src=A",
       "likes": 1,
       "collects": 0,
       "comments": 0,
@@ -29990,6 +32346,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -29998,7 +32361,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "啊啊啊啊啊一定要放大声音听啊啊啊啊啊",
       "author": "福啵啵",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121117/ee4f01952511dc478f18c7dc1f3b38da/1040g00831hs3ugejjq005no89cn0buv27db4m50!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131108/e4d765588829b7600ada94782a94d8e8/1040g00831hs3ugejjq005no89cn0buv27db4m50!nd_dft_wlteh_webp_3?src=A",
       "likes": 3,
       "collects": 1,
       "comments": 0,
@@ -30022,6 +32385,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 3,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -30030,7 +32400,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "妈，咪好像有点斗鸡眼",
       "author": "福啵啵",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121118/2fe62be2dfdc1be9b7e41e1cb7bf1255/notes_pre_post/1040g3k031h59p2vj3i005no89cn0buv21juv900!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131108/a23e41cbf43e340668f15804d0862f80/notes_pre_post/1040g3k031h59p2vj3i005no89cn0buv21juv900!nd_dft_wlteh_webp_3?src=A",
       "likes": 9,
       "collects": 0,
       "comments": 0,
@@ -30054,6 +32424,38 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 9,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a7c48f00000000008009c00",
+      "type": "note",
+      "title": "小屁孩要求要拍的!",
+      "author": "apricotyeon",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131109/d7d127f9535b711f7264f0b4bce243f0/oss-sg/notes/1040g3l0323p24hnmis005qb0ejqduc7e3m4ehd8!nd_dft_wlteh_webp_3?src=A",
+      "likes": 8,
+      "collects": 0,
+      "comments": 0,
+      "comments_text": [],
+      "shares": 0,
+      "publish_time": "2026-08-12",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 8,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -30062,21 +32464,28 @@ window.XHS_DATA = {
       "type": "note",
       "title": "大家平常化妆的时候都把儿子放哪？",
       "author": "apricotyeon",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121118/6c64058062aab448127a0a4f5e3ab195/oss-sg/notes/1040g3l0323nq4rjh2u005qb0ejqduc7enrkg7u0!nd_dft_wlteh_webp_3?src=A",
-      "likes": 11,
-      "collects": 4,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131109/958460028df077399a5ea9bb3722ad03/oss-sg/notes/1040g3l0323nq4rjh2u005qb0ejqduc7enrkg7u0!nd_dft_wlteh_webp_3?src=A",
+      "likes": 12,
+      "collects": 6,
       "comments": 1,
       "comments_text": [],
       "shares": 0,
       "publish_time": "2026-08-11",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 1,
       "from_profile": true,
       "history": [
         {
           "date": "2026-08-12",
           "likes": 11,
           "collects": 4,
+          "comments": 1,
+          "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 12,
+          "collects": 6,
           "comments": 1,
           "shares": 0
         }
@@ -30087,15 +32496,15 @@ window.XHS_DATA = {
       "type": "note",
       "title": "上镜前刘海快速拯救法",
       "author": "apricotyeon",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121119/7ed25746f51d847f742cb7f4cae226a2/oss-sg/notes/1040g3l0323ik1av134005qb0ejqduc7esd2kpi0!nd_dft_wlteh_webp_3?src=A",
-      "likes": 274,
-      "collects": 495,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131110/9b5bffd087cab7143a6e2dc770fe6c1b/oss-sg/notes/1040g3l0323ik1av134005qb0ejqduc7esd2kpi0!nd_dft_wlteh_webp_3?src=A",
+      "likes": 468,
+      "collects": 814,
       "comments": 0,
       "comments_text": [],
-      "shares": 27,
+      "shares": 48,
       "publish_time": "2026-08-07",
       "pinned": false,
-      "grid_order": 1,
+      "grid_order": 2,
       "from_profile": true,
       "history": [
         {
@@ -30118,6 +32527,13 @@ window.XHS_DATA = {
           "collects": 495,
           "comments": 0,
           "shares": 27
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 468,
+          "collects": 814,
+          "comments": 0,
+          "shares": 48
         }
       ]
     },
@@ -30126,7 +32542,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷韩国女主播工作日常plog",
       "author": "apricotyeon",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121119/f272c922cf3b0c608474a7bd85897d15/oss-sg/notes_pre_post/1040g3mo323g3modgg04g5qb0ejqduc7e2ba6va0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131110/8db15e0728ce655f2533a648c9e40089/oss-sg/notes_pre_post/1040g3mo323g3modgg04g5qb0ejqduc7e2ba6va0!nd_dft_wlteh_webp_3?src=A",
       "likes": 7,
       "collects": 1,
       "comments": 0,
@@ -30134,7 +32550,7 @@ window.XHS_DATA = {
       "shares": 0,
       "publish_time": "2026-08-05",
       "pinned": false,
-      "grid_order": 2,
+      "grid_order": 3,
       "from_profile": true,
       "history": [
         {
@@ -30160,6 +32576,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "likes": 7,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-08-13",
           "likes": 7,
           "collects": 1,
           "comments": 0,
@@ -30172,7 +32595,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国足球主播来啦|我是郑淳珠",
       "author": "apricotyeon",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121119/cbad145ee6d5c6c5a167a7636261c4ea/oss-sg/notes/1040g3l03238af64k7s005qb0ejqduc7e1v1rd80!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131110/311e4af1cd685b462135f907c848d23e/oss-sg/notes/1040g3l03238af64k7s005qb0ejqduc7e1v1rd80!nd_dft_wlteh_webp_3?src=A",
       "likes": 14,
       "collects": 3,
       "comments": 2,
@@ -30180,7 +32603,7 @@ window.XHS_DATA = {
       "shares": 1,
       "publish_time": "2026-07-30",
       "pinned": false,
-      "grid_order": 3,
+      "grid_order": 4,
       "from_profile": true,
       "history": [
         {
@@ -30210,6 +32633,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 2,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 14,
+          "collects": 3,
+          "comments": 2,
+          "shares": 1
         }
       ]
     },
@@ -30218,7 +32648,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🧚🏻韩女性时尚品牌「HOWUS」夏季系列",
       "author": "Yeomin",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121120/2741cd1962f6b5386641e40c458f3fc3/1040g2sg3202okl77l4b05pmuq687e4pp74u0bb0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131110/70e69739089ca7f5c8d06d3d4584b854/1040g2sg3202okl77l4b05pmuq687e4pp74u0bb0!nd_dft_wlteh_webp_3?src=A",
       "likes": 138,
       "collects": 71,
       "comments": 1,
@@ -30256,6 +32686,13 @@ window.XHS_DATA = {
           "collects": 71,
           "comments": 1,
           "shares": 10
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 138,
+          "collects": 71,
+          "comments": 1,
+          "shares": 10
         }
       ]
     },
@@ -30264,8 +32701,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩女 常用的粉底液🔥",
       "author": "Yeomin",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121120/7dfafc02ba5781c9e528068781708665/1040g00831vadqnq2hu405pmuq687e4pptjvihvg!nd_dft_wlteh_webp_3?src=A",
-      "likes": 90,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131111/63b142df0c3c0f83f35b79a3c3e94f76/1040g00831vadqnq2hu405pmuq687e4pptjvihvg!nd_dft_wlteh_webp_3?src=A",
+      "likes": 91,
       "collects": 32,
       "comments": 1,
       "comments_text": [],
@@ -30302,6 +32739,13 @@ window.XHS_DATA = {
           "collects": 32,
           "comments": 1,
           "shares": 2
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 91,
+          "collects": 32,
+          "comments": 1,
+          "shares": 2
         }
       ]
     },
@@ -30310,7 +32754,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩女的3种春季装扮🌱",
       "author": "Yeomin",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121120/bad0b40f262c607ecc0606ee56714658/1040g00831v91nukd2s105pmuq687e4ppvtfh2go!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131111/4bc962152f7bee40ae92b38255431347/1040g00831v91nukd2s105pmuq687e4ppvtfh2go!nd_dft_wlteh_webp_3?src=A",
       "likes": 17,
       "collects": 11,
       "comments": 0,
@@ -30348,6 +32792,13 @@ window.XHS_DATA = {
           "collects": 11,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 17,
+          "collects": 11,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -30356,7 +32807,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷 在'三清洞'里的一天 mini vlog 👜",
       "author": "Yeomin",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121120/770989296c72ecdca0503cc101eaa8f9/1040g00831tgnurkkla405pmuq687e4pp1hcr9ro!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131111/2cff6f1322a0cb73b0cccc9de3b125ee/1040g00831tgnurkkla405pmuq687e4pp1hcr9ro!nd_dft_wlteh_webp_3?src=A",
       "likes": 105,
       "collects": 57,
       "comments": 0,
@@ -30394,6 +32845,13 @@ window.XHS_DATA = {
           "collects": 57,
           "comments": 0,
           "shares": 7
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 105,
+          "collects": 57,
+          "comments": 0,
+          "shares": 7
         }
       ]
     },
@@ -30402,7 +32860,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国品牌\"TREEMINGBIRD\"新一季 🇰🇷",
       "author": "Yeomin",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121121/b548e680364f29de4e413ba8c83a9c7d/1040g2sg31rt278u2i4b05pmuq687e4pp0vm6sag!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131111/d8628eab1665f30afaa19167851b3144/1040g2sg31rt278u2i4b05pmuq687e4pp0vm6sag!nd_dft_wlteh_webp_3?src=A",
       "likes": 98,
       "collects": 49,
       "comments": 4,
@@ -30440,6 +32898,13 @@ window.XHS_DATA = {
           "collects": 49,
           "comments": 4,
           "shares": 11
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 98,
+          "collects": 49,
+          "comments": 4,
+          "shares": 11
         }
       ]
     },
@@ -30448,7 +32913,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "漂亮姐姐们好呀～🇰🇷韩国博主柳花来啦❤️",
       "author": "柳花yuhwa",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121121/42b14b66de31ea865da6a67af89289e4/oss-sg/notes/1040g3l0322rettd6g0005qdlg7k9n9ohpi6pjp8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131112/f4bd254dfaf82496c93f802d5fc1be16/oss-sg/notes/1040g3l0322rettd6g0005qdlg7k9n9ohpi6pjp8!nd_dft_wlteh_webp_3?src=A",
       "likes": 54,
       "collects": 3,
       "comments": 24,
@@ -30486,6 +32951,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 24,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 54,
+          "collects": 3,
+          "comments": 24,
+          "shares": 1
         }
       ]
     },
@@ -30494,9 +32966,9 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷韩国美妆师HINCE新品腮红全线测评",
       "author": "milkcat",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121122/ae09bc51d34b2159d65c980d08aef0e2/oss-sg/notes/1040g3l0323nfvh4tim005qic9srjnf00temde70!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131113/55fb01f64dd4336328dee7dabc426f86/oss-sg/notes/1040g3l0323nfvh4tim005qic9srjnf00temde70!nd_dft_wlteh_webp_3?src=A",
       "likes": 7,
-      "collects": 4,
+      "collects": 5,
       "comments": 0,
       "comments_text": [],
       "shares": 0,
@@ -30511,6 +32983,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 7,
+          "collects": 5,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -30519,7 +32998,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国化妆师的夏日12小时持妆方法",
       "author": "milkcat",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121123/d57f41a237ae6fce97f65911140c9b60/oss-sg/notes/1040g3l032381kcot7o005qic9srjnf008lepfmo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131113/50eb498dfa155922098f6ac40389466e/oss-sg/notes/1040g3l032381kcot7o005qic9srjnf008lepfmo!nd_dft_wlteh_webp_3?src=A",
       "likes": 1,
       "collects": 0,
       "comments": 0,
@@ -30557,6 +33036,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -30565,7 +33051,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Bali🏝️",
       "author": "milkcat",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121123/8265230be1ce084466d7ee57cb6ecc56/oss-sg/notes/1040g3l0323768rd1ns0g5qj9vgk3nf0268i2msg!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131114/14f3810218d1a1f2eaf994b61db6eae3/oss-sg/notes/1040g3l0323768rd1ns0g5qj9vgk3nf0268i2msg!nd_dft_wgth_webp_3?src=A",
       "likes": 1,
       "collects": 0,
       "comments": 0,
@@ -30603,6 +33089,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -30611,7 +33104,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩女5种丝带发型教程",
       "author": "milkcat",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121123/5d39c64d0b723e044bd5aa708f6729b6/oss-sg/notes/1040g3l03235d0fpcne0g5qic9srjnf00gvjhuu0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131114/2794d4629b8ff4d7b90abf0d8c34d81e/oss-sg/notes/1040g3l03235d0fpcne0g5qic9srjnf00gvjhuu0!nd_dft_wlteh_webp_3?src=A",
       "likes": 1,
       "collects": 0,
       "comments": 0,
@@ -30649,6 +33142,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -30657,7 +33157,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷ABLY x T1 联名全线化妆品测评",
       "author": "milkcat",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121123/1a8890152cb3d0db95846fe49a2aeaab/oss-sg/notes/1040g3l03235d0fpcne005qic9srjnf007bh0q50!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131114/c75842443f5e9f656d2f9a5e8a720502/oss-sg/notes/1040g3l03235d0fpcne005qic9srjnf007bh0q50!nd_dft_wlteh_webp_3?src=A",
       "likes": 6,
       "collects": 2,
       "comments": 0,
@@ -30695,6 +33195,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 6,
+          "collects": 2,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -30703,7 +33210,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "康康我的小红书新头像 🗣",
       "author": "charmingchoi",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121124/f1b025c4666a3b2ac0202f7da63f224b/1040g2sg31d1so5ho0u805psjl5g3johsj96s5d8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131114/70e3a146a33ddd1f012d171ba21bf035/1040g2sg31d1so5ho0u805psjl5g3johsj96s5d8!nd_dft_wlteh_webp_3?src=A",
       "likes": 3,
       "collects": 0,
       "comments": 0,
@@ -30741,6 +33248,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 3,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -30749,7 +33263,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩男运动前vs运动后",
       "author": "孙达 SonDal",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121126/d27b95a80e5291d06d63254392731681/oss-sg/notes/1040g3l0323nd9jh6ie005qglat53en006debd10!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131116/4979de8096f4dbee9528518035569bb6/oss-sg/notes/1040g3l0323nd9jh6ie005qglat53en006debd10!nd_dft_wlteh_webp_3?src=A",
       "likes": 5,
       "collects": 1,
       "comments": 0,
@@ -30766,6 +33280,38 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 2
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 5,
+          "collects": 1,
+          "comments": 0,
+          "shares": 2
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a717edd000000001201233d",
+      "type": "note",
+      "title": "🇰🇷韩男运动穿搭",
+      "author": "孙达 SonDal",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131117/def429a1b8827f60d4b0dbb70b3af106/oss-sg/notes/1040g3l0323egcvicga005qglat53en001r4i3f0!nd_dft_wlteh_webp_3?src=A",
+      "likes": 10,
+      "collects": 0,
+      "comments": 0,
+      "comments_text": [],
+      "shares": 0,
+      "publish_time": "2026-08-04",
+      "pinned": false,
+      "grid_order": 1,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 10,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -30774,7 +33320,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷韩男必备5条黑裤",
       "author": "孙达 SonDal",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121131/c1c686ee3087d3f4f61d872f0b02ed8a/oss-sg/notes/1040g3l03235hrki7nq005qglat53en005h2oji8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131117/0ff97eaee5b28987b4bf205f7aa95c41/oss-sg/notes/1040g3l03235hrki7nq005qglat53en005h2oji8!nd_dft_wlteh_webp_3?src=A",
       "likes": 6,
       "collects": 0,
       "comments": 0,
@@ -30812,6 +33358,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 6,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -30820,7 +33373,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "💚🤎🖤",
       "author": "孙达 SonDal",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121131/ca84f8a308d1797c335dcae695b27b39/oss-sg/notes_pre_post/1040g3mo322oft3jrno005qglat53en00cun065g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131117/c300682515ec18a4d86cd9a69a566866/oss-sg/notes_pre_post/1040g3mo322oft3jrno005qglat53en00cun065g!nd_dft_wlteh_webp_3?src=A",
       "likes": 2,
       "collects": 1,
       "comments": 0,
@@ -30858,6 +33411,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -30866,7 +33426,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "💵🖤🎧我的今天",
       "author": "孙达 SonDal",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121131/cacd6dbb7635130f4865a851e70d1643/oss-sg/notes_pre_post/1040g3mo322l7nei27i2g5qglat53en00ph915kg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131117/19ee44f17c9e8a7756012f6f161e4753/oss-sg/notes_pre_post/1040g3mo322l7nei27i2g5qglat53en00ph915kg!nd_dft_wlteh_webp_3?src=A",
       "likes": 3,
       "collects": 0,
       "comments": 0,
@@ -30904,6 +33464,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 3,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -30912,7 +33479,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "火爆韩国！近期超火的每日包包清单🙊✨",
       "author": "yeng",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121132/690a817bb6fabef17fd28ac280838be3/1040g00831th5qml65s005qakm9ldoru65eggaio!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131118/dde7732419af99f9ce7785c86c53f375/1040g00831th5qml65s005qakm9ldoru65eggaio!nd_dft_wlteh_webp_3?src=A",
       "likes": 1,
       "collects": 0,
       "comments": 0,
@@ -30950,6 +33517,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -30958,13 +33532,11 @@ window.XHS_DATA = {
       "type": "note",
       "title": "30岁韩国宝妈的欧利芙洋必买清单🛒✨",
       "author": "yeng",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121132/070f5fc010efad839a5ec9bfac3c1a26/1040g2sg31t2jcl2f68705qakm9ldoru6nnj0kno!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131118/815cd65e52376ced0ec50b0534564d61/1040g2sg31t2jcl2f68705qakm9ldoru6nnj0kno!nd_dft_wlteh_webp_3?src=A",
       "likes": 10,
       "collects": 1,
       "comments": 1,
-      "comments_text": [
-        "看得出来你很喜欢TCFS"
-      ],
+      "comments_text": [],
       "shares": 0,
       "publish_time": "2026-02-27",
       "pinned": false,
@@ -30977,6 +33549,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 10,
+          "collects": 1,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -30985,7 +33564,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "最近的K-Beauty日常 ☁️💄",
       "author": "yeng",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121132/55928e3ea4dd59da3ef59b8e98c59da0/1040g2sg31rmh3rp8ia005qakm9ldoru68f5bkp0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131118/d30339c0ea6fb6279ebaf42465f6c3d9/1040g2sg31rmh3rp8ia005qakm9ldoru68f5bkp0!nd_dft_wlteh_webp_3?src=A",
       "likes": 12,
       "collects": 1,
       "comments": 0,
@@ -31023,50 +33602,11 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/696ee653000000001a01e681",
-      "type": "note",
-      "title": "想去暖和的国家旅行的一天🌴",
-      "author": "yeng",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121132/ba4d1d54bda1cbb28cb6b49553a1f0a3/1040g00831rhrdvrsnu1g5qakm9ldoru6glugdsg!nd_dft_wlteh_webp_3?src=A",
-      "likes": 4,
-      "collects": 0,
-      "comments": 0,
-      "comments_text": [],
-      "shares": 0,
-      "publish_time": "2026-01-20",
-      "pinned": false,
-      "grid_order": 3,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-08-07",
-          "likes": 4,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
         },
         {
-          "date": "2026-08-10",
-          "likes": 4,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-08-11",
-          "likes": 4,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        },
-        {
-          "date": "2026-08-12",
-          "likes": 4,
-          "collects": 0,
+          "date": "2026-08-13",
+          "likes": 12,
+          "collects": 1,
           "comments": 0,
           "shares": 0
         }
@@ -31077,7 +33617,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "30+韩国职场妈妈的自我管理🇰🇷🤍",
       "author": "yeng",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121132/68934b4162e76ad5e92fd3e1f8d7440d/1040g00831rh904jag00g5qakm9ldoru62bb740o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131119/365e6e8de09a971e919ae1cd3c61586f/1040g00831rh904jag00g5qakm9ldoru62bb740o!nd_dft_wlteh_webp_3?src=A",
       "likes": 19,
       "collects": 3,
       "comments": 1,
@@ -31117,6 +33657,45 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 19,
+          "collects": 3,
+          "comments": 1,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a7bf2c40000000005020807",
+      "type": "note",
+      "title": "韩国夫妻｜防止老婆产后抑郁的方法",
+      "author": "salt_papa",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131120/451ed67fac3ae02db6c2552f39c3657f/1040g008323onjl2q7a0049n92l4cul4sl91uc4o!nd_dft_wlteh_webp_3?src=A",
+      "likes": 15000,
+      "collects": 425,
+      "comments": 157,
+      "comments_text": [
+        "说真的，如果有女人给我生孩子，这些根本不是什么难事",
+        "韩国这种生育率能生孩子的应该 人是筛选过的",
+        "而且住这房子在🇰🇷 肯定不会穷",
+        "其实去7-11买个饭就好了，回到家热了一下直接吃，不用等煮饭那20多分钟，妈妈可能已经饿坏了，买那种即食饭可以快速解决妈妈的饥饿",
+        "这家店排骨口味不错 但绝对不是排队一百米的程度 有一些饭店确实这样 口味一般但是门庭若市 估计这种老板八字旺财吧",
+        "我的想法是下班后快速马上一分钟都不要耽误的到家里，把孩子接过去，我可以自己出去排队买美食店的东西吃，不吃好吃的也行，一个人去足疗店，有吃有喝有按摩，悠闲地过几个小时。"
+      ],
+      "shares": 350,
+      "publish_time": "2026-08-12",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 15000,
+          "collects": 425,
+          "comments": 157,
+          "shares": 350
         }
       ]
     },
@@ -31125,15 +33704,15 @@ window.XHS_DATA = {
       "type": "note",
       "title": "金素的第一次儿童乐园💕👼🏻",
       "author": "salt_papa",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121132/1bc4c15741235b2288675816e109c3a6/1040g2sg322sjhjbhno7049n92l4cul4sbcq83g0!nd_dft_wlteh_webp_3?src=A",
-      "likes": 1,
-      "collects": 0,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131120/53df95aeb3c8e36970d23766d2df224e/1040g2sg322sjhjbhno7049n92l4cul4sbcq83g0!nd_dft_wlteh_webp_3?src=A",
+      "likes": 13,
+      "collects": 1,
       "comments": 0,
       "comments_text": [],
       "shares": 0,
       "publish_time": "2026-07-21",
       "pinned": false,
-      "grid_order": 0,
+      "grid_order": 1,
       "from_profile": true,
       "history": [
         {
@@ -31163,6 +33742,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 13,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -31171,7 +33757,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "在圣水洞刷到好多人背同一款黄色包 💛",
       "author": "爱美妆的Reina",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121133/689286783c0927b9022582bd5f04343d/notes_pre_post/1040g3k0322sr1fks74005pthvbtjjkdkfn7nl4o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131120/a53e59f6d38452b4bfe42102a3ed64a5/notes_pre_post/1040g3k0322sr1fks74005pthvbtjjkdkfn7nl4o!nd_dft_wlteh_webp_3?src=A",
       "likes": 1,
       "collects": 1,
       "comments": 0,
@@ -31209,6 +33795,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1,
+          "collects": 1,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -31217,7 +33810,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "开启我的小红书之旅 📍 大家快来和我 stick",
       "author": "爱美妆的Reina",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121133/f8304eff2c8cff8e31e0f4e243dd6ecd/notes_pre_post/1040g3k0322i8grptn0005pthvbtjjkdkuv5s310!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131120/2e7c2f429db6e99ed211e6c0e5fdf904/notes_pre_post/1040g3k0322i8grptn0005pthvbtjjkdkuv5s310!nd_dft_wlteh_webp_3?src=A",
       "likes": 4,
       "collects": 0,
       "comments": 0,
@@ -31255,6 +33848,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 4,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -31263,7 +33863,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国女生同居plog|周末去哪约会",
       "author": "Chaerione",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121133/4274213264b034387914d0cb777add27/note_pre_post_uhdr/1040g3r0322u0aoqf76005qbpdhr9gbal6idld2o!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131120/fdf78982c2e79dc573b6d6dad9f92562/note_pre_post_uhdr/1040g3r0322u0aoqf76005qbpdhr9gbal6idld2o!nd_dft_wgth_webp_3?src=A",
       "likes": 6,
       "collects": 1,
       "comments": 0,
@@ -31301,6 +33901,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 6,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -31309,7 +33916,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "上镜前先检查一下自己 📸",
       "author": "bychangm_",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121134/44ec828365c01e788fe074d317515318/oss-sg/notes/1040g3l0323k5m9k0ie005q2ruhb6s4ihsplj3o0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131121/2a2fad09628ca470e70efc5ac85c97fc/oss-sg/notes/1040g3l0323k5m9k0ie005q2ruhb6s4ihsplj3o0!nd_dft_wlteh_webp_3?src=A",
       "likes": 20,
       "collects": 1,
       "comments": 1,
@@ -31342,6 +33949,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 20,
+          "collects": 1,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -31350,7 +33964,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "今天的咖啡，今天的我",
       "author": "bychangm_",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121134/71b7f32f0816d1e8779dba573707fac3/oss-sg/notes/1040g3l03238gkcu07u005q2ruhb6s4ihoqd83ig!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131121/8e17eeebe33192dbffa591477288b7a2/oss-sg/notes/1040g3l03238gkcu07u005q2ruhb6s4ihoqd83ig!nd_dft_wlteh_webp_3?src=A",
       "likes": 41,
       "collects": 2,
       "comments": 2,
@@ -31390,6 +34004,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 41,
+          "collects": 2,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -31398,7 +34019,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "把头发剪短了",
       "author": "bychangm_",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121134/0f780703bfd573a925534ddd6cc98dcc/oss-sg/notes/1040g3l032233mk2pnq005q2ruhb6s4ih7m675ug!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131121/b24563fb2d55db6b95523016904b3bcb/oss-sg/notes/1040g3l032233mk2pnq005q2ruhb6s4ih7m675ug!nd_dft_wlteh_webp_3?src=A",
       "likes": 9,
       "collects": 1,
       "comments": 1,
@@ -31438,6 +34059,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 9,
+          "collects": 1,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -31446,7 +34074,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "春季整理房间日常①🌸",
       "author": "yuha在家",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121135/0b46aa723fd17c04b0fc1e055d678f3d/1040g2sg31t9k7d7vlm704bujeblbcglau0j0cbo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131122/dff707068dd40fdf9f8f6a65a7e07104/1040g2sg31t9k7d7vlm704bujeblbcglau0j0cbo!nd_dft_wlteh_webp_3?src=A",
       "likes": 9,
       "collects": 2,
       "comments": 0,
@@ -31484,6 +34112,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 9,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -31492,7 +34127,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "送孩子上学后的一小时清洁日常⭐️",
       "author": "yuha在家",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121135/b76ae2753ca24003e48ab767963f6a44/1040g2sg31s7tkmv468704bujeblbcglaspkap38!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131122/7ec905305a3621e971c6eaa1ee2f5570/1040g2sg31s7tkmv468704bujeblbcglaspkap38!nd_dft_wlteh_webp_3?src=A",
       "likes": 91,
       "collects": 19,
       "comments": 2,
@@ -31533,6 +34168,13 @@ window.XHS_DATA = {
           "collects": 19,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 91,
+          "collects": 19,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -31541,7 +34183,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国妈妈的冰箱采购日 Vlog",
       "author": "yuha在家",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121135/e16140df3246b82fc1e7d903d801b211/1040g00831s5cfqpq68104bujeblbcgla3b1dhbo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131122/67ca857fa508d5b91024413b92fa20ac/1040g00831s5cfqpq68104bujeblbcgla3b1dhbo!nd_dft_wlteh_webp_3?src=A",
       "likes": 52,
       "collects": 19,
       "comments": 1,
@@ -31581,6 +34223,13 @@ window.XHS_DATA = {
           "collects": 19,
           "comments": 1,
           "shares": 5
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 52,
+          "collects": 19,
+          "comments": 1,
+          "shares": 5
         }
       ]
     },
@@ -31589,7 +34238,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "不囤货的韩国妈妈，冰箱这样整理",
       "author": "yuha在家",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121135/6ab14bf9c8e53ae1d9320c36b52f3110/1040g00831rv14s8oj20g4bujeblbcglallt3rh8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131122/8f38d802277180abda36ee69aa9c3f5f/1040g00831rv14s8oj20g4bujeblbcglallt3rh8!nd_dft_wlteh_webp_3?src=A",
       "likes": 19,
       "collects": 2,
       "comments": 1,
@@ -31629,6 +34278,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 1,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 19,
+          "collects": 2,
+          "comments": 1,
+          "shares": 1
         }
       ]
     },
@@ -31637,7 +34293,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国妈妈的洗衣机阳台清洁Vlog",
       "author": "yuha在家",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121135/9a75bb284ef2dd6327aef238088c8b27/1040g2sg31rsnfntij27g4bujeblbcgla4kn714g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131122/3ae44037ce716cd4ebd4d4e3c8446363/1040g2sg31rsnfntij27g4bujeblbcgla4kn714g!nd_dft_wlteh_webp_3?src=A",
       "likes": 76,
       "collects": 18,
       "comments": 1,
@@ -31677,6 +34333,13 @@ window.XHS_DATA = {
           "collects": 18,
           "comments": 1,
           "shares": 4
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 76,
+          "collects": 18,
+          "comments": 1,
+          "shares": 4
         }
       ]
     },
@@ -31685,8 +34348,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "求推荐韩国首尔咖啡店☕️🇰🇷",
       "author": "BRI",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121135/2ef2bd0ca49754c72478eb6999951e92/oss-sg/notes/1040g3l0323eu3ogv04505psg7g73982nm6t2vgg!nd_dft_wlteh_webp_3?src=A",
-      "likes": 49,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131123/1098b0dd41c52456da6a461a8fdf6a0d/oss-sg/notes/1040g3l0323eu3ogv04505psg7g73982nm6t2vgg!nd_dft_wlteh_webp_3?src=A",
+      "likes": 51,
       "collects": 2,
       "comments": 7,
       "comments_text": [
@@ -31730,6 +34393,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 7,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 51,
+          "collects": 2,
+          "comments": 7,
+          "shares": 0
         }
       ]
     },
@@ -31738,9 +34408,9 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩女的solotrip | 济州岛篇(1)",
       "author": "BRI",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121136/bad2f96143a1d5c1ece2353ba68ff5bf/oss-sg/notes/1040g3l0323dmrvq506005psg7g73982ndif70sg!nd_dft_wlteh_webp_3?src=A",
-      "likes": 104,
-      "collects": 10,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131123/2c4663e6552b1163df550fdb4edd3a59/oss-sg/notes/1040g3l0323dmrvq506005psg7g73982ndif70sg!nd_dft_wlteh_webp_3?src=A",
+      "likes": 108,
+      "collects": 11,
       "comments": 2,
       "comments_text": [
         "姐姐咋说话这么快，可以和酷酷竞争泡队队长了[偷笑R]",
@@ -31779,6 +34449,13 @@ window.XHS_DATA = {
           "collects": 10,
           "comments": 2,
           "shares": 3
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 108,
+          "collects": 11,
+          "comments": 2,
+          "shares": 3
         }
       ]
     },
@@ -31787,19 +34464,19 @@ window.XHS_DATA = {
       "type": "note",
       "title": "我是蹦蹦跳跳的小天使兔兔🐰👼🏻",
       "author": "BRI",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121136/8e6e4182aa48a615c2856006172e3935/oss-sg/notes/1040g3l03239ehq7ug4205psg7g73982nlr2o1dg!nd_dft_wlteh_webp_3?src=A",
-      "likes": 2500,
-      "collects": 64,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131123/78bdd94e66d58846926e2ad02e82da89/oss-sg/notes/1040g3l03239ehq7ug4205psg7g73982nlr2o1dg!nd_dft_wlteh_webp_3?src=A",
+      "likes": 2600,
+      "collects": 67,
       "comments": 233,
       "comments_text": [
         "[派对R]太棒了",
-        "看了，看了！超级厉害！！向你学习[萌萌哒R]",
+        "克拉加油",
         "姐妹好棒👍！",
-        "欧尼真的超级棒！真的看的时候一直感叹欧尼太美了[飞吻R]",
-        "好厉害姐姐，而且姐姐好漂亮[皱眉R]",
-        "你真的好棒！好骄傲！"
+        "刚刚看完！！姐妹你们太棒了！！克拉的骄傲[笑哭R]加油加油",
+        "看了，看了！超级厉害！！向你学习[萌萌哒R]",
+        "欧尼真的超级棒！真的看的时候一直感叹欧尼太美了[飞吻R]"
       ],
-      "shares": 216,
+      "shares": 217,
       "publish_time": "2026-07-31",
       "pinned": false,
       "grid_order": 2,
@@ -31832,6 +34509,13 @@ window.XHS_DATA = {
           "collects": 64,
           "comments": 233,
           "shares": 216
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2600,
+          "collects": 67,
+          "comments": 233,
+          "shares": 217
         }
       ]
     },
@@ -31840,7 +34524,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "✌🏻🤍🐰",
       "author": "BRI",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121136/1f692b105ee4b140fd4ae2c6ed315920/oss-sg/notes/1040g3l0321a9juo27e005psg7g73982n1gqd150!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131123/ed497dcdb51bc79ff941fa9dffea9883/oss-sg/notes/1040g3l0321a9juo27e005psg7g73982n1gqd150!nd_dft_wlteh_webp_3?src=A",
       "likes": 39,
       "collects": 0,
       "comments": 1,
@@ -31880,6 +34564,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 1,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 39,
+          "collects": 0,
+          "comments": 1,
+          "shares": 1
         }
       ]
     },
@@ -31888,8 +34579,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "你好🎀",
       "author": "BRI",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121136/0c5fff60a6802aa7f970773f9330463f/oss-sg/notes/1040g3l0320o7kqognk2g5psg7g73982ns2o3hmo!nd_dft_wlteh_webp_3?src=A",
-      "likes": 23,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131123/14498846557b1cc9438c66ea14bff385/oss-sg/notes/1040g3l0320o7kqognk2g5psg7g73982ns2o3hmo!nd_dft_wlteh_webp_3?src=A",
+      "likes": 24,
       "collects": 1,
       "comments": 2,
       "comments_text": [
@@ -31929,6 +34620,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 24,
+          "collects": 1,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -31937,13 +34635,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷 我要不要剪刘海？",
       "author": "jinnaym_",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121136/d595ac4b3fccef1757c5f6b25febac53/oss-sg/notes/1040g3l0322ac942kns005pol5cb7c3uo4su8pe8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131124/b3a556843dfebe914e856f2702738131/oss-sg/notes/1040g3l0322ac942kns005pol5cb7c3uo4su8pe8!nd_dft_wlteh_webp_3?src=A",
       "likes": 32,
       "collects": 0,
       "comments": 3,
       "comments_text": [
-        "感觉不用",
         "还是不要了感觉怪怪的！还是现在好看[害羞R]",
+        "感觉不用",
         "不要哇"
       ],
       "shares": 0,
@@ -31965,6 +34663,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 3,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 32,
+          "collects": 0,
+          "comments": 3,
+          "shares": 0
         }
       ]
     },
@@ -31973,7 +34678,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Nyc",
       "author": "jinnaym_",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121136/f12dda3b643e55cf3e45e8050d147e00/notes_pre_post/1040g3k831ve3n1diii705pol5cb7c3uoq9iv8n8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131124/efb24fa5542273d1306327948dee3b4a/notes_pre_post/1040g3k831ve3n1diii705pol5cb7c3uoq9iv8n8!nd_dft_wlteh_webp_3?src=A",
       "likes": 107,
       "collects": 5,
       "comments": 1,
@@ -31999,6 +34704,13 @@ window.XHS_DATA = {
           "collects": 5,
           "comments": 1,
           "shares": 2
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 107,
+          "collects": 5,
+          "comments": 1,
+          "shares": 2
         }
       ]
     },
@@ -32007,7 +34719,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷 outfit check",
       "author": "jinnaym_",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121137/3a932115c0a9dddc8546e2a7862d938d/1040g00831v2hct5aiq005pol5cb7c3uo8r9l3ro!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131124/2bb8713e47d39d7b75dc0bd9e667d428/1040g00831v2hct5aiq005pol5cb7c3uo8r9l3ro!nd_dft_wlteh_webp_3?src=A",
       "likes": 56,
       "collects": 0,
       "comments": 1,
@@ -32033,6 +34745,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 56,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -32041,7 +34760,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "(제목 없음)",
       "author": "jinnaym_",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121137/dc6b5391a496cdd3fa88dd03a4a6b2d0/notes_pre_post/1040g3k031u88siur2a105pol5cb7c3uo3s23k6o!nd_dft_wgth_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131124/31f3ed8f21ed23eacdab58d170e73a79/notes_pre_post/1040g3k031u88siur2a105pol5cb7c3uo3s23k6o!nd_dft_wgth_webp_3?src=A",
       "likes": 54,
       "collects": 2,
       "comments": 9,
@@ -32070,6 +34789,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 9,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 54,
+          "collects": 2,
+          "comments": 9,
+          "shares": 0
         }
       ]
     },
@@ -32078,7 +34804,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Central cee concert 💗",
       "author": "jinnaym_",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121137/13a56bedc6df3f4c20059ae18c3ec850/1040g00831tqgv0nhn8005pol5cb7c3uom6koa78!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131124/97d6b79e0fac3822d047218b972815dd/1040g00831tqgv0nhn8005pol5cb7c3uom6koa78!nd_dft_wlteh_webp_3?src=A",
       "likes": 36,
       "collects": 1,
       "comments": 0,
@@ -32102,6 +34828,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 36,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -32110,7 +34843,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "欸，小心别磕到头😧  好～☺️",
       "author": "u_seri",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121137/91a492742b64dd884e6bc3e8c219c147/1040g2sg31lov451i5e005q1ngjcn98quv7grm2g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131124/8cef740a4e01327999abed3898bdb9f5/1040g2sg31lov451i5e005q1ngjcn98quv7grm2g!nd_dft_wlteh_webp_3?src=A",
       "likes": 4,
       "collects": 1,
       "comments": 0,
@@ -32148,6 +34881,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 4,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -32156,7 +34896,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "Vlog 在🇳🇿的一天我都做了什么",
       "author": "u_seri",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121137/f115a9b3b9a0a7fe69a24d27ca88787b/1040g00831lfrgjg8l8005q1ngjcn98qu43kogc8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131125/a642c8a7b53564d87bee3ca51de0d718/1040g00831lfrgjg8l8005q1ngjcn98qu43kogc8!nd_dft_wlteh_webp_3?src=A",
       "likes": 14,
       "collects": 2,
       "comments": 0,
@@ -32194,6 +34934,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 14,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -32202,7 +34949,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇳🇿Vlog高能量韩国女生6:50起床都干了什么",
       "author": "u_seri",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121137/f5bbcd64a2913fd981dd0ccd28dab5af/1040g00831l5nepeh34005q1ngjcn98qus6b6hd0!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131125/f27f93e9055beed533fd5baffb6816ff/1040g00831l5nepeh34005q1ngjcn98qus6b6hd0!nd_dft_wlteh_webp_3?src=A",
       "likes": 12,
       "collects": 1,
       "comments": 2,
@@ -32242,6 +34989,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 12,
+          "collects": 1,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -32250,7 +35004,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "No you❌Big problem⚠️",
       "author": "u_seri",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121137/d3846c461d14a970b25f5d212af325f5/1040g2sg31l4dnre92o705q1ngjcn98quc15kp3g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131125/b2fc1f7bcc0efe4b3e6e229269812447/1040g2sg31l4dnre92o705q1ngjcn98quc15kp3g!nd_dft_wlteh_webp_3?src=A",
       "likes": 5,
       "collects": 1,
       "comments": 0,
@@ -32288,6 +35042,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 5,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -32296,7 +35057,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "祝我生日快乐🎂",
       "author": "u_seri",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121138/eec946e0c4435199e979ad628887087c/1040g2sg31kbtq7oqj06g5q1ngjcn98quoft89l8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131125/3fb69e7a82432babbb5108a4ec024f91/1040g2sg31kbtq7oqj06g5q1ngjcn98quoft89l8!nd_dft_wlteh_webp_3?src=A",
       "likes": 9,
       "collects": 1,
       "comments": 10,
@@ -32339,6 +35100,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 10,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 9,
+          "collects": 1,
+          "comments": 10,
+          "shares": 0
         }
       ]
     },
@@ -32347,9 +35115,9 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国爆火的杏鲍菇新吃法~吃瘦20斤",
       "author": "MZuni",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121138/fc3012d0312c29291b3122a44ffa40df/oss-sg/notes/1040g3l0323mnglt72i005qgaf053ej0164a0v00!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131126/43c9d9968330c2d67a50e3fefda56dfb/oss-sg/notes/1040g3l0323mnglt72i005qgaf053ej0164a0v00!nd_dft_wlteh_webp_3?src=A",
       "likes": 77,
-      "collects": 44,
+      "collects": 46,
       "comments": 1,
       "comments_text": [
         "1"
@@ -32373,6 +35141,13 @@ window.XHS_DATA = {
           "collects": 44,
           "comments": 1,
           "shares": 7
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 77,
+          "collects": 46,
+          "comments": 1,
+          "shares": 7
         }
       ]
     },
@@ -32381,9 +35156,9 @@ window.XHS_DATA = {
       "type": "note",
       "title": "连原材料都在韩国卖断货的它..",
       "author": "MZuni",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121138/17eb82e6dc955736293cd0804da24b00/oss-sg/notes/1040g3l0323ld0aur2u005qgaf053ej01asre88o!nd_dft_wlteh_webp_3?src=A",
-      "likes": 25,
-      "collects": 3,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131126/8da65a23d4c20800b86208d1a61a2003/oss-sg/notes/1040g3l0323ld0aur2u005qgaf053ej01asre88o!nd_dft_wlteh_webp_3?src=A",
+      "likes": 26,
+      "collects": 4,
       "comments": 1,
       "comments_text": [
         "姐姐好可爱[害羞R]"
@@ -32414,6 +35189,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 1,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 26,
+          "collects": 4,
+          "comments": 1,
+          "shares": 1
         }
       ]
     },
@@ -32422,7 +35204,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "不用一滴水就能做出水煮白肉？",
       "author": "MZuni",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121139/3bd7d850eab0fdb83013f864c7a0bba7/oss-sg/notes/1040g3l0323766dl57g005qgaf053ej01tefdq1o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131126/2b3f1a1e0983ba645d89994913ad2159/oss-sg/notes/1040g3l0323766dl57g005qgaf053ej01tefdq1o!nd_dft_wlteh_webp_3?src=A",
       "likes": 31,
       "collects": 40,
       "comments": 0,
@@ -32460,6 +35242,13 @@ window.XHS_DATA = {
           "collects": 40,
           "comments": 0,
           "shares": 5
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 31,
+          "collects": 40,
+          "comments": 0,
+          "shares": 5
         }
       ]
     },
@@ -32468,7 +35257,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "40卡零负担家庭版棉花糖~",
       "author": "MZuni",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121139/1ecf0fb9c2dc6ab8dd7266988353e5a2/oss-sg/notes/1040g3l032325l53pnc005qgaf053ej01lb7nur8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131126/2772f14818e86b358b1483a9a3d32576/oss-sg/notes/1040g3l032325l53pnc005qgaf053ej01lb7nur8!nd_dft_wlteh_webp_3?src=A",
       "likes": 57,
       "collects": 13,
       "comments": 3,
@@ -32510,6 +35299,13 @@ window.XHS_DATA = {
           "collects": 13,
           "comments": 3,
           "shares": 3
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 57,
+          "collects": 13,
+          "comments": 3,
+          "shares": 3
         }
       ]
     },
@@ -32518,7 +35314,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "快手蛋糕ㅣ只用三种材料~ 0面粉",
       "author": "MZuni",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121139/36908d66062505b53697eaa92c945b6b/oss-sg/notes/1040g3l0322mf44n0ng005qgaf053ej015q7ubq8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131126/526facd291b9736a441aa1b2fe537ff6/oss-sg/notes/1040g3l0322mf44n0ng005qgaf053ej015q7ubq8!nd_dft_wlteh_webp_3?src=A",
       "likes": 5,
       "collects": 2,
       "comments": 0,
@@ -32556,6 +35352,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 5,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -32564,7 +35367,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "社牛韩女是如何帮朋友拍照的",
       "author": "Kyejin",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121139/328792eb084782263f7de15c4a95e9e3/oss-sg/notes/1040g3l0323mmgpne2a005qa0lf1tosrndaahim8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131127/eea54785d48d9d6b9d5a6e154c0d5854/oss-sg/notes/1040g3l0323mmgpne2a005qa0lf1tosrndaahim8!nd_dft_wlteh_webp_3?src=A",
       "likes": 34,
       "collects": 1,
       "comments": 2,
@@ -32590,6 +35393,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 2,
           "shares": 2
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 34,
+          "collects": 1,
+          "comments": 2,
+          "shares": 2
         }
       ]
     },
@@ -32598,7 +35408,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "关于我Cosplay戴假发变成搞笑女这件事 🤡",
       "author": "Kyejin",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121139/6a5eb8ea81388a2d706665857f8bfc08/1040g2sg31r0k7lutn5305qa0lf1tosrnog610bg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131127/96dc8dd2bf288674c5c00165974c9b30/1040g2sg31r0k7lutn5305qa0lf1tosrnog610bg!nd_dft_wlteh_webp_3?src=A",
       "likes": 73,
       "collects": 1,
       "comments": 2,
@@ -32638,6 +35448,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 73,
+          "collects": 1,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -32646,7 +35463,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "沉浸式体验澳门的“杀人”物价🥹",
       "author": "Kyejin",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121139/b84d868f2d6a19bc3b7f27ea431e9f02/1040g2sg31rekh362gm005qa0lf1tosrn2vn1258!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131127/416536c87f5f6877c0590024d2cab697/1040g2sg31rekh362gm005qa0lf1tosrn2vn1258!nd_dft_wlteh_webp_3?src=A",
       "likes": 6,
       "collects": 2,
       "comments": 8,
@@ -32688,6 +35505,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 8,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 6,
+          "collects": 2,
+          "comments": 8,
+          "shares": 0
         }
       ]
     },
@@ -32696,7 +35520,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷 这抹粉色太治愈了🎀",
       "author": "Blair",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121140/873fd1493389b47bcbd62ce2f2e92161/1040g00831s5h6653lk005q37d9djfigvs80om78!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131127/4e562ad567640e27ae1cdab237c51ae2/1040g00831s5h6653lk005q37d9djfigvs80om78!nd_dft_wlteh_webp_3?src=A",
       "likes": 6,
       "collects": 0,
       "comments": 0,
@@ -32734,6 +35558,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 6,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -32742,7 +35573,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷病后回血 🤒✨",
       "author": "Blair",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121140/9b13baa5db11f45977168d0e5f85fe7c/1040g2sg31s3un0po62005q37d9djfigvv356b0o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131127/7f189c1243815e7ee8ce3ce4edb1b31e/1040g2sg31s3un0po62005q37d9djfigvv356b0o!nd_dft_wlteh_webp_3?src=A",
       "likes": 36,
       "collects": 8,
       "comments": 1,
@@ -32782,6 +35613,13 @@ window.XHS_DATA = {
           "collects": 8,
           "comments": 1,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 36,
+          "collects": 8,
+          "comments": 1,
+          "shares": 1
         }
       ]
     },
@@ -32790,7 +35628,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷 这个状态我很喜欢",
       "author": "Blair",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121140/ad36a583bb1e517c98a0c0a4d22a413e/1040g2sg31rsu0j332s705q37d9djfigvurt0tp8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131127/c594b5105396dea7a1bc3d6857ae92af/1040g2sg31rsu0j332s705q37d9djfigvurt0tp8!nd_dft_wlteh_webp_3?src=A",
       "likes": 40,
       "collects": 7,
       "comments": 2,
@@ -32831,6 +35669,13 @@ window.XHS_DATA = {
           "collects": 7,
           "comments": 2,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 40,
+          "collects": 7,
+          "comments": 2,
+          "shares": 0
         }
       ]
     },
@@ -32839,7 +35684,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷 一月",
       "author": "Blair",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121140/b9859e481874cdedab6e4d910a7eb4a2/notes_pre_post/1040g3k831rrijps02g205q37d9djfigv5t6buf8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131128/f9df6ffc1c41f907f0eec2339888cf10/notes_pre_post/1040g3k831rrijps02g205q37d9djfigv5t6buf8!nd_dft_wlteh_webp_3?src=A",
       "likes": 4,
       "collects": 0,
       "comments": 0,
@@ -32877,6 +35722,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 4,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -32885,7 +35737,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷今晚，也别忘了照顾自己",
       "author": "Blair",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121140/62449304cca8c1d5c0ff3a794449f66c/1040g00831rqbo31fim005q37d9djfigvdolmo3o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131128/b3effe8ac5cdc011fc7e4afa9c8b481f/1040g00831rqbo31fim005q37d9djfigvdolmo3o!nd_dft_wlteh_webp_3?src=A",
       "likes": 108,
       "collects": 32,
       "comments": 2,
@@ -32926,6 +35778,13 @@ window.XHS_DATA = {
           "collects": 32,
           "comments": 2,
           "shares": 2
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 108,
+          "collects": 32,
+          "comments": 2,
+          "shares": 2
         }
       ]
     },
@@ -32934,16 +35793,18 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷韩国童颜欧尼的皮肤管理秘诀推荐❕",
       "author": "心彤 SIMTOHL",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121141/b46737e442d88ac3f6eb9119781a4776/oss-sg/spectrum/1040g3ug323nocevr2s005qj4fkgjen00c8m7rho!nd_dft_wlteh_webp_3?src=A",
-      "likes": 18,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131128/eec5737d4408003f1bc573272ad51061/oss-sg/spectrum/1040g3ug323nocevr2s005qj4fkgjen00c8m7rho!nd_dft_wlteh_webp_3?src=A",
+      "likes": 26,
       "collects": 2,
-      "comments": 5,
+      "comments": 8,
       "comments_text": [
+        "我又来啦欧尼！[飞吻R]欧尼颜值依旧在线呢哈哈[害羞R][赞R]",
         "前排呀欧尼！",
         "我又来啦[飞吻R]！",
-        "我又来啦欧尼！[飞吻R]欧尼颜值依旧在线呢哈哈[害羞R][赞R]"
+        "언니 여드름 근유피에 잘 어울리고 트러블 자극 없는 클렌징폼과 선크림 추천이 있잖아요.[两颗心R]",
+        "有推荐的医院吗[飞吻R]"
       ],
-      "shares": 0,
+      "shares": 5,
       "publish_time": "2026-08-11",
       "pinned": false,
       "grid_order": 0,
@@ -32955,6 +35816,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 5,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 26,
+          "collects": 2,
+          "comments": 8,
+          "shares": 5
         }
       ]
     },
@@ -32963,13 +35831,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷韩国免税店无限回购清单大公开❗️",
       "author": "心彤 SIMTOHL",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121141/ad624e2678ad008430fa8ac19dc5d2d3/oss-sg/spectrum/1040g3ug323h8lr8i1o005qj4fkgjen008vngg7o!nd_dft_wlteh_webp_3?src=A",
-      "likes": 91,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131128/4050b90451434fb17e6db2be9f07a4aa/oss-sg/spectrum/1040g3ug323h8lr8i1o005qj4fkgjen008vngg7o!nd_dft_wlteh_webp_3?src=A",
+      "likes": 92,
       "collects": 24,
       "comments": 23,
       "comments_text": [
-        "[哇R]姐姐",
         "心彤姐姐，青春期有没有什么护肤品可以变白的呀，推荐一下[飞吻R][害羞R]",
+        "[哇R]姐姐",
         "想问问有没有很推荐的一种比较Ins风的衣服？",
         "欧尼，有没有什么痘印用了消的很快的呀[飞吻R][害羞R]",
         "언니, 빨리 나 기억해줘[害羞R]",
@@ -32994,6 +35862,45 @@ window.XHS_DATA = {
           "collects": 24,
           "comments": 23,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 92,
+          "collects": 24,
+          "comments": 23,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a71d4fb000000000c033c00",
+      "type": "note",
+      "title": "🇰🇷韩国博主的夏日5款OY防晒推荐☀️",
+      "author": "心彤 SIMTOHL",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131128/254201e0ee94771200168b24e0ec566b/oss-sg/spectrum/1040g3ug323fi0sau7i005qj4fkgjen0068q4978!nd_dft_wlteh_webp_3?src=A",
+      "likes": 316,
+      "collects": 142,
+      "comments": 32,
+      "comments_text": [
+        "可以问问价格吗",
+        "欧尼有没有军训的时候推荐用的防晒？",
+        "欧尼，有没有什么韩国的水乳推荐吗[害羞R]",
+        "姐姐可以推荐无酸性[飞吻R]去闭口的嘛",
+        "메디힐선세럼은 어때요?[害羞R]",
+        "姐姐！[哇R]记得我嘛，可以推荐药店护肤品嘛"
+      ],
+      "shares": 12,
+      "publish_time": "2026-08-04",
+      "pinned": false,
+      "grid_order": 2,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 316,
+          "collects": 142,
+          "comments": 32,
+          "shares": 12
         }
       ]
     },
@@ -33002,17 +35909,17 @@ window.XHS_DATA = {
       "type": "note",
       "title": "40+还能这种状态？猜猜我每天都在坚持什么",
       "author": "心彤 SIMTOHL",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121141/9ac2dd1acfac7d7677b4f0d312a37bac/oss-sg/spectrum/1040g3ug3236vrvftg0005qj4fkgjen00pvbi8qo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131128/ff7a7f19ffc5441305ee7fe56659c66f/oss-sg/spectrum/1040g3ug3236vrvftg0005qj4fkgjen00pvbi8qo!nd_dft_wlteh_webp_3?src=A",
       "likes": 112,
       "collects": 10,
       "comments": 29,
       "comments_text": [
         "欧尼，好美好漂亮[飞吻R][飞吻R]",
-        "想知道皮肤管理秘诀！[飞吻R]",
         "皮肤管理！",
-        "欧尼，[郁金香R]",
+        "你认真的吗？欧尼，真的吗？[偷笑R][偷笑R]不能骗人哦",
         "40대라니...거짓말...[扶墙R]",
-        "你认真的吗？欧尼，真的吗？[偷笑R][偷笑R]不能骗人哦"
+        "欧尼，[郁金香R]",
+        "언니, 화장 좀 가르쳐 주시겠어요?너 정말 예쁘다.😙"
       ],
       "shares": 1,
       "publish_time": "2026-07-30",
@@ -33033,45 +35940,124 @@ window.XHS_DATA = {
           "collects": 10,
           "comments": 29,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 112,
+          "collects": 10,
+          "comments": 29,
+          "shares": 1
         }
       ]
     },
     {
-      "url": "https://www.rednote.com/explore/6a685d24000000000c003000",
+      "url": "https://www.rednote.com/explore/6a72f57b00000000110234c8",
       "type": "note",
-      "title": "안녕~👋🏻小红书我来啦!我是韩国油管博主心彤",
-      "author": "心彤 SIMTOHL",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121141/9d48e7cdd4a2d671779c551f1a5b906c/oss-sg/notes/1040g3l03235fol9s7s005qj4fkgjen00stkt4p0!nd_dft_wlteh_webp_3?src=A",
-      "likes": 2700,
-      "collects": 437,
-      "comments": 135,
+      "title": "🇰🇷乡下人带你逛首尔",
+      "author": "美妆COBA",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131129/0e26be2877909c87cfb2be3541ea2bd6/oss-sg/notes/1040g3l0323fuk73j04005qiv06hjnf005e6pb3g!nd_dft_wlteh_webp_3?src=A",
+      "likes": 3,
+      "collects": 0,
+      "comments": 1,
       "comments_text": [
-        "언니 정말 예쁘시네요. 언니가 여기서 중국의 아름다움을 느끼시길 바랍니다.",
-        "最近这么多韩入住小红书，韩国有小红书这种类似APP吗？我想去韩国入住她们的",
-        "언니 정말 예쁘다[飞吻R][萌萌哒R]",
-        "中文这么好的吗🌹",
-        "有推荐的粉底液吗",
-        "언니 와줘서 환영해!😻💓"
+        "大邱是乡下吗"
       ],
-      "shares": 40,
-      "publish_time": "2026-07-28",
+      "shares": 0,
+      "publish_time": "2026-08-05",
       "pinned": false,
-      "grid_order": 4,
+      "grid_order": 0,
       "from_profile": true,
       "history": [
         {
-          "date": "2026-08-11",
-          "likes": 2700,
-          "collects": 438,
-          "comments": 135,
-          "shares": 40
-        },
+          "date": "2026-08-13",
+          "likes": 3,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a7048ee00000000110239f9",
+      "type": "note",
+      "title": "在静静的高铁上，淡淡地画一个淡淡的妆",
+      "author": "美妆COBA",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131129/edcd3771ecaa57771f25b9aa75a94158/oss-sg/notes/1040g3l0323dajdr808005qiv06hjnf00q2bv910!nd_dft_wlteh_webp_3?src=A",
+      "likes": 6,
+      "collects": 2,
+      "comments": 0,
+      "comments_text": [],
+      "shares": 0,
+      "publish_time": "2026-08-03",
+      "pinned": false,
+      "grid_order": 1,
+      "from_profile": true,
+      "history": [
         {
-          "date": "2026-08-12",
-          "likes": 2700,
-          "collects": 437,
-          "comments": 135,
-          "shares": 40
+          "date": "2026-08-13",
+          "likes": 6,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a7c5c620000000012028a63",
+      "type": "note",
+      "title": "[ZOEY]炸酱火鸡味金针菇 + 小章鱼 🍜🐙",
+      "author": "ZOEYASMR",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131130/266394d670acd7d65681aeeb5284614a/oss-sg/notes/1040g3l0323p446aj28005qj9baljne00u7rl2oo!nd_dft_wgth_webp_3?src=A",
+      "likes": 3,
+      "collects": 1,
+      "comments": 1,
+      "comments_text": [
+        "笫一"
+      ],
+      "shares": 0,
+      "publish_time": "2026-08-12",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 3,
+          "collects": 1,
+          "comments": 1,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/69c7a828000000001a0227dc",
+      "type": "note",
+      "title": "🇰🇷美美换头💇‍♀️",
+      "author": "一只加菲喵",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131131/3c7f20ab1bcdba909ce6e445a1f51b8c/notes_pre_post/1040g3k831u8le5ofii705ntvdl50944n4ejll10!nd_dft_wlteh_webp_3?src=A",
+      "likes": 2000,
+      "collects": 1300,
+      "comments": 19,
+      "comments_text": [
+        "这个好打理吗[石化R]担心风一吹就没了",
+        "宝宝花了多少呀 我也想约[皱眉R]",
+        "是哪位发型师呀",
+        "我有个痣跟你一模一样一个位置[偷笑R]",
+        "请问给发型师看的时候有参考图吗？求求[害羞R][害羞R]",
+        "宝宝是弘大店吗[皱眉R]"
+      ],
+      "shares": 257,
+      "publish_time": "2026-03-28",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 2000,
+          "collects": 1300,
+          "comments": 19,
+          "shares": 257
         }
       ]
     },
@@ -33080,11 +36066,15 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷new hair|韩系复古冬日高层次剪发💇‍♀️",
       "author": "一只加菲喵",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121143/96f85b26f0ed22eada98a511b50a12f4/1040g00831s1l26a34c005ntvdl50944n6pa02n0!nd_dft_wlteh_webp_3?src=A",
-      "likes": 446,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131131/dcd13adbbfb135c961fd0f5c53222e22/1040g00831s1l26a34c005ntvdl50944n6pa02n0!nd_dft_wlteh_webp_3?src=A",
+      "likes": 447,
       "collects": 273,
       "comments": 4,
-      "comments_text": [],
+      "comments_text": [
+        "好萌啊宝宝",
+        "什么颜色啊宝宝[害羞R]好漂亮",
+        "问店铺老师！"
+      ],
       "shares": 39,
       "publish_time": "2026-02-01",
       "pinned": false,
@@ -33104,6 +36094,312 @@ window.XHS_DATA = {
           "collects": 273,
           "comments": 4,
           "shares": 39
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 447,
+          "collects": 273,
+          "comments": 4,
+          "shares": 39
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6921a1dd000000000d03911d",
+      "type": "note",
+      "title": "🇰🇷new hair| 还可以剪一百次的高层次🪽💕",
+      "author": "一只加菲喵",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131131/c27635c746445fc08b86d2ca773b1f05/1040g00831p6h05rrig1g5ntvdl50944n8auimo0!nd_dft_wlteh_webp_3?src=A",
+      "likes": 449,
+      "collects": 218,
+      "comments": 6,
+      "comments_text": [
+        "感谢您的访问。 下次再见💓",
+        "宝宝可以拍一下头发整体放到后面的样子吗[捂脸R]我想给我的托尼看看",
+        "哪家店呀宝宝",
+        "可以问问是哪个店嘛宝宝",
+        "这什么发色呀",
+        "@珍妮玛士多🎀"
+      ],
+      "shares": 48,
+      "publish_time": "2025-11-22",
+      "pinned": false,
+      "grid_order": 2,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 449,
+          "collects": 218,
+          "comments": 6,
+          "shares": 48
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/68cfb897000000001301981f",
+      "type": "note",
+      "title": "🇰🇷更新在小韩剪的第N次高层次🪽",
+      "author": "一只加菲喵",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131131/60beb396d52ae8277abea99dc30f5d26/1040g00831mmhb48e58705ntvdl50944nrcpmc4o!nd_dft_wlteh_webp_3?src=A",
+      "likes": 495,
+      "collects": 234,
+      "comments": 3,
+      "comments_text": [
+        "请问是哪家理发店啊[萌萌哒R]",
+        "卷是自己打理的吗宝宝"
+      ],
+      "shares": 35,
+      "publish_time": "2025-09-21",
+      "pinned": false,
+      "grid_order": 3,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 495,
+          "collects": 234,
+          "comments": 3,
+          "shares": 35
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/68ce77a10000000013013eb2",
+      "type": "note",
+      "title": "像吗……？",
+      "author": "一只加菲喵",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131131/5681ca46582696e237519966de291758/1040g00831ml5v2cnmg104bnfc1koij93urp1vlo!nd_dft_wlteh_webp_3?src=A",
+      "likes": 750,
+      "collects": 34,
+      "comments": 39,
+      "comments_text": [
+        "我觉得眼睛特别像 好萌啊简直小贸咪的两个宝宝",
+        "好看但是真的不像",
+        "我一开始以为右边是爱豆[笑哭R]",
+        "你们两个好萌",
+        "宝宝眼睛好大 萌萌的",
+        "真的好像[皱眉R]"
+      ],
+      "shares": 41,
+      "publish_time": "2025-09-20",
+      "pinned": false,
+      "grid_order": 4,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 750,
+          "collects": 34,
+          "comments": 39,
+          "shares": 41
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a60ceb8000000000401ecc2",
+      "type": "note",
+      "title": "澳门山顶医院住院篇",
+      "author": "lele子",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131132/e44304d6920a1071fd118719ce64b6ae/1040g008322ucfd3m7u004a0hce6kvq9lssrjoo0!nd_dft_wlteh_webp_3?src=A",
+      "likes": 28,
+      "collects": 18,
+      "comments": 44,
+      "comments_text": [
+        "你回家有没有好一点啊？我是你隔壁床的2204[偷笑R]",
+        "姑娘是谁？",
+        "我開刀，醫生要我住5日，4日我已經求醫生比我走[笑哭R]",
+        "请问自费费用大概几多吖",
+        "我不喜欢他们天天问我喂不喂人奶[捂脸R]",
+        "请问下去顶山生产的话到时就带您文字上的带就可以了是吧[害羞R]"
+      ],
+      "shares": 25,
+      "publish_time": "2026-07-22",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 28,
+          "collects": 18,
+          "comments": 44,
+          "shares": 25
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a5b558d000000000401cb2f",
+      "type": "note",
+      "title": "澳门山顶医院催产篇",
+      "author": "lele子",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131132/708eb28c4483d6cb238124df06208971/1040g008322oq4eep00004a0hce6kvq9lsbc9kv0!nd_dft_wlteh_webp_3?src=A",
+      "likes": 14,
+      "collects": 4,
+      "comments": 41,
+      "comments_text": [],
+      "shares": 16,
+      "publish_time": "2026-07-18",
+      "pinned": false,
+      "grid_order": 1,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 14,
+          "collects": 4,
+          "comments": 41,
+          "shares": 16
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a5ab438000000000301cb46",
+      "type": "note",
+      "title": "澳门山顶医院顺产篇",
+      "author": "lele子",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131132/82417eb60c5b014bc96c09c140063d54/1040g008322o8k62d7o404a0hce6kvq9l0p48t8g!nd_dft_wlteh_webp_3?src=A",
+      "likes": 21,
+      "collects": 11,
+      "comments": 25,
+      "comments_text": [],
+      "shares": 8,
+      "publish_time": "2026-07-18",
+      "pinned": false,
+      "grid_order": 2,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 21,
+          "collects": 11,
+          "comments": 25,
+          "shares": 8
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/68f64c3d000000000303491f",
+      "type": "note",
+      "title": "Luvsick ",
+      "author": "lele子",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131132/c9245607f37a65b68f41fd0bf658add6/1040g00831ns70f416m704a0hce6kvq9lg2ktp70!nd_dft_wlteh_webp_3?src=A",
+      "likes": 36,
+      "collects": 1,
+      "comments": 1,
+      "comments_text": [],
+      "shares": 0,
+      "publish_time": "2025-10-20",
+      "pinned": false,
+      "grid_order": 3,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 36,
+          "collects": 1,
+          "comments": 1,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/68f131c80000000003023788",
+      "type": "note",
+      "title": "短暂相遇永远是在惩罚认真的人",
+      "author": "lele子",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131132/feaff7b14e3a2f7f958e019dc28b9047/1040g2sg31nn75k4t06f04a0hce6kvq9lthvfm1o!nd_dft_wlteh_webp_3?src=A",
+      "likes": 10,
+      "collects": 0,
+      "comments": 2,
+      "comments_text": [],
+      "shares": 0,
+      "publish_time": "2025-10-17",
+      "pinned": false,
+      "grid_order": 4,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 10,
+          "collects": 0,
+          "comments": 2,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a789db9000000000c033c00",
+      "type": "note",
+      "title": "乐天的gucci新品价太好了🥹",
+      "author": "小宝没吃饱",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131133/b0c9a040248f533b1239b0536732bbba/oss-sg/notes_pre_post/1040g3mo323lfbdljiq0g5of1mqgk0oifobgpf18!nd_dft_wlteh_webp_3?src=A",
+      "likes": 6,
+      "collects": 3,
+      "comments": 4,
+      "comments_text": [],
+      "shares": 3,
+      "publish_time": "2026-08-10",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 6,
+          "collects": 3,
+          "comments": 4,
+          "shares": 3
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a363436000000000d00bc01",
+      "type": "note",
+      "title": "终于做一日店长了，一张票没卖出去怎么办？",
+      "author": "小宝没吃饱",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131133/1db86ac1ea1511122833f774e7b35e10/oss-sg/notes_pre_post/1040g3mo321kjv8mank005of1mqgk0oif90bcd8g!nd_dft_wlteh_webp_3?src=A",
+      "likes": 2,
+      "collects": 0,
+      "comments": 0,
+      "comments_text": [],
+      "shares": 0,
+      "publish_time": "2026-06-20",
+      "pinned": false,
+      "grid_order": 1,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/69fd73f80000000038037669",
+      "type": "note",
+      "title": "想爸爸了可以回家 想妈妈了可以给我打电话",
+      "author": "小宝没吃饱",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131133/44d2de2a4c0b19b850a0dea5d3d3d9e5/notes_pre_post/1040g3k031vt6kbb7iq6g5of1mqgk0oif55021do!nd_dft_wlteh_webp_3?src=A",
+      "likes": 5,
+      "collects": 0,
+      "comments": 0,
+      "comments_text": [],
+      "shares": 0,
+      "publish_time": "2026-05-08",
+      "pinned": false,
+      "grid_order": 2,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 5,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -33112,7 +36408,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "♡ᯐ pinkpink🌸",
       "author": "小宝没吃饱",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121145/aa3199537cd763ba3a2a3dd4ea258e18/1040g00831ri4m420ng005of1mqgk0oifepq5no8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131133/4d923611f50ca9b0ba0e0c44b121c054/1040g00831ri4m420ng005of1mqgk0oifepq5no8!nd_dft_wlteh_webp_3?src=A",
       "likes": 34,
       "collects": 8,
       "comments": 5,
@@ -33136,6 +36432,13 @@ window.XHS_DATA = {
           "collects": 8,
           "comments": 5,
           "shares": 4
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 34,
+          "collects": 8,
+          "comments": 5,
+          "shares": 4
         }
       ]
     },
@@ -33144,7 +36447,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "我幸福的话 你痛苦也没关系",
       "author": "小宝没吃饱",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121145/66451bb9de49c95df66cfc5b0de8d5c9/notes_pre_post/1040g3k031r336rpa0a605of1mqgk0oif1654ebo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131133/774a6171a83d136634c91d7106942c4b/notes_pre_post/1040g3k031r336rpa0a605of1mqgk0oif1654ebo!nd_dft_wlteh_webp_3?src=A",
       "likes": 15,
       "collects": 3,
       "comments": 0,
@@ -33168,6 +36471,163 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 15,
+          "collects": 3,
+          "comments": 0,
+          "shares": 1
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a5f562d0000000008009c00",
+      "type": "note",
+      "title": "吃播🦐",
+      "author": "JULIETASMR",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131134/6d6c6ca89e8957768f9d17fe867ec424/oss-sg/notes/1040g3l0322spdnu97u6g5pptf1lndqs997mp82o!nd_dft_wlteh_webp_3?src=A",
+      "likes": 22,
+      "collects": 4,
+      "comments": 1,
+      "comments_text": [],
+      "shares": 0,
+      "publish_time": "2026-07-21",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 22,
+          "collects": 4,
+          "comments": 1,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a450078000000000e021800",
+      "type": "note",
+      "title": "生虾🦐",
+      "author": "JULIETASMR",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131134/c629086647c67668f064f6ae66a39932/oss-sg/notes/1040g3l032232grs2nq6g5pptf1lndqs9essqqog!nd_dft_wlteh_webp_3?src=A",
+      "likes": 35,
+      "collects": 10,
+      "comments": 2,
+      "comments_text": [],
+      "shares": 1,
+      "publish_time": "2026-07-01",
+      "pinned": false,
+      "grid_order": 1,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 35,
+          "collects": 10,
+          "comments": 2,
+          "shares": 1
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a4255dc000000000e038400",
+      "type": "note",
+      "title": "Korean-style cereal",
+      "author": "JULIETASMR",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131134/18f6a4be24650d83b238e485f6d68ebe/oss-sg/notes/1040g3l03220f5mmj7s6g5pptf1lndqs92adtpng!nd_dft_wlteh_webp_3?src=A",
+      "likes": 10,
+      "collects": 1,
+      "comments": 1,
+      "comments_text": [],
+      "shares": 0,
+      "publish_time": "2026-06-29",
+      "pinned": false,
+      "grid_order": 2,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 10,
+          "collects": 1,
+          "comments": 1,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a3e66f0000000000d00bc00",
+      "type": "note",
+      "title": "Beef intestines Mukbang",
+      "author": "JULIETASMR",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131134/0bcd87edb59031f0aa686afd257a0606/oss-sg/notes/1040g3l0321sk8qrf7c6g5pptf1lndqs9hkn3pi8!nd_dft_wlteh_webp_3?src=A",
+      "likes": 5,
+      "collects": 2,
+      "comments": 0,
+      "comments_text": [],
+      "shares": 0,
+      "publish_time": "2026-06-26",
+      "pinned": false,
+      "grid_order": 3,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 5,
+          "collects": 2,
+          "comments": 0,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a3d125e000000000e038400",
+      "type": "note",
+      "title": "lamb meat + bone marrow",
+      "author": "JULIETASMR",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131135/d8e7519b74e7ffb18d1c9e67d88f1cb3/oss-sg/notes/1040g3l0321ram74g7q6g5pptf1lndqs9ti954ro!nd_dft_wlteh_webp_3?src=A",
+      "likes": 9,
+      "collects": 1,
+      "comments": 3,
+      "comments_text": [],
+      "shares": 0,
+      "publish_time": "2026-06-25",
+      "pinned": false,
+      "grid_order": 4,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 9,
+          "collects": 1,
+          "comments": 3,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/680c6529000000001c0039c2",
+      "type": "note",
+      "title": "他其实没那么喜欢你，但还是在一起的信号",
+      "author": "editor.kisung",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131135/cb5430191e79706527abd155533c0fc7/spectrum/1040g34o31gnpfq5j42005ph0o5f0uefd4hghtfg!nd_dft_wlteh_webp_3?src=A",
+      "likes": 43,
+      "collects": 12,
+      "comments": 0,
+      "comments_text": [],
+      "shares": 2,
+      "publish_time": "2025-04-26",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 43,
+          "collects": 12,
+          "comments": 0,
+          "shares": 2
         }
       ]
     },
@@ -33176,7 +36636,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "男生不感兴趣的3个表现，你发现了吗？",
       "author": "editor.kisung",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121146/437e427c53bbfde2076ea731a00e21e8/1040g008319fuic1ulk005ph0o5f0uefdslcol6g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131135/5ed50190989aa0ec99337c1f6d825dcb/1040g008319fuic1ulk005ph0o5f0uefdslcol6g!nd_dft_wlteh_webp_3?src=A",
       "likes": 539,
       "collects": 181,
       "comments": 2,
@@ -33200,6 +36660,13 @@ window.XHS_DATA = {
           "collects": 181,
           "comments": 2,
           "shares": 43
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 539,
+          "collects": 181,
+          "comments": 2,
+          "shares": 43
         }
       ]
     },
@@ -33208,8 +36675,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "男生喜欢你的3个表现，你发现了吗？",
       "author": "editor.kisung",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121146/a94f60aac0221b4b38a3c59fa16199d4/1040g2sg319a82p4tli705ph0o5f0uefd0g5k7n8!nd_dft_wlteh_webp_3?src=A",
-      "likes": 298,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131135/a2d7b5272d194de0d40bfb203141a688/1040g2sg319a82p4tli705ph0o5f0uefd0g5k7n8!nd_dft_wlteh_webp_3?src=A",
+      "likes": 300,
       "collects": 91,
       "comments": 3,
       "comments_text": [],
@@ -33232,6 +36699,13 @@ window.XHS_DATA = {
           "collects": 91,
           "comments": 3,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 300,
+          "collects": 91,
+          "comments": 3,
+          "shares": 1
         }
       ]
     },
@@ -33240,7 +36714,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "❓ 你是否在困惑，这个男生是不是认真对待我？",
       "author": "editor.kisung",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121146/c67eac96b5ac95b07735a59c439cecd6/1040g2sg3198gh2nv4o705ph0o5f0uefdlvd5018!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131136/cc7b76880b3d59056e3e747433c9be5d/1040g2sg3198gh2nv4o705ph0o5f0uefdlvd5018!nd_dft_wlteh_webp_3?src=A",
       "likes": 78,
       "collects": 29,
       "comments": 1,
@@ -33264,6 +36738,38 @@ window.XHS_DATA = {
           "collects": 29,
           "comments": 1,
           "shares": 13
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 78,
+          "collects": 29,
+          "comments": 1,
+          "shares": 13
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/694b3965000000000d03d5f7",
+      "type": "note",
+      "title": "你想收到什麼聖誕節禮物?🎄❤️",
+      "author": "Yeong",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131136/a3f5dbc3eb3da3c2025ad6a9b2ed91e4/1040g2sg31qf4ui1cga705qa0im6dua4p62u1sao!nd_dft_wlteh_webp_3?src=A",
+      "likes": 1,
+      "collects": 0,
+      "comments": 0,
+      "comments_text": [],
+      "shares": 0,
+      "publish_time": "2025-12-24",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-13",
+          "likes": 1,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -33272,7 +36778,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🤍推荐4种花自己钱买的百货店化妆人生单品",
       "author": "Yeong",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121147/c36bf4c96682abbed632138127831faa/1040g2sg31qcogb0ono705qa0im6dua4ppfikat8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131136/3b20e18378c88f0bf6b440f243f76d69/1040g2sg31qcogb0ono705qa0im6dua4ppfikat8!nd_dft_wlteh_webp_3?src=A",
       "likes": 6,
       "collects": 2,
       "comments": 1,
@@ -33310,6 +36816,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 6,
+          "collects": 2,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -33318,7 +36831,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🩷人气高的百货商店化妆品推荐🩷",
       "author": "Yeong",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121147/29b747d08a11bd51fc04fb824715ea98/1040g00831qa55bbh0ae05qa0im6dua4pfgfs9io!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131136/fdb0c9c0a911ee4cdd2c19da475a2bdb/1040g00831qa55bbh0ae05qa0im6dua4pfgfs9io!nd_dft_wlteh_webp_3?src=A",
       "likes": 1,
       "collects": 0,
       "comments": 1,
@@ -33356,6 +36869,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 1,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -33364,7 +36884,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "百货店化妆单品推荐第2弹💄❤️",
       "author": "Yeong",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121147/3ab775b6fd546edb954f19ae774fa8db/1040g00831q7puo5e7g005qa0im6dua4p6tkfc3o!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131137/1676dc8a4e4ef27c28663798c4fd622c/1040g00831q7puo5e7g005qa0im6dua4p6tkfc3o!nd_dft_wlteh_webp_3?src=A",
       "likes": 5,
       "collects": 1,
       "comments": 1,
@@ -33402,6 +36922,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 5,
+          "collects": 1,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -33410,7 +36937,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "❤️推荐4种花自己钱买的百货店化妆人生单品！",
       "author": "Yeong",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121147/dd08167cba221fc730c456c1fd836009/1040g2sg31q6jo1ji7o705qa0im6dua4p7rt81q8!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131137/3ac0fa6bf6c44bc69bcda9378fca2914/1040g2sg31q6jo1ji7o705qa0im6dua4p7rt81q8!nd_dft_wlteh_webp_3?src=A",
       "likes": 9,
       "collects": 4,
       "comments": 1,
@@ -33448,6 +36975,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 1,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 9,
+          "collects": 4,
+          "comments": 1,
+          "shares": 0
         }
       ]
     },
@@ -33456,8 +36990,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "小红书我来咯~我是韩国网红博主金恩妃",
       "author": "恩妃eunbi",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121148/ce011f3bc4b9067765b7043515611e56/oss-sg/notes/1040g3l0323gvpknvnq005qhu3a53ne01ke4a518!nd_dft_wlteh_webp_3?src=A",
-      "likes": 20,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131138/8b0cedb0a829a229508cecf621766e24/oss-sg/notes/1040g3l0323gvpknvnq005qhu3a53ne01ke4a518!nd_dft_wlteh_webp_3?src=A",
+      "likes": 22,
       "collects": 6,
       "comments": 0,
       "comments_text": [],
@@ -33494,6 +37028,13 @@ window.XHS_DATA = {
           "collects": 6,
           "comments": 0,
           "shares": 2
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 22,
+          "collects": 6,
+          "comments": 0,
+          "shares": 2
         }
       ]
     },
@@ -33502,7 +37043,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "首尔拍照圣地| Leeum 美术馆",
       "author": "恩妃eunbi",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121148/a0b138986de611875a277358588ba4ea/oss-sg/notes/1040g3l0323fn0kiu7s005qhu3a53ne01un9pi6g!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131138/4e8ec485e4d249329b6fa578bbc5cad6/oss-sg/notes/1040g3l0323fn0kiu7s005qhu3a53ne01un9pi6g!nd_dft_wlteh_webp_3?src=A",
       "likes": 5,
       "collects": 3,
       "comments": 4,
@@ -33540,6 +37081,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 4,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 5,
+          "collects": 3,
+          "comments": 4,
+          "shares": 1
         }
       ]
     },
@@ -33548,7 +37096,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "VLOG|受邀参加DIOR新款活动",
       "author": "恩妃eunbi",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121149/dec4e0d16012b718d4d633a190e44c85/oss-sg/notes/1040g3l0323g9icdkne0g5qhu3a53ne01br6e4bo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131138/89405c160d83477ef2218ec2fc27c770/oss-sg/notes/1040g3l0323g9icdkne0g5qhu3a53ne01br6e4bo!nd_dft_wlteh_webp_3?src=A",
       "likes": 8,
       "collects": 3,
       "comments": 0,
@@ -33586,6 +37134,13 @@ window.XHS_DATA = {
           "collects": 3,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 8,
+          "collects": 3,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -33594,7 +37149,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🧖‍♀️狎鸥亭体验｜这次终于没被乱推",
       "author": "嘿 小丁呀",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121149/67e135c5530bed3cfdc3fa738b1ff48e/notes_pre_post/1040g3k031sere91v5ke04bj4scior4aedshd968!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131139/832d6511012b9a1b52d1c739ad4ba797/notes_pre_post/1040g3k031sere91v5ke04bj4scior4aedshd968!nd_dft_wlteh_webp_3?src=A",
       "likes": 12,
       "collects": 2,
       "comments": 2,
@@ -33618,6 +37173,13 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 2,
           "shares": 3
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 12,
+          "collects": 2,
+          "comments": 2,
+          "shares": 3
         }
       ]
     },
@@ -33626,7 +37188,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "韩国人来上海了！怎么办！",
       "author": "嘿 小丁呀",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121149/f431cd81a264537ff6ecae961bfac62b/1040g2sg31f9r7lp5me004bj4scior4aeam41lgo!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131139/53bd9b9d349e2a599b96da9703d1a4d5/1040g2sg31f9r7lp5me004bj4scior4aeam41lgo!nd_dft_wlteh_webp_3?src=A",
       "likes": 3,
       "collects": 0,
       "comments": 7,
@@ -33650,6 +37212,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 7,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 3,
+          "collects": 0,
+          "comments": 7,
+          "shares": 0
         }
       ]
     },
@@ -33658,7 +37227,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷Seoul ootd韩系简约温柔ins风穿搭分享",
       "author": "嘿 小丁呀",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121149/96f41ad6802aa4162b567030ec950b9a/010288016zliq5g79se010sp2xs0ixqwld!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131139/75ee639b285a6df65cb56afe62da1dad/010288016zliq5g79se010sp2xs0ixqwld!nd_dft_wlteh_webp_3?src=A",
       "likes": 11,
       "collects": 1,
       "comments": 0,
@@ -33682,6 +37251,13 @@ window.XHS_DATA = {
           "collects": 1,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 11,
+          "collects": 1,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -33690,10 +37266,10 @@ window.XHS_DATA = {
       "type": "note",
       "title": "今天也加油！",
       "author": "李承元",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121150/70e0f7517c3e4da7f354e504c025e135/oss-sg/notes_pre_post/1040g3mo323oejvalic005qhjov5jnf000tb0mjg!nd_dft_wlteh_webp_3?src=A",
-      "likes": 35,
-      "collects": 4,
-      "comments": 4,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131140/cd230b8fe495d432137785ddcd56834f/oss-sg/notes_pre_post/1040g3mo323oejvalic005qhjov5jnf000tb0mjg!nd_dft_wlteh_webp_3?src=A",
+      "likes": 40,
+      "collects": 5,
+      "comments": 6,
       "comments_text": [],
       "shares": 0,
       "publish_time": "2026-08-12",
@@ -33707,6 +37283,13 @@ window.XHS_DATA = {
           "collects": 4,
           "comments": 4,
           "shares": 0
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 40,
+          "collects": 5,
+          "comments": 6,
+          "shares": 0
         }
       ]
     },
@@ -33715,12 +37298,12 @@ window.XHS_DATA = {
       "type": "note",
       "title": "高能量韩国男生的一天｜首尔日常Vlog☀️",
       "author": "李承元",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121150/6f8926b4daabc97c858a776b05929fdc/oss-sg/notes/1040g3l0323ns0h9h2g005qhjov5jnf00a3ohsog!nd_dft_wlteh_webp_3?src=A",
-      "likes": 34,
-      "collects": 0,
-      "comments": 2,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131140/bc53dd7d796bf2afdcb5c7e7982e3198/oss-sg/notes/1040g3l0323ns0h9h2g005qhjov5jnf00a3ohsog!nd_dft_wlteh_webp_3?src=A",
+      "likes": 46,
+      "collects": 1,
+      "comments": 4,
       "comments_text": [],
-      "shares": 2,
+      "shares": 5,
       "publish_time": "2026-08-11",
       "pinned": false,
       "grid_order": 1,
@@ -33732,6 +37315,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 2,
           "shares": 2
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 46,
+          "collects": 1,
+          "comments": 4,
+          "shares": 5
         }
       ]
     },
@@ -33740,13 +37330,13 @@ window.XHS_DATA = {
       "type": "note",
       "title": "大家好，我是生活在韩国的李承源。",
       "author": "李承元",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121150/8d1002e9a7a9c43a82420946c13eb2d0/oss-sg/notes/1040g3l0323m7tjg528005qhjov5jnf00fesn2e0!nd_dft_wlteh_webp_3?src=A",
-      "likes": 33,
+      "cover": "",
+      "likes": 0,
       "collects": 0,
-      "comments": 10,
+      "comments": 0,
       "comments_text": [],
-      "shares": 1,
-      "publish_time": "2026-08-10",
+      "shares": 0,
+      "publish_time": "",
       "pinned": false,
       "grid_order": 2,
       "from_profile": true,
@@ -33764,6 +37354,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 10,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 0,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
         }
       ]
     },
@@ -33772,7 +37369,7 @@ window.XHS_DATA = {
       "type": "note",
       "title": "终于在韩国找到了🪡不疼的地方！！",
       "author": "🔮",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121151/8bb55ea38bb2db3f336294bafac0be44/notes_pre_post/1040g3k031r16ppk5no005o97ot00945qrk1uamg!nd_dft_wlteh_webp_3?src=A",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131140/d9e41b152672d4bb60d35b8e299d9b96/notes_pre_post/1040g3k031r16ppk5no005o97ot00945qrk1uamg!nd_dft_wlteh_webp_3?src=A",
       "likes": 2,
       "collects": 0,
       "comments": 0,
@@ -33796,6 +37393,13 @@ window.XHS_DATA = {
           "collects": 0,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -33804,12 +37408,12 @@ window.XHS_DATA = {
       "type": "note",
       "title": "关于女生出门准备时长的问题！",
       "author": "Darcie달씨",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121151/ac544fbd49990b3557df5a1625446515/oss-sg/notes/1040g3l0323iis0e82c5g5q14bc02nig2vqdrjh8!nd_dft_wlteh_webp_3?src=A",
-      "likes": 1800,
-      "collects": 169,
-      "comments": 24,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131141/56aad22bee34c4967ba2891332ff7683/oss-sg/notes/1040g3l0323iis0e82c5g5q14bc02nig2vqdrjh8!nd_dft_wlteh_webp_3?src=A",
+      "likes": 6400,
+      "collects": 848,
+      "comments": 43,
       "comments_text": [],
-      "shares": 10,
+      "shares": 41,
       "publish_time": "2026-08-09",
       "pinned": false,
       "grid_order": 0,
@@ -33828,6 +37432,13 @@ window.XHS_DATA = {
           "collects": 169,
           "comments": 24,
           "shares": 10
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 6400,
+          "collects": 848,
+          "comments": 43,
+          "shares": 41
         }
       ]
     },
@@ -33836,9 +37447,9 @@ window.XHS_DATA = {
       "type": "note",
       "title": "✨️大女人要自信要自爱！精力要集中自身",
       "author": "Darcie달씨",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121152/12d88576f8895807e92ae52d3375fed8/oss-sg/notes/1040g3l0323iis0e82c605q14bc02nig2bu69ph8!nd_dft_wlteh_webp_3?src=A",
-      "likes": 375,
-      "collects": 16,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131141/a526c1d9a7e6bab772caf2f4b6ce1b8c/oss-sg/notes/1040g3l0323iis0e82c605q14bc02nig2bu69ph8!nd_dft_wlteh_webp_3?src=A",
+      "likes": 382,
+      "collects": 15,
       "comments": 24,
       "comments_text": [],
       "shares": 5,
@@ -33860,6 +37471,13 @@ window.XHS_DATA = {
           "collects": 16,
           "comments": 24,
           "shares": 5
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 382,
+          "collects": 15,
+          "comments": 24,
+          "shares": 5
         }
       ]
     },
@@ -33868,8 +37486,8 @@ window.XHS_DATA = {
       "type": "note",
       "title": "就让剪短发的我们..",
       "author": "Darcie달씨",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121152/c10e1c96f529a183e6879c1f758ab9f8/oss-sg/notes/1040g3l0323bu22apnc1g5ppbg08ndisjb7prts0!nd_dft_wlteh_webp_3?src=A",
-      "likes": 852,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131142/0faa78b12592d7ef7df4b16603e014c3/oss-sg/notes/1040g3l0323bu22apnc1g5ppbg08ndisjb7prts0!nd_dft_wlteh_webp_3?src=A",
+      "likes": 863,
       "collects": 27,
       "comments": 30,
       "comments_text": [],
@@ -33892,6 +37510,13 @@ window.XHS_DATA = {
           "collects": 27,
           "comments": 30,
           "shares": 3
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 863,
+          "collects": 27,
+          "comments": 30,
+          "shares": 3
         }
       ]
     },
@@ -33900,12 +37525,12 @@ window.XHS_DATA = {
       "type": "note",
       "title": "这究竟是为什么啊！！！",
       "author": "Darcie달씨",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121152/ef7e1ecf4c81053087250040df501965/oss-sg/notes/1040g3l0323bu22apnc2g5ppbg08ndisj07fjjjo!nd_dft_wlteh_webp_3?src=A",
-      "likes": 6300,
-      "collects": 567,
-      "comments": 193,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131142/a88a53d7141efa6a2c1d10a252aadeb4/oss-sg/notes/1040g3l0323bu22apnc2g5ppbg08ndisj07fjjjo!nd_dft_wlteh_webp_3?src=A",
+      "likes": 6400,
+      "collects": 581,
+      "comments": 198,
       "comments_text": [],
-      "shares": 243,
+      "shares": 247,
       "publish_time": "2026-08-02",
       "pinned": false,
       "grid_order": 3,
@@ -33924,6 +37549,13 @@ window.XHS_DATA = {
           "collects": 567,
           "comments": 193,
           "shares": 243
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 6400,
+          "collects": 581,
+          "comments": 198,
+          "shares": 247
         }
       ]
     },
@@ -33932,12 +37564,12 @@ window.XHS_DATA = {
       "type": "note",
       "title": "🇰🇷无礼但善良的meangirl给你化妆asmr",
       "author": "Darcie달씨",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608121152/9f4b88c8872ccd96a0274f414e0a4d1d/oss-sg/spectrum/1040g3ug3237170vino005q14bc02nig2dtceka0!nd_dft_wlteh_webp_3?src=A",
-      "likes": 479,
-      "collects": 72,
-      "comments": 39,
+      "cover": "http://sns-web-i10.rednotecdn.com/202608131142/c362aa2d6fe528cb3082a776311ec9cf/oss-sg/spectrum/1040g3ug3237170vino005q14bc02nig2dtceka0!nd_dft_wlteh_webp_3?src=A",
+      "likes": 523,
+      "collects": 79,
+      "comments": 40,
       "comments_text": [],
-      "shares": 5,
+      "shares": 6,
       "publish_time": "2026-07-29",
       "pinned": false,
       "grid_order": 4,
@@ -33956,6 +37588,13 @@ window.XHS_DATA = {
           "collects": 72,
           "comments": 39,
           "shares": 5
+        },
+        {
+          "date": "2026-08-13",
+          "likes": 523,
+          "collects": 79,
+          "comments": 40,
+          "shares": 6
         }
       ]
     }
@@ -33968,7 +37607,7 @@ window.XHS_DATA = {
       "uid": "692033dd0000000037009a4e",
       "partner": true,
       "fans": 2100,
-      "likes_collects": 22000,
+      "likes_collects": 23000,
       "following": 0,
       "notes_count": 30,
       "history": [
@@ -34026,6 +37665,13 @@ window.XHS_DATA = {
           "fans": 2100,
           "following": 0,
           "likes_collects": 22000,
+          "notes_count": 30
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 2100,
+          "following": 0,
+          "likes_collects": 23000,
           "notes_count": 30
         }
       ],
@@ -34144,6 +37790,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 1800,
+          "following": 0,
+          "likes_collects": 42000,
+          "notes_count": 31
+        },
+        {
+          "date": "2026-08-13",
           "fans": 1800,
           "following": 0,
           "likes_collects": 42000,
@@ -34269,6 +37922,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 74000,
           "notes_count": 30
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 16000,
+          "following": 0,
+          "likes_collects": 74000,
+          "notes_count": 30
         }
       ]
     },
@@ -34383,6 +38043,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 3200,
+          "following": 0,
+          "likes_collects": 13000,
+          "notes_count": 5
+        },
+        {
+          "date": "2026-08-13",
           "fans": 3200,
           "following": 0,
           "likes_collects": 13000,
@@ -34508,6 +38175,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 19000,
           "notes_count": 32
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 7500,
+          "following": 0,
+          "likes_collects": 19000,
+          "notes_count": 32
         }
       ],
       "ctype": "개인",
@@ -34625,6 +38299,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 6400,
+          "following": 0,
+          "likes_collects": 22000,
+          "notes_count": 32
+        },
+        {
+          "date": "2026-08-13",
           "fans": 6400,
           "following": 0,
           "likes_collects": 22000,
@@ -34750,6 +38431,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 40,
           "notes_count": 3
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 27,
+          "following": 0,
+          "likes_collects": 40,
+          "notes_count": 3
         }
       ],
       "ctype": "개인",
@@ -34867,6 +38555,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 113,
+          "following": 0,
+          "likes_collects": 330,
+          "notes_count": 30
+        },
+        {
+          "date": "2026-08-13",
           "fans": 113,
           "following": 0,
           "likes_collects": 330,
@@ -34992,6 +38687,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 39000,
           "notes_count": 14
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 21000,
+          "following": 0,
+          "likes_collects": 39000,
+          "notes_count": 14
         }
       ]
     },
@@ -35106,6 +38808,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 62,
+          "following": 0,
+          "likes_collects": 360,
+          "notes_count": 15
+        },
+        {
+          "date": "2026-08-13",
           "fans": 62,
           "following": 0,
           "likes_collects": 360,
@@ -35231,6 +38940,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 4,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -35348,6 +39064,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 399,
+          "following": 0,
+          "likes_collects": 1000,
+          "notes_count": 11
+        },
+        {
+          "date": "2026-08-13",
           "fans": 399,
           "following": 0,
           "likes_collects": 1000,
@@ -35473,6 +39196,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 171,
           "notes_count": 9
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 40,
+          "following": 0,
+          "likes_collects": 171,
+          "notes_count": 9
         }
       ],
       "ctype": "개인",
@@ -35590,6 +39320,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 1300,
+          "following": 0,
+          "likes_collects": 1900,
+          "notes_count": 30
+        },
+        {
+          "date": "2026-08-13",
           "fans": 1300,
           "following": 0,
           "likes_collects": 1900,
@@ -35715,6 +39452,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 15,
           "notes_count": 5
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 6,
+          "following": 0,
+          "likes_collects": 15,
+          "notes_count": 5
         }
       ],
       "ctype": "개인",
@@ -35836,6 +39580,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 5600,
           "notes_count": 18
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 868,
+          "following": 0,
+          "likes_collects": 5600,
+          "notes_count": 18
         }
       ],
       "ctype": "개인",
@@ -35925,6 +39676,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 122,
+          "following": 0,
+          "likes_collects": 306,
+          "notes_count": 11
+        },
+        {
+          "date": "2026-08-13",
           "fans": 122,
           "following": 0,
           "likes_collects": 306,
@@ -36050,6 +39808,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 129,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 16,
+          "following": 0,
+          "likes_collects": 129,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -36167,6 +39932,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 48,
+          "following": 0,
+          "likes_collects": 115,
+          "notes_count": 12
+        },
+        {
+          "date": "2026-08-13",
           "fans": 48,
           "following": 0,
           "likes_collects": 115,
@@ -36292,6 +40064,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 16,
           "notes_count": 13
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 3,
+          "following": 0,
+          "likes_collects": 16,
+          "notes_count": 13
         }
       ],
       "ctype": "개인",
@@ -36409,6 +40188,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 590,
+          "following": 0,
+          "likes_collects": 4700,
+          "notes_count": 30
+        },
+        {
+          "date": "2026-08-13",
           "fans": 590,
           "following": 0,
           "likes_collects": 4700,
@@ -36534,6 +40320,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 10,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 3,
+          "following": 0,
+          "likes_collects": 10,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -36651,6 +40444,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 50,
+          "following": 0,
+          "likes_collects": 278,
+          "notes_count": 6
+        },
+        {
+          "date": "2026-08-13",
           "fans": 50,
           "following": 0,
           "likes_collects": 278,
@@ -36776,6 +40576,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 1
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 1
         }
       ],
       "ctype": "개인",
@@ -36893,6 +40700,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 6,
+          "following": 0,
+          "likes_collects": 9,
+          "notes_count": 1
+        },
+        {
+          "date": "2026-08-13",
           "fans": 6,
           "following": 0,
           "likes_collects": 9,
@@ -37025,6 +40839,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -37139,6 +40960,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 1300,
+          "following": 0,
+          "likes_collects": 7700,
+          "notes_count": 30
+        },
+        {
+          "date": "2026-08-13",
           "fans": 1300,
           "following": 0,
           "likes_collects": 7700,
@@ -37264,6 +41092,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 82,
           "notes_count": 4
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 13,
+          "following": 0,
+          "likes_collects": 82,
+          "notes_count": 4
         }
       ],
       "ctype": "개인",
@@ -37277,9 +41112,9 @@ window.XHS_DATA = {
       "uid": "694d0f240000000026039804",
       "partner": true,
       "fans": 2200,
-      "likes_collects": 7600,
+      "likes_collects": 7700,
       "following": 0,
-      "notes_count": 20,
+      "notes_count": 21,
       "history": [
         {
           "date": "2026-07-07",
@@ -37385,6 +41220,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 7600,
           "notes_count": 20
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 2200,
+          "following": 0,
+          "likes_collects": 7700,
+          "notes_count": 21
         }
       ],
       "ctype": "개인",
@@ -37502,6 +41344,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 2,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
           "fans": 2,
           "following": 0,
           "likes_collects": 0,
@@ -37627,6 +41476,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 2,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 2,
+          "following": 0,
+          "likes_collects": 2,
+          "notes_count": 0
         }
       ]
     },
@@ -37745,6 +41601,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 1200,
           "notes_count": 7
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 1200,
+          "following": 0,
+          "likes_collects": 1200,
+          "notes_count": 7
         }
       ],
       "ctype": "개인",
@@ -37764,6 +41627,13 @@ window.XHS_DATA = {
       "history": [
         {
           "date": "2026-08-12",
+          "fans": 12000,
+          "following": 0,
+          "likes_collects": 96000,
+          "notes_count": 30
+        },
+        {
+          "date": "2026-08-13",
           "fans": 12000,
           "following": 0,
           "likes_collects": 96000,
@@ -37889,6 +41759,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 8900,
           "notes_count": 18
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 5400,
+          "following": 0,
+          "likes_collects": 8900,
+          "notes_count": 18
         }
       ],
       "ctype": "개인",
@@ -37901,8 +41778,8 @@ window.XHS_DATA = {
       "name": "文福姬Eat with Boki",
       "uid": "69c5492a0000000026039cae",
       "partner": true,
-      "fans": 663000,
-      "likes_collects": 2092000,
+      "fans": 666000,
+      "likes_collects": 2117000,
       "following": 0,
       "notes_count": 31,
       "history": [
@@ -38016,6 +41893,13 @@ window.XHS_DATA = {
           "fans": 663000,
           "following": 0,
           "likes_collects": 2092000,
+          "notes_count": 31
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 666000,
+          "following": 0,
+          "likes_collects": 2117000,
           "notes_count": 31
         }
       ],
@@ -38134,6 +42018,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 836,
+          "following": 0,
+          "likes_collects": 3000,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
           "fans": 836,
           "following": 0,
           "likes_collects": 3000,
@@ -38259,6 +42150,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 31000,
           "notes_count": 15
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 12000,
+          "following": 0,
+          "likes_collects": 31000,
+          "notes_count": 15
         }
       ],
       "ctype": "기업",
@@ -38376,6 +42274,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 4,
+          "following": 0,
+          "likes_collects": 3,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
           "fans": 4,
           "following": 0,
           "likes_collects": 3,
@@ -38501,6 +42406,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 2100,
           "notes_count": 2
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 210,
+          "following": 0,
+          "likes_collects": 2100,
+          "notes_count": 2
         }
       ],
       "ctype": "개인",
@@ -38618,6 +42530,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 2000,
+          "following": 0,
+          "likes_collects": 10000,
+          "notes_count": 23
+        },
+        {
+          "date": "2026-08-13",
           "fans": 2000,
           "following": 0,
           "likes_collects": 10000,
@@ -38743,6 +42662,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 12000,
           "notes_count": 30
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 2600,
+          "following": 0,
+          "likes_collects": 12000,
+          "notes_count": 30
         }
       ],
       "ctype": "개인",
@@ -38860,6 +42786,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 224,
+          "following": 0,
+          "likes_collects": 552,
+          "notes_count": 9
+        },
+        {
+          "date": "2026-08-13",
           "fans": 224,
           "following": 0,
           "likes_collects": 552,
@@ -38985,6 +42918,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 233000,
           "notes_count": 20
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 24000,
+          "following": 0,
+          "likes_collects": 233000,
+          "notes_count": 20
         }
       ],
       "ctype": "개인",
@@ -39102,6 +43042,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 6500,
+          "following": 0,
+          "likes_collects": 13000,
+          "notes_count": 15
+        },
+        {
+          "date": "2026-08-13",
           "fans": 6500,
           "following": 0,
           "likes_collects": 13000,
@@ -39227,6 +43174,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 114000,
           "notes_count": 30
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 10000,
+          "following": 0,
+          "likes_collects": 114000,
+          "notes_count": 30
         }
       ],
       "ctype": "개인",
@@ -39344,6 +43298,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 90,
+          "following": 0,
+          "likes_collects": 218,
+          "notes_count": 10
+        },
+        {
+          "date": "2026-08-13",
           "fans": 90,
           "following": 0,
           "likes_collects": 218,
@@ -39469,6 +43430,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 268,
           "notes_count": 16
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 29,
+          "following": 0,
+          "likes_collects": 268,
+          "notes_count": 16
         }
       ],
       "ctype": "개인",
@@ -39586,6 +43554,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 3900,
+          "following": 0,
+          "likes_collects": 13000,
+          "notes_count": 19
+        },
+        {
+          "date": "2026-08-13",
           "fans": 3900,
           "following": 0,
           "likes_collects": 13000,
@@ -39711,6 +43686,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 61000,
           "notes_count": 30
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 5200,
+          "following": 0,
+          "likes_collects": 61000,
+          "notes_count": 30
         }
       ],
       "ctype": "개인",
@@ -39723,7 +43705,7 @@ window.XHS_DATA = {
       "name": "卢恩率Ensol",
       "uid": "69b819e60000000026001c12",
       "partner": true,
-      "fans": 506,
+      "fans": 505,
       "likes_collects": 2300,
       "following": 0,
       "notes_count": 16,
@@ -39829,6 +43811,13 @@ window.XHS_DATA = {
         {
           "date": "2026-08-12",
           "fans": 506,
+          "following": 0,
+          "likes_collects": 2300,
+          "notes_count": 16
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 505,
           "following": 0,
           "likes_collects": 2300,
           "notes_count": 16
@@ -39949,6 +43938,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 4,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
           "fans": 4,
           "following": 0,
           "likes_collects": 0,
@@ -40074,6 +44070,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -40195,6 +44198,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 761,
           "notes_count": 17
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 239,
+          "following": 0,
+          "likes_collects": 761,
+          "notes_count": 17
         }
       ],
       "ctype": "개인",
@@ -40208,7 +44218,7 @@ window.XHS_DATA = {
       "uid": "69f067a4000000000d035c02",
       "partner": true,
       "fans": 12,
-      "likes_collects": 135,
+      "likes_collects": 136,
       "following": 0,
       "notes_count": 11,
       "history": [
@@ -40315,6 +44325,13 @@ window.XHS_DATA = {
           "fans": 12,
           "following": 0,
           "likes_collects": 135,
+          "notes_count": 11
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 12,
+          "following": 0,
+          "likes_collects": 136,
           "notes_count": 11
         }
       ],
@@ -40433,6 +44450,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 46,
+          "following": 0,
+          "likes_collects": 282,
+          "notes_count": 14
+        },
+        {
+          "date": "2026-08-13",
           "fans": 46,
           "following": 0,
           "likes_collects": 282,
@@ -40558,6 +44582,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 1400,
           "notes_count": 30
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 298,
+          "following": 0,
+          "likes_collects": 1400,
+          "notes_count": 30
         }
       ],
       "ctype": "개인",
@@ -40679,6 +44710,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -40691,7 +44729,7 @@ window.XHS_DATA = {
       "name": "Haesol",
       "uid": "64a7b123000000001c02adff",
       "partner": true,
-      "fans": 826,
+      "fans": 828,
       "likes_collects": 2000,
       "following": 0,
       "notes_count": 7,
@@ -40804,6 +44842,13 @@ window.XHS_DATA = {
         {
           "date": "2026-08-12",
           "fans": 826,
+          "following": 0,
+          "likes_collects": 2000,
+          "notes_count": 7
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 828,
           "following": 0,
           "likes_collects": 2000,
           "notes_count": 7
@@ -40935,6 +44980,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -41052,6 +45104,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 12,
+          "following": 0,
+          "likes_collects": 113,
+          "notes_count": 12
+        },
+        {
+          "date": "2026-08-13",
           "fans": 12,
           "following": 0,
           "likes_collects": 113,
@@ -41177,127 +45236,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 41,
           "notes_count": 4
-        }
-      ],
-      "ctype": "개인",
-      "cname": "",
-      "agent": ""
-    },
-    {
-      "url": "https://www.rednote.com/user/profile/69f341cc000000000d035c01",
-      "type": "profile",
-      "name": "Daroyoon",
-      "uid": "69f341cc000000000d035c01",
-      "partner": true,
-      "fans": 9,
-      "likes_collects": 33,
-      "following": 0,
-      "notes_count": 3,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "fans": 9,
-          "following": 0,
-          "likes_collects": 33,
-          "notes_count": 3
         },
         {
-          "date": "2026-07-08",
-          "fans": 9,
+          "date": "2026-08-13",
+          "fans": 5,
           "following": 0,
-          "likes_collects": 33,
-          "notes_count": 3
-        },
-        {
-          "date": "2026-07-09",
-          "fans": 9,
-          "following": 0,
-          "likes_collects": 33,
-          "notes_count": 3
-        },
-        {
-          "date": "2026-07-10",
-          "fans": 9,
-          "following": 0,
-          "likes_collects": 33,
-          "notes_count": 3
-        },
-        {
-          "date": "2026-07-20",
-          "fans": 9,
-          "following": 0,
-          "likes_collects": 33,
-          "notes_count": 3
-        },
-        {
-          "date": "2026-07-21",
-          "fans": 9,
-          "following": 0,
-          "likes_collects": 33,
-          "notes_count": 3
-        },
-        {
-          "date": "2026-07-29",
-          "fans": 9,
-          "following": 0,
-          "likes_collects": 33,
-          "notes_count": 3
-        },
-        {
-          "date": "2026-07-31",
-          "fans": 9,
-          "following": 0,
-          "likes_collects": 33,
-          "notes_count": 3
-        },
-        {
-          "date": "2026-08-03",
-          "fans": 9,
-          "following": 0,
-          "likes_collects": 33,
-          "notes_count": 3
-        },
-        {
-          "date": "2026-08-04",
-          "fans": 9,
-          "following": 0,
-          "likes_collects": 33,
-          "notes_count": 3
-        },
-        {
-          "date": "2026-08-06",
-          "fans": 9,
-          "following": 0,
-          "likes_collects": 33,
-          "notes_count": 3
-        },
-        {
-          "date": "2026-08-07",
-          "fans": 9,
-          "following": 0,
-          "likes_collects": 33,
-          "notes_count": 3
-        },
-        {
-          "date": "2026-08-10",
-          "fans": 9,
-          "following": 0,
-          "likes_collects": 33,
-          "notes_count": 3
-        },
-        {
-          "date": "2026-08-11",
-          "fans": 9,
-          "following": 0,
-          "likes_collects": 33,
-          "notes_count": 3
-        },
-        {
-          "date": "2026-08-12",
-          "fans": 9,
-          "following": 0,
-          "likes_collects": 33,
-          "notes_count": 3
+          "likes_collects": 41,
+          "notes_count": 4
         }
       ],
       "ctype": "개인",
@@ -41349,6 +45294,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -41361,7 +45313,7 @@ window.XHS_DATA = {
       "name": "喵咕情侣",
       "uid": "69f2ea7f000000000d035c03",
       "partner": true,
-      "fans": 95,
+      "fans": 96,
       "likes_collects": 1900,
       "following": 0,
       "notes_count": 30,
@@ -41470,6 +45422,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 1900,
           "notes_count": 30
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 96,
+          "following": 0,
+          "likes_collects": 1900,
+          "notes_count": 30
         }
       ],
       "ctype": "개인",
@@ -41482,7 +45441,7 @@ window.XHS_DATA = {
       "name": "aquaaa7",
       "uid": "62786bff000000002102b934",
       "partner": false,
-      "fans": 344,
+      "fans": 343,
       "likes_collects": 2600,
       "following": 0,
       "notes_count": 1,
@@ -41588,6 +45547,13 @@ window.XHS_DATA = {
         {
           "date": "2026-08-12",
           "fans": 344,
+          "following": 0,
+          "likes_collects": 2600,
+          "notes_count": 1
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 343,
           "following": 0,
           "likes_collects": 2600,
           "notes_count": 1
@@ -41705,6 +45671,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 271,
+          "following": 0,
+          "likes_collects": 4300,
+          "notes_count": 22
+        },
+        {
+          "date": "2026-08-13",
           "fans": 271,
           "following": 0,
           "likes_collects": 4300,
@@ -41830,6 +45803,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -41947,6 +45927,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 1600,
+          "following": 0,
+          "likes_collects": 4200,
+          "notes_count": 30
+        },
+        {
+          "date": "2026-08-13",
           "fans": 1600,
           "following": 0,
           "likes_collects": 4200,
@@ -42072,6 +46059,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 14000,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 1100,
+          "following": 0,
+          "likes_collects": 14000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -42193,6 +46187,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 41000,
           "notes_count": 21
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 14000,
+          "following": 0,
+          "likes_collects": 41000,
+          "notes_count": 21
         }
       ]
     },
@@ -42202,8 +46203,8 @@ window.XHS_DATA = {
       "name": "种草公主NANAIN",
       "uid": "65f571b2000000000600cb6f",
       "partner": true,
-      "fans": 4,
-      "likes_collects": 24,
+      "fans": 5,
+      "likes_collects": 25,
       "following": 0,
       "notes_count": 5,
       "history": [
@@ -42311,6 +46312,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 24,
           "notes_count": 5
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 5,
+          "following": 0,
+          "likes_collects": 25,
+          "notes_count": 5
         }
       ],
       "ctype": "개인",
@@ -42323,10 +46331,10 @@ window.XHS_DATA = {
       "name": "Seungchul Lee",
       "uid": "6a0f92d7000000000d035c02",
       "partner": true,
-      "fans": 456,
-      "likes_collects": 898,
+      "fans": 461,
+      "likes_collects": 917,
       "following": 0,
-      "notes_count": 12,
+      "notes_count": 13,
       "history": [
         {
           "date": "2026-07-07",
@@ -42432,6 +46440,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 898,
           "notes_count": 12
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 461,
+          "following": 0,
+          "likes_collects": 917,
+          "notes_count": 13
         }
       ],
       "ctype": "개인",
@@ -42549,6 +46564,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 2100,
+          "following": 0,
+          "likes_collects": 14000,
+          "notes_count": 31
+        },
+        {
+          "date": "2026-08-13",
           "fans": 2100,
           "following": 0,
           "likes_collects": 14000,
@@ -42671,6 +46693,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 261,
           "notes_count": 1
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 31,
+          "following": 0,
+          "likes_collects": 261,
+          "notes_count": 1
         }
       ]
     },
@@ -42785,6 +46814,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 394,
+          "following": 0,
+          "likes_collects": 461,
+          "notes_count": 2
+        },
+        {
+          "date": "2026-08-13",
           "fans": 394,
           "following": 0,
           "likes_collects": 461,
@@ -42907,6 +46943,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -43021,6 +47064,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 695,
+          "following": 0,
+          "likes_collects": 3500,
+          "notes_count": 22
+        },
+        {
+          "date": "2026-08-13",
           "fans": 695,
           "following": 0,
           "likes_collects": 3500,
@@ -43146,6 +47196,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 53000,
           "notes_count": 32
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 17000,
+          "following": 0,
+          "likes_collects": 53000,
+          "notes_count": 32
         }
       ],
       "ctype": "기업",
@@ -43239,6 +47296,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 6600,
           "notes_count": 10
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 2200,
+          "following": 0,
+          "likes_collects": 6600,
+          "notes_count": 10
         }
       ],
       "ctype": "개인",
@@ -43251,7 +47315,7 @@ window.XHS_DATA = {
       "name": "leeravely",
       "uid": "6859418d000000001b019118",
       "partner": true,
-      "fans": 395,
+      "fans": 396,
       "likes_collects": 4600,
       "following": 0,
       "notes_count": 21,
@@ -43357,6 +47421,13 @@ window.XHS_DATA = {
         {
           "date": "2026-08-12",
           "fans": 395,
+          "following": 0,
+          "likes_collects": 4600,
+          "notes_count": 21
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 396,
           "following": 0,
           "likes_collects": 4600,
           "notes_count": 21
@@ -43477,6 +47548,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 216,
+          "following": 0,
+          "likes_collects": 1100,
+          "notes_count": 29
+        },
+        {
+          "date": "2026-08-13",
           "fans": 216,
           "following": 0,
           "likes_collects": 1100,
@@ -43602,6 +47680,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -43716,6 +47801,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 3900,
+          "following": 0,
+          "likes_collects": 32000,
+          "notes_count": 32
+        },
+        {
+          "date": "2026-08-13",
           "fans": 3900,
           "following": 0,
           "likes_collects": 32000,
@@ -43838,6 +47930,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -43952,6 +48051,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
           "fans": 0,
           "following": 0,
           "likes_collects": 0,
@@ -44077,6 +48183,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -44117,6 +48230,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
           "fans": 0,
           "following": 0,
           "likes_collects": 0,
@@ -44239,6 +48359,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -44353,6 +48480,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 23,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
           "fans": 23,
           "following": 0,
           "likes_collects": 0,
@@ -44478,6 +48612,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 15000,
           "notes_count": 22
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 2500,
+          "following": 0,
+          "likes_collects": 15000,
+          "notes_count": 22
         }
       ]
     },
@@ -44592,6 +48733,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
           "fans": 0,
           "following": 0,
           "likes_collects": 0,
@@ -44717,6 +48865,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 20000,
           "notes_count": 16
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 1700,
+          "following": 0,
+          "likes_collects": 20000,
+          "notes_count": 16
         }
       ]
     },
@@ -44831,6 +48986,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
           "fans": 0,
           "following": 0,
           "likes_collects": 0,
@@ -44956,6 +49118,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 7200,
           "notes_count": 30
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 1200,
+          "following": 0,
+          "likes_collects": 7200,
+          "notes_count": 30
         }
       ]
     },
@@ -45070,6 +49239,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 4300,
+          "following": 0,
+          "likes_collects": 3800,
+          "notes_count": 24
+        },
+        {
+          "date": "2026-08-13",
           "fans": 4300,
           "following": 0,
           "likes_collects": 3800,
@@ -45192,6 +49368,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 31,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 7,
+          "following": 0,
+          "likes_collects": 31,
+          "notes_count": 0
         }
       ]
     },
@@ -45278,6 +49461,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 495,
+          "following": 0,
+          "likes_collects": 4100,
+          "notes_count": 30
+        },
+        {
+          "date": "2026-08-13",
           "fans": 495,
           "following": 0,
           "likes_collects": 4100,
@@ -45400,6 +49590,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 236,
           "notes_count": 30
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 44,
+          "following": 0,
+          "likes_collects": 236,
+          "notes_count": 30
         }
       ]
     },
@@ -45514,6 +49711,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 2,
+          "following": 0,
+          "likes_collects": 25,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
           "fans": 2,
           "following": 0,
           "likes_collects": 25,
@@ -45636,6 +49840,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -45646,9 +49857,9 @@ window.XHS_DATA = {
       "uid": "68249e64000000000e01d53f",
       "partner": false,
       "fans": 1100,
-      "likes_collects": 742,
+      "likes_collects": 751,
       "following": 0,
-      "notes_count": 19,
+      "notes_count": 20,
       "history": [
         {
           "date": "2026-07-07",
@@ -45754,6 +49965,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 742,
           "notes_count": 19
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 1100,
+          "following": 0,
+          "likes_collects": 751,
+          "notes_count": 20
         }
       ]
     },
@@ -45868,6 +50086,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
           "fans": 0,
           "following": 0,
           "likes_collects": 0,
@@ -45993,6 +50218,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 1200,
           "notes_count": 2
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 380,
+          "following": 0,
+          "likes_collects": 1200,
+          "notes_count": 2
         }
       ]
     },
@@ -46107,6 +50339,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 4400,
+          "following": 0,
+          "likes_collects": 18000,
+          "notes_count": 4
+        },
+        {
+          "date": "2026-08-13",
           "fans": 4400,
           "following": 0,
           "likes_collects": 18000,
@@ -46229,6 +50468,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -46347,6 +50593,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -46367,120 +50620,9 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/user/profile/69bbef710000000026003b74",
-      "type": "profile",
-      "name": "小红薯69BC39AC",
-      "uid": "69bbef710000000026003b74",
-      "partner": false,
-      "fans": 0,
-      "likes_collects": 0,
-      "following": 0,
-      "notes_count": 0,
-      "history": [
-        {
-          "date": "2026-07-07",
-          "fans": 0,
-          "following": 0,
-          "likes_collects": 0,
-          "notes_count": 0
         },
         {
-          "date": "2026-07-08",
-          "fans": 0,
-          "following": 0,
-          "likes_collects": 0,
-          "notes_count": 0
-        },
-        {
-          "date": "2026-07-09",
-          "fans": 0,
-          "following": 0,
-          "likes_collects": 0,
-          "notes_count": 0
-        },
-        {
-          "date": "2026-07-10",
-          "fans": 0,
-          "following": 0,
-          "likes_collects": 0,
-          "notes_count": 0
-        },
-        {
-          "date": "2026-07-20",
-          "fans": 0,
-          "following": 0,
-          "likes_collects": 0,
-          "notes_count": 0
-        },
-        {
-          "date": "2026-07-21",
-          "fans": 0,
-          "following": 0,
-          "likes_collects": 0,
-          "notes_count": 0
-        },
-        {
-          "date": "2026-07-29",
-          "fans": 0,
-          "following": 0,
-          "likes_collects": 0,
-          "notes_count": 0
-        },
-        {
-          "date": "2026-07-31",
-          "fans": 0,
-          "following": 0,
-          "likes_collects": 0,
-          "notes_count": 0
-        },
-        {
-          "date": "2026-08-03",
-          "fans": 0,
-          "following": 0,
-          "likes_collects": 0,
-          "notes_count": 0
-        },
-        {
-          "date": "2026-08-04",
-          "fans": 0,
-          "following": 0,
-          "likes_collects": 0,
-          "notes_count": 0
-        },
-        {
-          "date": "2026-08-06",
-          "fans": 0,
-          "following": 0,
-          "likes_collects": 0,
-          "notes_count": 0
-        },
-        {
-          "date": "2026-08-07",
-          "fans": 0,
-          "following": 0,
-          "likes_collects": 0,
-          "notes_count": 0
-        },
-        {
-          "date": "2026-08-10",
-          "fans": 0,
-          "following": 0,
-          "likes_collects": 0,
-          "notes_count": 0
-        },
-        {
-          "date": "2026-08-11",
-          "fans": 0,
-          "following": 0,
-          "likes_collects": 0,
-          "notes_count": 0
-        },
-        {
-          "date": "2026-08-12",
+          "date": "2026-08-13",
           "fans": 0,
           "following": 0,
           "likes_collects": 0,
@@ -46599,6 +50741,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 1400,
+          "following": 0,
+          "likes_collects": 2400,
+          "notes_count": 2
+        },
+        {
+          "date": "2026-08-13",
           "fans": 1400,
           "following": 0,
           "likes_collects": 2400,
@@ -46724,6 +50873,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 15000,
           "notes_count": 30
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 3500,
+          "following": 0,
+          "likes_collects": 15000,
+          "notes_count": 30
         }
       ],
       "ctype": "개인",
@@ -46845,6 +51001,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -46931,6 +51094,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 2,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -46944,7 +51114,7 @@ window.XHS_DATA = {
       "uid": "672b8011000000001d02cb93",
       "partner": true,
       "fans": 23000,
-      "likes_collects": 62000,
+      "likes_collects": 63000,
       "following": 0,
       "notes_count": 31,
       "history": [
@@ -47051,6 +51221,13 @@ window.XHS_DATA = {
           "fans": 23000,
           "following": 0,
           "likes_collects": 62000,
+          "notes_count": 31
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 23000,
+          "following": 0,
+          "likes_collects": 63000,
           "notes_count": 31
         }
       ],
@@ -47173,6 +51350,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -47287,6 +51471,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 20,
+          "following": 0,
+          "likes_collects": 227,
+          "notes_count": 21
+        },
+        {
+          "date": "2026-08-13",
           "fans": 20,
           "following": 0,
           "likes_collects": 227,
@@ -47412,6 +51603,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 496,
           "notes_count": 3
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 11,
+          "following": 0,
+          "likes_collects": 496,
+          "notes_count": 3
         }
       ]
     },
@@ -47421,10 +51619,10 @@ window.XHS_DATA = {
       "name": "刘诗蘟 yu sieun",
       "uid": "6a2faba5000000000e03bc00",
       "partner": true,
-      "fans": 1500,
-      "likes_collects": 7000,
+      "fans": 1900,
+      "likes_collects": 9400,
       "following": 0,
-      "notes_count": 17,
+      "notes_count": 18,
       "history": [
         {
           "date": "2026-07-31",
@@ -47481,6 +51679,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 7000,
           "notes_count": 17
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 1900,
+          "following": 0,
+          "likes_collects": 9400,
+          "notes_count": 18
         }
       ],
       "ctype": "개인",
@@ -47598,6 +51803,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 5,
+          "following": 0,
+          "likes_collects": 33,
+          "notes_count": 5
+        },
+        {
+          "date": "2026-08-13",
           "fans": 5,
           "following": 0,
           "likes_collects": 33,
@@ -47723,6 +51935,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 5800,
           "notes_count": 16
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 2200,
+          "following": 0,
+          "likes_collects": 5800,
+          "notes_count": 16
         }
       ],
       "ctype": "기업",
@@ -47844,6 +52063,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 105,
           "notes_count": 15
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 41,
+          "following": 0,
+          "likes_collects": 105,
+          "notes_count": 15
         }
       ],
       "ctype": "개인",
@@ -47857,7 +52083,7 @@ window.XHS_DATA = {
       "uid": "69bb56fd00000000260015d7",
       "partner": true,
       "fans": 5800,
-      "likes_collects": 429000,
+      "likes_collects": 433000,
       "following": 0,
       "notes_count": 30,
       "history": [
@@ -47964,6 +52190,13 @@ window.XHS_DATA = {
           "fans": 5800,
           "following": 0,
           "likes_collects": 429000,
+          "notes_count": 30
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 5800,
+          "following": 0,
+          "likes_collects": 433000,
           "notes_count": 30
         }
       ],
@@ -48093,6 +52326,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 3,
           "notes_count": 3
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 3,
+          "notes_count": 3
         }
       ],
       "ctype": "개인",
@@ -48210,6 +52450,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 7,
+          "following": 0,
+          "likes_collects": 390,
+          "notes_count": 21
+        },
+        {
+          "date": "2026-08-13",
           "fans": 7,
           "following": 0,
           "likes_collects": 390,
@@ -48335,6 +52582,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 1,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 1,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -48350,7 +52604,7 @@ window.XHS_DATA = {
       "fans": 271,
       "likes_collects": 3400,
       "following": 0,
-      "notes_count": 10,
+      "notes_count": 11,
       "history": [
         {
           "date": "2026-07-07",
@@ -48456,6 +52710,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 3400,
           "notes_count": 10
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 271,
+          "following": 0,
+          "likes_collects": 3400,
+          "notes_count": 11
         }
       ],
       "ctype": "개인",
@@ -48573,6 +52834,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 9,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
           "fans": 1,
           "following": 0,
           "likes_collects": 9,
@@ -48695,6 +52963,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -48813,6 +53088,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 2,
           "notes_count": 1
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 3,
+          "following": 0,
+          "likes_collects": 2,
+          "notes_count": 1
         }
       ]
     },
@@ -48927,6 +53209,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 10,
+          "following": 0,
+          "likes_collects": 16,
+          "notes_count": 2
+        },
+        {
+          "date": "2026-08-13",
           "fans": 10,
           "following": 0,
           "likes_collects": 16,
@@ -49052,6 +53341,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -49166,6 +53462,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 91,
+          "following": 0,
+          "likes_collects": 6000,
+          "notes_count": 3
+        },
+        {
+          "date": "2026-08-13",
           "fans": 91,
           "following": 0,
           "likes_collects": 6000,
@@ -49288,6 +53591,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 40000,
           "notes_count": 18
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 2200,
+          "following": 0,
+          "likes_collects": 40000,
+          "notes_count": 18
         }
       ]
     },
@@ -49297,10 +53607,10 @@ window.XHS_DATA = {
       "name": "娟柑姐",
       "uid": "6a2a5be6000000000d034c01",
       "partner": true,
-      "fans": 10,
-      "likes_collects": 41,
+      "fans": 12,
+      "likes_collects": 47,
       "following": 0,
-      "notes_count": 7,
+      "notes_count": 8,
       "history": [
         {
           "date": "2026-07-29",
@@ -49364,6 +53674,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 41,
           "notes_count": 7
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 12,
+          "following": 0,
+          "likes_collects": 47,
+          "notes_count": 8
         }
       ],
       "ctype": "개인",
@@ -49481,6 +53798,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
           "fans": 0,
           "following": 0,
           "likes_collects": 0,
@@ -49603,6 +53927,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 2800,
           "notes_count": 32
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 364,
+          "following": 0,
+          "likes_collects": 2800,
+          "notes_count": 32
         }
       ]
     },
@@ -49717,6 +54048,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 815,
+          "notes_count": 5
+        },
+        {
+          "date": "2026-08-13",
           "fans": 1,
           "following": 0,
           "likes_collects": 815,
@@ -49839,6 +54177,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -49851,10 +54196,10 @@ window.XHS_DATA = {
       "name": "apricotyeon",
       "uid": "696074f400000000370330ee",
       "partner": true,
-      "fans": 118,
-      "likes_collects": 807,
+      "fans": 174,
+      "likes_collects": 1300,
       "following": 0,
-      "notes_count": 4,
+      "notes_count": 5,
       "history": [
         {
           "date": "2026-07-07",
@@ -49960,6 +54305,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 807,
           "notes_count": 4
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 174,
+          "following": 0,
+          "likes_collects": 1300,
+          "notes_count": 5
         }
       ],
       "ctype": "개인",
@@ -50081,6 +54433,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 3300,
           "notes_count": 30
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 784,
+          "following": 0,
+          "likes_collects": 3300,
+          "notes_count": 30
         }
       ],
       "ctype": "개인",
@@ -50198,6 +54557,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 44,
+          "following": 0,
+          "likes_collects": 57,
+          "notes_count": 1
+        },
+        {
+          "date": "2026-08-13",
           "fans": 44,
           "following": 0,
           "likes_collects": 57,
@@ -50330,6 +54696,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -50448,6 +54821,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -50499,6 +54879,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -50512,7 +54899,7 @@ window.XHS_DATA = {
       "uid": "6a4c4f37000000000e03bc00",
       "partner": true,
       "fans": 1,
-      "likes_collects": 23,
+      "likes_collects": 24,
       "following": 0,
       "notes_count": 5,
       "history": [
@@ -50549,6 +54936,13 @@ window.XHS_DATA = {
           "fans": 1,
           "following": 0,
           "likes_collects": 23,
+          "notes_count": 5
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 24,
           "notes_count": 5
         }
       ],
@@ -50597,6 +54991,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 3,
+          "following": 0,
+          "likes_collects": 23,
+          "notes_count": 1
+        },
+        {
+          "date": "2026-08-13",
           "fans": 3,
           "following": 0,
           "likes_collects": 23,
@@ -50652,6 +55053,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ],
       "ctype": "기업",
@@ -50699,6 +55107,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
           "fans": 0,
           "following": 0,
           "likes_collects": 0,
@@ -50751,6 +55166,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -50799,6 +55221,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -50843,6 +55272,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
           "fans": 0,
           "following": 0,
           "likes_collects": 0,
@@ -50898,6 +55334,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -50945,6 +55388,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 7,
+          "following": 0,
+          "likes_collects": 28,
+          "notes_count": 5
+        },
+        {
+          "date": "2026-08-13",
           "fans": 7,
           "following": 0,
           "likes_collects": 28,
@@ -51000,6 +55450,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 72,
           "notes_count": 8
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 38,
+          "following": 0,
+          "likes_collects": 72,
+          "notes_count": 8
         }
       ],
       "ctype": "기업",
@@ -51012,10 +55469,10 @@ window.XHS_DATA = {
       "name": "salt_papa",
       "uid": "598188cf6a6a692d9c2a549c",
       "partner": true,
-      "fans": 1,
-      "likes_collects": 3,
+      "fans": 47,
+      "likes_collects": 15000,
       "following": 0,
-      "notes_count": 1,
+      "notes_count": 2,
       "history": [
         {
           "date": "2026-08-06",
@@ -51051,6 +55508,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 3,
           "notes_count": 1
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 47,
+          "following": 0,
+          "likes_collects": 15000,
+          "notes_count": 2
         }
       ],
       "ctype": "기업",
@@ -51098,6 +55562,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 7,
+          "notes_count": 2
+        },
+        {
+          "date": "2026-08-13",
           "fans": 1,
           "following": 0,
           "likes_collects": 7,
@@ -51153,6 +55624,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 7,
           "notes_count": 1
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 2,
+          "following": 0,
+          "likes_collects": 7,
+          "notes_count": 1
         }
       ],
       "ctype": "기업",
@@ -51200,6 +55678,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 7,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
           "fans": 1,
           "following": 0,
           "likes_collects": 7,
@@ -51255,6 +55740,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 76,
           "notes_count": 3
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 6,
+          "following": 0,
+          "likes_collects": 76,
+          "notes_count": 3
         }
       ],
       "ctype": "기업",
@@ -51302,6 +55794,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 4,
+          "following": 0,
+          "likes_collects": 26,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
           "fans": 4,
           "following": 0,
           "likes_collects": 26,
@@ -51357,6 +55856,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ],
       "ctype": "기업",
@@ -51369,7 +55875,7 @@ window.XHS_DATA = {
       "name": "yuha在家",
       "uid": "5bfe2ab6c9f8f10001b642aa",
       "partner": true,
-      "fans": 426,
+      "fans": 427,
       "likes_collects": 1300,
       "following": 0,
       "notes_count": 12,
@@ -51408,6 +55914,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 1300,
           "notes_count": 12
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 427,
+          "following": 0,
+          "likes_collects": 1300,
+          "notes_count": 12
         }
       ],
       "ctype": "기업",
@@ -51420,8 +55933,8 @@ window.XHS_DATA = {
       "name": "BRI",
       "uid": "67903c0e000000000d00a057",
       "partner": true,
-      "fans": 744,
-      "likes_collects": 2900,
+      "fans": 752,
+      "likes_collects": 3000,
       "following": 0,
       "notes_count": 10,
       "history": [
@@ -51458,6 +55971,13 @@ window.XHS_DATA = {
           "fans": 744,
           "following": 0,
           "likes_collects": 2900,
+          "notes_count": 10
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 752,
+          "following": 0,
+          "likes_collects": 3000,
           "notes_count": 10
         }
       ],
@@ -51510,6 +56030,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 22000,
           "notes_count": 32
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 2400,
+          "following": 0,
+          "likes_collects": 22000,
+          "notes_count": 32
         }
       ]
     },
@@ -51554,6 +56081,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 16,
+          "following": 0,
+          "likes_collects": 84,
+          "notes_count": 9
+        },
+        {
+          "date": "2026-08-13",
           "fans": 16,
           "following": 0,
           "likes_collects": 84,
@@ -51609,6 +56143,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ],
       "ctype": "기업",
@@ -51653,6 +56194,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -51666,7 +56214,7 @@ window.XHS_DATA = {
       "uid": "6a0a780a000000000d034c01",
       "partner": true,
       "fans": 14,
-      "likes_collects": 297,
+      "likes_collects": 301,
       "following": 0,
       "notes_count": 5,
       "history": [
@@ -51703,6 +56251,13 @@ window.XHS_DATA = {
           "fans": 14,
           "following": 0,
           "likes_collects": 297,
+          "notes_count": 5
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 14,
+          "following": 0,
+          "likes_collects": 301,
           "notes_count": 5
         }
       ],
@@ -51751,6 +56306,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 7,
+          "following": 0,
+          "likes_collects": 170,
+          "notes_count": 3
+        },
+        {
+          "date": "2026-08-13",
           "fans": 7,
           "following": 0,
           "likes_collects": 170,
@@ -51806,6 +56368,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 467,
           "notes_count": 16
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 204,
+          "following": 0,
+          "likes_collects": 467,
+          "notes_count": 16
         }
       ],
       "ctype": "개인",
@@ -51821,7 +56390,7 @@ window.XHS_DATA = {
       "fans": 4000,
       "likes_collects": 3800,
       "following": 0,
-      "notes_count": 5,
+      "notes_count": 4,
       "history": [
         {
           "date": "2026-08-06",
@@ -51857,6 +56426,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 3800,
           "notes_count": 5
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 4000,
+          "following": 0,
+          "likes_collects": 3800,
+          "notes_count": 4
         }
       ]
     },
@@ -51901,6 +56477,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
           "fans": 0,
           "following": 0,
           "likes_collects": 0,
@@ -51953,6 +56536,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -51997,6 +56587,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
           "fans": 0,
           "following": 0,
           "likes_collects": 0,
@@ -52049,6 +56646,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -52059,9 +56663,9 @@ window.XHS_DATA = {
       "uid": "6a5f01a3000000000e03bc00",
       "partner": true,
       "fans": 2,
-      "likes_collects": 10,
+      "likes_collects": 11,
       "following": 0,
-      "notes_count": 0,
+      "notes_count": 2,
       "history": [
         {
           "date": "2026-08-06",
@@ -52097,6 +56701,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 10,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 2,
+          "following": 0,
+          "likes_collects": 11,
+          "notes_count": 2
         }
       ],
       "ctype": "기업",
@@ -52148,6 +56759,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -52157,48 +56775,20 @@ window.XHS_DATA = {
     {
       "url": "https://www.rednote.com/user/profile/6a695aab000000000e03b800",
       "type": "profile",
-      "name": "小红薯6A6A745D",
+      "name": "ZOEYASMR",
       "uid": "6a695aab000000000e03b800",
       "partner": true,
-      "fans": 0,
-      "likes_collects": 0,
+      "fans": 1,
+      "likes_collects": 4,
       "following": 0,
-      "notes_count": 0,
+      "notes_count": 1,
       "history": [
         {
-          "date": "2026-08-06",
-          "fans": 0,
+          "date": "2026-08-13",
+          "fans": 1,
           "following": 0,
-          "likes_collects": 0,
-          "notes_count": 0
-        },
-        {
-          "date": "2026-08-07",
-          "fans": 0,
-          "following": 0,
-          "likes_collects": 0,
-          "notes_count": 0
-        },
-        {
-          "date": "2026-08-10",
-          "fans": 0,
-          "following": 0,
-          "likes_collects": 0,
-          "notes_count": 0
-        },
-        {
-          "date": "2026-08-11",
-          "fans": 0,
-          "following": 0,
-          "likes_collects": 0,
-          "notes_count": 0
-        },
-        {
-          "date": "2026-08-12",
-          "fans": 0,
-          "following": 0,
-          "likes_collects": 0,
-          "notes_count": 0
+          "likes_collects": 4,
+          "notes_count": 1
         }
       ],
       "ctype": "개인",
@@ -52246,6 +56836,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
           "fans": 0,
           "following": 0,
           "likes_collects": 0,
@@ -52298,6 +56895,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -52342,6 +56946,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
           "fans": 0,
           "following": 0,
           "likes_collects": 0,
@@ -52394,6 +57005,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 10000,
           "notes_count": 19
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 207,
+          "following": 0,
+          "likes_collects": 10000,
+          "notes_count": 19
         }
       ]
     },
@@ -52403,7 +57021,7 @@ window.XHS_DATA = {
       "name": "lele子",
       "uid": "5a448d4f11be10622637e935",
       "partner": false,
-      "fans": 113,
+      "fans": 112,
       "likes_collects": 328,
       "following": 0,
       "notes_count": 8,
@@ -52439,6 +57057,13 @@ window.XHS_DATA = {
         {
           "date": "2026-08-12",
           "fans": 113,
+          "following": 0,
+          "likes_collects": 328,
+          "notes_count": 8
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 112,
           "following": 0,
           "likes_collects": 328,
           "notes_count": 8
@@ -52490,6 +57115,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 3200,
           "notes_count": 7
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 206,
+          "following": 0,
+          "likes_collects": 3200,
+          "notes_count": 7
         }
       ]
     },
@@ -52500,7 +57132,7 @@ window.XHS_DATA = {
       "uid": "673d786b000000001d02eb89",
       "partner": false,
       "fans": 9400,
-      "likes_collects": 98000,
+      "likes_collects": 99000,
       "following": 0,
       "notes_count": 30,
       "history": [
@@ -52530,6 +57162,13 @@ window.XHS_DATA = {
           "fans": 9400,
           "following": 0,
           "likes_collects": 98000,
+          "notes_count": 30
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 9400,
+          "following": 0,
+          "likes_collects": 99000,
           "notes_count": 30
         }
       ]
@@ -52579,6 +57218,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 1300,
           "notes_count": 4
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 363,
+          "following": 0,
+          "likes_collects": 1300,
+          "notes_count": 4
         }
       ]
     },
@@ -52623,6 +57269,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 10,
+          "following": 0,
+          "likes_collects": 43,
+          "notes_count": 7
+        },
+        {
+          "date": "2026-08-13",
           "fans": 10,
           "following": 0,
           "likes_collects": 43,
@@ -52678,6 +57331,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -52726,6 +57386,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 16,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 8,
+          "following": 0,
+          "likes_collects": 16,
+          "notes_count": 0
         }
       ]
     },
@@ -52735,8 +57402,8 @@ window.XHS_DATA = {
       "name": "恩妃eunbi",
       "uid": "6a3e1a8a000000000e03b801",
       "partner": true,
-      "fans": 35,
-      "likes_collects": 45,
+      "fans": 36,
+      "likes_collects": 47,
       "following": 0,
       "notes_count": 3,
       "history": [
@@ -52773,6 +57440,13 @@ window.XHS_DATA = {
           "fans": 35,
           "following": 0,
           "likes_collects": 45,
+          "notes_count": 3
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 36,
+          "following": 0,
+          "likes_collects": 47,
           "notes_count": 3
         }
       ],
@@ -52825,6 +57499,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 75,
           "notes_count": 3
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 80,
+          "following": 0,
+          "likes_collects": 75,
+          "notes_count": 3
         }
       ]
     },
@@ -52834,8 +57515,8 @@ window.XHS_DATA = {
       "name": "李承元",
       "uid": "6a33c7cb000000000e03bc00",
       "partner": false,
-      "fans": 30,
-      "likes_collects": 106,
+      "fans": 43,
+      "likes_collects": 133,
       "following": 0,
       "notes_count": 3,
       "history": [
@@ -52872,6 +57553,13 @@ window.XHS_DATA = {
           "fans": 30,
           "following": 0,
           "likes_collects": 106,
+          "notes_count": 3
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 43,
+          "following": 0,
+          "likes_collects": 133,
           "notes_count": 3
         }
       ]
@@ -52917,6 +57605,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-12",
+          "fans": 4,
+          "following": 0,
+          "likes_collects": 2,
+          "notes_count": 1
+        },
+        {
+          "date": "2026-08-13",
           "fans": 4,
           "following": 0,
           "likes_collects": 2,
@@ -52969,6 +57664,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ]
     },
@@ -52978,8 +57680,8 @@ window.XHS_DATA = {
       "name": "Darcie달씨",
       "uid": "68245b00000000000a03ca02",
       "partner": true,
-      "fans": 44000,
-      "likes_collects": 130000,
+      "fans": 45000,
+      "likes_collects": 136000,
       "following": 0,
       "notes_count": 30,
       "history": [
@@ -53002,6 +57704,13 @@ window.XHS_DATA = {
           "fans": 44000,
           "following": 0,
           "likes_collects": 130000,
+          "notes_count": 30
+        },
+        {
+          "date": "2026-08-13",
+          "fans": 45000,
+          "following": 0,
+          "likes_collects": 136000,
           "notes_count": 30
         }
       ],
