@@ -179,11 +179,9 @@ function popularHTML(p){
  const list=popularOf(p);
  if(!list.length)return'<div class="note">수집된 게시물이 없습니다.</div>';
  return '<div class="cards">'+list.map(n=>{
-  const cov=n.cover||n.thumb;
-  const th=cov?'<img class="th" src="'+esc(cov)+'" alt="" loading="lazy">':'<div class="th ph">썸네일 준비중</div>';
   const t=n.url?('<a class="pt" href="'+esc(n.url)+'" target="_blank" rel="noopener">'+esc(n.title||'(제목없음)')+'</a>'):('<span class="pt">'+esc(n.title||'(제목없음)')+'</span>');
   const cmt=(n.comments_text&&n.comments_text[0])?('<div class="pc"><span class="q">인기 댓글 · </span>'+esc(n.comments_text[0])+'</div>'):'';
-  return '<div class="pcard">'+th+'<div class="pb">'+t+'<div class="pm"><span class="lk">♥ '+fmt(n.likes)+'</span> · 저장 '+fmt(n.collects)+'</div>'+cmt+'</div></div>';
+  return '<div class="pcard"><div class="pb">'+t+'<div class="pm"><span class="lk">♥ '+fmt(n.likes)+'</span> · 저장 '+fmt(n.collects)+'</div>'+cmt+'</div></div>';
  }).join('')+'</div>';
 }
 // 종합 평가 텍스트 → 섹션 렌더

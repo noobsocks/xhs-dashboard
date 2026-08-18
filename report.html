@@ -188,12 +188,10 @@ function render(idx){
  const dates=g.filter(n=>n.publish_time).map(n=>n.publish_time).sort();
  // 인기 콘텐츠 (좋아요 상위 3, 썸네일+인기 댓글)
  const pop=[...g].sort((a,b)=>(b.likes||0)-(a.likes||0)).slice(0,3);
- const popHtml=pop.length?`<div class="panel" style="margin-top:16px"><div class="ph"><h3>인기 콘텐츠</h3><div class="sub">좋아요 상위 게시물 · 썸네일·인기 댓글</div></div><div class="popwrap">${pop.map(n=>{
-   const cov=n.cover||n.thumb;
-   const th=cov?`<img class="pth" src="${cov}" alt="" loading="lazy">`:`<div class="pth ph2">썸네일 준비중</div>`;
+ const popHtml=pop.length?`<div class="panel" style="margin-top:16px"><div class="ph"><h3>인기 콘텐츠</h3><div class="sub">좋아요 상위 게시물 · 인기 댓글</div></div><div class="popwrap">${pop.map(n=>{
    const t=n.url?`<a class="ptt" href="${n.url}" target="_blank" rel="noopener">${n.title||'(제목없음)'}</a>`:`<span class="ptt">${n.title||'(제목없음)'}</span>`;
    const cmt=(n.comments_text&&n.comments_text[0])?`<div class="pcm"><span class="q">인기 댓글 · </span>${n.comments_text[0]}</div>`:'';
-   return `<div class="pcd">${th}<div class="pcb">${t}<div class="pcm2"><span class="lk">♥ ${fmt(n.likes)}</span> · 저장 ${fmt(n.collects)}</div>${cmt}</div></div>`;
+   return `<div class="pcd"><div class="pcb">${t}<div class="pcm2"><span class="lk">♥ ${fmt(n.likes)}</span> · 저장 ${fmt(n.collects)}</div>${cmt}</div></div>`;
  }).join('')}</div></div>`:'';
  // post table
  const sorted=[...g].sort((a,b)=>{let c;if(sortKey==='publish_time'||sortKey==='title')c=String(a[sortKey]||'').localeCompare(String(b[sortKey]||''),'ko');else if(sortKey==='rate')c=rate(a)-rate(b);else c=(a[sortKey]||0)-(b[sortKey]||0);return c*sortDir});
