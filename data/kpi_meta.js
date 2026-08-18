@@ -968,5 +968,45 @@ window.XHS_KPI = {
   "category": "时尚, 美妆",
   "xhs_fans_sheet": null,
   "intro": "是"
+ },
+ "675fbd660000000018015232": {
+  "category": "日常",
+  "xhs_fans_sheet": null,
+  "intro": "是"
+ },
+ "6a4c47ae000000000d035c02": {
+  "category": "日常",
+  "xhs_fans_sheet": null,
+  "intro": ""
+ },
+ "6a4cdf1c000000000e03bc00": {
+  "category": "日常",
+  "xhs_fans_sheet": null,
+  "intro": ""
+ },
+ "6a4c4621000000000e03b800": {
+  "category": "日常",
+  "xhs_fans_sheet": null,
+  "intro": ""
+ },
+ "6980b6000000000026002be1": {
+  "category": "日常",
+  "xhs_fans_sheet": null,
+  "intro": ""
+ },
+ "6a4d070b000000000e03bc00": {
+  "category": "日常, 美妆",
+  "xhs_fans_sheet": null,
+  "intro": ""
+ },
+ "68b2535f000000001901dd82": {
+  "category": "日常",
+  "xhs_fans_sheet": null,
+  "intro": ""
+ },
+ "65fab3bb000000000600d2e8": {
+  "category": "日常, 美妆",
+  "xhs_fans_sheet": null,
+  "intro": ""
  }
 };

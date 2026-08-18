@@ -774,5 +774,37 @@ window.XHS_SOCIALS = {
  "68245b00000000000a03ca02": {
   "platform": "instagram",
   "url": "https://www.instagram.com/darcie.j/"
+ },
+ "675fbd660000000018015232": {
+  "platform": "instagram",
+  "url": "https://www.instagram.com/rimirimidoremi/\nhttps://www.youtube.com/@rimirimidoremi"
+ },
+ "6a4c47ae000000000d035c02": {
+  "platform": "instagram",
+  "url": "https://www.instagram.com/pal_du82?igsh=MTVmMTlhd3Z3ejdiOQ%3D%3D&utm_source=qr"
+ },
+ "6a4cdf1c000000000e03bc00": {
+  "platform": "instagram",
+  "url": "https://www.instagram.com/yun_.ing?igsh=MWdmMG5xdTZiNW93cA%3D%3D&utm_source=qr"
+ },
+ "6a4c4621000000000e03b800": {
+  "platform": "youtube",
+  "url": "https://www.youtube.com/@ahaheonni"
+ },
+ "6980b6000000000026002be1": {
+  "platform": "youtube",
+  "url": "https://www.youtube.com/@myo_inn"
+ },
+ "6a4d070b000000000e03bc00": {
+  "platform": "instagram",
+  "url": "https://www.instagram.com/whynot._.ziya"
+ },
+ "68b2535f000000001901dd82": {
+  "platform": "instagram",
+  "url": "https://www.instagram.com/yurumom_/"
+ },
+ "65fab3bb000000000600d2e8": {
+  "platform": "instagram",
+  "url": "https://www.instagram.com/voenuinp?igsh=MW8zaTBtOWxsbzZnYQ%3D%3D&utm_source=qr"
  }
 };
