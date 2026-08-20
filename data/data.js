@@ -1,7 +1,7 @@
 window.XHS_DATA = {
-  "updated_at": "2026-08-20 11:09:49",
-  "ok_count": 49,
-  "fail_count": 1,
+  "updated_at": "2026-08-20 11:46:04",
+  "ok_count": 2,
+  "fail_count": 0,
   "notes": [
     {
       "url": "https://www.rednote.com/explore/6a828b320000000011022270",
@@ -2716,262 +2716,6 @@ window.XHS_DATA = {
           "collects": 2,
           "comments": 0,
           "shares": 1
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a6206ab000000000c033c00",
-      "type": "note",
-      "title": "Gym fit check.",
-      "author": "yuru1004",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608191047/2c64274edd7398a5aeb7a7dc4504cb55/oss-sg/notes/1040g3l0322vdfsim7e005q5iadfmbnc24fqjvm8!nd_dft_wlteh_webp_3",
-      "likes": 2,
-      "collects": 0,
-      "comments": 0,
-      "comments_text": [],
-      "shares": 0,
-      "publish_time": "2026-07-23",
-      "pinned": false,
-      "grid_order": 0,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-08-19",
-          "likes": 2,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a5f7e200000000002003c00",
-      "type": "note",
-      "title": "NO MAKEUP → FULL GLAM 💄",
-      "author": "yuru1004",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608191048/92e4bf145a160f8a8fd246accd995e7a/oss-sg/notes/1040g3l0322sube007c005q5iadfmbnc2c9c9brg!nd_dft_wlteh_webp_3",
-      "likes": 6,
-      "collects": 0,
-      "comments": 0,
-      "comments_text": [],
-      "shares": 0,
-      "publish_time": "2026-07-21",
-      "pinned": false,
-      "grid_order": 1,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-08-19",
-          "likes": 6,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/68c58e57000000001c00c5f7",
-      "type": "note",
-      "title": "Cartier Unboxing , 6 Diamonds✨",
-      "author": "yuru1004",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608191048/2e6f06ebef41fe68179f810a41e0cee0/1040g00831mcjp5nmm8005q5iadfmbnc26686jfo!nd_dft_wgth_webp_3",
-      "likes": 2,
-      "collects": 1,
-      "comments": 0,
-      "comments_text": [],
-      "shares": 2,
-      "publish_time": "2025-09-14",
-      "pinned": false,
-      "grid_order": 2,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-08-19",
-          "likes": 2,
-          "collects": 1,
-          "comments": 0,
-          "shares": 2
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/68c12438000000001c00b1c6",
-      "type": "note",
-      "title": "韩国女生在大邱Saddles Café的小度假时光",
-      "author": "yuru1004",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608191048/69f58463b2504ab093328b38aec7537d/notes_pre_post/1040g3k031m89qd4mlm0g5q5iadfmbnc2vr90n4g!nd_dft_wlteh_webp_3",
-      "likes": 2,
-      "collects": 0,
-      "comments": 1,
-      "comments_text": [
-        "漂亮[微笑R]"
-      ],
-      "shares": 0,
-      "publish_time": "2025-09-10",
-      "pinned": false,
-      "grid_order": 3,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-08-19",
-          "likes": 2,
-          "collects": 0,
-          "comments": 1,
-          "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/68bee19c000000001b031f5c",
-      "type": "note",
-      "title": "大邱咖啡厅合集＋1✨ Anook第六家店终于来了!",
-      "author": "yuru1004",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608191048/35220f16a0487d4ca3fe9bffa0414886/1040g2sg31m637cjuli705q5iadfmbnc260f03e8!nd_dft_wlteh_webp_3",
-      "likes": 3,
-      "collects": 1,
-      "comments": 0,
-      "comments_text": [],
-      "shares": 1,
-      "publish_time": "2025-09-08",
-      "pinned": false,
-      "grid_order": 4,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-08-19",
-          "likes": 3,
-          "collects": 1,
-          "comments": 0,
-          "shares": 1
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a759f750000000012013fa4",
-      "type": "note",
-      "title": "韩国女生看球日常⚽️ 包又被我翻了个底朝天ㅋ",
-      "author": "voenuinp",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608191048/d7aa523008e95847ae344d5e1dabcbc5/oss-sg/notes_pre_post/1040g3mo323ihotrei8005pfqmethhkn8oajqalo!nd_dft_wlteh_webp_3",
-      "likes": 10,
-      "collects": 1,
-      "comments": 0,
-      "comments_text": [],
-      "shares": 0,
-      "publish_time": "2026-08-07",
-      "pinned": false,
-      "grid_order": 0,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-08-19",
-          "likes": 10,
-          "collects": 1,
-          "comments": 0,
-          "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a75722f000000001102206d",
-      "type": "note",
-      "title": "曼城球迷来韩国别错过这里💙⚽️",
-      "author": "voenuinp",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608191048/a839cac73a07f1dc6c000f6459787b04/oss-sg/notes_pre_post/1040g3mo323icc0a52c005pfqmethhkn8mlksksg!nd_dft_wlteh_webp_3",
-      "likes": 9,
-      "collects": 1,
-      "comments": 2,
-      "comments_text": [
-        "想去看明天比赛 不会买票[哭惹R]"
-      ],
-      "shares": 2,
-      "publish_time": "2026-08-07",
-      "pinned": false,
-      "grid_order": 1,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-08-19",
-          "likes": 9,
-          "collects": 1,
-          "comments": 2,
-          "shares": 2
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a75408c0000000012012397",
-      "type": "note",
-      "title": "足球 football 韩国人 韩国奴的",
-      "author": "voenuinp",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608191048/a94333cd11ec2847fde5972ca468b85f/oss-sg/notes/1040g3l0323i6agit28005pfqmethhkn8arq4tgo!nd_dft_wlteh_webp_3",
-      "likes": 12,
-      "collects": 0,
-      "comments": 1,
-      "comments_text": [
-        "第一次感觉马竞的球衣这么好看[吧唧R][吧唧R]"
-      ],
-      "shares": 1,
-      "publish_time": "2026-08-07",
-      "pinned": false,
-      "grid_order": 2,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-08-19",
-          "likes": 12,
-          "collects": 0,
-          "comments": 1,
-          "shares": 1
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a5f3d580000000008009c00",
-      "type": "note",
-      "title": "🍋 lemonade",
-      "author": "voenuinp",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608191048/12214f88295c3f3b46c32f7be17dd327/oss-sg/notes/1040g3l0322sme65qnc005pfqmethhkn8i1va2fo!nd_dft_wlteh_webp_3",
-      "likes": 4,
-      "collects": 0,
-      "comments": 0,
-      "comments_text": [],
-      "shares": 0,
-      "publish_time": "2026-07-21",
-      "pinned": false,
-      "grid_order": 3,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-08-19",
-          "likes": 4,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
-        }
-      ]
-    },
-    {
-      "url": "https://www.rednote.com/explore/6a1d6b35000000000f03ac00",
-      "type": "note",
-      "title": "manchester united",
-      "author": "voenuinp",
-      "cover": "http://sns-web-i10.rednotecdn.com/202608191048/754c9d0bce21e0298676a1d825069b75/oss-sg/notes/1040g3l0320sdhs7t7i005pfqmethhkn8k03ffqg!nd_dft_wlteh_webp_3",
-      "likes": 2,
-      "collects": 0,
-      "comments": 0,
-      "comments_text": [],
-      "shares": 0,
-      "publish_time": "2026-06-01",
-      "pinned": false,
-      "grid_order": 4,
-      "from_profile": true,
-      "history": [
-        {
-          "date": "2026-08-19",
-          "likes": 2,
-          "collects": 0,
-          "comments": 0,
-          "shares": 0
         }
       ]
     },
@@ -43182,6 +42926,332 @@ window.XHS_DATA = {
           "shares": 1
         }
       ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a6206ab000000000c033c00",
+      "type": "note",
+      "title": "Gym fit check.",
+      "author": "yuru1004",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608201045/a95415111022a7ca7ac67be7cd056b5e/oss-sg/notes/1040g3l0322vdfsim7e005q5iadfmbnc24fqjvm8!nd_dft_wlteh_webp_3",
+      "likes": 2,
+      "collects": 0,
+      "comments": 0,
+      "comments_text": [],
+      "shares": 0,
+      "publish_time": "2026-07-23",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-19",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-08-20",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a5f7e200000000002003c00",
+      "type": "note",
+      "title": "NO MAKEUP → FULL GLAM 💄",
+      "author": "yuru1004",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608201045/55cbf1ceb825d3088155a8565fba20c1/oss-sg/notes/1040g3l0322sube007c005q5iadfmbnc2c9c9brg!nd_dft_wlteh_webp_3",
+      "likes": 6,
+      "collects": 0,
+      "comments": 0,
+      "comments_text": [],
+      "shares": 0,
+      "publish_time": "2026-07-21",
+      "pinned": false,
+      "grid_order": 1,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-19",
+          "likes": 6,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-08-20",
+          "likes": 6,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/68c58e57000000001c00c5f7",
+      "type": "note",
+      "title": "Cartier Unboxing , 6 Diamonds✨",
+      "author": "yuru1004",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608201045/e3a9f99f09bc127a867ee8e5fc02f028/1040g00831mcjp5nmm8005q5iadfmbnc26686jfo!nd_dft_wgth_webp_3",
+      "likes": 2,
+      "collects": 1,
+      "comments": 0,
+      "comments_text": [],
+      "shares": 2,
+      "publish_time": "2025-09-14",
+      "pinned": false,
+      "grid_order": 2,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-19",
+          "likes": 2,
+          "collects": 1,
+          "comments": 0,
+          "shares": 2
+        },
+        {
+          "date": "2026-08-20",
+          "likes": 2,
+          "collects": 1,
+          "comments": 0,
+          "shares": 2
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/68c12438000000001c00b1c6",
+      "type": "note",
+      "title": "韩国女生在大邱Saddles Café的小度假时光",
+      "author": "yuru1004",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608201045/f76c6d676ea82ee5c48c01300cfe0714/notes_pre_post/1040g3k031m89qd4mlm0g5q5iadfmbnc2vr90n4g!nd_dft_wlteh_webp_3",
+      "likes": 2,
+      "collects": 0,
+      "comments": 1,
+      "comments_text": [
+        "漂亮[微笑R]"
+      ],
+      "shares": 0,
+      "publish_time": "2025-09-10",
+      "pinned": false,
+      "grid_order": 3,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-19",
+          "likes": 2,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
+        },
+        {
+          "date": "2026-08-20",
+          "likes": 2,
+          "collects": 0,
+          "comments": 1,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/68bee19c000000001b031f5c",
+      "type": "note",
+      "title": "大邱咖啡厅合集＋1✨ Anook第六家店终于来了!",
+      "author": "yuru1004",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608201045/c25603bc51707d1101198ee2b05b652a/1040g2sg31m637cjuli705q5iadfmbnc260f03e8!nd_dft_wlteh_webp_3",
+      "likes": 3,
+      "collects": 1,
+      "comments": 0,
+      "comments_text": [],
+      "shares": 1,
+      "publish_time": "2025-09-08",
+      "pinned": false,
+      "grid_order": 4,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-19",
+          "likes": 3,
+          "collects": 1,
+          "comments": 0,
+          "shares": 1
+        },
+        {
+          "date": "2026-08-20",
+          "likes": 3,
+          "collects": 1,
+          "comments": 0,
+          "shares": 1
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a759f750000000012013fa4",
+      "type": "note",
+      "title": "韩国女生看球日常⚽️ 包又被我翻了个底朝天ㅋ",
+      "author": "voenuinp",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608201045/941721b4cce3c2d4b41fbc52d6de4953/oss-sg/notes_pre_post/1040g3mo323ihotrei8005pfqmethhkn8oajqalo!nd_dft_wlteh_webp_3",
+      "likes": 10,
+      "collects": 1,
+      "comments": 0,
+      "comments_text": [],
+      "shares": 0,
+      "publish_time": "2026-08-07",
+      "pinned": false,
+      "grid_order": 0,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-19",
+          "likes": 10,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-08-20",
+          "likes": 10,
+          "collects": 1,
+          "comments": 0,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a75722f000000001102206d",
+      "type": "note",
+      "title": "曼城球迷来韩国别错过这里💙⚽️",
+      "author": "voenuinp",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608201045/607bb9f92c8ae92220002635b7ecd5d7/oss-sg/notes_pre_post/1040g3mo323icc0a52c005pfqmethhkn8mlksksg!nd_dft_wlteh_webp_3",
+      "likes": 9,
+      "collects": 1,
+      "comments": 2,
+      "comments_text": [
+        "想去看明天比赛 不会买票[哭惹R]"
+      ],
+      "shares": 2,
+      "publish_time": "2026-08-07",
+      "pinned": false,
+      "grid_order": 1,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-19",
+          "likes": 9,
+          "collects": 1,
+          "comments": 2,
+          "shares": 2
+        },
+        {
+          "date": "2026-08-20",
+          "likes": 9,
+          "collects": 1,
+          "comments": 2,
+          "shares": 2
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a75408c0000000012012397",
+      "type": "note",
+      "title": "足球 football 韩国人 韩国奴的",
+      "author": "voenuinp",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608201045/1f1521d5ab1845f9bc8daf979f7e9f48/oss-sg/notes/1040g3l0323i6agit28005pfqmethhkn8arq4tgo!nd_dft_wlteh_webp_3",
+      "likes": 12,
+      "collects": 0,
+      "comments": 1,
+      "comments_text": [
+        "第一次感觉马竞的球衣这么好看[吧唧R][吧唧R]"
+      ],
+      "shares": 1,
+      "publish_time": "2026-08-07",
+      "pinned": false,
+      "grid_order": 2,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-19",
+          "likes": 12,
+          "collects": 0,
+          "comments": 1,
+          "shares": 1
+        },
+        {
+          "date": "2026-08-20",
+          "likes": 12,
+          "collects": 0,
+          "comments": 1,
+          "shares": 1
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a5f3d580000000008009c00",
+      "type": "note",
+      "title": "🍋 lemonade",
+      "author": "voenuinp",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608201045/1a3d82c1331b61b13c75ece72a9937fe/oss-sg/notes/1040g3l0322sme65qnc005pfqmethhkn8i1va2fo!nd_dft_wlteh_webp_3",
+      "likes": 4,
+      "collects": 0,
+      "comments": 0,
+      "comments_text": [],
+      "shares": 0,
+      "publish_time": "2026-07-21",
+      "pinned": false,
+      "grid_order": 3,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-19",
+          "likes": 4,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-08-20",
+          "likes": 4,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.rednote.com/explore/6a1d6b35000000000f03ac00",
+      "type": "note",
+      "title": "manchester united",
+      "author": "voenuinp",
+      "cover": "http://sns-web-i10.rednotecdn.com/202608201045/f4a7f4f6e05a765ba77a0721485ef98e/oss-sg/notes/1040g3l0320sdhs7t7i005pfqmethhkn8k03ffqg!nd_dft_wlteh_webp_3",
+      "likes": 2,
+      "collects": 0,
+      "comments": 0,
+      "comments_text": [],
+      "shares": 0,
+      "publish_time": "2026-06-01",
+      "pinned": false,
+      "grid_order": 4,
+      "from_profile": true,
+      "history": [
+        {
+          "date": "2026-08-19",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        },
+        {
+          "date": "2026-08-20",
+          "likes": 2,
+          "collects": 0,
+          "comments": 0,
+          "shares": 0
+        }
+      ]
     }
   ],
   "profiles": [
@@ -66029,6 +66099,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 181,
           "notes_count": 14
+        },
+        {
+          "date": "2026-08-20",
+          "fans": 46,
+          "following": 0,
+          "likes_collects": 181,
+          "notes_count": 14
         }
       ]
     },
@@ -66045,6 +66122,13 @@ window.XHS_DATA = {
       "history": [
         {
           "date": "2026-08-19",
+          "fans": 25,
+          "following": 0,
+          "likes_collects": 216,
+          "notes_count": 19
+        },
+        {
+          "date": "2026-08-20",
           "fans": 25,
           "following": 0,
           "likes_collects": 216,
