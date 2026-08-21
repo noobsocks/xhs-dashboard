@@ -68837,7 +68837,7 @@ window.XHS_DATA = {
       "type": "profile",
       "name": "JULIETASMR",
       "uid": "673d786b000000001d02eb89",
-      "partner": false,
+      "partner": true,
       "fans": 9500,
       "likes_collects": 99000,
       "following": 0,
@@ -68906,7 +68906,10 @@ window.XHS_DATA = {
           "likes_collects": 99000,
           "notes_count": 30
         }
-      ]
+      ],
+      "ctype": "개인",
+      "cname": "",
+      "agent": ""
     },
     {
       "url": "https://www.rednote.com/user/profile/6620c15e00000000030339ed",
