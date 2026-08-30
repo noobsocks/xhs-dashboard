@@ -1,6 +1,6 @@
 window.XHS_DATA = {
-  "updated_at": "2026-08-28 15:39:17",
-  "ok_count": 50,
+  "updated_at": "2026-08-30 10:45:22",
+  "ok_count": 2,
   "fail_count": 0,
   "notes": [
     {
@@ -94121,10 +94121,10 @@ window.XHS_DATA = {
       "name": "yuru1004",
       "uid": "68b2535f000000001901dd82",
       "partner": false,
-      "fans": 46,
-      "likes_collects": 181,
+      "fans": 10,
+      "likes_collects": 10,
       "following": 0,
-      "notes_count": 14,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-08-19",
@@ -94174,6 +94174,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 181,
           "notes_count": 14
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10,
+          "following": 0,
+          "likes_collects": 10,
+          "notes_count": 0
         }
       ]
     },
@@ -94183,10 +94190,10 @@ window.XHS_DATA = {
       "name": "voenuinp",
       "uid": "65fab3bb000000000600d2e8",
       "partner": false,
-      "fans": 1100,
-      "likes_collects": 271,
+      "fans": 1000,
+      "likes_collects": 10,
       "following": 0,
-      "notes_count": 23,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-08-19",
@@ -94236,6 +94243,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 271,
           "notes_count": 23
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 1000,
+          "following": 0,
+          "likes_collects": 10,
+          "notes_count": 0
         }
       ]
     },
