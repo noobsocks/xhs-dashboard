@@ -1,6 +1,6 @@
 window.XHS_DATA = {
-  "updated_at": "2026-08-30 10:45:22",
-  "ok_count": 2,
+  "updated_at": "2026-08-30 11:50:33",
+  "ok_count": 50,
   "fail_count": 0,
   "notes": [
     {
@@ -61946,10 +61946,10 @@ window.XHS_DATA = {
       "name": "都意 DOI",
       "uid": "692033dd0000000037009a4e",
       "partner": true,
-      "fans": 2100,
-      "likes_collects": 23000,
+      "fans": 1000,
+      "likes_collects": 10000,
       "following": 0,
-      "notes_count": 40,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-31",
@@ -62083,6 +62083,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 23000,
           "notes_count": 40
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 1000,
+          "following": 0,
+          "likes_collects": 10000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -62095,10 +62102,10 @@ window.XHS_DATA = {
       "name": "Jang Eunbi 恩妃",
       "uid": "68b5003e000000001901df25",
       "partner": true,
-      "fans": 1900,
-      "likes_collects": 42000,
+      "fans": 1000,
+      "likes_collects": 10000,
       "following": 0,
-      "notes_count": 57,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -62281,6 +62288,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 42000,
           "notes_count": 57
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 1000,
+          "following": 0,
+          "likes_collects": 10000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -62293,10 +62307,10 @@ window.XHS_DATA = {
       "name": "秋和政",
       "uid": "5dd0e27d0000000001002a82",
       "partner": false,
-      "fans": 16000,
-      "likes_collects": 75000,
+      "fans": 10000,
+      "likes_collects": 10000,
       "following": 0,
-      "notes_count": 30,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -62479,6 +62493,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 75000,
           "notes_count": 30
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10000,
+          "following": 0,
+          "likes_collects": 10000,
+          "notes_count": 0
         }
       ]
     },
@@ -62488,10 +62509,10 @@ window.XHS_DATA = {
       "name": "정빈郑彬",
       "uid": "690b036c0000000037006730",
       "partner": true,
-      "fans": 3200,
-      "likes_collects": 13000,
+      "fans": 1000,
+      "likes_collects": 10000,
       "following": 0,
-      "notes_count": 5,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -62674,6 +62695,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 13000,
           "notes_count": 5
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 1000,
+          "following": 0,
+          "likes_collects": 10000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -62686,10 +62714,10 @@ window.XHS_DATA = {
       "name": "im_barbie",
       "uid": "67f63ee2000000000d0083c3",
       "partner": true,
-      "fans": 7700,
-      "likes_collects": 20000,
+      "fans": 1000,
+      "likes_collects": 10000,
       "following": 0,
-      "notes_count": 62,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -62872,6 +62900,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 20000,
           "notes_count": 62
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 1000,
+          "following": 0,
+          "likes_collects": 10000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -62884,10 +62919,10 @@ window.XHS_DATA = {
       "name": "莉安 Rian",
       "uid": "6927eb00000000003702c94d",
       "partner": true,
-      "fans": 6400,
-      "likes_collects": 22000,
+      "fans": 1000,
+      "likes_collects": 10000,
       "following": 0,
-      "notes_count": 62,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -63070,6 +63105,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 22000,
           "notes_count": 62
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 1000,
+          "following": 0,
+          "likes_collects": 10000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -63082,10 +63124,10 @@ window.XHS_DATA = {
       "name": "Errdayoung",
       "uid": "66377c41000000000700648e",
       "partner": true,
-      "fans": 27,
-      "likes_collects": 40,
+      "fans": 10,
+      "likes_collects": 10,
       "following": 0,
-      "notes_count": 3,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -63268,6 +63310,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 40,
           "notes_count": 3
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10,
+          "following": 0,
+          "likes_collects": 10,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -63280,10 +63329,10 @@ window.XHS_DATA = {
       "name": "heejae_1023",
       "uid": "68c8f1bc00000000190101cd",
       "partner": true,
-      "fans": 113,
-      "likes_collects": 330,
+      "fans": 10,
+      "likes_collects": 10,
       "following": 0,
-      "notes_count": 34,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -63466,6 +63515,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 330,
           "notes_count": 34
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10,
+          "following": 0,
+          "likes_collects": 10,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -63478,10 +63534,10 @@ window.XHS_DATA = {
       "name": "Lyla 孔羅熙",
       "uid": "68c8df9f0000000019016ada",
       "partner": true,
-      "fans": 21000,
-      "likes_collects": 39000,
+      "fans": 10000,
+      "likes_collects": 10000,
       "following": 0,
-      "notes_count": 42,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -63664,6 +63720,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 39000,
           "notes_count": 42
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10000,
+          "following": 0,
+          "likes_collects": 10000,
+          "notes_count": 0
         }
       ]
     },
@@ -63673,10 +63736,10 @@ window.XHS_DATA = {
       "name": "Goyoonseo",
       "uid": "662b5afc0000000003033900",
       "partner": true,
-      "fans": 61,
-      "likes_collects": 360,
+      "fans": 10,
+      "likes_collects": 10,
       "following": 0,
-      "notes_count": 15,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -63859,6 +63922,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 360,
           "notes_count": 15
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10,
+          "following": 0,
+          "likes_collects": 10,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -64057,6 +64127,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 4,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -64069,10 +64146,10 @@ window.XHS_DATA = {
       "name": "soondoll22",
       "uid": "69099b5f00000000370076e3",
       "partner": true,
-      "fans": 398,
+      "fans": 10,
       "likes_collects": 1000,
       "following": 0,
-      "notes_count": 11,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -64255,6 +64332,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 1000,
           "notes_count": 11
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10,
+          "following": 0,
+          "likes_collects": 1000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -64267,10 +64351,10 @@ window.XHS_DATA = {
       "name": "朱元大",
       "uid": "6825aa11000000000e01c968",
       "partner": true,
-      "fans": 40,
-      "likes_collects": 171,
+      "fans": 10,
+      "likes_collects": 10,
       "following": 0,
-      "notes_count": 9,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -64453,6 +64537,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 171,
           "notes_count": 9
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10,
+          "following": 0,
+          "likes_collects": 10,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -64465,10 +64556,10 @@ window.XHS_DATA = {
       "name": "Juju",
       "uid": "68a527a40000000019013060",
       "partner": true,
-      "fans": 1300,
-      "likes_collects": 1900,
+      "fans": 1000,
+      "likes_collects": 1000,
       "following": 0,
-      "notes_count": 30,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -64651,6 +64742,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 1900,
           "notes_count": 30
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 1000,
+          "following": 0,
+          "likes_collects": 1000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -64664,9 +64762,9 @@ window.XHS_DATA = {
       "uid": "68a4017f000000001900d24f",
       "partner": true,
       "fans": 6,
-      "likes_collects": 15,
+      "likes_collects": 10,
       "following": 0,
-      "notes_count": 5,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -64849,6 +64947,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 15,
           "notes_count": 5
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 6,
+          "following": 0,
+          "likes_collects": 10,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -64864,7 +64969,7 @@ window.XHS_DATA = {
       "fans": 0,
       "likes_collects": 0,
       "following": 0,
-      "notes_count": 18,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -65047,6 +65152,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 18
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 0,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -65059,10 +65171,10 @@ window.XHS_DATA = {
       "name": "유은비",
       "uid": "68497b42000000001b01a912",
       "partner": true,
-      "fans": 122,
-      "likes_collects": 306,
+      "fans": 10,
+      "likes_collects": 10,
       "following": 0,
-      "notes_count": 11,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-20",
@@ -65217,6 +65329,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 306,
           "notes_count": 11
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10,
+          "following": 0,
+          "likes_collects": 10,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -65229,8 +65348,8 @@ window.XHS_DATA = {
       "name": "用户已注销",
       "uid": "63ef8fc8000000001001feb6",
       "partner": true,
-      "fans": 16,
-      "likes_collects": 128,
+      "fans": 10,
+      "likes_collects": 10,
       "following": 0,
       "notes_count": 0,
       "history": [
@@ -65415,6 +65534,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 128,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10,
+          "following": 0,
+          "likes_collects": 10,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -65427,10 +65553,10 @@ window.XHS_DATA = {
       "name": "惠蘭 Lani",
       "uid": "68937f150000000028018792",
       "partner": true,
-      "fans": 48,
-      "likes_collects": 115,
+      "fans": 10,
+      "likes_collects": 10,
       "following": 0,
-      "notes_count": 12,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -65613,6 +65739,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 115,
           "notes_count": 12
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10,
+          "following": 0,
+          "likes_collects": 10,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -65626,9 +65759,9 @@ window.XHS_DATA = {
       "uid": "6946242b000000000300e5f0",
       "partner": true,
       "fans": 3,
-      "likes_collects": 16,
+      "likes_collects": 10,
       "following": 0,
-      "notes_count": 13,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -65811,6 +65944,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 16,
           "notes_count": 13
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 3,
+          "following": 0,
+          "likes_collects": 10,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -65823,10 +65963,10 @@ window.XHS_DATA = {
       "name": "hiimyoursue",
       "uid": "68e094250000000037030228",
       "partner": true,
-      "fans": 589,
-      "likes_collects": 4700,
+      "fans": 10,
+      "likes_collects": 1000,
       "following": 0,
-      "notes_count": 30,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -66002,6 +66142,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 4700,
           "notes_count": 30
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10,
+          "following": 0,
+          "likes_collects": 1000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -66200,6 +66347,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 10,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 3,
+          "following": 0,
+          "likes_collects": 10,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -66212,10 +66366,10 @@ window.XHS_DATA = {
       "name": "金minmin",
       "uid": "6902faa20000000037005081",
       "partner": true,
-      "fans": 50,
-      "likes_collects": 278,
+      "fans": 10,
+      "likes_collects": 10,
       "following": 0,
-      "notes_count": 6,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -66391,6 +66545,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 278,
           "notes_count": 6
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10,
+          "following": 0,
+          "likes_collects": 10,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -66403,10 +66564,10 @@ window.XHS_DATA = {
       "name": "MOON🌙",
       "uid": "688247b9000000001d00bf72",
       "partner": true,
-      "fans": 0,
+      "fans": 1,
       "likes_collects": 0,
       "following": 0,
-      "notes_count": 1,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -66589,6 +66750,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 1
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 1,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -66604,7 +66772,7 @@ window.XHS_DATA = {
       "fans": 6,
       "likes_collects": 9,
       "following": 0,
-      "notes_count": 1,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -66787,6 +66955,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 9,
           "notes_count": 1
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 6,
+          "following": 0,
+          "likes_collects": 9,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -66799,8 +66974,8 @@ window.XHS_DATA = {
       "name": "비활성화된 사용자",
       "uid": "6839ee53000000001d00a933",
       "partner": false,
-      "fans": 123,
-      "likes_collects": 187,
+      "fans": 10,
+      "likes_collects": 10,
       "following": 0,
       "notes_count": 0,
       "history": [
@@ -66992,6 +67167,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10,
+          "following": 0,
+          "likes_collects": 10,
+          "notes_count": 0
         }
       ]
     },
@@ -67001,10 +67183,10 @@ window.XHS_DATA = {
       "name": "n03yh6d_6",
       "uid": "68d25f30000000002102b072",
       "partner": true,
-      "fans": 1400,
-      "likes_collects": 7900,
+      "fans": 1000,
+      "likes_collects": 1000,
       "following": 0,
-      "notes_count": 30,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -67180,6 +67362,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 7900,
           "notes_count": 30
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 1000,
+          "following": 0,
+          "likes_collects": 1000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -67192,10 +67381,10 @@ window.XHS_DATA = {
       "name": "SungHoon 成勋",
       "uid": "694d0f240000000026039804",
       "partner": true,
-      "fans": 2200,
-      "likes_collects": 7700,
+      "fans": 1000,
+      "likes_collects": 1000,
       "following": 0,
-      "notes_count": 21,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -67371,6 +67560,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 7700,
           "notes_count": 21
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 1000,
+          "following": 0,
+          "likes_collects": 1000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -67565,6 +67761,13 @@ window.XHS_DATA = {
         },
         {
           "date": "2026-08-28",
+          "fans": 2,
+          "following": 0,
+          "likes_collects": 0,
+          "notes_count": 0
+        },
+        {
+          "date": "2026-08-30",
           "fans": 2,
           "following": 0,
           "likes_collects": 0,
@@ -67767,6 +67970,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 2,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 2,
+          "following": 0,
+          "likes_collects": 2,
+          "notes_count": 0
         }
       ]
     },
@@ -67776,10 +67986,10 @@ window.XHS_DATA = {
       "name": "_xx__hye",
       "uid": "6858f75f000000001b021e9e",
       "partner": true,
-      "fans": 1200,
-      "likes_collects": 1200,
+      "fans": 1000,
+      "likes_collects": 1000,
       "following": 0,
-      "notes_count": 7,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -67962,6 +68172,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 1200,
           "notes_count": 7
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 1000,
+          "following": 0,
+          "likes_collects": 1000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -67974,10 +68191,10 @@ window.XHS_DATA = {
       "name": "ASTER",
       "uid": "6953b5620000000026039d68",
       "partner": true,
-      "fans": 12000,
-      "likes_collects": 97000,
+      "fans": 10000,
+      "likes_collects": 10000,
       "following": 0,
-      "notes_count": 60,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-08-12",
@@ -68055,6 +68272,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 97000,
           "notes_count": 60
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10000,
+          "following": 0,
+          "likes_collects": 10000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -68067,10 +68291,10 @@ window.XHS_DATA = {
       "name": "吴英珠Youngjoo Oh",
       "uid": "695faa24000000003700bed1",
       "partner": true,
-      "fans": 0,
-      "likes_collects": 0,
+      "fans": 1000,
+      "likes_collects": 1000,
       "following": 0,
-      "notes_count": 20,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -68253,6 +68477,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 20
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 1000,
+          "following": 0,
+          "likes_collects": 1000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -68265,10 +68496,10 @@ window.XHS_DATA = {
       "name": "文福姬Eat with Boki",
       "uid": "69c5492a0000000026039cae",
       "partner": true,
-      "fans": 704000,
-      "likes_collects": 2435000,
+      "fans": 10000,
+      "likes_collects": 10000,
       "following": 0,
-      "notes_count": 58,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-06",
@@ -68458,6 +68689,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 2435000,
           "notes_count": 58
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10000,
+          "following": 0,
+          "likes_collects": 10000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -68470,8 +68708,8 @@ window.XHS_DATA = {
       "name": "朴秋天",
       "uid": "69771014000000002603b758",
       "partner": true,
-      "fans": 836,
-      "likes_collects": 3000,
+      "fans": 10,
+      "likes_collects": 1000,
       "following": 0,
       "notes_count": 0,
       "history": [
@@ -68649,6 +68887,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 3000,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10,
+          "following": 0,
+          "likes_collects": 1000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -68661,10 +68906,10 @@ window.XHS_DATA = {
       "name": "果汁世妍lovely_._v",
       "uid": "686ce2ec000000001d008ef3",
       "partner": true,
-      "fans": 12000,
-      "likes_collects": 31000,
+      "fans": 10000,
+      "likes_collects": 10000,
       "following": 0,
-      "notes_count": 15,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -68840,6 +69085,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 31000,
           "notes_count": 15
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10000,
+          "following": 0,
+          "likes_collects": 10000,
+          "notes_count": 0
         }
       ],
       "ctype": "기업",
@@ -69038,6 +69290,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 3,
           "notes_count": 0
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 4,
+          "following": 0,
+          "likes_collects": 3,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -69050,10 +69309,10 @@ window.XHS_DATA = {
       "name": "娧悧",
       "uid": "691c74cc000000003702d38a",
       "partner": true,
-      "fans": 209,
-      "likes_collects": 2100,
+      "fans": 10,
+      "likes_collects": 1000,
       "following": 0,
-      "notes_count": 2,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -69236,6 +69495,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 2100,
           "notes_count": 2
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10,
+          "following": 0,
+          "likes_collects": 1000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -69248,10 +69514,10 @@ window.XHS_DATA = {
       "name": "Blue.D蓝迪",
       "uid": "6934e4a300000000370016d6",
       "partner": true,
-      "fans": 2000,
+      "fans": 1000,
       "likes_collects": 10000,
       "following": 0,
-      "notes_count": 23,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -69434,6 +69700,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 10000,
           "notes_count": 23
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 1000,
+          "following": 0,
+          "likes_collects": 10000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -69446,10 +69719,10 @@ window.XHS_DATA = {
       "name": "金瑜眞 스테이시 stacey",
       "uid": "6234b0a9000000001000e009",
       "partner": true,
-      "fans": 2600,
-      "likes_collects": 12000,
+      "fans": 1000,
+      "likes_collects": 10000,
       "following": 0,
-      "notes_count": 60,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -69632,6 +69905,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 12000,
           "notes_count": 60
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 1000,
+          "following": 0,
+          "likes_collects": 10000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -69644,10 +69924,10 @@ window.XHS_DATA = {
       "name": "彩英 chaeyeong",
       "uid": "695d1aa40000000037008c5a",
       "partner": true,
-      "fans": 225,
-      "likes_collects": 570,
+      "fans": 10,
+      "likes_collects": 10,
       "following": 0,
-      "notes_count": 11,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -69830,6 +70110,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 570,
           "notes_count": 11
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10,
+          "following": 0,
+          "likes_collects": 10,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -69842,10 +70129,10 @@ window.XHS_DATA = {
       "name": "Dlib Factory",
       "uid": "69bb83400000000026038ed5",
       "partner": true,
-      "fans": 24000,
-      "likes_collects": 233000,
+      "fans": 10000,
+      "likes_collects": 10000,
       "following": 0,
-      "notes_count": 20,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -70028,6 +70315,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 233000,
           "notes_count": 20
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10000,
+          "following": 0,
+          "likes_collects": 10000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -70040,10 +70334,10 @@ window.XHS_DATA = {
       "name": "Bellawooyoung",
       "uid": "673d8e72000000001d02e298",
       "partner": true,
-      "fans": 6500,
-      "likes_collects": 13000,
+      "fans": 1000,
+      "likes_collects": 10000,
       "following": 0,
-      "notes_count": 15,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -70226,6 +70520,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 13000,
           "notes_count": 15
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 1000,
+          "following": 0,
+          "likes_collects": 10000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -70239,9 +70540,9 @@ window.XHS_DATA = {
       "uid": "69cb4e010000000026002eee",
       "partner": true,
       "fans": 10000,
-      "likes_collects": 114000,
+      "likes_collects": 10000,
       "following": 0,
-      "notes_count": 34,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -70424,6 +70725,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 114000,
           "notes_count": 34
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10000,
+          "following": 0,
+          "likes_collects": 10000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -70436,10 +70744,10 @@ window.XHS_DATA = {
       "name": "RIYE",
       "uid": "69579209000000002603a53c",
       "partner": true,
-      "fans": 91,
-      "likes_collects": 220,
+      "fans": 10,
+      "likes_collects": 10,
       "following": 0,
-      "notes_count": 10,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -70622,6 +70930,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 220,
           "notes_count": 10
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10,
+          "following": 0,
+          "likes_collects": 10,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -70634,10 +70949,10 @@ window.XHS_DATA = {
       "name": "파동padong",
       "uid": "69d70fef00000000260032c7",
       "partner": true,
-      "fans": 30,
-      "likes_collects": 268,
+      "fans": 10,
+      "likes_collects": 10,
       "following": 0,
-      "notes_count": 16,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -70820,6 +71135,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 268,
           "notes_count": 16
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10,
+          "following": 0,
+          "likes_collects": 10,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -70832,10 +71154,10 @@ window.XHS_DATA = {
       "name": "lynzzzzang",
       "uid": "6732b6cb000000001c0184ae",
       "partner": true,
-      "fans": 3900,
-      "likes_collects": 13000,
+      "fans": 1000,
+      "likes_collects": 10000,
       "following": 0,
-      "notes_count": 19,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -71018,6 +71340,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 13000,
           "notes_count": 19
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 1000,
+          "following": 0,
+          "likes_collects": 10000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -71030,10 +71359,10 @@ window.XHS_DATA = {
       "name": "裴成妍 Seongyeon Bae",
       "uid": "692ae52c0000000003013e5a",
       "partner": true,
-      "fans": 0,
-      "likes_collects": 0,
+      "fans": 1000,
+      "likes_collects": 10000,
       "following": 0,
-      "notes_count": 30,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -71216,6 +71545,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 0,
           "notes_count": 30
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 1000,
+          "following": 0,
+          "likes_collects": 10000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -71228,10 +71564,10 @@ window.XHS_DATA = {
       "name": "卢恩率Ensol",
       "uid": "69b819e60000000026001c12",
       "partner": true,
-      "fans": 511,
-      "likes_collects": 2400,
+      "fans": 10,
+      "likes_collects": 1000,
       "following": 0,
-      "notes_count": 19,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-07-07",
@@ -71414,6 +71750,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 2400,
           "notes_count": 19
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10,
+          "following": 0,
+          "likes_collects": 1000,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
@@ -92641,10 +92984,10 @@ window.XHS_DATA = {
       "name": "_or.xom",
       "uid": "5c7dfdef000000001603fc84",
       "partner": true,
-      "fans": 13,
-      "likes_collects": 82,
+      "fans": 10,
+      "likes_collects": 10,
       "following": 0,
-      "notes_count": 4,
+      "notes_count": 0,
       "history": [
         {
           "date": "2026-08-18",
@@ -92708,6 +93051,13 @@ window.XHS_DATA = {
           "following": 0,
           "likes_collects": 82,
           "notes_count": 4
+        },
+        {
+          "date": "2026-08-30",
+          "fans": 10,
+          "following": 0,
+          "likes_collects": 10,
+          "notes_count": 0
         }
       ],
       "ctype": "개인",
